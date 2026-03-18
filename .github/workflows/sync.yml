@@ -1,0 +1,52 @@
+name: Nightly Sync
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run (no writes)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+
+      - name: Set up Python
+        uses: actions/setup-python@0aecbe5df9e7fc97e5aad1de572db4f0c53b39f0
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run sync
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_USERNAME: ${{ secrets.GH_USERNAME }}
+        run: |
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            python -m reporium_db sync --dry-run
+          else
+            python -m reporium_db sync
+          fi
+
+      - name: Configure git
+        run: |
+          git config user.name "perditio-bot"
+          git config user.email "bot@perditio.com"
+
+      - name: Commit and push
+        run: |
+          git add data/ schedule.json pending_enrichment.json LAST_RUN.md README.md
+          git diff --staged --quiet || git commit -m "chore: nightly sync $(date -u +%Y-%m-%d)"
+          git push
