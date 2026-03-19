@@ -28,6 +28,7 @@ class RepoMetadata:
     defaultBranch: Optional[str]
     parentRepo: Optional[str] = None
     parentStars: Optional[int] = None
+    parentForks: Optional[int] = None
 
 
 @dataclass

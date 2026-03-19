@@ -32,7 +32,7 @@ query($login: String!, $first: Int!, $after: String) {
         primaryLanguage { name }
         pushedAt updatedAt createdAt
         isArchived isFork isEmpty
-        parent { nameWithOwner stargazerCount }
+        parent { nameWithOwner stargazerCount forkCount }
         repositoryTopics(first: 10) { nodes { topic { name } } }
         licenseInfo { name }
         issues(states: [OPEN]) { totalCount }
@@ -67,6 +67,7 @@ def _parse_repo(node: dict[str, Any]) -> RepoMetadata:
         defaultBranch=(node["defaultBranchRef"]["name"] if node.get("defaultBranchRef") else None),
         parentRepo=(parent["nameWithOwner"] if parent else None),
         parentStars=(parent["stargazerCount"] if parent else None),
+        parentForks=(parent["forkCount"] if parent else None),
     )
 
 

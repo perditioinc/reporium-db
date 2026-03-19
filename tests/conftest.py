@@ -39,6 +39,7 @@ def make_repo(
         defaultBranch="main",
         parentRepo=None,
         parentStars=None,
+        parentForks=None,
     )
 
 
