@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+from datetime import datetime, timezone
 from unittest.mock import patch
 
 import httpx
@@ -129,7 +130,7 @@ async def test_fetch_checkpoint_resume(tmp_path):
     ckpt.write_text(
         json.dumps(
             {
-                "started_at": "2026-03-17T05:00:00+00:00",
+                "started_at": datetime.now(timezone.utc).isoformat(),
                 "last_cursor": "cursor-prev",
                 "repos_processed": 100,
             }
