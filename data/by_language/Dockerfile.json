@@ -1,0 +1,20 @@
+[
+  {
+    "nameWithOwner": "perditioinc/self-hosting-guide",
+    "name": "self-hosting-guide",
+    "description": "Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Dockerfile",
+    "pushedAt": "2025-06-27T01:51:16Z",
+    "updatedAt": "2026-03-13T10:42:39Z",
+    "createdAt": "2026-03-13T10:42:39Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main"
+  }
+]
