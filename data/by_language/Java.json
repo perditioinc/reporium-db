@@ -15,7 +15,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "GoogleCloudPlatform/bank-of-anthos",
+    "parentStars": 1305
   },
   {
     "nameWithOwner": "perditioinc/Java",
@@ -33,7 +35,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "TheAlgorithms/Java",
+    "parentStars": 65232
   },
   {
     "nameWithOwner": "perditioinc/guava",
@@ -51,7 +55,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "google/guava",
+    "parentStars": 51506
   },
   {
     "nameWithOwner": "perditioinc/adk-java",
@@ -69,6 +75,8 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "google/adk-java",
+    "parentStars": 1369
   }
 ]

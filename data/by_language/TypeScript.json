@@ -15,7 +15,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "google/xrblocks",
+    "parentStars": 219
   },
   {
     "nameWithOwner": "perditioinc/directus",
@@ -33,7 +35,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "directus/directus",
+    "parentStars": 34520
   },
   {
     "nameWithOwner": "perditioinc/mcp-lite",
@@ -51,7 +55,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "fiberplane/mcp-lite",
+    "parentStars": 100
   },
   {
     "nameWithOwner": "perditioinc/toon",
@@ -69,7 +75,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "toon-format/toon",
+    "parentStars": 23356
   },
   {
     "nameWithOwner": "perditioinc/sim",
@@ -87,7 +95,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "simstudioai/sim",
+    "parentStars": 27045
   },
   {
     "nameWithOwner": "perditioinc/transformerlab-app",
@@ -105,7 +115,9 @@
     "topics": [],
     "licenseName": "GNU Affero General Public License v3.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "transformerlab/transformerlab-app",
+    "parentStars": 4827
   },
   {
     "nameWithOwner": "perditioinc/ragflow",
@@ -123,7 +135,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "infiniflow/ragflow",
+    "parentStars": 75456
   },
   {
     "nameWithOwner": "perditioinc/claude-mem",
@@ -141,7 +155,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "thedotmack/claude-mem",
+    "parentStars": 38180
   },
   {
     "nameWithOwner": "perditioinc/Personal_AI_Infrastructure",
@@ -159,7 +175,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "danielmiessler/Personal_AI_Infrastructure",
+    "parentStars": 10169
   },
   {
     "nameWithOwner": "perditioinc/nao",
@@ -177,7 +195,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "getnao/nao",
+    "parentStars": 743
   },
   {
     "nameWithOwner": "perditioinc/dify",
@@ -195,7 +215,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "langgenius/dify",
+    "parentStars": 133464
   },
   {
     "nameWithOwner": "perditioinc/voicebox",
@@ -213,7 +235,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "jamiepine/voicebox",
+    "parentStars": 13424
   },
   {
     "nameWithOwner": "perditioinc/agent-orchestrator",
@@ -231,7 +255,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "ComposioHQ/agent-orchestrator",
+    "parentStars": 4838
   },
   {
     "nameWithOwner": "perditioinc/cline",
@@ -249,7 +275,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "cline/cline",
+    "parentStars": 59133
   },
   {
     "nameWithOwner": "perditioinc/8thwall",
@@ -267,7 +295,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "8thwall/8thwall",
+    "parentStars": 233
   },
   {
     "nameWithOwner": "perditioinc/splat",
@@ -285,7 +315,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "jeantimex/splat",
+    "parentStars": 28
   },
   {
     "nameWithOwner": "perditioinc/paperclip",
@@ -303,7 +335,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "paperclipai/paperclip",
+    "parentStars": 29210
   },
   {
     "nameWithOwner": "perditioinc/ManifolderMCP",
@@ -321,7 +355,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "PatchedReality/ManifolderMCP",
+    "parentStars": 5
   },
   {
     "nameWithOwner": "perditioinc/n8n-atom",
@@ -339,7 +375,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "KhanhPham2411/n8n-atom",
+    "parentStars": 54
   },
   {
     "nameWithOwner": "perditioinc/AgentGPT",
@@ -357,7 +395,9 @@
     "topics": [],
     "licenseName": "GNU General Public License v3.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "reworkd/AgentGPT",
+    "parentStars": 35846
   },
   {
     "nameWithOwner": "perditioinc/mastra",
@@ -375,7 +415,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "mastra-ai/mastra",
+    "parentStars": 22124
   },
   {
     "nameWithOwner": "perditioinc/Acontext",
@@ -393,7 +435,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "memodb-io/Acontext",
+    "parentStars": 3166
   },
   {
     "nameWithOwner": "perditioinc/adk-js",
@@ -411,7 +455,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "google/adk-js",
+    "parentStars": 914
   },
   {
     "nameWithOwner": "perditioinc/page-agent",
@@ -429,7 +475,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "alibaba/page-agent",
+    "parentStars": 11438
   },
   {
     "nameWithOwner": "perditioinc/composio",
@@ -447,7 +495,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "next"
+    "defaultBranch": "next",
+    "parentRepo": "ComposioHQ/composio",
+    "parentStars": 27434
   },
   {
     "nameWithOwner": "perditioinc/tree-node-cli",
@@ -465,7 +515,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "yangshun/tree-node-cli",
+    "parentStars": 281
   },
   {
     "nameWithOwner": "perditioinc/openclaw",
@@ -483,7 +535,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "openclaw/openclaw",
+    "parentStars": 323515
   },
   {
     "nameWithOwner": "perditioinc/playwright",
@@ -501,7 +555,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "microsoft/playwright",
+    "parentStars": 84525
   },
   {
     "nameWithOwner": "perditioinc/A2UI",
@@ -519,7 +575,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "google/A2UI",
+    "parentStars": 13390
   },
   {
     "nameWithOwner": "perditioinc/airi",
@@ -537,7 +595,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "moeru-ai/airi",
+    "parentStars": 34511
   },
   {
     "nameWithOwner": "perditioinc/promptfoo",
@@ -555,7 +615,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "promptfoo/promptfoo",
+    "parentStars": 17490
   },
   {
     "nameWithOwner": "perditioinc/pi-mono",
@@ -573,7 +635,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "badlogic/pi-mono",
+    "parentStars": 25619
   },
   {
     "nameWithOwner": "perditioinc/rowboat",
@@ -591,7 +655,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "rowboatlabs/rowboat",
+    "parentStars": 9283
   },
   {
     "nameWithOwner": "perditioinc/learn-claude-code",
@@ -609,7 +675,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "shareAI-lab/learn-claude-code",
+    "parentStars": 32559
   },
   {
     "nameWithOwner": "perditioinc/langfuse",
@@ -627,7 +695,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "langfuse/langfuse",
+    "parentStars": 23391
   },
   {
     "nameWithOwner": "perditioinc/helicone",
@@ -645,7 +715,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "Helicone/helicone",
+    "parentStars": 5270
   },
   {
     "nameWithOwner": "perditioinc/personal-security-checklist",
@@ -663,7 +735,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "Lissy93/personal-security-checklist",
+    "parentStars": 20965
   },
   {
     "nameWithOwner": "perditioinc/physical-ai-toolchain",
@@ -681,7 +755,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "microsoft/physical-ai-toolchain",
+    "parentStars": 20
   },
   {
     "nameWithOwner": "perditioinc/InsForge",
@@ -699,7 +775,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "InsForge/InsForge",
+    "parentStars": 4911
   },
   {
     "nameWithOwner": "perditioinc/openclaw-rl",
@@ -717,7 +795,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "Gen-Verse/OpenClaw-RL",
+    "parentStars": 3553
   },
   {
     "nameWithOwner": "perditioinc/superset",
@@ -735,7 +815,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "superset-sh/superset",
+    "parentStars": 7406
   },
   {
     "nameWithOwner": "perditioinc/strapi",
@@ -753,7 +835,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "develop"
+    "defaultBranch": "develop",
+    "parentRepo": "strapi/strapi",
+    "parentStars": 71646
   },
   {
     "nameWithOwner": "perditioinc/insomnia",
@@ -771,7 +855,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "develop"
+    "defaultBranch": "develop",
+    "parentRepo": "Kong/insomnia",
+    "parentStars": 38098
   },
   {
     "nameWithOwner": "perditioinc/varlock",
@@ -789,7 +875,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "dmno-dev/varlock",
+    "parentStars": 2629
   },
   {
     "nameWithOwner": "perditioinc/supersplat",
@@ -807,7 +895,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "playcanvas/supersplat",
+    "parentStars": 3930
   },
   {
     "nameWithOwner": "perditioinc/openui",
@@ -825,7 +915,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "thesysdev/openui",
+    "parentStars": 1951
   },
   {
     "nameWithOwner": "perditioinc/CodexMonitor",
@@ -843,7 +935,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "Dimillian/CodexMonitor",
+    "parentStars": 3188
   },
   {
     "nameWithOwner": "perditioinc/jan",
@@ -861,7 +955,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "janhq/jan",
+    "parentStars": 41146
   },
   {
     "nameWithOwner": "perditioinc/claude-agent-acp",
@@ -879,7 +975,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "zed-industries/claude-agent-acp",
+    "parentStars": 1254
   },
   {
     "nameWithOwner": "perditioinc/ComfyUI_frontend",
@@ -897,7 +995,9 @@
     "topics": [],
     "licenseName": "GNU General Public License v3.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "Comfy-Org/ComfyUI_frontend",
+    "parentStars": 1707
   },
   {
     "nameWithOwner": "perditioinc/daytona",
@@ -915,7 +1015,9 @@
     "topics": [],
     "licenseName": "GNU Affero General Public License v3.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "daytonaio/daytona",
+    "parentStars": 67080
   },
   {
     "nameWithOwner": "perditioinc/gemini-voyager",
@@ -933,7 +1035,9 @@
     "topics": [],
     "licenseName": "GNU General Public License v3.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "Nagi-ovo/gemini-voyager",
+    "parentStars": 12737
   },
   {
     "nameWithOwner": "perditioinc/prompt-optimizer",
@@ -951,7 +1055,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "develop"
+    "defaultBranch": "develop",
+    "parentRepo": "linshenkx/prompt-optimizer",
+    "parentStars": 25035
   },
   {
     "nameWithOwner": "perditioinc/cursor2api",
@@ -969,7 +1075,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "7836246/cursor2api",
+    "parentStars": 883
   },
   {
     "nameWithOwner": "perditioinc/langflow-embedded-chat",
@@ -987,7 +1095,9 @@
     "topics": [],
     "licenseName": null,
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "langflow-ai/langflow-embedded-chat",
+    "parentStars": 241
   },
   {
     "nameWithOwner": "perditioinc/letta-code",
@@ -1005,7 +1115,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "letta-ai/letta-code",
+    "parentStars": 1902
   },
   {
     "nameWithOwner": "perditioinc/agent-ui",
@@ -1023,7 +1135,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "agno-agi/agent-ui",
+    "parentStars": 1678
   },
   {
     "nameWithOwner": "perditioinc/mem0-chrome-extension",
@@ -1041,7 +1155,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "mem0ai/mem0-chrome-extension",
+    "parentStars": 660
   },
   {
     "nameWithOwner": "perditioinc/gateway",
@@ -1059,7 +1175,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "Portkey-AI/gateway",
+    "parentStars": 10958
   },
   {
     "nameWithOwner": "perditioinc/archestra",
@@ -1077,7 +1195,9 @@
     "topics": [],
     "licenseName": "GNU Affero General Public License v3.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "archestra-ai/archestra",
+    "parentStars": 3542
   },
   {
     "nameWithOwner": "perditioinc/rebuff",
@@ -1095,7 +1215,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "protectai/rebuff",
+    "parentStars": 1445
   },
   {
     "nameWithOwner": "perditioinc/kilocode",
@@ -1113,7 +1235,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "Kilo-Org/kilocode",
+    "parentStars": 16896
   },
   {
     "nameWithOwner": "perditioinc/continue",
@@ -1131,7 +1255,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "continuedev/continue",
+    "parentStars": 31937
   },
   {
     "nameWithOwner": "perditioinc/openui_",
@@ -1149,7 +1275,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "wandb/openui",
+    "parentStars": 22172
   },
   {
     "nameWithOwner": "perditioinc/wandbox",
@@ -1167,7 +1295,9 @@
     "topics": [],
     "licenseName": "Boost Software License 1.0",
     "openIssues": 0,
-    "defaultBranch": "develop"
+    "defaultBranch": "develop",
+    "parentRepo": "melpon/wandbox",
+    "parentStars": 1256
   },
   {
     "nameWithOwner": "perditioinc/gemini-cli",
@@ -1185,7 +1315,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "google-gemini/gemini-cli",
+    "parentStars": 98301
   },
   {
     "nameWithOwner": "perditioinc/run-gemini-cli",
@@ -1203,7 +1335,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "google-github-actions/run-gemini-cli",
+    "parentStars": 1867
   },
   {
     "nameWithOwner": "perditioinc/gemini-mcp-tool",
@@ -1221,7 +1355,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "jamubc/gemini-mcp-tool",
+    "parentStars": 2072
   },
   {
     "nameWithOwner": "perditioinc/magenta-js",
@@ -1239,7 +1375,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "magenta/magenta-js",
+    "parentStars": 2113
   },
   {
     "nameWithOwner": "perditioinc/TypeScript",
@@ -1257,7 +1395,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "TheAlgorithms/TypeScript",
+    "parentStars": 2694
   },
   {
     "nameWithOwner": "perditioinc/live-api-web-console",
@@ -1275,7 +1415,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "google-gemini/live-api-web-console",
+    "parentStars": 2499
   },
   {
     "nameWithOwner": "perditioinc/starter-applets",
@@ -1293,7 +1435,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "google-gemini/starter-applets",
+    "parentStars": 1294
   },
   {
     "nameWithOwner": "perditioinc/vscode",
@@ -1311,7 +1455,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "microsoft/vscode",
+    "parentStars": 182811
   },
   {
     "nameWithOwner": "perditioinc/TypeScript_",
@@ -1329,7 +1475,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "microsoft/TypeScript",
+    "parentStars": 108201
   },
   {
     "nameWithOwner": "perditioinc/playwright-mcp",
@@ -1347,7 +1495,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "microsoft/playwright-mcp",
+    "parentStars": 29232
   },
   {
     "nameWithOwner": "perditioinc/fluentui",
@@ -1365,7 +1515,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "microsoft/fluentui",
+    "parentStars": 19879
   },
   {
     "nameWithOwner": "perditioinc/TypeScript-React-Starter",
@@ -1383,7 +1535,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "microsoft/TypeScript-React-Starter",
+    "parentStars": 11064
   },
   {
     "nameWithOwner": "perditioinc/frontend-bootcamp",
@@ -1401,7 +1555,9 @@
     "topics": [],
     "licenseName": "Creative Commons Attribution 4.0 International",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "microsoft/frontend-bootcamp",
+    "parentStars": 10807
   },
   {
     "nameWithOwner": "perditioinc/data-formulator",
@@ -1419,7 +1575,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "microsoft/data-formulator",
+    "parentStars": 15138
   },
   {
     "nameWithOwner": "perditioinc/genaiscript",
@@ -1437,7 +1595,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "microsoft/genaiscript",
+    "parentStars": 2891
   },
   {
     "nameWithOwner": "perditioinc/TypeChat",
@@ -1455,7 +1615,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "microsoft/TypeChat",
+    "parentStars": 8633
   },
   {
     "nameWithOwner": "perditioinc/claude-code-action",
@@ -1473,7 +1635,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "anthropics/claude-code-action",
+    "parentStars": 6374
   },
   {
     "nameWithOwner": "perditioinc/anthropic-sdk-typescript",
@@ -1491,7 +1655,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "anthropics/anthropic-sdk-typescript",
+    "parentStars": 1735
   },
   {
     "nameWithOwner": "perditioinc/claude-agent-sdk-demos",
@@ -1509,7 +1675,9 @@
     "topics": [],
     "licenseName": null,
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "anthropics/claude-agent-sdk-demos",
+    "parentStars": 1749
   },
   {
     "nameWithOwner": "perditioinc/claude-code-base-action",
@@ -1527,7 +1695,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "anthropics/claude-code-base-action",
+    "parentStars": 611
   },
   {
     "nameWithOwner": "perditioinc/openai-node",
@@ -1545,7 +1715,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "openai/openai-node",
+    "parentStars": 10743
   },
   {
     "nameWithOwner": "perditioinc/openai-realtime-agents",
@@ -1563,7 +1735,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "openai/openai-realtime-agents",
+    "parentStars": 6798
   },
   {
     "nameWithOwner": "perditioinc/openai-fm",
@@ -1581,7 +1755,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "openai/openai-fm",
+    "parentStars": 2825
   },
   {
     "nameWithOwner": "perditioinc/openai-agents-js",
@@ -1599,7 +1775,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "openai/openai-agents-js",
+    "parentStars": 2487
   },
   {
     "nameWithOwner": "perditioinc/openai-apps-sdk-examples",
@@ -1617,7 +1795,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "openai/openai-apps-sdk-examples",
+    "parentStars": 2153
   },
   {
     "nameWithOwner": "perditioinc/openai-assistants-quickstart",
@@ -1635,7 +1815,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "openai/openai-assistants-quickstart",
+    "parentStars": 1964
   },
   {
     "nameWithOwner": "perditioinc/suno-api",
@@ -1653,7 +1835,9 @@
     "topics": [],
     "licenseName": "GNU Lesser General Public License v3.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "gcui-art/suno-api",
+    "parentStars": 2741
   },
   {
     "nameWithOwner": "perditioinc/TTS-WebUI",
@@ -1671,7 +1855,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "rsxdalv/TTS-WebUI",
+    "parentStars": 3020
   },
   {
     "nameWithOwner": "perditioinc/unbody",
@@ -1689,7 +1875,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "unbody-io/unbody",
+    "parentStars": 516
   },
   {
     "nameWithOwner": "perditioinc/reporium",
@@ -1707,7 +1895,9 @@
     "topics": [],
     "licenseName": null,
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null
   },
   {
     "nameWithOwner": "perditioinc/openclaw-vertexai-memorybank",
@@ -1725,7 +1915,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "Shubhamsaboo/openclaw-vertexai-memorybank",
+    "parentStars": 113
   },
   {
     "nameWithOwner": "perditioinc/OpenMetadata",
@@ -1743,7 +1935,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "open-metadata/OpenMetadata",
+    "parentStars": 8959
   },
   {
     "nameWithOwner": "perditioinc/vite",
@@ -1761,7 +1955,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "vitejs/vite",
+    "parentStars": 79163
   },
   {
     "nameWithOwner": "perditioinc/project-nomad",
@@ -1779,7 +1975,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "Crosstalk-Solutions/project-nomad",
+    "parentStars": 2425
   },
   {
     "nameWithOwner": "perditioinc/copilot-api",
@@ -1797,7 +1995,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "ericc-ch/copilot-api",
+    "parentStars": 3071
   },
   {
     "nameWithOwner": "perditioinc/antigravity-kit",
@@ -1815,7 +2015,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "vudovn/antigravity-kit",
+    "parentStars": 6379
   },
   {
     "nameWithOwner": "perditioinc/idea-claude-code-gui",
@@ -1833,7 +2035,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "zhukunpenglinyutong/idea-claude-code-gui",
+    "parentStars": 1995
   },
   {
     "nameWithOwner": "perditioinc/gstack",
@@ -1851,7 +2055,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "garrytan/gstack",
+    "parentStars": 24669
   },
   {
     "nameWithOwner": "perditioinc/fullstack-solution-template-for-agentcore",
@@ -1869,7 +2075,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "awslabs/fullstack-solution-template-for-agentcore",
+    "parentStars": 395
   },
   {
     "nameWithOwner": "perditioinc/chrome-devtools-mcp",
@@ -1887,7 +2095,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "ChromeDevTools/chrome-devtools-mcp",
+    "parentStars": 30149
   },
   {
     "nameWithOwner": "perditioinc/plannotator",
@@ -1905,7 +2115,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "backnotprop/plannotator",
+    "parentStars": 3315
   },
   {
     "nameWithOwner": "perditioinc/openscreen",
@@ -1923,7 +2135,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "siddharthvaddem/openscreen",
+    "parentStars": 8486
   },
   {
     "nameWithOwner": "perditioinc/GitNexus",
@@ -1941,7 +2155,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "abhigyanpatwari/GitNexus",
+    "parentStars": 17588
   },
   {
     "nameWithOwner": "perditioinc/immich",
@@ -1959,7 +2175,9 @@
     "topics": [],
     "licenseName": "GNU Affero General Public License v3.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "immich-app/immich",
+    "parentStars": 95101
   },
   {
     "nameWithOwner": "perditioinc/claudian",
@@ -1977,7 +2195,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "YishenTu/claudian",
+    "parentStars": 4573
   },
   {
     "nameWithOwner": "perditioinc/zerox",
@@ -1995,7 +2215,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "getomni-ai/zerox",
+    "parentStars": 12186
   },
   {
     "nameWithOwner": "perditioinc/unpdf",
@@ -2013,6 +2235,8 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "unjs/unpdf",
+    "parentStars": 1051
   }
 ]

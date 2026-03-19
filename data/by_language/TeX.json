@@ -15,6 +15,8 @@
     "topics": [],
     "licenseName": null,
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "soulmachine/machine-learning-cheat-sheet",
+    "parentStars": 8015
   }
 ]

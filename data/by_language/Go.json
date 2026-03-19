@@ -15,7 +15,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "google/adk-go",
+    "parentStars": 7193
   },
   {
     "nameWithOwner": "perditioinc/gh-aw",
@@ -33,7 +35,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "github/gh-aw",
+    "parentStars": 4131
   },
   {
     "nameWithOwner": "perditioinc/picoclaw",
@@ -51,7 +55,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "sipeed/picoclaw",
+    "parentStars": 25410
   },
   {
     "nameWithOwner": "perditioinc/flyte",
@@ -69,7 +75,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "flyteorg/flyte",
+    "parentStars": 6889
   },
   {
     "nameWithOwner": "perditioinc/genai-toolbox",
@@ -87,7 +95,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "googleapis/genai-toolbox",
+    "parentStars": 13458
   },
   {
     "nameWithOwner": "perditioinc/pinchtab",
@@ -105,7 +115,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "pinchtab/pinchtab",
+    "parentStars": 7948
   },
   {
     "nameWithOwner": "perditioinc/plandex",
@@ -123,7 +135,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "plandex-ai/plandex",
+    "parentStars": 15108
   },
   {
     "nameWithOwner": "perditioinc/ollama",
@@ -141,7 +155,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "ollama/ollama",
+    "parentStars": 165517
   },
   {
     "nameWithOwner": "perditioinc/dolt",
@@ -159,7 +175,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "dolthub/dolt",
+    "parentStars": 21489
   },
   {
     "nameWithOwner": "perditioinc/milvus",
@@ -177,7 +195,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "milvus-io/milvus",
+    "parentStars": 43372
   },
   {
     "nameWithOwner": "perditioinc/weaviate",
@@ -195,7 +215,9 @@
     "topics": [],
     "licenseName": "BSD 3-Clause \"New\" or \"Revised\" License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "weaviate/weaviate",
+    "parentStars": 15829
   },
   {
     "nameWithOwner": "perditioinc/bifrost",
@@ -213,7 +235,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "maximhq/bifrost",
+    "parentStars": 3018
   },
   {
     "nameWithOwner": "perditioinc/kuberay",
@@ -231,7 +255,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "ray-project/kuberay",
+    "parentStars": 2380
   },
   {
     "nameWithOwner": "perditioinc/microservices-demo",
@@ -249,7 +275,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "GoogleCloudPlatform/microservices-demo",
+    "parentStars": 19964
   },
   {
     "nameWithOwner": "perditioinc/terraformer",
@@ -267,7 +295,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "GoogleCloudPlatform/terraformer",
+    "parentStars": 14521
   },
   {
     "nameWithOwner": "perditioinc/kubectl-ai",
@@ -285,7 +315,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "GoogleCloudPlatform/kubectl-ai",
+    "parentStars": 7362
   },
   {
     "nameWithOwner": "perditioinc/golang-samples",
@@ -303,7 +335,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "GoogleCloudPlatform/golang-samples",
+    "parentStars": 4597
   },
   {
     "nameWithOwner": "perditioinc/gcsfuse",
@@ -321,7 +355,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "GoogleCloudPlatform/gcsfuse",
+    "parentStars": 2217
   },
   {
     "nameWithOwner": "perditioinc/cloud-builders-community",
@@ -339,7 +375,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "GoogleCloudPlatform/cloud-builders-community",
+    "parentStars": 1305
   },
   {
     "nameWithOwner": "perditioinc/berglas",
@@ -357,7 +395,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "GoogleCloudPlatform/berglas",
+    "parentStars": 1295
   },
   {
     "nameWithOwner": "perditioinc/cloud-builders",
@@ -375,7 +415,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "GoogleCloudPlatform/cloud-builders",
+    "parentStars": 1448
   },
   {
     "nameWithOwner": "perditioinc/Go",
@@ -393,7 +435,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "TheAlgorithms/Go",
+    "parentStars": 17886
   },
   {
     "nameWithOwner": "perditioinc/generative-ai-go",
@@ -411,7 +455,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "google/generative-ai-go",
+    "parentStars": 853
   },
   {
     "nameWithOwner": "perditioinc/openai-go",
@@ -429,7 +475,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "openai/openai-go",
+    "parentStars": 3066
   },
   {
     "nameWithOwner": "perditioinc/aistore",
@@ -447,7 +495,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "NVIDIA/aistore",
+    "parentStars": 1784
   },
   {
     "nameWithOwner": "perditioinc/nvidia-container-toolkit",
@@ -465,7 +515,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "NVIDIA/nvidia-container-toolkit",
+    "parentStars": 4159
   },
   {
     "nameWithOwner": "perditioinc/navidrome",
@@ -483,7 +535,9 @@
     "topics": [],
     "licenseName": "GNU General Public License v3.0",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "navidrome/navidrome",
+    "parentStars": 19930
   },
   {
     "nameWithOwner": "perditioinc/hugo",
@@ -501,7 +555,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "gohugoio/hugo",
+    "parentStars": 87148
   },
   {
     "nameWithOwner": "perditioinc/coder",
@@ -519,7 +575,9 @@
     "topics": [],
     "licenseName": "GNU Affero General Public License v3.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "coder/coder",
+    "parentStars": 12575
   },
   {
     "nameWithOwner": "perditioinc/pentagi",
@@ -537,7 +595,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "vxcontrol/pentagi",
+    "parentStars": 10067
   },
   {
     "nameWithOwner": "perditioinc/Fabric",
@@ -555,7 +615,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "danielmiessler/Fabric",
+    "parentStars": 40021
   },
   {
     "nameWithOwner": "perditioinc/katana",
@@ -573,7 +635,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "dev"
+    "defaultBranch": "dev",
+    "parentRepo": "projectdiscovery/katana",
+    "parentStars": 16118
   },
   {
     "nameWithOwner": "perditioinc/evcc",
@@ -591,7 +655,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "evcc-io/evcc",
+    "parentStars": 6274
   },
   {
     "nameWithOwner": "perditioinc/nofx",
@@ -609,7 +675,9 @@
     "topics": [],
     "licenseName": "GNU Affero General Public License v3.0",
     "openIssues": 0,
-    "defaultBranch": "dev"
+    "defaultBranch": "dev",
+    "parentRepo": "NoFxAiOS/nofx",
+    "parentStars": 10964
   },
   {
     "nameWithOwner": "perditioinc/uncloud",
@@ -627,7 +695,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "psviderski/uncloud",
+    "parentStars": 4914
   },
   {
     "nameWithOwner": "perditioinc/LocalAI",
@@ -645,7 +715,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "mudler/LocalAI",
+    "parentStars": 43983
   },
   {
     "nameWithOwner": "perditioinc/container-use",
@@ -663,6 +735,8 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "dagger/container-use",
+    "parentStars": 3646
   }
 ]

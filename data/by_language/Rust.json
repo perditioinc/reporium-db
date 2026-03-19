@@ -15,7 +15,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "openai/codex",
+    "parentStars": 66194
   },
   {
     "nameWithOwner": "perditioinc/edgequake",
@@ -33,7 +35,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "edgequake-main"
+    "defaultBranch": "edgequake-main",
+    "parentRepo": "raphaelmansuy/edgequake",
+    "parentStars": 1475
   },
   {
     "nameWithOwner": "perditioinc/zeroclaw",
@@ -51,7 +55,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "zeroclaw-labs/zeroclaw",
+    "parentStars": 27908
   },
   {
     "nameWithOwner": "perditioinc/openfang",
@@ -69,7 +75,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "RightNow-AI/openfang",
+    "parentStars": 14919
   },
   {
     "nameWithOwner": "perditioinc/ffflow",
@@ -87,7 +95,9 @@
     "topics": [],
     "licenseName": null,
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "yugaaank/ffflow",
+    "parentStars": 23
   },
   {
     "nameWithOwner": "perditioinc/llmfit",
@@ -105,7 +115,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "AlexsJones/llmfit",
+    "parentStars": 17825
   },
   {
     "nameWithOwner": "perditioinc/agent-browser",
@@ -123,7 +135,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "vercel-labs/agent-browser",
+    "parentStars": 23447
   },
   {
     "nameWithOwner": "perditioinc/RuView",
@@ -141,7 +155,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "ruvnet/RuView",
+    "parentStars": 38138
   },
   {
     "nameWithOwner": "perditioinc/chroma",
@@ -159,7 +175,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "chroma-core/chroma",
+    "parentStars": 26709
   },
   {
     "nameWithOwner": "perditioinc/qdrant",
@@ -177,7 +195,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "qdrant/qdrant",
+    "parentStars": 29649
   },
   {
     "nameWithOwner": "perditioinc/shellfirm",
@@ -195,7 +215,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "kaplanelad/shellfirm",
+    "parentStars": 883
   },
   {
     "nameWithOwner": "perditioinc/Rust",
@@ -213,7 +235,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "TheAlgorithms/Rust",
+    "parentStars": 25584
   },
   {
     "nameWithOwner": "perditioinc/claudes-c-compiler",
@@ -231,7 +255,9 @@
     "topics": [],
     "licenseName": "Creative Commons Zero v1.0 Universal",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "anthropics/claudes-c-compiler",
+    "parentStars": 2544
   },
   {
     "nameWithOwner": "perditioinc/harmony",
@@ -249,7 +275,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "openai/harmony",
+    "parentStars": 4235
   },
   {
     "nameWithOwner": "perditioinc/vite-plus",
@@ -267,6 +295,8 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "voidzero-dev/vite-plus",
+    "parentStars": 2897
   }
 ]

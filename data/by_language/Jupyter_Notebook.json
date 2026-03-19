@@ -15,7 +15,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "GoogleCloudPlatform/generative-ai",
+    "parentStars": 16301
   },
   {
     "nameWithOwner": "perditioinc/ML-For-Beginners",
@@ -33,7 +35,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "microsoft/ML-For-Beginners",
+    "parentStars": 84560
   },
   {
     "nameWithOwner": "perditioinc/mml-book.github.io",
@@ -51,7 +55,9 @@
     "topics": [],
     "licenseName": null,
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "mml-book/mml-book.github.io",
+    "parentStars": 15208
   },
   {
     "nameWithOwner": "perditioinc/Made-With-ML",
@@ -69,7 +75,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "GokuMohandas/Made-With-ML",
+    "parentStars": 46849
   },
   {
     "nameWithOwner": "perditioinc/nn-zero-to-hero",
@@ -87,7 +95,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "karpathy/nn-zero-to-hero",
+    "parentStars": 20954
   },
   {
     "nameWithOwner": "perditioinc/Hands-On-Large-Language-Models",
@@ -105,7 +115,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "HandsOnLLM/Hands-On-Large-Language-Models",
+    "parentStars": 24183
   },
   {
     "nameWithOwner": "perditioinc/ai-agents-for-beginners",
@@ -123,7 +135,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "microsoft/ai-agents-for-beginners",
+    "parentStars": 54410
   },
   {
     "nameWithOwner": "perditioinc/GenAI_Agents",
@@ -141,7 +155,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "NirDiamant/GenAI_Agents",
+    "parentStars": 20646
   },
   {
     "nameWithOwner": "perditioinc/RAG_Techniques",
@@ -159,7 +175,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "NirDiamant/RAG_Techniques",
+    "parentStars": 26094
   },
   {
     "nameWithOwner": "perditioinc/all-rl-algorithms",
@@ -177,7 +195,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "FareedKhan-dev/all-rl-algorithms",
+    "parentStars": 1463
   },
   {
     "nameWithOwner": "perditioinc/fsdl-text-recognizer",
@@ -195,7 +215,9 @@
     "topics": [],
     "licenseName": null,
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "the-full-stack/fsdl-text-recognizer",
+    "parentStars": 77
   },
   {
     "nameWithOwner": "perditioinc/mlops-zoomcamp",
@@ -213,7 +235,9 @@
     "topics": [],
     "licenseName": null,
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "DataTalksClub/mlops-zoomcamp",
+    "parentStars": 14331
   },
   {
     "nameWithOwner": "perditioinc/MLOps-Basics",
@@ -231,7 +255,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "graviraja/MLOps-Basics",
+    "parentStars": 8738
   },
   {
     "nameWithOwner": "perditioinc/robotics",
@@ -249,7 +275,9 @@
     "topics": [],
     "licenseName": "BSD 3-Clause \"New\" or \"Revised\" License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "gtbook/robotics",
+    "parentStars": 663
   },
   {
     "nameWithOwner": "perditioinc/Machine-Learning-Interviews",
@@ -267,7 +295,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "alirezadir/Machine-Learning-Interviews",
+    "parentStars": 7917
   },
   {
     "nameWithOwner": "perditioinc/Agentic_Design_Patterns",
@@ -285,7 +315,9 @@
     "topics": [],
     "licenseName": null,
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "AnkunHuang/Agentic_Design_Patterns",
+    "parentStars": 21
   },
   {
     "nameWithOwner": "perditioinc/hands-on-rl",
@@ -303,7 +335,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "Paulescu/hands-on-rl",
+    "parentStars": 1539
   },
   {
     "nameWithOwner": "perditioinc/openai-cookbook",
@@ -321,7 +355,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "openai/openai-cookbook",
+    "parentStars": 72214
   },
   {
     "nameWithOwner": "perditioinc/AI-For-Beginners",
@@ -339,7 +375,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "microsoft/AI-For-Beginners",
+    "parentStars": 46132
   },
   {
     "nameWithOwner": "perditioinc/smol-course",
@@ -357,7 +395,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "huggingface/smol-course",
+    "parentStars": 6612
   },
   {
     "nameWithOwner": "perditioinc/Python-100-Days",
@@ -375,7 +415,9 @@
     "topics": [],
     "licenseName": null,
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "jackfrued/Python-100-Days",
+    "parentStars": 179800
   },
   {
     "nameWithOwner": "perditioinc/generative-ai-for-beginners",
@@ -393,7 +435,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "microsoft/generative-ai-for-beginners",
+    "parentStars": 108234
   },
   {
     "nameWithOwner": "perditioinc/LLMs-from-scratch",
@@ -411,7 +455,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "rasbt/LLMs-from-scratch",
+    "parentStars": 88675
   },
   {
     "nameWithOwner": "perditioinc/stable-diffusion",
@@ -429,7 +475,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "CompVis/stable-diffusion",
+    "parentStars": 72713
   },
   {
     "nameWithOwner": "perditioinc/llm-app",
@@ -447,7 +495,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "pathwaycom/llm-app",
+    "parentStars": 57377
   },
   {
     "nameWithOwner": "perditioinc/segment-anything",
@@ -465,7 +515,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "facebookresearch/segment-anything",
+    "parentStars": 53704
   },
   {
     "nameWithOwner": "perditioinc/PythonDataScienceHandbook",
@@ -483,7 +535,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "jakevdp/PythonDataScienceHandbook",
+    "parentStars": 47075
   },
   {
     "nameWithOwner": "perditioinc/notebooks",
@@ -501,7 +555,9 @@
     "topics": [],
     "licenseName": "GNU Lesser General Public License v3.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "unslothai/notebooks",
+    "parentStars": 4915
   },
   {
     "nameWithOwner": "perditioinc/reasoning-from-scratch",
@@ -519,7 +575,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "rasbt/reasoning-from-scratch",
+    "parentStars": 3606
   },
   {
     "nameWithOwner": "perditioinc/phoenix",
@@ -537,7 +595,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "Arize-ai/phoenix",
+    "parentStars": 8921
   },
   {
     "nameWithOwner": "perditioinc/guidance",
@@ -555,7 +615,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "guidance-ai/guidance",
+    "parentStars": 21358
   },
   {
     "nameWithOwner": "perditioinc/rag-zero-to-hero-guide",
@@ -573,7 +635,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "KalyanKS-NLP/rag-zero-to-hero-guide",
+    "parentStars": 1277
   },
   {
     "nameWithOwner": "perditioinc/regression_ml_endtoend",
@@ -591,7 +655,9 @@
     "topics": [],
     "licenseName": null,
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "anesriad/Regression_ML_EndtoEnd",
+    "parentStars": 149
   },
   {
     "nameWithOwner": "perditioinc/gemma-cookbook",
@@ -609,7 +675,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "google-gemini/gemma-cookbook",
+    "parentStars": 2746
   },
   {
     "nameWithOwner": "perditioinc/google-research",
@@ -627,7 +695,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "google-research/google-research",
+    "parentStars": 37486
   },
   {
     "nameWithOwner": "perditioinc/gemini-fullstack-langgraph-quickstart",
@@ -645,7 +715,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "google-gemini/gemini-fullstack-langgraph-quickstart",
+    "parentStars": 18003
   },
   {
     "nameWithOwner": "perditioinc/pytorch-deep-learning",
@@ -663,7 +735,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "mrdbourke/pytorch-deep-learning",
+    "parentStars": 17422
   },
   {
     "nameWithOwner": "perditioinc/GenerativeAIExamples",
@@ -681,7 +755,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "NVIDIA/GenerativeAIExamples",
+    "parentStars": 3856
   },
   {
     "nameWithOwner": "perditioinc/dinov2",
@@ -699,7 +775,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "facebookresearch/dinov2",
+    "parentStars": 12551
   },
   {
     "nameWithOwner": "perditioinc/Nemotron",
@@ -717,7 +795,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "NVIDIA-NeMo/Nemotron",
+    "parentStars": 688
   },
   {
     "nameWithOwner": "perditioinc/deep-learning-with-python-notebooks",
@@ -735,7 +815,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "fchollet/deep-learning-with-python-notebooks",
+    "parentStars": 19993
   },
   {
     "nameWithOwner": "perditioinc/ai-engineering-hub",
@@ -753,7 +835,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "patchy631/ai-engineering-hub",
+    "parentStars": 32274
   },
   {
     "nameWithOwner": "perditioinc/agents",
@@ -771,7 +855,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "ed-donner/agents",
+    "parentStars": 4372
   },
   {
     "nameWithOwner": "perditioinc/bootcamp",
@@ -789,7 +875,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "milvus-io/bootcamp",
+    "parentStars": 2395
   },
   {
     "nameWithOwner": "perditioinc/Qwen2.5-Omni",
@@ -807,7 +895,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "QwenLM/Qwen2.5-Omni",
+    "parentStars": 3952
   },
   {
     "nameWithOwner": "perditioinc/examples",
@@ -825,7 +915,9 @@
     "topics": [],
     "licenseName": null,
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "wandb/examples",
+    "parentStars": 1202
   },
   {
     "nameWithOwner": "perditioinc/edu",
@@ -843,7 +935,9 @@
     "topics": [],
     "licenseName": "GNU General Public License v2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "wandb/edu",
+    "parentStars": 668
   },
   {
     "nameWithOwner": "perditioinc/CLIP",
@@ -861,7 +955,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "openai/CLIP",
+    "parentStars": 32866
   },
   {
     "nameWithOwner": "perditioinc/Multilingual-CLIP",
@@ -879,7 +975,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "FreddeFrallan/Multilingual-CLIP",
+    "parentStars": 828
   },
   {
     "nameWithOwner": "perditioinc/sam2",
@@ -897,7 +995,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "facebookresearch/sam2",
+    "parentStars": 18718
   },
   {
     "nameWithOwner": "perditioinc/Grounded-SAM-2",
@@ -915,7 +1015,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "IDEA-Research/Grounded-SAM-2",
+    "parentStars": 3334
   },
   {
     "nameWithOwner": "perditioinc/Qwen3-VL",
@@ -933,7 +1035,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "QwenLM/Qwen3-VL",
+    "parentStars": 18690
   },
   {
     "nameWithOwner": "perditioinc/OmniParser",
@@ -951,7 +1055,9 @@
     "topics": [],
     "licenseName": "Creative Commons Attribution 4.0 International",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "microsoft/OmniParser",
+    "parentStars": 24551
   },
   {
     "nameWithOwner": "perditioinc/magenta-demos",
@@ -969,7 +1075,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "magenta/magenta-demos",
+    "parentStars": 1348
   },
   {
     "nameWithOwner": "perditioinc/python-docs-samples",
@@ -987,7 +1095,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "GoogleCloudPlatform/python-docs-samples",
+    "parentStars": 8014
   },
   {
     "nameWithOwner": "perditioinc/training-data-analyst",
@@ -1005,7 +1115,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "GoogleCloudPlatform/training-data-analyst",
+    "parentStars": 8469
   },
   {
     "nameWithOwner": "perditioinc/ml-design-patterns",
@@ -1023,7 +1135,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "GoogleCloudPlatform/ml-design-patterns",
+    "parentStars": 2073
   },
   {
     "nameWithOwner": "perditioinc/tensorflow-without-a-phd",
@@ -1041,7 +1155,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "GoogleCloudPlatform/tensorflow-without-a-phd",
+    "parentStars": 2841
   },
   {
     "nameWithOwner": "perditioinc/asl-ml-immersion",
@@ -1059,7 +1175,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "GoogleCloudPlatform/asl-ml-immersion",
+    "parentStars": 2509
   },
   {
     "nameWithOwner": "perditioinc/data-science-on-gcp",
@@ -1077,7 +1195,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "GoogleCloudPlatform/data-science-on-gcp",
+    "parentStars": 1421
   },
   {
     "nameWithOwner": "perditioinc/cookbook",
@@ -1095,7 +1215,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "google-gemini/cookbook",
+    "parentStars": 16772
   },
   {
     "nameWithOwner": "perditioinc/Data-Science-For-Beginners",
@@ -1113,7 +1235,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "microsoft/Data-Science-For-Beginners",
+    "parentStars": 34275
   },
   {
     "nameWithOwner": "perditioinc/TinyTroupe",
@@ -1131,7 +1255,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "microsoft/TinyTroupe",
+    "parentStars": 7329
   },
   {
     "nameWithOwner": "perditioinc/tensorwatch",
@@ -1149,7 +1275,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "microsoft/tensorwatch",
+    "parentStars": 3466
   },
   {
     "nameWithOwner": "perditioinc/dopamine",
@@ -1167,7 +1295,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "google/dopamine",
+    "parentStars": 10855
   },
   {
     "nameWithOwner": "perditioinc/generative-ai-docs",
@@ -1185,7 +1315,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "google/generative-ai-docs",
+    "parentStars": 2238
   },
   {
     "nameWithOwner": "perditioinc/claude-cookbooks",
@@ -1203,7 +1335,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "anthropics/claude-cookbooks",
+    "parentStars": 35295
   },
   {
     "nameWithOwner": "perditioinc/prompt-eng-interactive-tutorial",
@@ -1221,7 +1355,9 @@
     "topics": [],
     "licenseName": null,
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "anthropics/prompt-eng-interactive-tutorial",
+    "parentStars": 33600
   },
   {
     "nameWithOwner": "perditioinc/courses",
@@ -1239,7 +1375,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "anthropics/courses",
+    "parentStars": 19586
   },
   {
     "nameWithOwner": "perditioinc/cuopt-examples",
@@ -1257,7 +1395,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "NVIDIA/cuopt-examples",
+    "parentStars": 423
   },
   {
     "nameWithOwner": "perditioinc/DeepLearningExamples",
@@ -1275,7 +1415,9 @@
     "topics": [],
     "licenseName": null,
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "NVIDIA/DeepLearningExamples",
+    "parentStars": 14747
   },
   {
     "nameWithOwner": "perditioinc/Isaac-GR00T",
@@ -1293,7 +1435,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "NVIDIA/Isaac-GR00T",
+    "parentStars": 6452
   },
   {
     "nameWithOwner": "perditioinc/tacotron2",
@@ -1311,7 +1455,9 @@
     "topics": [],
     "licenseName": "BSD 3-Clause \"New\" or \"Revised\" License",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "NVIDIA/tacotron2",
+    "parentStars": 5306
   },
   {
     "nameWithOwner": "perditioinc/bark",
@@ -1329,7 +1475,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "suno-ai/bark",
+    "parentStars": 39044
   },
   {
     "nameWithOwner": "perditioinc/llm-zoomcamp",
@@ -1347,7 +1495,9 @@
     "topics": [],
     "licenseName": null,
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "DataTalksClub/llm-zoomcamp",
+    "parentStars": 4725
   },
   {
     "nameWithOwner": "perditioinc/learn-agentic-ai",
@@ -1365,7 +1515,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "panaversity/learn-agentic-ai",
+    "parentStars": 3990
   },
   {
     "nameWithOwner": "perditioinc/mistral-inference",
@@ -1383,7 +1535,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "mistralai/mistral-inference",
+    "parentStars": 10721
   },
   {
     "nameWithOwner": "perditioinc/notebook",
@@ -1401,7 +1555,9 @@
     "topics": [],
     "licenseName": "BSD 3-Clause \"New\" or \"Revised\" License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "jupyter/notebook",
+    "parentStars": 13011
   },
   {
     "nameWithOwner": "perditioinc/data-engineer-handbook",
@@ -1419,7 +1575,9 @@
     "topics": [],
     "licenseName": null,
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "DataExpert-io/data-engineer-handbook",
+    "parentStars": 40570
   },
   {
     "nameWithOwner": "perditioinc/agents-towards-production",
@@ -1437,7 +1595,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "NirDiamant/agents-towards-production",
+    "parentStars": 18320
   },
   {
     "nameWithOwner": "perditioinc/jetson-containers",
@@ -1455,7 +1615,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "dusty-nv/jetson-containers",
+    "parentStars": 4487
   },
   {
     "nameWithOwner": "perditioinc/machine-learning-for-trading",
@@ -1473,7 +1635,9 @@
     "topics": [],
     "licenseName": null,
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "stefan-jansen/machine-learning-for-trading",
+    "parentStars": 16776
   },
   {
     "nameWithOwner": "perditioinc/handson-ml2",
@@ -1491,7 +1655,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "ageron/handson-ml2",
+    "parentStars": 29934
   },
   {
     "nameWithOwner": "perditioinc/micrograd",
@@ -1509,7 +1675,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "karpathy/micrograd",
+    "parentStars": 15097
   },
   {
     "nameWithOwner": "perditioinc/handson-ml3",
@@ -1527,7 +1695,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "ageron/handson-ml3",
+    "parentStars": 12586
   },
   {
     "nameWithOwner": "perditioinc/handson-mlp",
@@ -1545,7 +1715,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "ageron/handson-mlp",
+    "parentStars": 1184
   },
   {
     "nameWithOwner": "perditioinc/airllm",
@@ -1563,6 +1735,8 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "lyogavin/airllm",
+    "parentStars": 14193
   }
 ]

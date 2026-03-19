@@ -15,7 +15,9 @@
     "topics": [],
     "licenseName": null,
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "Infatoshi/cuda-course",
+    "parentStars": 3385
   },
   {
     "nameWithOwner": "perditioinc/imp",
@@ -33,7 +35,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "kekzl/imp",
+    "parentStars": 15
   },
   {
     "nameWithOwner": "perditioinc/cuopt",
@@ -51,6 +55,8 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "NVIDIA/cuopt",
+    "parentStars": 765
   }
 ]

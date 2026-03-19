@@ -15,7 +15,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "nullclaw/nullclaw",
+    "parentStars": 6552
   },
   {
     "nameWithOwner": "perditioinc/browser",
@@ -33,6 +35,8 @@
     "topics": [],
     "licenseName": "GNU Affero General Public License v3.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "lightpanda-io/browser",
+    "parentStars": 21895
   }
 ]

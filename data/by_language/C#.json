@@ -15,7 +15,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "google/embardiment",
+    "parentStars": 24
   },
   {
     "nameWithOwner": "perditioinc/Files",
@@ -33,7 +35,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "files-community/Files",
+    "parentStars": 42476
   },
   {
     "nameWithOwner": "perditioinc/Lean",
@@ -51,7 +55,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "QuantConnect/Lean",
+    "parentStars": 17918
   },
   {
     "nameWithOwner": "perditioinc/server",
@@ -69,7 +75,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "bitwarden/server",
+    "parentStars": 18284
   },
   {
     "nameWithOwner": "perditioinc/semantic-kernel",
@@ -87,7 +95,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "microsoft/semantic-kernel",
+    "parentStars": 27504
   },
   {
     "nameWithOwner": "perditioinc/unity-mcp",
@@ -105,7 +115,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "beta"
+    "defaultBranch": "beta",
+    "parentRepo": "CoplayDev/unity-mcp",
+    "parentStars": 7262
   },
   {
     "nameWithOwner": "perditioinc/PowerShell",
@@ -123,7 +135,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "PowerShell/PowerShell",
+    "parentStars": 51914
   },
   {
     "nameWithOwner": "perditioinc/Unity-MCP_",
@@ -141,7 +155,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "IvanMurzak/Unity-MCP",
+    "parentStars": 1357
   },
   {
     "nameWithOwner": "perditioinc/FluentFlyout",
@@ -159,7 +175,9 @@
     "topics": [],
     "licenseName": "GNU General Public License v3.0",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "unchihugo/FluentFlyout",
+    "parentStars": 1433
   },
   {
     "nameWithOwner": "perditioinc/aspnetcore",
@@ -177,7 +195,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "dotnet/aspnetcore",
+    "parentStars": 37772
   },
   {
     "nameWithOwner": "perditioinc/eShop",
@@ -195,7 +215,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "dotnet/eShop",
+    "parentStars": 10239
   },
   {
     "nameWithOwner": "perditioinc/sbox-public",
@@ -213,7 +235,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "Facepunch/sbox-public",
+    "parentStars": 3839
   },
   {
     "nameWithOwner": "perditioinc/ErsatzTV",
@@ -231,7 +255,9 @@
     "topics": [],
     "licenseName": "zlib License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "ErsatzTV/ErsatzTV",
+    "parentStars": 2723
   },
   {
     "nameWithOwner": "perditioinc/csharp-sdk",
@@ -249,7 +275,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "modelcontextprotocol/csharp-sdk",
+    "parentStars": 4106
   },
   {
     "nameWithOwner": "perditioinc/mcp",
@@ -267,7 +295,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "microsoft/mcp",
+    "parentStars": 2808
   },
   {
     "nameWithOwner": "perditioinc/runtime",
@@ -285,7 +315,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "dotnet/runtime",
+    "parentStars": 17727
   },
   {
     "nameWithOwner": "perditioinc/AISuperDomain",
@@ -303,7 +335,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "win4r/AISuperDomain",
+    "parentStars": 1934
   },
   {
     "nameWithOwner": "perditioinc/dotnet-docs-samples",
@@ -321,7 +355,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "GoogleCloudPlatform/dotnet-docs-samples",
+    "parentStars": 828
   },
   {
     "nameWithOwner": "perditioinc/PowerToys",
@@ -339,7 +375,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "microsoft/PowerToys",
+    "parentStars": 130673
   },
   {
     "nameWithOwner": "perditioinc/garnet",
@@ -357,7 +395,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "microsoft/garnet",
+    "parentStars": 11774
   },
   {
     "nameWithOwner": "perditioinc/openai-dotnet",
@@ -375,6 +415,8 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "openai/openai-dotnet",
+    "parentStars": 2537
   }
 ]

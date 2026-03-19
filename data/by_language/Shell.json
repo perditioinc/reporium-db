@@ -15,7 +15,9 @@
     "topics": [],
     "licenseName": null,
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "vmayoral/ros-robotics-companies",
+    "parentStars": 1784
   },
   {
     "nameWithOwner": "perditioinc/claude-code-ultimate-guide",
@@ -33,7 +35,9 @@
     "topics": [],
     "licenseName": "Creative Commons Attribution Share Alike 4.0 International",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "FlorianBruniaux/claude-code-ultimate-guide",
+    "parentStars": 1946
   },
   {
     "nameWithOwner": "perditioinc/tinyclaw",
@@ -51,7 +55,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "TinyAGI/tinyagi",
+    "parentStars": 3159
   },
   {
     "nameWithOwner": "perditioinc/agency-agents",
@@ -69,7 +75,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "msitarzewski/agency-agents",
+    "parentStars": 54377
   },
   {
     "nameWithOwner": "perditioinc/superpowers",
@@ -87,7 +95,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "obra/superpowers",
+    "parentStars": 96833
   },
   {
     "nameWithOwner": "perditioinc/awesome-claude-code-subagents",
@@ -105,7 +115,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "VoltAgent/awesome-claude-code-subagents",
+    "parentStars": 14311
   },
   {
     "nameWithOwner": "perditioinc/claude-code",
@@ -123,7 +135,9 @@
     "topics": [],
     "licenseName": null,
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "anthropics/claude-code",
+    "parentStars": 79777
   },
   {
     "nameWithOwner": "perditioinc/claude-agent-sdk-typescript",
@@ -141,6 +155,8 @@
     "topics": [],
     "licenseName": null,
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "anthropics/claude-agent-sdk-typescript",
+    "parentStars": 979
   }
 ]

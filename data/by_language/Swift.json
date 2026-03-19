@@ -15,7 +15,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "zetic-ai/ZETIC_Melange_apps",
+    "parentStars": 51
   },
   {
     "nameWithOwner": "perditioinc/Queryable",
@@ -33,6 +35,8 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "mazzzystar/Queryable",
+    "parentStars": 2926
   }
 ]

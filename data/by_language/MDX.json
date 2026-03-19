@@ -15,7 +15,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "dair-ai/Prompt-Engineering-Guide",
+    "parentStars": 71903
   },
   {
     "nameWithOwner": "perditioinc/agents-course",
@@ -33,7 +35,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "huggingface/agents-course",
+    "parentStars": 26702
   },
   {
     "nameWithOwner": "perditioinc/course",
@@ -51,7 +55,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "huggingface/course",
+    "parentStars": 3780
   },
   {
     "nameWithOwner": "perditioinc/e2b",
@@ -69,7 +75,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "e2b-dev/E2B",
+    "parentStars": 11342
   },
   {
     "nameWithOwner": "perditioinc/haystack",
@@ -87,6 +95,8 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "deepset-ai/haystack",
+    "parentStars": 24549
   }
 ]

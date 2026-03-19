@@ -15,7 +15,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "moonshine-ai/moonshine",
+    "parentStars": 7412
   },
   {
     "nameWithOwner": "perditioinc/XNNPACK",
@@ -33,7 +35,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "google/XNNPACK",
+    "parentStars": 2277
   },
   {
     "nameWithOwner": "perditioinc/llamafile",
@@ -51,7 +55,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "mozilla-ai/llamafile",
+    "parentStars": 23803
   },
   {
     "nameWithOwner": "perditioinc/ImageMagick",
@@ -69,7 +75,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "ImageMagick/ImageMagick",
+    "parentStars": 15954
   },
   {
     "nameWithOwner": "perditioinc/systemd",
@@ -87,7 +95,9 @@
     "topics": [],
     "licenseName": "GNU General Public License v2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "systemd/systemd",
+    "parentStars": 15446
   },
   {
     "nameWithOwner": "perditioinc/netdata",
@@ -105,7 +115,9 @@
     "topics": [],
     "licenseName": "GNU General Public License v3.0",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "netdata/netdata",
+    "parentStars": 78124
   },
   {
     "nameWithOwner": "perditioinc/jq",
@@ -123,7 +135,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "jqlang/jq",
+    "parentStars": 33855
   },
   {
     "nameWithOwner": "perditioinc/ish",
@@ -141,7 +155,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "ish-app/ish",
+    "parentStars": 19552
   },
   {
     "nameWithOwner": "perditioinc/git",
@@ -159,7 +175,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "git/git",
+    "parentStars": 59762
   },
   {
     "nameWithOwner": "perditioinc/termux-x11",
@@ -177,7 +195,9 @@
     "topics": [],
     "licenseName": "GNU General Public License v3.0",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "termux/termux-x11",
+    "parentStars": 3719
   },
   {
     "nameWithOwner": "perditioinc/ESP-Drone",
@@ -195,7 +215,9 @@
     "topics": [],
     "licenseName": null,
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "Circuit-Digest/ESP-Drone",
+    "parentStars": 1996
   },
   {
     "nameWithOwner": "perditioinc/redis",
@@ -213,7 +235,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "unstable"
+    "defaultBranch": "unstable",
+    "parentRepo": "redis/redis",
+    "parentStars": 73459
   },
   {
     "nameWithOwner": "perditioinc/nginx",
@@ -231,7 +255,9 @@
     "topics": [],
     "licenseName": "BSD 2-Clause \"Simplified\" License",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "nginx/nginx",
+    "parentStars": 29707
   },
   {
     "nameWithOwner": "perditioinc/tmux",
@@ -249,7 +275,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "tmux/tmux",
+    "parentStars": 43223
   },
   {
     "nameWithOwner": "perditioinc/proxmark3",
@@ -267,7 +295,9 @@
     "topics": [],
     "licenseName": "GNU General Public License v3.0",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "RfidResearchGroup/proxmark3",
+    "parentStars": 5347
   },
   {
     "nameWithOwner": "perditioinc/MTProxy",
@@ -285,7 +315,9 @@
     "topics": [],
     "licenseName": null,
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "TelegramMessenger/MTProxy",
+    "parentStars": 6247
   },
   {
     "nameWithOwner": "perditioinc/llama2.c",
@@ -303,7 +335,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "karpathy/llama2.c",
+    "parentStars": 19289
   },
   {
     "nameWithOwner": "perditioinc/sioyek",
@@ -321,7 +355,9 @@
     "topics": [],
     "licenseName": "GNU General Public License v3.0",
     "openIssues": 0,
-    "defaultBranch": "development"
+    "defaultBranch": "development",
+    "parentRepo": "ahrm/sioyek",
+    "parentStars": 9247
   },
   {
     "nameWithOwner": "perditioinc/sqlite-vec",
@@ -339,7 +375,9 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "asg017/sqlite-vec",
+    "parentStars": 7206
   },
   {
     "nameWithOwner": "perditioinc/C",
@@ -357,7 +395,9 @@
     "topics": [],
     "licenseName": "GNU General Public License v3.0",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "TheAlgorithms/C",
+    "parentStars": 21818
   },
   {
     "nameWithOwner": "perditioinc/retro",
@@ -375,7 +415,9 @@
     "topics": [],
     "licenseName": "MIT License",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "openai/retro",
+    "parentStars": 3575
   },
   {
     "nameWithOwner": "perditioinc/open-gpu-kernel-modules",
@@ -393,7 +435,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "NVIDIA/open-gpu-kernel-modules",
+    "parentStars": 16814
   },
   {
     "nameWithOwner": "perditioinc/cuda-samples",
@@ -411,7 +455,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "NVIDIA/cuda-samples",
+    "parentStars": 8976
   },
   {
     "nameWithOwner": "perditioinc/ffmpeg-kit",
@@ -429,7 +475,9 @@
     "topics": [],
     "licenseName": "GNU Lesser General Public License v3.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "arthenica/ffmpeg-kit",
+    "parentStars": 5777
   },
   {
     "nameWithOwner": "perditioinc/PLFM_RADAR",
@@ -447,7 +495,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "NawfalMotii79/PLFM_RADAR",
+    "parentStars": 3346
   },
   {
     "nameWithOwner": "perditioinc/betaflight",
@@ -465,7 +515,9 @@
     "topics": [],
     "licenseName": "GNU General Public License v3.0",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "betaflight/betaflight",
+    "parentStars": 10721
   },
   {
     "nameWithOwner": "perditioinc/dune3d",
@@ -483,7 +535,9 @@
     "topics": [],
     "licenseName": "GNU General Public License v3.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "dune3d/dune3d",
+    "parentStars": 1569
   },
   {
     "nameWithOwner": "perditioinc/fontforge",
@@ -501,7 +555,9 @@
     "topics": [],
     "licenseName": "Other",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "fontforge/fontforge",
+    "parentStars": 7600
   },
   {
     "nameWithOwner": "perditioinc/Luma3DS",
@@ -519,7 +575,9 @@
     "topics": [],
     "licenseName": "GNU General Public License v3.0",
     "openIssues": 0,
-    "defaultBranch": "master"
+    "defaultBranch": "master",
+    "parentRepo": "LumaTeam/Luma3DS",
+    "parentStars": 6282
   },
   {
     "nameWithOwner": "perditioinc/pg_lake",
@@ -537,6 +595,8 @@
     "topics": [],
     "licenseName": "Apache License 2.0",
     "openIssues": 0,
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "parentRepo": "Snowflake-Labs/pg_lake",
+    "parentStars": 1461
   }
 ]
