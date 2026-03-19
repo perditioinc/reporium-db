@@ -17,7 +17,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google/embardiment",
-    "parentStars": 24
+    "parentStars": 24,
+    "parentForks": 5
   },
   {
     "nameWithOwner": "perditioinc/Files",
@@ -37,7 +38,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "files-community/Files",
-    "parentStars": 42476
+    "parentStars": 42479,
+    "parentForks": 2640
   },
   {
     "nameWithOwner": "perditioinc/Lean",
@@ -57,7 +59,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "QuantConnect/Lean",
-    "parentStars": 17918
+    "parentStars": 17918,
+    "parentForks": 4601
   },
   {
     "nameWithOwner": "perditioinc/server",
@@ -77,7 +80,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "bitwarden/server",
-    "parentStars": 18284
+    "parentStars": 18284,
+    "parentForks": 1558
   },
   {
     "nameWithOwner": "perditioinc/semantic-kernel",
@@ -97,7 +101,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/semantic-kernel",
-    "parentStars": 27504
+    "parentStars": 27504,
+    "parentForks": 4518
   },
   {
     "nameWithOwner": "perditioinc/unity-mcp",
@@ -117,7 +122,8 @@
     "openIssues": 0,
     "defaultBranch": "beta",
     "parentRepo": "CoplayDev/unity-mcp",
-    "parentStars": 7262
+    "parentStars": 7263,
+    "parentForks": 863
   },
   {
     "nameWithOwner": "perditioinc/PowerShell",
@@ -137,7 +143,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "PowerShell/PowerShell",
-    "parentStars": 51914
+    "parentStars": 51914,
+    "parentForks": 8224
   },
   {
     "nameWithOwner": "perditioinc/Unity-MCP_",
@@ -157,7 +164,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "IvanMurzak/Unity-MCP",
-    "parentStars": 1357
+    "parentStars": 1358,
+    "parentForks": 138
   },
   {
     "nameWithOwner": "perditioinc/FluentFlyout",
@@ -177,7 +185,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "unchihugo/FluentFlyout",
-    "parentStars": 1433
+    "parentStars": 1437,
+    "parentForks": 55
   },
   {
     "nameWithOwner": "perditioinc/aspnetcore",
@@ -197,7 +206,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "dotnet/aspnetcore",
-    "parentStars": 37772
+    "parentStars": 37772,
+    "parentForks": 10608
   },
   {
     "nameWithOwner": "perditioinc/eShop",
@@ -217,7 +227,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "dotnet/eShop",
-    "parentStars": 10239
+    "parentStars": 10240,
+    "parentForks": 3517
   },
   {
     "nameWithOwner": "perditioinc/sbox-public",
@@ -237,7 +248,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "Facepunch/sbox-public",
-    "parentStars": 3839
+    "parentStars": 3839,
+    "parentForks": 283
   },
   {
     "nameWithOwner": "perditioinc/ErsatzTV",
@@ -257,7 +269,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "ErsatzTV/ErsatzTV",
-    "parentStars": 2723
+    "parentStars": 2723,
+    "parentForks": 177
   },
   {
     "nameWithOwner": "perditioinc/csharp-sdk",
@@ -277,7 +290,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "modelcontextprotocol/csharp-sdk",
-    "parentStars": 4106
+    "parentStars": 4106,
+    "parentForks": 663
   },
   {
     "nameWithOwner": "perditioinc/mcp",
@@ -297,7 +311,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/mcp",
-    "parentStars": 2808
+    "parentStars": 2809,
+    "parentForks": 427
   },
   {
     "nameWithOwner": "perditioinc/runtime",
@@ -317,7 +332,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "dotnet/runtime",
-    "parentStars": 17727
+    "parentStars": 17727,
+    "parentForks": 5382
   },
   {
     "nameWithOwner": "perditioinc/AISuperDomain",
@@ -337,7 +353,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "win4r/AISuperDomain",
-    "parentStars": 1934
+    "parentStars": 1934,
+    "parentForks": 316
   },
   {
     "nameWithOwner": "perditioinc/dotnet-docs-samples",
@@ -357,7 +374,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "GoogleCloudPlatform/dotnet-docs-samples",
-    "parentStars": 828
+    "parentStars": 828,
+    "parentForks": 1230
   },
   {
     "nameWithOwner": "perditioinc/PowerToys",
@@ -377,7 +395,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/PowerToys",
-    "parentStars": 130673
+    "parentStars": 130678,
+    "parentForks": 7788
   },
   {
     "nameWithOwner": "perditioinc/garnet",
@@ -397,7 +416,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/garnet",
-    "parentStars": 11774
+    "parentStars": 11774,
+    "parentForks": 645
   },
   {
     "nameWithOwner": "perditioinc/openai-dotnet",
@@ -417,6 +437,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "openai/openai-dotnet",
-    "parentStars": 2537
+    "parentStars": 2537,
+    "parentForks": 375
   }
 ]

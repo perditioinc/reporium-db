@@ -17,7 +17,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "Infatoshi/cuda-course",
-    "parentStars": 3385
+    "parentStars": 3385,
+    "parentForks": 594
   },
   {
     "nameWithOwner": "perditioinc/imp",
@@ -37,7 +38,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "kekzl/imp",
-    "parentStars": 15
+    "parentStars": 15,
+    "parentForks": 2
   },
   {
     "nameWithOwner": "perditioinc/cuopt",
@@ -57,6 +59,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/cuopt",
-    "parentStars": 765
+    "parentStars": 765,
+    "parentForks": 146
   }
 ]

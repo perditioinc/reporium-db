@@ -17,7 +17,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "GoogleCloudPlatform/generative-ai",
-    "parentStars": 16301
+    "parentStars": 16301,
+    "parentForks": 4076
   },
   {
     "nameWithOwner": "perditioinc/ML-For-Beginners",
@@ -37,7 +38,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/ML-For-Beginners",
-    "parentStars": 84560
+    "parentStars": 84566,
+    "parentForks": 20320
   },
   {
     "nameWithOwner": "perditioinc/mml-book.github.io",
@@ -57,7 +59,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "mml-book/mml-book.github.io",
-    "parentStars": 15208
+    "parentStars": 15208,
+    "parentForks": 2736
   },
   {
     "nameWithOwner": "perditioinc/Made-With-ML",
@@ -77,7 +80,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "GokuMohandas/Made-With-ML",
-    "parentStars": 46849
+    "parentStars": 46854,
+    "parentForks": 7355
   },
   {
     "nameWithOwner": "perditioinc/nn-zero-to-hero",
@@ -97,7 +101,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "karpathy/nn-zero-to-hero",
-    "parentStars": 20954
+    "parentStars": 20954,
+    "parentForks": 3010
   },
   {
     "nameWithOwner": "perditioinc/Hands-On-Large-Language-Models",
@@ -117,7 +122,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "HandsOnLLM/Hands-On-Large-Language-Models",
-    "parentStars": 24183
+    "parentStars": 24184,
+    "parentForks": 5595
   },
   {
     "nameWithOwner": "perditioinc/ai-agents-for-beginners",
@@ -137,7 +143,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/ai-agents-for-beginners",
-    "parentStars": 54410
+    "parentStars": 54412,
+    "parentForks": 18833
   },
   {
     "nameWithOwner": "perditioinc/GenAI_Agents",
@@ -157,7 +164,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NirDiamant/GenAI_Agents",
-    "parentStars": 20646
+    "parentStars": 20649,
+    "parentForks": 3424
   },
   {
     "nameWithOwner": "perditioinc/RAG_Techniques",
@@ -177,7 +185,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NirDiamant/RAG_Techniques",
-    "parentStars": 26094
+    "parentStars": 26096,
+    "parentForks": 3085
   },
   {
     "nameWithOwner": "perditioinc/all-rl-algorithms",
@@ -197,7 +206,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "FareedKhan-dev/all-rl-algorithms",
-    "parentStars": 1463
+    "parentStars": 1463,
+    "parentForks": 260
   },
   {
     "nameWithOwner": "perditioinc/fsdl-text-recognizer",
@@ -217,7 +227,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "the-full-stack/fsdl-text-recognizer",
-    "parentStars": 77
+    "parentStars": 77,
+    "parentForks": 56
   },
   {
     "nameWithOwner": "perditioinc/mlops-zoomcamp",
@@ -237,7 +248,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "DataTalksClub/mlops-zoomcamp",
-    "parentStars": 14331
+    "parentStars": 14331,
+    "parentForks": 2879
   },
   {
     "nameWithOwner": "perditioinc/MLOps-Basics",
@@ -257,7 +269,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "graviraja/MLOps-Basics",
-    "parentStars": 8738
+    "parentStars": 8738,
+    "parentForks": 1722
   },
   {
     "nameWithOwner": "perditioinc/robotics",
@@ -277,7 +290,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "gtbook/robotics",
-    "parentStars": 663
+    "parentStars": 663,
+    "parentForks": 94
   },
   {
     "nameWithOwner": "perditioinc/Machine-Learning-Interviews",
@@ -297,7 +311,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "alirezadir/Machine-Learning-Interviews",
-    "parentStars": 7917
+    "parentStars": 7917,
+    "parentForks": 1421
   },
   {
     "nameWithOwner": "perditioinc/Agentic_Design_Patterns",
@@ -317,7 +332,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "AnkunHuang/Agentic_Design_Patterns",
-    "parentStars": 21
+    "parentStars": 21,
+    "parentForks": 1787
   },
   {
     "nameWithOwner": "perditioinc/hands-on-rl",
@@ -337,7 +353,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Paulescu/hands-on-rl",
-    "parentStars": 1539
+    "parentStars": 1539,
+    "parentForks": 186
   },
   {
     "nameWithOwner": "perditioinc/openai-cookbook",
@@ -357,7 +374,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "openai/openai-cookbook",
-    "parentStars": 72214
+    "parentStars": 72218,
+    "parentForks": 12163
   },
   {
     "nameWithOwner": "perditioinc/AI-For-Beginners",
@@ -377,7 +395,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/AI-For-Beginners",
-    "parentStars": 46132
+    "parentStars": 46131,
+    "parentForks": 9437
   },
   {
     "nameWithOwner": "perditioinc/smol-course",
@@ -397,7 +416,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "huggingface/smol-course",
-    "parentStars": 6612
+    "parentStars": 6612,
+    "parentForks": 2299
   },
   {
     "nameWithOwner": "perditioinc/Python-100-Days",
@@ -417,7 +437,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "jackfrued/Python-100-Days",
-    "parentStars": 179800
+    "parentStars": 179802,
+    "parentForks": 55518
   },
   {
     "nameWithOwner": "perditioinc/generative-ai-for-beginners",
@@ -437,7 +458,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/generative-ai-for-beginners",
-    "parentStars": 108234
+    "parentStars": 108237,
+    "parentForks": 58011
   },
   {
     "nameWithOwner": "perditioinc/LLMs-from-scratch",
@@ -457,7 +479,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "rasbt/LLMs-from-scratch",
-    "parentStars": 88675
+    "parentStars": 88676,
+    "parentForks": 13537
   },
   {
     "nameWithOwner": "perditioinc/stable-diffusion",
@@ -477,7 +500,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "CompVis/stable-diffusion",
-    "parentStars": 72713
+    "parentStars": 72714,
+    "parentForks": 10620
   },
   {
     "nameWithOwner": "perditioinc/llm-app",
@@ -497,7 +521,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "pathwaycom/llm-app",
-    "parentStars": 57377
+    "parentStars": 57381,
+    "parentForks": 1388
   },
   {
     "nameWithOwner": "perditioinc/segment-anything",
@@ -517,7 +542,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "facebookresearch/segment-anything",
-    "parentStars": 53704
+    "parentStars": 53705,
+    "parentForks": 6290
   },
   {
     "nameWithOwner": "perditioinc/PythonDataScienceHandbook",
@@ -537,7 +563,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "jakevdp/PythonDataScienceHandbook",
-    "parentStars": 47075
+    "parentStars": 47076,
+    "parentForks": 18788
   },
   {
     "nameWithOwner": "perditioinc/notebooks",
@@ -557,7 +584,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "unslothai/notebooks",
-    "parentStars": 4915
+    "parentStars": 4915,
+    "parentForks": 781
   },
   {
     "nameWithOwner": "perditioinc/reasoning-from-scratch",
@@ -577,7 +605,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "rasbt/reasoning-from-scratch",
-    "parentStars": 3606
+    "parentStars": 3606,
+    "parentForks": 516
   },
   {
     "nameWithOwner": "perditioinc/phoenix",
@@ -597,7 +626,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Arize-ai/phoenix",
-    "parentStars": 8921
+    "parentStars": 8922,
+    "parentForks": 767
   },
   {
     "nameWithOwner": "perditioinc/guidance",
@@ -617,7 +647,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "guidance-ai/guidance",
-    "parentStars": 21358
+    "parentStars": 21358,
+    "parentForks": 1156
   },
   {
     "nameWithOwner": "perditioinc/rag-zero-to-hero-guide",
@@ -637,7 +668,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "KalyanKS-NLP/rag-zero-to-hero-guide",
-    "parentStars": 1277
+    "parentStars": 1277,
+    "parentForks": 322
   },
   {
     "nameWithOwner": "perditioinc/regression_ml_endtoend",
@@ -657,7 +689,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "anesriad/Regression_ML_EndtoEnd",
-    "parentStars": 149
+    "parentStars": 149,
+    "parentForks": 52
   },
   {
     "nameWithOwner": "perditioinc/gemma-cookbook",
@@ -677,7 +710,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google-gemini/gemma-cookbook",
-    "parentStars": 2746
+    "parentStars": 2746,
+    "parentForks": 452
   },
   {
     "nameWithOwner": "perditioinc/google-research",
@@ -697,7 +731,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "google-research/google-research",
-    "parentStars": 37486
+    "parentStars": 37485,
+    "parentForks": 8363
   },
   {
     "nameWithOwner": "perditioinc/gemini-fullstack-langgraph-quickstart",
@@ -717,7 +752,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google-gemini/gemini-fullstack-langgraph-quickstart",
-    "parentStars": 18003
+    "parentStars": 18003,
+    "parentForks": 3065
   },
   {
     "nameWithOwner": "perditioinc/pytorch-deep-learning",
@@ -737,7 +773,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "mrdbourke/pytorch-deep-learning",
-    "parentStars": 17422
+    "parentStars": 17423,
+    "parentForks": 4808
   },
   {
     "nameWithOwner": "perditioinc/GenerativeAIExamples",
@@ -757,7 +794,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/GenerativeAIExamples",
-    "parentStars": 3856
+    "parentStars": 3857,
+    "parentForks": 1006
   },
   {
     "nameWithOwner": "perditioinc/dinov2",
@@ -777,7 +815,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "facebookresearch/dinov2",
-    "parentStars": 12551
+    "parentStars": 12552,
+    "parentForks": 1197
   },
   {
     "nameWithOwner": "perditioinc/Nemotron",
@@ -797,7 +836,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA-NeMo/Nemotron",
-    "parentStars": 688
+    "parentStars": 690,
+    "parentForks": 138
   },
   {
     "nameWithOwner": "perditioinc/deep-learning-with-python-notebooks",
@@ -817,7 +857,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "fchollet/deep-learning-with-python-notebooks",
-    "parentStars": 19993
+    "parentStars": 19993,
+    "parentForks": 9047
   },
   {
     "nameWithOwner": "perditioinc/ai-engineering-hub",
@@ -837,7 +878,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "patchy631/ai-engineering-hub",
-    "parentStars": 32274
+    "parentStars": 32276,
+    "parentForks": 5324
   },
   {
     "nameWithOwner": "perditioinc/agents",
@@ -857,7 +899,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "ed-donner/agents",
-    "parentStars": 4372
+    "parentStars": 4372,
+    "parentForks": 3655
   },
   {
     "nameWithOwner": "perditioinc/bootcamp",
@@ -877,7 +920,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "milvus-io/bootcamp",
-    "parentStars": 2395
+    "parentStars": 2395,
+    "parentForks": 679
   },
   {
     "nameWithOwner": "perditioinc/Qwen2.5-Omni",
@@ -897,7 +941,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "QwenLM/Qwen2.5-Omni",
-    "parentStars": 3952
+    "parentStars": 3952,
+    "parentForks": 323
   },
   {
     "nameWithOwner": "perditioinc/examples",
@@ -917,7 +962,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "wandb/examples",
-    "parentStars": 1202
+    "parentStars": 1202,
+    "parentForks": 300
   },
   {
     "nameWithOwner": "perditioinc/edu",
@@ -937,7 +983,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "wandb/edu",
-    "parentStars": 668
+    "parentStars": 668,
+    "parentForks": 289
   },
   {
     "nameWithOwner": "perditioinc/CLIP",
@@ -957,7 +1004,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "openai/CLIP",
-    "parentStars": 32866
+    "parentStars": 32866,
+    "parentForks": 3969
   },
   {
     "nameWithOwner": "perditioinc/Multilingual-CLIP",
@@ -977,7 +1025,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "FreddeFrallan/Multilingual-CLIP",
-    "parentStars": 828
+    "parentStars": 828,
+    "parentForks": 68
   },
   {
     "nameWithOwner": "perditioinc/sam2",
@@ -997,7 +1046,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "facebookresearch/sam2",
-    "parentStars": 18718
+    "parentStars": 18720,
+    "parentForks": 2383
   },
   {
     "nameWithOwner": "perditioinc/Grounded-SAM-2",
@@ -1017,7 +1067,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "IDEA-Research/Grounded-SAM-2",
-    "parentStars": 3334
+    "parentStars": 3334,
+    "parentForks": 390
   },
   {
     "nameWithOwner": "perditioinc/Qwen3-VL",
@@ -1037,7 +1088,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "QwenLM/Qwen3-VL",
-    "parentStars": 18690
+    "parentStars": 18693,
+    "parentForks": 1684
   },
   {
     "nameWithOwner": "perditioinc/OmniParser",
@@ -1057,7 +1109,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "microsoft/OmniParser",
-    "parentStars": 24551
+    "parentStars": 24552,
+    "parentForks": 2145
   },
   {
     "nameWithOwner": "perditioinc/magenta-demos",
@@ -1077,7 +1130,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "magenta/magenta-demos",
-    "parentStars": 1348
+    "parentStars": 1348,
+    "parentForks": 427
   },
   {
     "nameWithOwner": "perditioinc/python-docs-samples",
@@ -1097,7 +1151,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "GoogleCloudPlatform/python-docs-samples",
-    "parentStars": 8014
+    "parentStars": 8014,
+    "parentForks": 6693
   },
   {
     "nameWithOwner": "perditioinc/training-data-analyst",
@@ -1117,7 +1172,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "GoogleCloudPlatform/training-data-analyst",
-    "parentStars": 8469
+    "parentStars": 8469,
+    "parentForks": 6050
   },
   {
     "nameWithOwner": "perditioinc/ml-design-patterns",
@@ -1137,7 +1193,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "GoogleCloudPlatform/ml-design-patterns",
-    "parentStars": 2073
+    "parentStars": 2073,
+    "parentForks": 586
   },
   {
     "nameWithOwner": "perditioinc/tensorflow-without-a-phd",
@@ -1157,7 +1214,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "GoogleCloudPlatform/tensorflow-without-a-phd",
-    "parentStars": 2841
+    "parentStars": 2841,
+    "parentForks": 913
   },
   {
     "nameWithOwner": "perditioinc/asl-ml-immersion",
@@ -1177,7 +1235,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "GoogleCloudPlatform/asl-ml-immersion",
-    "parentStars": 2509
+    "parentStars": 2510,
+    "parentForks": 1470
   },
   {
     "nameWithOwner": "perditioinc/data-science-on-gcp",
@@ -1197,7 +1256,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "GoogleCloudPlatform/data-science-on-gcp",
-    "parentStars": 1421
+    "parentStars": 1421,
+    "parentForks": 730
   },
   {
     "nameWithOwner": "perditioinc/cookbook",
@@ -1217,7 +1277,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google-gemini/cookbook",
-    "parentStars": 16772
+    "parentStars": 16772,
+    "parentForks": 2536
   },
   {
     "nameWithOwner": "perditioinc/Data-Science-For-Beginners",
@@ -1237,7 +1298,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/Data-Science-For-Beginners",
-    "parentStars": 34275
+    "parentStars": 34275,
+    "parentForks": 7012
   },
   {
     "nameWithOwner": "perditioinc/TinyTroupe",
@@ -1257,7 +1319,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/TinyTroupe",
-    "parentStars": 7329
+    "parentStars": 7329,
+    "parentForks": 640
   },
   {
     "nameWithOwner": "perditioinc/tensorwatch",
@@ -1277,7 +1340,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "microsoft/tensorwatch",
-    "parentStars": 3466
+    "parentStars": 3466,
+    "parentForks": 359
   },
   {
     "nameWithOwner": "perditioinc/dopamine",
@@ -1297,7 +1361,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "google/dopamine",
-    "parentStars": 10855
+    "parentStars": 10855,
+    "parentForks": 1390
   },
   {
     "nameWithOwner": "perditioinc/generative-ai-docs",
@@ -1317,7 +1382,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google/generative-ai-docs",
-    "parentStars": 2238
+    "parentStars": 2238,
+    "parentForks": 750
   },
   {
     "nameWithOwner": "perditioinc/claude-cookbooks",
@@ -1337,7 +1403,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "anthropics/claude-cookbooks",
-    "parentStars": 35295
+    "parentStars": 35300,
+    "parentForks": 3756
   },
   {
     "nameWithOwner": "perditioinc/prompt-eng-interactive-tutorial",
@@ -1357,7 +1424,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "anthropics/prompt-eng-interactive-tutorial",
-    "parentStars": 33600
+    "parentStars": 33603,
+    "parentForks": 3452
   },
   {
     "nameWithOwner": "perditioinc/courses",
@@ -1377,7 +1445,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "anthropics/courses",
-    "parentStars": 19586
+    "parentStars": 19589,
+    "parentForks": 1920
   },
   {
     "nameWithOwner": "perditioinc/cuopt-examples",
@@ -1397,7 +1466,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/cuopt-examples",
-    "parentStars": 423
+    "parentStars": 423,
+    "parentForks": 72
   },
   {
     "nameWithOwner": "perditioinc/DeepLearningExamples",
@@ -1417,7 +1487,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "NVIDIA/DeepLearningExamples",
-    "parentStars": 14747
+    "parentStars": 14748,
+    "parentForks": 3409
   },
   {
     "nameWithOwner": "perditioinc/Isaac-GR00T",
@@ -1437,7 +1508,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/Isaac-GR00T",
-    "parentStars": 6452
+    "parentStars": 6454,
+    "parentForks": 1073
   },
   {
     "nameWithOwner": "perditioinc/tacotron2",
@@ -1457,7 +1529,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "NVIDIA/tacotron2",
-    "parentStars": 5306
+    "parentStars": 5306,
+    "parentForks": 1425
   },
   {
     "nameWithOwner": "perditioinc/bark",
@@ -1477,7 +1550,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "suno-ai/bark",
-    "parentStars": 39044
+    "parentStars": 39045,
+    "parentForks": 4686
   },
   {
     "nameWithOwner": "perditioinc/llm-zoomcamp",
@@ -1497,7 +1571,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "DataTalksClub/llm-zoomcamp",
-    "parentStars": 4725
+    "parentStars": 4725,
+    "parentForks": 857
   },
   {
     "nameWithOwner": "perditioinc/learn-agentic-ai",
@@ -1517,7 +1592,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "panaversity/learn-agentic-ai",
-    "parentStars": 3990
+    "parentStars": 3990,
+    "parentForks": 926
   },
   {
     "nameWithOwner": "perditioinc/mistral-inference",
@@ -1537,7 +1613,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "mistralai/mistral-inference",
-    "parentStars": 10721
+    "parentStars": 10722,
+    "parentForks": 1026
   },
   {
     "nameWithOwner": "perditioinc/notebook",
@@ -1557,7 +1634,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "jupyter/notebook",
-    "parentStars": 13011
+    "parentStars": 13011,
+    "parentForks": 5618
   },
   {
     "nameWithOwner": "perditioinc/data-engineer-handbook",
@@ -1577,7 +1655,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "DataExpert-io/data-engineer-handbook",
-    "parentStars": 40570
+    "parentStars": 40570,
+    "parentForks": 7732
   },
   {
     "nameWithOwner": "perditioinc/agents-towards-production",
@@ -1597,7 +1676,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NirDiamant/agents-towards-production",
-    "parentStars": 18320
+    "parentStars": 18323,
+    "parentForks": 2433
   },
   {
     "nameWithOwner": "perditioinc/jetson-containers",
@@ -1617,7 +1697,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "dusty-nv/jetson-containers",
-    "parentStars": 4487
+    "parentStars": 4488,
+    "parentForks": 816
   },
   {
     "nameWithOwner": "perditioinc/machine-learning-for-trading",
@@ -1637,7 +1718,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "stefan-jansen/machine-learning-for-trading",
-    "parentStars": 16776
+    "parentStars": 16780,
+    "parentForks": 5014
   },
   {
     "nameWithOwner": "perditioinc/handson-ml2",
@@ -1657,7 +1739,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "ageron/handson-ml2",
-    "parentStars": 29934
+    "parentStars": 29934,
+    "parentForks": 13233
   },
   {
     "nameWithOwner": "perditioinc/micrograd",
@@ -1677,7 +1760,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "karpathy/micrograd",
-    "parentStars": 15097
+    "parentStars": 15098,
+    "parentForks": 2284
   },
   {
     "nameWithOwner": "perditioinc/handson-ml3",
@@ -1697,7 +1781,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "ageron/handson-ml3",
-    "parentStars": 12586
+    "parentStars": 12586,
+    "parentForks": 4909
   },
   {
     "nameWithOwner": "perditioinc/handson-mlp",
@@ -1717,7 +1802,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "ageron/handson-mlp",
-    "parentStars": 1184
+    "parentStars": 1184,
+    "parentForks": 412
   },
   {
     "nameWithOwner": "perditioinc/airllm",
@@ -1737,6 +1823,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "lyogavin/airllm",
-    "parentStars": 14193
+    "parentStars": 14195,
+    "parentForks": 1414
   }
 ]

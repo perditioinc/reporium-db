@@ -17,7 +17,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Snapchat/Valdi",
-    "parentStars": 16285
+    "parentStars": 16285,
+    "parentForks": 543
   },
   {
     "nameWithOwner": "perditioinc/dynamic_robot_localization",
@@ -37,7 +38,8 @@
     "openIssues": 0,
     "defaultBranch": "noetic-devel",
     "parentRepo": "carlosmccosta/dynamic_robot_localization",
-    "parentStars": 873
+    "parentStars": 873,
+    "parentForks": 200
   },
   {
     "nameWithOwner": "perditioinc/zvec",
@@ -57,7 +59,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "alibaba/zvec",
-    "parentStars": 9072
+    "parentStars": 9073,
+    "parentForks": 517
   },
   {
     "nameWithOwner": "perditioinc/SnapRHI",
@@ -77,7 +80,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Snapchat/SnapRHI",
-    "parentStars": 35
+    "parentStars": 35,
+    "parentForks": 4
   },
   {
     "nameWithOwner": "perditioinc/GeminiWatermarkTool",
@@ -97,7 +101,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "allenk/GeminiWatermarkTool",
-    "parentStars": 1853
+    "parentStars": 1853,
+    "parentForks": 149
   },
   {
     "nameWithOwner": "perditioinc/mavros",
@@ -117,7 +122,8 @@
     "openIssues": 0,
     "defaultBranch": "ros2",
     "parentRepo": "mavlink/mavros",
-    "parentStars": 1135
+    "parentStars": 1135,
+    "parentForks": 1080
   },
   {
     "nameWithOwner": "perditioinc/TRAVEL",
@@ -137,7 +143,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "url-kaist/TRAVEL",
-    "parentStars": 320
+    "parentStars": 320,
+    "parentForks": 33
   },
   {
     "nameWithOwner": "perditioinc/LiteRT",
@@ -157,7 +164,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google-ai-edge/LiteRT",
-    "parentStars": 1960
+    "parentStars": 1960,
+    "parentForks": 243
   },
   {
     "nameWithOwner": "perditioinc/llama.cpp",
@@ -177,7 +185,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "ggml-org/llama.cpp",
-    "parentStars": 98506
+    "parentStars": 98510,
+    "parentForks": 15611
   },
   {
     "nameWithOwner": "perditioinc/mediapipe",
@@ -197,7 +206,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "google-ai-edge/mediapipe",
-    "parentStars": 34200
+    "parentStars": 34203,
+    "parentForks": 5849
   },
   {
     "nameWithOwner": "perditioinc/Serial-Studio",
@@ -217,7 +227,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "Serial-Studio/Serial-Studio",
-    "parentStars": 6715
+    "parentStars": 6716,
+    "parentForks": 1009
   },
   {
     "nameWithOwner": "perditioinc/terminal",
@@ -237,7 +248,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/terminal",
-    "parentStars": 102249
+    "parentStars": 102249,
+    "parentForks": 9138
   },
   {
     "nameWithOwner": "perditioinc/runanywhere-sdks",
@@ -257,7 +269,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "RunanywhereAI/runanywhere-sdks",
-    "parentStars": 10255
+    "parentStars": 10255,
+    "parentForks": 314
   },
   {
     "nameWithOwner": "perditioinc/geode",
@@ -277,7 +290,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "geode-sdk/geode",
-    "parentStars": 2047
+    "parentStars": 2047,
+    "parentForks": 373
   },
   {
     "nameWithOwner": "perditioinc/amnezia-client",
@@ -297,7 +311,8 @@
     "openIssues": 0,
     "defaultBranch": "dev",
     "parentRepo": "amnezia-vpn/amnezia-client",
-    "parentStars": 10646
+    "parentStars": 10646,
+    "parentForks": 757
   },
   {
     "nameWithOwner": "perditioinc/LichtFeld-Studio",
@@ -317,7 +332,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "MrNeRF/LichtFeld-Studio",
-    "parentStars": 2574
+    "parentStars": 2574,
+    "parentForks": 271
   },
   {
     "nameWithOwner": "perditioinc/ppsspp",
@@ -337,7 +353,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "hrydgard/ppsspp",
-    "parentStars": 13572
+    "parentStars": 13572,
+    "parentForks": 2455
   },
   {
     "nameWithOwner": "perditioinc/OrcaSlicer",
@@ -357,7 +374,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "OrcaSlicer/OrcaSlicer",
-    "parentStars": 12937
+    "parentStars": 12937,
+    "parentForks": 1877
   },
   {
     "nameWithOwner": "perditioinc/mlx",
@@ -377,7 +395,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "ml-explore/mlx",
-    "parentStars": 24607
+    "parentStars": 24608,
+    "parentForks": 1586
   },
   {
     "nameWithOwner": "perditioinc/rocm-systems",
@@ -397,7 +416,8 @@
     "openIssues": 0,
     "defaultBranch": "develop",
     "parentRepo": "ROCm/rocm-systems",
-    "parentStars": 314
+    "parentStars": 314,
+    "parentForks": 177
   },
   {
     "nameWithOwner": "perditioinc/GR00T-WholeBodyControl",
@@ -417,7 +437,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVlabs/GR00T-WholeBodyControl",
-    "parentStars": 1205
+    "parentStars": 1205,
+    "parentForks": 140
   },
   {
     "nameWithOwner": "perditioinc/WSL",
@@ -437,7 +458,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "microsoft/WSL",
-    "parentStars": 31452
+    "parentStars": 31454,
+    "parentForks": 1646
   },
   {
     "nameWithOwner": "perditioinc/NanaZip",
@@ -457,7 +479,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "M2Team/NanaZip",
-    "parentStars": 13653
+    "parentStars": 13653,
+    "parentForks": 341
   },
   {
     "nameWithOwner": "perditioinc/ggml",
@@ -477,7 +500,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "ggml-org/ggml",
-    "parentStars": 14243
+    "parentStars": 14244,
+    "parentForks": 1524
   },
   {
     "nameWithOwner": "perditioinc/ladybird",
@@ -497,7 +521,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "LadybirdBrowser/ladybird",
-    "parentStars": 61389
+    "parentStars": 61389,
+    "parentForks": 2879
   },
   {
     "nameWithOwner": "perditioinc/QtScrcpy",
@@ -517,7 +542,8 @@
     "openIssues": 0,
     "defaultBranch": "dev",
     "parentRepo": "barry-ran/QtScrcpy",
-    "parentStars": 28890
+    "parentStars": 28890,
+    "parentForks": 3480
   },
   {
     "nameWithOwner": "perditioinc/ESP32-Bus-Pirate",
@@ -537,7 +563,8 @@
     "openIssues": 0,
     "defaultBranch": "pioarduino",
     "parentRepo": "geo-tp/ESP32-Bus-Pirate",
-    "parentStars": 2965
+    "parentStars": 2966,
+    "parentForks": 244
   },
   {
     "nameWithOwner": "perditioinc/REFramework",
@@ -557,7 +584,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "praydog/REFramework",
-    "parentStars": 4804
+    "parentStars": 4805,
+    "parentForks": 518
   },
   {
     "nameWithOwner": "perditioinc/C-Plus-Plus",
@@ -577,7 +605,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "TheAlgorithms/C-Plus-Plus",
-    "parentStars": 33944
+    "parentStars": 33946,
+    "parentForks": 7749
   },
   {
     "nameWithOwner": "perditioinc/calculator",
@@ -597,7 +626,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/calculator",
-    "parentStars": 30871
+    "parentStars": 30871,
+    "parentForks": 5734
   },
   {
     "nameWithOwner": "perditioinc/AirSim",
@@ -617,7 +647,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/AirSim",
-    "parentStars": 18027
+    "parentStars": 18027,
+    "parentForks": 4861
   },
   {
     "nameWithOwner": "perditioinc/react-native-windows",
@@ -637,7 +668,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/react-native-windows",
-    "parentStars": 17206
+    "parentStars": 17206,
+    "parentForks": 1193
   },
   {
     "nameWithOwner": "perditioinc/googletest",
@@ -657,7 +689,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google/googletest",
-    "parentStars": 38371
+    "parentStars": 38371,
+    "parentForks": 10726
   },
   {
     "nameWithOwner": "perditioinc/aistreamer",
@@ -677,7 +710,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "google/aistreamer",
-    "parentStars": 152
+    "parentStars": 152,
+    "parentForks": 58
   },
   {
     "nameWithOwner": "perditioinc/TensorRT",
@@ -697,7 +731,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/TensorRT",
-    "parentStars": 12800
+    "parentStars": 12801,
+    "parentForks": 2327
   },
   {
     "nameWithOwner": "perditioinc/cutlass",
@@ -717,7 +752,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/cutlass",
-    "parentStars": 9460
+    "parentStars": 9459,
+    "parentForks": 1741
   },
   {
     "nameWithOwner": "perditioinc/FasterTransformer",
@@ -737,7 +773,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/FasterTransformer",
-    "parentStars": 6395
+    "parentStars": 6395,
+    "parentForks": 931
   },
   {
     "nameWithOwner": "perditioinc/DALI",
@@ -757,7 +794,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/DALI",
-    "parentStars": 5644
+    "parentStars": 5645,
+    "parentForks": 660
   },
   {
     "nameWithOwner": "perditioinc/CUDALibrarySamples",
@@ -777,7 +815,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/CUDALibrarySamples",
-    "parentStars": 2349
+    "parentStars": 2349,
+    "parentForks": 456
   },
   {
     "nameWithOwner": "perditioinc/VideoProcessingFramework",
@@ -797,7 +836,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "NVIDIA/VideoProcessingFramework",
-    "parentStars": 1375
+    "parentStars": 1375,
+    "parentForks": 239
   },
   {
     "nameWithOwner": "perditioinc/gpt4all",
@@ -817,7 +857,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "nomic-ai/gpt4all",
-    "parentStars": 77233
+    "parentStars": 77233,
+    "parentForks": 8326
   },
   {
     "nameWithOwner": "perditioinc/tensorflow",
@@ -837,7 +878,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "tensorflow/tensorflow",
-    "parentStars": 194210
+    "parentStars": 194210,
+    "parentForks": 75256
   },
   {
     "nameWithOwner": "perditioinc/OdomLaserCalibraTool",
@@ -857,7 +899,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "MegviiRobot/OdomLaserCalibraTool",
-    "parentStars": 423
+    "parentStars": 423,
+    "parentForks": 171
   },
   {
     "nameWithOwner": "perditioinc/icp_localization",
@@ -877,7 +920,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "leggedrobotics/icp_localization",
-    "parentStars": 345
+    "parentStars": 345,
+    "parentForks": 53
   },
   {
     "nameWithOwner": "perditioinc/autonomous_mobile_robot",
@@ -897,7 +941,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "bandasaikrishna/Autonomous_Mobile_Robot",
-    "parentStars": 204
+    "parentStars": 204,
+    "parentForks": 81
   },
   {
     "nameWithOwner": "perditioinc/mr_slam",
@@ -917,7 +962,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "MaverickPeter/MR_SLAM",
-    "parentStars": 354
+    "parentStars": 354,
+    "parentForks": 27
   },
   {
     "nameWithOwner": "perditioinc/JoltPhysics",
@@ -937,7 +983,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "jrouwe/JoltPhysics",
-    "parentStars": 9822
+    "parentStars": 9824,
+    "parentForks": 675
   },
   {
     "nameWithOwner": "perditioinc/brave-core",
@@ -957,7 +1004,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "brave/brave-core",
-    "parentStars": 3016
+    "parentStars": 3016,
+    "parentForks": 1154
   },
   {
     "nameWithOwner": "perditioinc/godot",
@@ -977,7 +1025,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "godotengine/godot",
-    "parentStars": 108086
+    "parentStars": 108090,
+    "parentForks": 24714
   },
   {
     "nameWithOwner": "perditioinc/Marlin",
@@ -997,7 +1046,8 @@
     "openIssues": 0,
     "defaultBranch": "bugfix-2.1.x",
     "parentRepo": "MarlinFirmware/Marlin",
-    "parentStars": 17326
+    "parentStars": 17326,
+    "parentForks": 19687
   },
   {
     "nameWithOwner": "perditioinc/jellyfin-desktop",
@@ -1017,7 +1067,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "jellyfin/jellyfin-desktop",
-    "parentStars": 5484
+    "parentStars": 5484,
+    "parentForks": 506
   },
   {
     "nameWithOwner": "perditioinc/WLED",
@@ -1037,7 +1088,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "wled/WLED",
-    "parentStars": 17698
+    "parentStars": 17698,
+    "parentForks": 4057
   },
   {
     "nameWithOwner": "perditioinc/FreeCAD",
@@ -1057,7 +1109,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "FreeCAD/FreeCAD",
-    "parentStars": 29120
+    "parentStars": 29121,
+    "parentForks": 5280
   },
   {
     "nameWithOwner": "perditioinc/mongo",
@@ -1077,7 +1130,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "mongodb/mongo",
-    "parentStars": 28200
+    "parentStars": 28200,
+    "parentForks": 5764
   },
   {
     "nameWithOwner": "perditioinc/BambuStudio",
@@ -1097,7 +1151,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "bambulab/BambuStudio",
-    "parentStars": 4135
+    "parentStars": 4135,
+    "parentForks": 646
   },
   {
     "nameWithOwner": "perditioinc/xiaozhi-esp32",
@@ -1117,7 +1172,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "78/xiaozhi-esp32",
-    "parentStars": 24900
+    "parentStars": 24900,
+    "parentForks": 5344
   },
   {
     "nameWithOwner": "perditioinc/stable-diffusion.cpp",
@@ -1137,7 +1193,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "leejet/stable-diffusion.cpp",
-    "parentStars": 5580
+    "parentStars": 5580,
+    "parentForks": 551
   },
   {
     "nameWithOwner": "perditioinc/steam_icp",
@@ -1157,7 +1214,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "utiasASRL/steam_icp",
-    "parentStars": 253
+    "parentStars": 253,
+    "parentForks": 21
   },
   {
     "nameWithOwner": "perditioinc/livox_relocalization",
@@ -1177,7 +1235,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "Livox-SDK/livox_relocalization",
-    "parentStars": 215
+    "parentStars": 215,
+    "parentForks": 33
   },
   {
     "nameWithOwner": "perditioinc/kiss-icp",
@@ -1197,7 +1256,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "PRBonn/kiss-icp",
-    "parentStars": 2108
+    "parentStars": 2108,
+    "parentForks": 428
   },
   {
     "nameWithOwner": "perditioinc/depth_clustering",
@@ -1217,7 +1277,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "PRBonn/depth_clustering",
-    "parentStars": 1299
+    "parentStars": 1299,
+    "parentForks": 385
   },
   {
     "nameWithOwner": "perditioinc/semantic_suma",
@@ -1237,7 +1298,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "PRBonn/semantic_suma",
-    "parentStars": 999
+    "parentStars": 999,
+    "parentForks": 210
   },
   {
     "nameWithOwner": "perditioinc/FAST-LIO-SAM",
@@ -1257,7 +1319,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "engcang/FAST-LIO-SAM",
-    "parentStars": 280
+    "parentStars": 280,
+    "parentForks": 28
   },
   {
     "nameWithOwner": "perditioinc/SLAM-application",
@@ -1277,7 +1340,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "engcang/SLAM-application",
-    "parentStars": 1122
+    "parentStars": 1122,
+    "parentForks": 150
   },
   {
     "nameWithOwner": "perditioinc/vins-application",
@@ -1297,7 +1361,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "engcang/vins-application",
-    "parentStars": 587
+    "parentStars": 587,
+    "parentForks": 97
   },
   {
     "nameWithOwner": "perditioinc/LIO-EKF",
@@ -1317,7 +1382,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "YibinWu/LIO-EKF",
-    "parentStars": 310
+    "parentStars": 310,
+    "parentForks": 30
   },
   {
     "nameWithOwner": "perditioinc/tesseract",
@@ -1337,6 +1403,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "tesseract-ocr/tesseract",
-    "parentStars": 72990
+    "parentStars": 72992,
+    "parentForks": 10550
   }
 ]
