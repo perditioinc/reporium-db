@@ -38,7 +38,7 @@ def _page(nodes: list[dict], has_next: bool, cursor: str = "c1", remaining: int 
     }
 
 
-def _node(name: str = "repo") -> dict:
+def _node(name: str = "repo", is_fork: bool = False, parent: dict | None = None) -> dict:
     """Build a minimal repo GraphQL node."""
     return {
         "nameWithOwner": f"testuser/{name}",
@@ -51,8 +51,9 @@ def _node(name: str = "repo") -> dict:
         "updatedAt": "2026-03-01T00:00:00Z",
         "createdAt": "2025-01-01T00:00:00Z",
         "isArchived": False,
-        "isFork": False,
+        "isFork": is_fork,
         "isEmpty": False,
+        "parent": parent,
         "repositoryTopics": {"nodes": []},
         "licenseInfo": {"name": "MIT"},
         "issues": {"totalCount": 0},

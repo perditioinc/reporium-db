@@ -32,6 +32,7 @@ query($login: String!, $first: Int!, $after: String) {
         primaryLanguage { name }
         pushedAt updatedAt createdAt
         isArchived isFork isEmpty
+        parent { nameWithOwner stargazerCount }
         repositoryTopics(first: 10) { nodes { topic { name } } }
         licenseInfo { name }
         issues(states: [OPEN]) { totalCount }
@@ -46,6 +47,7 @@ query($login: String!, $first: Int!, $after: String) {
 
 def _parse_repo(node: dict[str, Any]) -> RepoMetadata:
     """Parse a single GraphQL repository node into a RepoMetadata dataclass."""
+    parent = node.get("parent")
     return RepoMetadata(
         nameWithOwner=node["nameWithOwner"],
         name=node["name"],
@@ -63,6 +65,8 @@ def _parse_repo(node: dict[str, Any]) -> RepoMetadata:
         licenseName=(node["licenseInfo"]["name"] if node.get("licenseInfo") else None),
         openIssues=node["issues"]["totalCount"],
         defaultBranch=(node["defaultBranchRef"]["name"] if node.get("defaultBranchRef") else None),
+        parentRepo=(parent["nameWithOwner"] if parent else None),
+        parentStars=(parent["stargazerCount"] if parent else None),
     )
 
 

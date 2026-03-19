@@ -37,6 +37,8 @@ def make_repo(
         licenseName="MIT",
         openIssues=0,
         defaultBranch="main",
+        parentRepo=None,
+        parentStars=None,
     )
 
 
@@ -74,6 +76,7 @@ def graphql_page_factory():
                 "isArchived": False,
                 "isFork": False,
                 "isEmpty": False,
+                "parent": None,
                 "repositoryTopics": {"nodes": []},
                 "licenseInfo": {"name": "MIT"},
                 "issues": {"totalCount": 0},

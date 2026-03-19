@@ -26,6 +26,8 @@ class RepoMetadata:
     licenseName: Optional[str]
     openIssues: int
     defaultBranch: Optional[str]
+    parentRepo: Optional[str] = None
+    parentStars: Optional[int] = None
 
 
 @dataclass
