@@ -18,17 +18,34 @@ def generate_readme(run: SyncRun, index: dict) -> str:
     meta = index.get("meta", {})
     total = meta.get("total", 0)
     last_updated = meta.get("last_updated", "unknown")
+    languages = index.get("languages", {})
 
-    perf_rows = (
-        "| 805 | ~68s fetch | ~9 API calls |\n"
-        "| 10,000 | ~14min fetch | ~100 API calls |\n"
-        "| 100,000 | ~250 GraphQL calls/night (tiered) | ~250 API calls |"
-    )
-
+    duration = f"{run.duration_seconds:.1f}s" if run.duration_seconds is not None else "—"
     errors_note = f"\n> **Last run errors:** {', '.join(run.errors)}" if run.errors else ""
 
+    # Scale estimates based on actual run data
+    api_per_100 = (run.api_calls_used / total * 100) if total else 9
+    perf_rows = (
+        f"| {total:,} | {duration} | {run.api_calls_used} API calls |\n"
+        f"| 10,000 | ~{int(api_per_100 * 100 / 60 + 10)}min | ~{int(api_per_100 * 100)} API calls |\n"
+        f"| 100,000 | ~{int(api_per_100 * 1000 / 60 + 60)}min (tiered) | ~{int(api_per_100 * 1000)} API calls |"
+    )
+
+    last_run_table = f"""\
+| Field | Value |
+|-------|-------|
+| Duration | {duration} |
+| Repos fetched | {run.total_fetched:,} |
+| New repos | {run.new_repos:,} |
+| Updated repos | {run.updated_repos:,} |
+| API calls used | {run.api_calls_used:,} |
+| Rate limit remaining | {run.rate_limit_remaining:,} |
+| Schedule tiers | nightly · weekly · monthly |
+| Checkpoint resumed | {"Yes" if run.checkpoint_resumed else "No"} |\
+"""
+
     readme = f"""# reporium-db
-> Nightly GitHub metadata sync powering reporium.com — currently tracking **{total:,} repos** across {len(index.get("categories", {}))} categories.
+> Nightly GitHub metadata sync powering reporium.com — currently tracking **{total:,} repos** across **{len(languages)} languages**.
 
 ## Why This Exists
 
@@ -95,6 +112,10 @@ python -m reporium_db status
 - **reporium-ingestion** reads `pending_enrichment.json` for AI enrichment
 - **reporium-dataset** mirrors `index.json` for public dataset access
 - **reporium-metrics** reads `data/index.json` for platform performance tracking
+
+## Last Run
+
+{last_run_table}
 
 ## Contributing
 
