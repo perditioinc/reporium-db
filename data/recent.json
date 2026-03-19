@@ -1,14 +1,14 @@
 [
   {
-    "nameWithOwner": "perditioinc/reporium-dataset",
-    "name": "reporium-dataset",
-    "description": "Public dataset mirror for reporium.com \u2014 nightly-updated AI dev tool stats from reporium-db.",
+    "nameWithOwner": "perditioinc/reporium-db",
+    "name": "reporium-db",
+    "description": "Nightly GitHub metadata sync \u2014 powers reporium.com. Supports 100K repos via GraphQL tiers, checkpointing, and partitioned output.",
     "stars": 1,
     "forks": 0,
     "primaryLanguage": "Python",
-    "pushedAt": "2026-03-19T05:49:12Z",
-    "updatedAt": "2026-03-19T05:49:15Z",
-    "createdAt": "2026-03-18T04:37:54Z",
+    "pushedAt": "2026-03-19T05:59:14Z",
+    "updatedAt": "2026-03-19T05:59:17Z",
+    "createdAt": "2026-03-18T04:35:40Z",
     "isArchived": false,
     "isFork": false,
     "isEmpty": false,
@@ -21,15 +21,15 @@
     "parentForks": null
   },
   {
-    "nameWithOwner": "perditioinc/reporium-db",
-    "name": "reporium-db",
-    "description": "Nightly GitHub metadata sync \u2014 powers reporium.com. Supports 100K repos via GraphQL tiers, checkpointing, and partitioned output.",
+    "nameWithOwner": "perditioinc/reporium-dataset",
+    "name": "reporium-dataset",
+    "description": "Public dataset mirror for reporium.com \u2014 nightly-updated AI dev tool stats from reporium-db.",
     "stars": 1,
     "forks": 0,
     "primaryLanguage": "Python",
-    "pushedAt": "2026-03-19T05:47:32Z",
-    "updatedAt": "2026-03-19T05:47:35Z",
-    "createdAt": "2026-03-18T04:35:40Z",
+    "pushedAt": "2026-03-19T05:49:12Z",
+    "updatedAt": "2026-03-19T05:49:15Z",
+    "createdAt": "2026-03-18T04:37:54Z",
     "isArchived": false,
     "isFork": false,
     "isEmpty": false,
@@ -166,7 +166,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/NemoClaw",
-    "parentStars": 9304,
+    "parentStars": 9310,
     "parentForks": 949
   },
   {
@@ -649,7 +649,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "garrytan/gstack",
-    "parentStars": 24826,
+    "parentStars": 24829,
     "parentForks": 2948
   },
   {
@@ -1552,7 +1552,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "TheAlgorithms/Java",
-    "parentStars": 65235,
+    "parentStars": 65236,
     "parentForks": 21029
   },
   {
@@ -1573,7 +1573,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "ray-project/ray",
-    "parentStars": 41771,
+    "parentStars": 41772,
     "parentForks": 7360
   },
   {
@@ -2119,7 +2119,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "QuantConnect/Lean",
-    "parentStars": 17918,
+    "parentStars": 17919,
     "parentForks": 4601
   },
   {
@@ -2203,7 +2203,7 @@
     "openIssues": 0,
     "defaultBranch": "dev",
     "parentRepo": "amnezia-vpn/amnezia-client",
-    "parentStars": 10646,
+    "parentStars": 10647,
     "parentForks": 757
   },
   {
@@ -2434,7 +2434,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "thesysdev/openui",
-    "parentStars": 1957,
+    "parentStars": 1958,
     "parentForks": 150
   },
   {
@@ -2728,7 +2728,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "VoltAgent/awesome-openclaw-skills",
-    "parentStars": 39484,
+    "parentStars": 39485,
     "parentForks": 3784
   },
   {
@@ -2791,7 +2791,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "huggingface/trl",
-    "parentStars": 17707,
+    "parentStars": 17708,
     "parentForks": 2566
   },
   {
@@ -2896,7 +2896,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "ollama/ollama",
-    "parentStars": 165525,
+    "parentStars": 165526,
     "parentForks": 15051
   },
   {
@@ -2917,7 +2917,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "shareAI-lab/learn-claude-code",
-    "parentStars": 32637,
+    "parentStars": 32639,
     "parentForks": 5378
   },
   {
@@ -3043,7 +3043,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "alirezarezvani/claude-skills",
-    "parentStars": 5833,
+    "parentStars": 5835,
     "parentForks": 684
   },
   {
@@ -3106,7 +3106,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "virattt/ai-hedge-fund",
-    "parentStars": 49331,
+    "parentStars": 49332,
     "parentForks": 8579
   },
   {
@@ -3127,7 +3127,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "666ghj/BettaFish",
-    "parentStars": 39489,
+    "parentStars": 39490,
     "parentForks": 7365
   },
   {
@@ -3169,8 +3169,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "obra/superpowers",
-    "parentStars": 96938,
-    "parentForks": 7702
+    "parentStars": 96947,
+    "parentForks": 7703
   },
   {
     "nameWithOwner": "perditioinc/A2UI",
@@ -3190,7 +3190,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google/A2UI",
-    "parentStars": 13391,
+    "parentStars": 13392,
     "parentForks": 1006
   },
   {
@@ -3232,7 +3232,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "fishaudio/fish-speech",
-    "parentStars": 28187,
+    "parentStars": 28188,
     "parentForks": 2352
   },
   {
@@ -3253,8 +3253,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "HKUDS/CLI-Anything",
-    "parentStars": 18804,
-    "parentForks": 1614
+    "parentStars": 18809,
+    "parentForks": 1615
   },
   {
     "nameWithOwner": "perditioinc/reasoning-from-scratch",
@@ -3295,7 +3295,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "D4Vinci/Scrapling",
-    "parentStars": 31107,
+    "parentStars": 31108,
     "parentForks": 2442
   },
   {
@@ -3442,7 +3442,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "alibaba/page-agent",
-    "parentStars": 11467,
+    "parentStars": 11469,
     "parentForks": 868
   },
   {
@@ -3547,7 +3547,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "andrewyng/context-hub",
-    "parentStars": 10321,
+    "parentStars": 10323,
     "parentForks": 904
   },
   {
@@ -3673,7 +3673,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "paperclipai/paperclip",
-    "parentStars": 29246,
+    "parentStars": 29250,
     "parentForks": 3930
   },
   {
@@ -3799,7 +3799,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "openai/openai-agents-python",
-    "parentStars": 20112,
+    "parentStars": 20113,
     "parentForks": 3283
   },
   {
@@ -3841,8 +3841,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "msitarzewski/agency-agents",
-    "parentStars": 54428,
-    "parentForks": 8130
+    "parentStars": 54432,
+    "parentForks": 8131
   },
   {
     "nameWithOwner": "perditioinc/claude-code-best-practice",
@@ -3883,7 +3883,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "karpathy/autoresearch",
-    "parentStars": 42479,
+    "parentStars": 42482,
     "parentForks": 5895
   },
   {
@@ -4051,7 +4051,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "thedotmack/claude-mem",
-    "parentStars": 38199,
+    "parentStars": 38203,
     "parentForks": 2752
   },
   {
@@ -4135,7 +4135,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Lightricks/LTX-2",
-    "parentStars": 4939,
+    "parentStars": 4940,
     "parentForks": 740
   },
   {
@@ -4450,7 +4450,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "GokuMohandas/Made-With-ML",
-    "parentStars": 46854,
+    "parentStars": 46855,
     "parentForks": 7355
   },
   {
@@ -4702,7 +4702,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "tesseract-ocr/tesseract",
-    "parentStars": 72992,
+    "parentStars": 72993,
     "parentForks": 10550
   },
   {
@@ -4744,7 +4744,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "YishenTu/claudian",
-    "parentStars": 4583,
+    "parentStars": 4584,
     "parentForks": 263
   },
   {
@@ -4766,7 +4766,7 @@
     "defaultBranch": "main",
     "parentRepo": "ZhuLinsen/daily_stock_analysis",
     "parentStars": 22917,
-    "parentForks": 23680
+    "parentForks": 23685
   },
   {
     "nameWithOwner": "perditioinc/vite-plus",
@@ -4786,7 +4786,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "voidzero-dev/vite-plus",
-    "parentStars": 2901,
+    "parentStars": 2902,
     "parentForks": 97
   },
   {
@@ -4975,7 +4975,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "abhigyanpatwari/GitNexus",
-    "parentStars": 17610,
+    "parentStars": 17611,
     "parentForks": 2013
   },
   {
@@ -5290,7 +5290,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Crosstalk-Solutions/project-nomad",
-    "parentStars": 2438,
+    "parentStars": 2439,
     "parentForks": 220
   },
   {
@@ -5353,7 +5353,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "open-webui/open-webui",
-    "parentStars": 127778,
+    "parentStars": 127779,
     "parentForks": 18054
   },
   {
@@ -5479,7 +5479,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/TensorRT-LLM",
-    "parentStars": 13139,
+    "parentStars": 13140,
     "parentForks": 2196
   },
   {
@@ -5626,7 +5626,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "qdrant/qdrant",
-    "parentStars": 29652,
+    "parentStars": 29653,
     "parentForks": 2110
   },
   {
@@ -6361,7 +6361,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "MiroMindAI/MiroThinker",
-    "parentStars": 7137,
+    "parentStars": 7138,
     "parentForks": 555
   },
   {
@@ -6382,7 +6382,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "tmux/tmux",
-    "parentStars": 43225,
+    "parentStars": 43227,
     "parentForks": 2499
   },
   {
@@ -6550,7 +6550,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Nagi-ovo/gemini-voyager",
-    "parentStars": 12742,
+    "parentStars": 12743,
     "parentForks": 385
   },
   {
@@ -6949,8 +6949,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "volcengine/OpenViking",
-    "parentStars": 15909,
-    "parentForks": 1080
+    "parentStars": 15910,
+    "parentForks": 1081
   },
   {
     "nameWithOwner": "perditioinc/openclaw",
@@ -6970,8 +6970,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "openclaw/openclaw",
-    "parentStars": 323618,
-    "parentForks": 62374
+    "parentStars": 323625,
+    "parentForks": 62376
   },
   {
     "nameWithOwner": "perditioinc/XNNPACK",
@@ -6992,7 +6992,7 @@
     "defaultBranch": "master",
     "parentRepo": "google/XNNPACK",
     "parentStars": 2277,
-    "parentForks": 465
+    "parentForks": 466
   },
   {
     "nameWithOwner": "perditioinc/LiteRT",
@@ -7054,7 +7054,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NousResearch/hermes-agent",
-    "parentStars": 8923,
+    "parentStars": 8924,
     "parentForks": 1067
   },
   {
@@ -7096,7 +7096,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "HKUDS/RAG-Anything",
-    "parentStars": 14401,
+    "parentStars": 14402,
     "parentForks": 1733
   },
   {
@@ -7201,7 +7201,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "moeru-ai/airi",
-    "parentStars": 34514,
+    "parentStars": 34515,
     "parentForks": 3423
   },
   {
@@ -7265,7 +7265,7 @@
     "defaultBranch": "main",
     "parentRepo": "badlogic/pi-mono",
     "parentStars": 25639,
-    "parentForks": 2709
+    "parentForks": 2710
   },
   {
     "nameWithOwner": "perditioinc/gemma-cookbook",
@@ -7411,7 +7411,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "GoogleCloudPlatform/microservices-demo",
-    "parentStars": 19964,
+    "parentStars": 19963,
     "parentForks": 9649
   },
   {
@@ -7621,7 +7621,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "langchain-ai/deepagents",
-    "parentStars": 15230,
+    "parentStars": 15229,
     "parentForks": 2231
   },
   {
@@ -7663,7 +7663,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "crewAIInc/crewAI",
-    "parentStars": 46509,
+    "parentStars": 46510,
     "parentForks": 6277
   },
   {
@@ -7705,7 +7705,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "vercel-labs/agent-browser",
-    "parentStars": 23455,
+    "parentStars": 23456,
     "parentForks": 1382
   },
   {
@@ -7727,7 +7727,7 @@
     "defaultBranch": "main",
     "parentRepo": "unslothai/unsloth",
     "parentStars": 56096,
-    "parentForks": 4701
+    "parentForks": 4702
   },
   {
     "nameWithOwner": "perditioinc/hindsight",
@@ -7747,7 +7747,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "vectorize-io/hindsight",
-    "parentStars": 4995,
+    "parentStars": 4996,
     "parentForks": 309
   },
   {
