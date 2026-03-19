@@ -23,13 +23,7 @@ def generate_readme(run: SyncRun, index: dict) -> str:
     duration = f"{run.duration_seconds:.1f}s" if run.duration_seconds is not None else "—"
     errors_note = f"\n> **Last run errors:** {', '.join(run.errors)}" if run.errors else ""
 
-    # Scale estimates based on actual run data
-    api_per_100 = (run.api_calls_used / total * 100) if total else 9
-    perf_rows = (
-        f"| {total:,} | {duration} | {run.api_calls_used} API calls |\n"
-        f"| 10,000 | ~{int(api_per_100 * 100 / 60 + 10)}min | ~{int(api_per_100 * 100)} API calls |\n"
-        f"| 100,000 | ~{int(api_per_100 * 1000 / 60 + 60)}min (tiered) | ~{int(api_per_100 * 1000)} API calls |"
-    )
+    perf_rows = f"| {total:,} | {duration} | {run.api_calls_used} API calls |"
 
     last_run_table = f"""\
 | Field | Value |
@@ -105,6 +99,8 @@ python -m reporium_db status
 | Repos | Runtime | API Calls |
 |-------|---------|-----------|
 {perf_rows}
+
+_Scale projections will be added as real data is collected._
 
 ## Platform Fit
 
