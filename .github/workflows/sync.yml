@@ -47,6 +47,9 @@ jobs:
 
       - name: Commit and push
         run: |
-          git add data/ schedule.json pending_enrichment.json LAST_RUN.md README.md
-          git diff --staged --quiet || git commit -m "chore: nightly sync $(date -u +%Y-%m-%d)"
+          BUILD=$(cat BUILD 2>/dev/null || echo "0")
+          BUILD=$((BUILD + 1))
+          echo $BUILD > BUILD
+          git add data/ schedule.json pending_enrichment.json LAST_RUN.md README.md BUILD
+          git diff --staged --quiet || git commit -m "build($BUILD): nightly update $(date -u +%Y-%m-%d)"
           git push
