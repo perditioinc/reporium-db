@@ -1,6 +1,15 @@
 # reporium-db
 
-[![Nightly](https://github.com/perditioinc/reporium-db/actions/workflows/sync.yml/badge.svg)](https://github.com/perditioinc/reporium-db/actions/workflows/sync.yml)
+<!-- perditio-badges-start -->
+[![Tests](https://github.com/perditioinc/reporium-db/actions/workflows/sync.yml/badge.svg)](https://github.com/perditioinc/reporium-db/actions/workflows/sync.yml)
+![Last Commit](https://img.shields.io/github/last-commit/perditioinc/reporium-db)
+![License](https://img.shields.io/github/license/perditioinc/reporium-db)
+![python](https://img.shields.io/badge/python-3.11%2B-3776ab)
+![suite](https://img.shields.io/badge/suite-Reporium-6e40c9)
+![repos tracked](https://img.shields.io/badge/repos%20tracked-826-blue)
+![languages](https://img.shields.io/badge/languages-29-blue)
+![updated](https://img.shields.io/badge/updated-nightly-blue)
+<!-- perditio-badges-end -->
 
 > Nightly GitHub metadata sync powering reporium.com — currently tracking **826 repos** across **29 languages**.
 
