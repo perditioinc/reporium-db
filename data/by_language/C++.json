@@ -59,7 +59,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "alibaba/zvec",
-    "parentStars": 9087,
+    "parentStars": 9089,
     "parentForks": 518
   },
   {
@@ -164,7 +164,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google-ai-edge/LiteRT",
-    "parentStars": 1963,
+    "parentStars": 1965,
     "parentForks": 246
   },
   {
@@ -185,8 +185,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "ggml-org/llama.cpp",
-    "parentStars": 98671,
-    "parentForks": 15643
+    "parentStars": 98680,
+    "parentForks": 15645
   },
   {
     "nameWithOwner": "perditioinc/mediapipe",
@@ -206,7 +206,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "google-ai-edge/mediapipe",
-    "parentStars": 34217,
+    "parentStars": 34219,
     "parentForks": 5852
   },
   {
@@ -248,7 +248,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/terminal",
-    "parentStars": 102269,
+    "parentStars": 102268,
     "parentForks": 9140
   },
   {
@@ -269,7 +269,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "RunanywhereAI/runanywhere-sdks",
-    "parentStars": 10256,
+    "parentStars": 10255,
     "parentForks": 313
   },
   {
@@ -312,7 +312,7 @@
     "defaultBranch": "dev",
     "parentRepo": "amnezia-vpn/amnezia-client",
     "parentStars": 10672,
-    "parentForks": 758
+    "parentForks": 759
   },
   {
     "nameWithOwner": "perditioinc/LichtFeld-Studio",
@@ -332,7 +332,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "MrNeRF/LichtFeld-Studio",
-    "parentStars": 2581,
+    "parentStars": 2582,
     "parentForks": 271
   },
   {
@@ -437,7 +437,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVlabs/GR00T-WholeBodyControl",
-    "parentStars": 1219,
+    "parentStars": 1223,
     "parentForks": 140
   },
   {
@@ -458,7 +458,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "microsoft/WSL",
-    "parentStars": 31465,
+    "parentStars": 31464,
     "parentForks": 1648
   },
   {
@@ -501,7 +501,7 @@
     "defaultBranch": "master",
     "parentRepo": "ggml-org/ggml",
     "parentStars": 14252,
-    "parentForks": 1524
+    "parentForks": 1523
   },
   {
     "nameWithOwner": "perditioinc/ladybird",
@@ -626,7 +626,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/calculator",
-    "parentStars": 30872,
+    "parentStars": 30873,
     "parentForks": 5733
   },
   {
@@ -668,7 +668,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/react-native-windows",
-    "parentStars": 17205,
+    "parentStars": 17206,
     "parentForks": 1193
   },
   {
@@ -689,8 +689,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google/googletest",
-    "parentStars": 38374,
-    "parentForks": 10729
+    "parentStars": 38376,
+    "parentForks": 10730
   },
   {
     "nameWithOwner": "perditioinc/aistreamer",
@@ -878,7 +878,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "tensorflow/tensorflow",
-    "parentStars": 194253,
+    "parentStars": 194256,
     "parentForks": 75259
   },
   {
@@ -983,7 +983,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "jrouwe/JoltPhysics",
-    "parentStars": 9834,
+    "parentStars": 9835,
     "parentForks": 675
   },
   {
@@ -1004,7 +1004,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "brave/brave-core",
-    "parentStars": 3020,
+    "parentStars": 3021,
     "parentForks": 1155
   },
   {
@@ -1025,8 +1025,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "godotengine/godot",
-    "parentStars": 108146,
-    "parentForks": 24721
+    "parentStars": 108154,
+    "parentForks": 24724
   },
   {
     "nameWithOwner": "perditioinc/Marlin",
@@ -1047,7 +1047,7 @@
     "defaultBranch": "bugfix-2.1.x",
     "parentRepo": "MarlinFirmware/Marlin",
     "parentStars": 17328,
-    "parentForks": 19689
+    "parentForks": 19690
   },
   {
     "nameWithOwner": "perditioinc/jellyfin-desktop",
@@ -1067,7 +1067,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "jellyfin/jellyfin-desktop",
-    "parentStars": 5489,
+    "parentStars": 5490,
     "parentForks": 507
   },
   {
@@ -1172,8 +1172,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "78/xiaozhi-esp32",
-    "parentStars": 24934,
-    "parentForks": 5355
+    "parentStars": 24937,
+    "parentForks": 5356
   },
   {
     "nameWithOwner": "perditioinc/stable-diffusion.cpp",
@@ -1194,7 +1194,7 @@
     "defaultBranch": "master",
     "parentRepo": "leejet/stable-diffusion.cpp",
     "parentStars": 5583,
-    "parentForks": 551
+    "parentForks": 550
   },
   {
     "nameWithOwner": "perditioinc/steam_icp",
@@ -1403,7 +1403,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "tesseract-ocr/tesseract",
-    "parentStars": 73008,
-    "parentForks": 10552
+    "parentStars": 73009,
+    "parentForks": 10554
   }
 ]
