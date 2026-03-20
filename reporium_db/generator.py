@@ -39,6 +39,9 @@ def generate_readme(run: SyncRun, index: dict) -> str:
 """
 
     readme = f"""# reporium-db
+
+[![Nightly](https://github.com/perditioinc/reporium-db/actions/workflows/sync.yml/badge.svg)](https://github.com/perditioinc/reporium-db/actions/workflows/sync.yml)
+
 > Nightly GitHub metadata sync powering reporium.com — currently tracking **{total:,} repos** across **{len(languages)} languages**.
 
 ## Why This Exists
