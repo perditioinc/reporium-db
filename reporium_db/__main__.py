@@ -113,6 +113,25 @@ async def _cmd_sync(dry_run: bool) -> None:
             run.updated_repos,
         )
 
+        # Publish event to Pub/Sub (optional)
+        try:
+            from reporium_events import EventType, publish_event
+            await publish_event(
+                event_type=EventType.DB_SYNCED,
+                source="reporium-db",
+                payload={
+                    "repos_tracked": run.total_fetched,
+                    "new_repos": run.new_repos,
+                    "updated_repos": run.updated_repos,
+                    "duration_seconds": run.duration_seconds,
+                    "api_calls": run.api_calls_used,
+                },
+            )
+        except ImportError:
+            logger.debug("reporium-events not installed — skipping event publish")
+        except Exception as exc:
+            logger.warning("Failed to publish db.synced event: %s", exc)
+
     except Exception as exc:
         run.errors.append(str(exc))
         run.completed_at = datetime.now(timezone.utc).isoformat()

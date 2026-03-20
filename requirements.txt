@@ -6,3 +6,4 @@ pytest-asyncio>=0.23
 respx>=0.21
 ruff>=0.4
 pytest-timeout>=0.5
+reporium-events @ git+https://github.com/perditioinc/reporium-events.git
