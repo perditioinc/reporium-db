@@ -1,4 +1,37 @@
 {
-  "generated_at": "2026-03-19T06:01:33.241858+00:00",
-  "repos": []
+  "generated_at": "2026-03-20T05:56:22.776101+00:00",
+  "repos": [
+    {
+      "name_with_owner": "perditioinc/agent-skills",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/clawteam",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/clui-cc",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/code-review-graph",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/copilotkit",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/get-shit-done",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/labclaw",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/pm-operating-os",
+      "reason": "new_repo"
+    }
+  ]
 }

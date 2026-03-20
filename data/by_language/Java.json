@@ -18,7 +18,7 @@
     "defaultBranch": "main",
     "parentRepo": "GoogleCloudPlatform/bank-of-anthos",
     "parentStars": 1305,
-    "parentForks": 793
+    "parentForks": 792
   },
   {
     "nameWithOwner": "perditioinc/Java",
@@ -38,8 +38,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "TheAlgorithms/Java",
-    "parentStars": 65236,
-    "parentForks": 21029
+    "parentStars": 65244,
+    "parentForks": 21035
   },
   {
     "nameWithOwner": "perditioinc/guava",
@@ -59,8 +59,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "google/guava",
-    "parentStars": 51506,
-    "parentForks": 11151
+    "parentStars": 51505,
+    "parentForks": 11150
   },
   {
     "nameWithOwner": "perditioinc/adk-java",
@@ -80,7 +80,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google/adk-java",
-    "parentStars": 1369,
+    "parentStars": 1373,
     "parentForks": 300
   }
 ]

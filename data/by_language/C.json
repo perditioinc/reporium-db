@@ -17,8 +17,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "moonshine-ai/moonshine",
-    "parentStars": 7414,
-    "parentForks": 371
+    "parentStars": 7422,
+    "parentForks": 374
   },
   {
     "nameWithOwner": "perditioinc/XNNPACK",
@@ -38,7 +38,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "google/XNNPACK",
-    "parentStars": 2277,
+    "parentStars": 2278,
     "parentForks": 466
   },
   {
@@ -59,8 +59,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "mozilla-ai/llamafile",
-    "parentStars": 23803,
-    "parentForks": 1275
+    "parentStars": 23834,
+    "parentForks": 1277
   },
   {
     "nameWithOwner": "perditioinc/ImageMagick",
@@ -80,8 +80,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "ImageMagick/ImageMagick",
-    "parentStars": 15954,
-    "parentForks": 1561
+    "parentStars": 15959,
+    "parentForks": 1563
   },
   {
     "nameWithOwner": "perditioinc/systemd",
@@ -101,8 +101,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "systemd/systemd",
-    "parentStars": 15447,
-    "parentForks": 4285
+    "parentStars": 15485,
+    "parentForks": 4308
   },
   {
     "nameWithOwner": "perditioinc/netdata",
@@ -122,8 +122,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "netdata/netdata",
-    "parentStars": 78124,
-    "parentForks": 6388
+    "parentStars": 78153,
+    "parentForks": 6389
   },
   {
     "nameWithOwner": "perditioinc/jq",
@@ -143,8 +143,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "jqlang/jq",
-    "parentStars": 33855,
-    "parentForks": 1712
+    "parentStars": 33888,
+    "parentForks": 1713
   },
   {
     "nameWithOwner": "perditioinc/ish",
@@ -164,8 +164,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "ish-app/ish",
-    "parentStars": 19552,
-    "parentForks": 1303
+    "parentStars": 19558,
+    "parentForks": 1307
   },
   {
     "nameWithOwner": "perditioinc/git",
@@ -185,8 +185,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "git/git",
-    "parentStars": 59765,
-    "parentForks": 27668
+    "parentStars": 59793,
+    "parentForks": 27670
   },
   {
     "nameWithOwner": "perditioinc/termux-x11",
@@ -206,8 +206,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "termux/termux-x11",
-    "parentStars": 3720,
-    "parentForks": 507
+    "parentStars": 3724,
+    "parentForks": 508
   },
   {
     "nameWithOwner": "perditioinc/ESP-Drone",
@@ -227,8 +227,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Circuit-Digest/ESP-Drone",
-    "parentStars": 1996,
-    "parentForks": 328
+    "parentStars": 2000,
+    "parentForks": 330
   },
   {
     "nameWithOwner": "perditioinc/redis",
@@ -248,8 +248,8 @@
     "openIssues": 0,
     "defaultBranch": "unstable",
     "parentRepo": "redis/redis",
-    "parentStars": 73459,
-    "parentForks": 24542
+    "parentStars": 73480,
+    "parentForks": 24552
   },
   {
     "nameWithOwner": "perditioinc/nginx",
@@ -269,8 +269,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "nginx/nginx",
-    "parentStars": 29707,
-    "parentForks": 7819
+    "parentStars": 29729,
+    "parentForks": 7821
   },
   {
     "nameWithOwner": "perditioinc/tmux",
@@ -290,8 +290,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "tmux/tmux",
-    "parentStars": 43227,
-    "parentForks": 2499
+    "parentStars": 43289,
+    "parentForks": 2500
   },
   {
     "nameWithOwner": "perditioinc/proxmark3",
@@ -311,7 +311,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "RfidResearchGroup/proxmark3",
-    "parentStars": 5348,
+    "parentStars": 5353,
     "parentForks": 1287
   },
   {
@@ -332,8 +332,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "TelegramMessenger/MTProxy",
-    "parentStars": 6249,
-    "parentForks": 1040
+    "parentStars": 6278,
+    "parentForks": 1045
   },
   {
     "nameWithOwner": "perditioinc/llama2.c",
@@ -353,8 +353,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "karpathy/llama2.c",
-    "parentStars": 19289,
-    "parentForks": 2467
+    "parentStars": 19293,
+    "parentForks": 2468
   },
   {
     "nameWithOwner": "perditioinc/sioyek",
@@ -374,8 +374,8 @@
     "openIssues": 0,
     "defaultBranch": "development",
     "parentRepo": "ahrm/sioyek",
-    "parentStars": 9247,
-    "parentForks": 321
+    "parentStars": 9252,
+    "parentForks": 324
   },
   {
     "nameWithOwner": "perditioinc/sqlite-vec",
@@ -395,8 +395,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "asg017/sqlite-vec",
-    "parentStars": 7207,
-    "parentForks": 293
+    "parentStars": 7222,
+    "parentForks": 294
   },
   {
     "nameWithOwner": "perditioinc/C",
@@ -416,8 +416,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "TheAlgorithms/C",
-    "parentStars": 21819,
-    "parentForks": 4733
+    "parentStars": 21823,
+    "parentForks": 4734
   },
   {
     "nameWithOwner": "perditioinc/retro",
@@ -438,7 +438,7 @@
     "defaultBranch": "master",
     "parentRepo": "openai/retro",
     "parentStars": 3575,
-    "parentForks": 534
+    "parentForks": 533
   },
   {
     "nameWithOwner": "perditioinc/open-gpu-kernel-modules",
@@ -458,8 +458,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/open-gpu-kernel-modules",
-    "parentStars": 16815,
-    "parentForks": 1627
+    "parentStars": 16818,
+    "parentForks": 1629
   },
   {
     "nameWithOwner": "perditioinc/cuda-samples",
@@ -479,7 +479,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "NVIDIA/cuda-samples",
-    "parentStars": 8977,
+    "parentStars": 8979,
     "parentForks": 2301
   },
   {
@@ -500,7 +500,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "arthenica/ffmpeg-kit",
-    "parentStars": 5777,
+    "parentStars": 5778,
     "parentForks": 2462
   },
   {
@@ -521,8 +521,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NawfalMotii79/PLFM_RADAR",
-    "parentStars": 3349,
-    "parentForks": 695
+    "parentStars": 3411,
+    "parentForks": 709
   },
   {
     "nameWithOwner": "perditioinc/betaflight",
@@ -542,8 +542,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "betaflight/betaflight",
-    "parentStars": 10721,
-    "parentForks": 3653
+    "parentStars": 10727,
+    "parentForks": 3657
   },
   {
     "nameWithOwner": "perditioinc/dune3d",
@@ -563,8 +563,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "dune3d/dune3d",
-    "parentStars": 1569,
-    "parentForks": 67
+    "parentStars": 1576,
+    "parentForks": 68
   },
   {
     "nameWithOwner": "perditioinc/fontforge",
@@ -585,7 +585,7 @@
     "defaultBranch": "master",
     "parentRepo": "fontforge/fontforge",
     "parentStars": 7601,
-    "parentForks": 774
+    "parentForks": 775
   },
   {
     "nameWithOwner": "perditioinc/Luma3DS",
@@ -605,7 +605,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "LumaTeam/Luma3DS",
-    "parentStars": 6282,
+    "parentStars": 6281,
     "parentForks": 610
   },
   {

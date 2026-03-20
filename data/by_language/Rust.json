@@ -17,8 +17,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "openai/codex",
-    "parentStars": 66214,
-    "parentForks": 8834
+    "parentStars": 66440,
+    "parentForks": 8872
   },
   {
     "nameWithOwner": "perditioinc/edgequake",
@@ -38,8 +38,8 @@
     "openIssues": 0,
     "defaultBranch": "edgequake-main",
     "parentRepo": "raphaelmansuy/edgequake",
-    "parentStars": 1475,
-    "parentForks": 153
+    "parentStars": 1479,
+    "parentForks": 154
   },
   {
     "nameWithOwner": "perditioinc/zeroclaw",
@@ -59,8 +59,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "zeroclaw-labs/zeroclaw",
-    "parentStars": 27915,
-    "parentForks": 3758
+    "parentStars": 28069,
+    "parentForks": 3800
   },
   {
     "nameWithOwner": "perditioinc/openfang",
@@ -80,8 +80,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "RightNow-AI/openfang",
-    "parentStars": 14928,
-    "parentForks": 1778
+    "parentStars": 15024,
+    "parentForks": 1795
   },
   {
     "nameWithOwner": "perditioinc/ffflow",
@@ -122,8 +122,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "AlexsJones/llmfit",
-    "parentStars": 17835,
-    "parentForks": 1015
+    "parentStars": 18028,
+    "parentForks": 1031
   },
   {
     "nameWithOwner": "perditioinc/agent-browser",
@@ -143,8 +143,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "vercel-labs/agent-browser",
-    "parentStars": 23456,
-    "parentForks": 1382
+    "parentStars": 23691,
+    "parentForks": 1400
   },
   {
     "nameWithOwner": "perditioinc/RuView",
@@ -164,8 +164,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "ruvnet/RuView",
-    "parentStars": 38149,
-    "parentForks": 5220
+    "parentStars": 38389,
+    "parentForks": 5248
   },
   {
     "nameWithOwner": "perditioinc/chroma",
@@ -185,8 +185,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "chroma-core/chroma",
-    "parentStars": 26712,
-    "parentForks": 2137
+    "parentStars": 26733,
+    "parentForks": 2140
   },
   {
     "nameWithOwner": "perditioinc/qdrant",
@@ -206,8 +206,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "qdrant/qdrant",
-    "parentStars": 29653,
-    "parentForks": 2110
+    "parentStars": 29700,
+    "parentForks": 2113
   },
   {
     "nameWithOwner": "perditioinc/shellfirm",
@@ -227,7 +227,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "kaplanelad/shellfirm",
-    "parentStars": 883,
+    "parentStars": 884,
     "parentForks": 30
   },
   {
@@ -248,7 +248,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "TheAlgorithms/Rust",
-    "parentStars": 25584,
+    "parentStars": 25587,
     "parentForks": 2541
   },
   {
@@ -269,8 +269,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "anthropics/claudes-c-compiler",
-    "parentStars": 2545,
-    "parentForks": 195
+    "parentStars": 2551,
+    "parentForks": 197
   },
   {
     "nameWithOwner": "perditioinc/harmony",
@@ -290,7 +290,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "openai/harmony",
-    "parentStars": 4235,
+    "parentStars": 4236,
     "parentForks": 262
   },
   {
@@ -311,7 +311,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "voidzero-dev/vite-plus",
-    "parentStars": 2902,
-    "parentForks": 97
+    "parentStars": 3034,
+    "parentForks": 106
   }
 ]

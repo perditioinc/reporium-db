@@ -1,20 +1,20 @@
 {
   "meta": {
-    "total": 818,
-    "last_updated": "2026-03-19T06:01:33.242380+00:00",
+    "total": 826,
+    "last_updated": "2026-03-20T05:56:22.776655+00:00",
     "version": "1.0.0"
   },
   "categories": {
     "tooling": 1
   },
   "languages": {
-    "Python": 314,
-    "TypeScript": 112,
+    "Python": 317,
+    "TypeScript": 114,
     "Jupyter Notebook": 87,
     "C++": 67,
     "Go": 37,
     "C": 30,
-    "JavaScript": 27,
+    "JavaScript": 29,
     "C#": 21,
     "Rust": 15,
     "Shell": 8,
