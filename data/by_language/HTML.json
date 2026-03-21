@@ -17,7 +17,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "aishwaryanr/awesome-generative-ai-guide",
-    "parentStars": 25417,
+    "parentStars": 25431,
     "parentForks": 5371
   },
   {
@@ -59,8 +59,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "shanraisshan/claude-code-best-practice",
-    "parentStars": 19119,
-    "parentForks": 1671
+    "parentStars": 19568,
+    "parentForks": 1706
   },
   {
     "nameWithOwner": "perditioinc/ai-engineering-field-guide",
@@ -80,8 +80,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "alexeygrigorev/ai-engineering-field-guide",
-    "parentStars": 1398,
-    "parentForks": 153
+    "parentStars": 1495,
+    "parentForks": 161
   },
   {
     "nameWithOwner": "perditioinc/awesome-creative-coding",
@@ -101,8 +101,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "terkelg/awesome-creative-coding",
-    "parentStars": 14591,
-    "parentForks": 930
+    "parentStars": 14594,
+    "parentForks": 931
   },
   {
     "nameWithOwner": "perditioinc/garak",
@@ -122,7 +122,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/garak",
-    "parentStars": 7302,
+    "parentStars": 7312,
     "parentForks": 833
   },
   {
@@ -143,8 +143,8 @@
     "openIssues": 0,
     "defaultBranch": "gh-pages",
     "parentRepo": "google/styleguide",
-    "parentStars": 39113,
-    "parentForks": 13000
+    "parentStars": 39114,
+    "parentForks": 12999
   },
   {
     "nameWithOwner": "perditioinc/gpt-5-coding-examples",
@@ -165,6 +165,6 @@
     "defaultBranch": "main",
     "parentRepo": "openai/gpt-5-coding-examples",
     "parentStars": 1856,
-    "parentForks": 281
+    "parentForks": 282
   }
 ]

@@ -1,14 +1,8 @@
 # reporium-db
 
-<!-- perditio-badges-start -->
-[![Tests](https://github.com/perditioinc/reporium-db/actions/workflows/test.yml/badge.svg)](https://github.com/perditioinc/reporium-db/actions/workflows/test.yml)
 [![Nightly](https://github.com/perditioinc/reporium-db/actions/workflows/sync.yml/badge.svg)](https://github.com/perditioinc/reporium-db/actions/workflows/sync.yml)
-![Last Commit](https://img.shields.io/github/last-commit/perditioinc/reporium-db)
-![python](https://img.shields.io/badge/python-3.11%2B-3776ab)
-![suite](https://img.shields.io/badge/suite-Reporium-6e40c9)
-<!-- perditio-badges-end -->
 
-> Nightly GitHub metadata sync powering reporium.com — currently tracking **826 repos** across **29 languages**.
+> Nightly GitHub metadata sync powering reporium.com — currently tracking **831 repos** across **29 languages**.
 
 ## Why This Exists
 
@@ -67,7 +61,7 @@ python -m reporium_db status
 
 | Repos | Runtime | API Calls |
 |-------|---------|-----------|
-| 826 | 127.1s | 9 API calls |
+| 831 | 82.6s | 9 API calls |
 
 _Scale projections will be added as real data is collected._
 
@@ -82,12 +76,12 @@ _Scale projections will be added as real data is collected._
 
 | Field | Value |
 |-------|-------|
-| Duration | 127.1s |
-| Repos fetched | 826 |
-| New repos | 0 |
+| Duration | 82.6s |
+| Repos fetched | 831 |
+| New repos | 6 |
 | Updated repos | 0 |
 | API calls used | 9 |
-| Rate limit remaining | 4,876 |
+| Rate limit remaining | 4,980 |
 | Schedule tiers | nightly · weekly · monthly |
 | Checkpoint resumed | No |
 
@@ -101,4 +95,4 @@ MIT
 
 
 ---
-*Last updated: 2026-03-20T07:09:18.337868+00:00 | 826 repos tracked*
+*Last updated: 2026-03-21T05:44:30.671884+00:00 | 831 repos tracked*

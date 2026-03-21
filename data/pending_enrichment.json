@@ -1,4 +1,29 @@
 {
-  "generated_at": "2026-03-20T07:09:18.337286+00:00",
-  "repos": []
+  "generated_at": "2026-03-21T05:44:30.671387+00:00",
+  "repos": [
+    {
+      "name_with_owner": "perditioinc/perditio-devkit",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/reporium-audit",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/reporium-events",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/reporium-scoring",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/reporium-security",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/reporium-system-design",
+      "reason": "new_repo"
+    }
+  ]
 }

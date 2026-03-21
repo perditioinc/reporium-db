@@ -17,7 +17,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google/adk-go",
-    "parentStars": 7202,
+    "parentStars": 7205,
     "parentForks": 585
   },
   {
@@ -39,7 +39,7 @@
     "defaultBranch": "main",
     "parentRepo": "github/gh-aw",
     "parentStars": 4146,
-    "parentForks": 302
+    "parentForks": 307
   },
   {
     "nameWithOwner": "perditioinc/picoclaw",
@@ -59,8 +59,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "sipeed/picoclaw",
-    "parentStars": 25540,
-    "parentForks": 3502
+    "parentStars": 25645,
+    "parentForks": 3531
   },
   {
     "nameWithOwner": "perditioinc/flyte",
@@ -80,7 +80,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "flyteorg/flyte",
-    "parentStars": 6893,
+    "parentStars": 6896,
     "parentForks": 800
   },
   {
@@ -101,8 +101,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "googleapis/genai-toolbox",
-    "parentStars": 13472,
-    "parentForks": 1274
+    "parentStars": 13480,
+    "parentForks": 1275
   },
   {
     "nameWithOwner": "perditioinc/pinchtab",
@@ -122,8 +122,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "pinchtab/pinchtab",
-    "parentStars": 7985,
-    "parentForks": 596
+    "parentStars": 8025,
+    "parentForks": 597
   },
   {
     "nameWithOwner": "perditioinc/plandex",
@@ -143,7 +143,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "plandex-ai/plandex",
-    "parentStars": 15112,
+    "parentStars": 15114,
     "parentForks": 1103
   },
   {
@@ -164,8 +164,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "ollama/ollama",
-    "parentStars": 165635,
-    "parentForks": 15068
+    "parentStars": 165720,
+    "parentForks": 15085
   },
   {
     "nameWithOwner": "perditioinc/dolt",
@@ -185,8 +185,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "dolthub/dolt",
-    "parentStars": 21522,
-    "parentForks": 701
+    "parentStars": 21541,
+    "parentForks": 702
   },
   {
     "nameWithOwner": "perditioinc/milvus",
@@ -206,8 +206,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "milvus-io/milvus",
-    "parentStars": 43407,
-    "parentForks": 3905
+    "parentStars": 43423,
+    "parentForks": 3909
   },
   {
     "nameWithOwner": "perditioinc/weaviate",
@@ -227,7 +227,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "weaviate/weaviate",
-    "parentStars": 15834,
+    "parentStars": 15840,
     "parentForks": 1227
   },
   {
@@ -248,8 +248,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "maximhq/bifrost",
-    "parentStars": 3045,
-    "parentForks": 326
+    "parentStars": 3060,
+    "parentForks": 328
   },
   {
     "nameWithOwner": "perditioinc/kuberay",
@@ -269,7 +269,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "ray-project/kuberay",
-    "parentStars": 2385,
+    "parentStars": 2387,
     "parentForks": 723
   },
   {
@@ -290,8 +290,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "GoogleCloudPlatform/microservices-demo",
-    "parentStars": 19972,
-    "parentForks": 9653
+    "parentStars": 19978,
+    "parentForks": 9655
   },
   {
     "nameWithOwner": "perditioinc/terraformer",
@@ -311,8 +311,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "GoogleCloudPlatform/terraformer",
-    "parentStars": 14521,
-    "parentForks": 1820
+    "parentStars": 14523,
+    "parentForks": 1821
   },
   {
     "nameWithOwner": "perditioinc/kubectl-ai",
@@ -332,8 +332,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "GoogleCloudPlatform/kubectl-ai",
-    "parentStars": 7365,
-    "parentForks": 686
+    "parentStars": 7369,
+    "parentForks": 687
   },
   {
     "nameWithOwner": "perditioinc/golang-samples",
@@ -458,7 +458,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "TheAlgorithms/Go",
-    "parentStars": 17889,
+    "parentStars": 17888,
     "parentForks": 2792
   },
   {
@@ -479,7 +479,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google/generative-ai-go",
-    "parentStars": 853,
+    "parentStars": 854,
     "parentForks": 99
   },
   {
@@ -500,7 +500,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "openai/openai-go",
-    "parentStars": 3070,
+    "parentStars": 3071,
     "parentForks": 284
   },
   {
@@ -521,7 +521,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/aistore",
-    "parentStars": 1789,
+    "parentStars": 1790,
     "parentForks": 243
   },
   {
@@ -542,8 +542,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/nvidia-container-toolkit",
-    "parentStars": 4168,
-    "parentForks": 494
+    "parentStars": 4173,
+    "parentForks": 495
   },
   {
     "nameWithOwner": "perditioinc/navidrome",
@@ -563,8 +563,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "navidrome/navidrome",
-    "parentStars": 19952,
-    "parentForks": 1418
+    "parentStars": 19966,
+    "parentForks": 1419
   },
   {
     "nameWithOwner": "perditioinc/hugo",
@@ -584,7 +584,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "gohugoio/hugo",
-    "parentStars": 87160,
+    "parentStars": 87181,
     "parentForks": 8218
   },
   {
@@ -605,8 +605,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "coder/coder",
-    "parentStars": 12587,
-    "parentForks": 1217
+    "parentStars": 12601,
+    "parentForks": 1219
   },
   {
     "nameWithOwner": "perditioinc/pentagi",
@@ -626,8 +626,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "vxcontrol/pentagi",
-    "parentStars": 10117,
-    "parentForks": 1214
+    "parentStars": 10211,
+    "parentForks": 1218
   },
   {
     "nameWithOwner": "perditioinc/Fabric",
@@ -647,8 +647,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "danielmiessler/Fabric",
-    "parentStars": 40036,
-    "parentForks": 4000
+    "parentStars": 40076,
+    "parentForks": 4003
   },
   {
     "nameWithOwner": "perditioinc/katana",
@@ -668,8 +668,8 @@
     "openIssues": 0,
     "defaultBranch": "dev",
     "parentRepo": "projectdiscovery/katana",
-    "parentStars": 16151,
-    "parentForks": 1047
+    "parentStars": 16195,
+    "parentForks": 1055
   },
   {
     "nameWithOwner": "perditioinc/evcc",
@@ -689,8 +689,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "evcc-io/evcc",
-    "parentStars": 6277,
-    "parentForks": 1237
+    "parentStars": 6282,
+    "parentForks": 1238
   },
   {
     "nameWithOwner": "perditioinc/nofx",
@@ -710,8 +710,8 @@
     "openIssues": 0,
     "defaultBranch": "dev",
     "parentRepo": "NoFxAiOS/nofx",
-    "parentStars": 10980,
-    "parentForks": 2837
+    "parentStars": 10985,
+    "parentForks": 2840
   },
   {
     "nameWithOwner": "perditioinc/uncloud",
@@ -731,7 +731,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "psviderski/uncloud",
-    "parentStars": 4920,
+    "parentStars": 4923,
     "parentForks": 142
   },
   {
@@ -752,8 +752,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "mudler/LocalAI",
-    "parentStars": 44063,
-    "parentForks": 3759
+    "parentStars": 44127,
+    "parentForks": 3762
   },
   {
     "nameWithOwner": "perditioinc/container-use",
@@ -773,7 +773,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "dagger/container-use",
-    "parentStars": 3649,
-    "parentForks": 178
+    "parentStars": 3653,
+    "parentForks": 180
   }
 ]

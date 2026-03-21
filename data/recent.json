@@ -1,13 +1,181 @@
 [
   {
+    "nameWithOwner": "perditioinc/reporium-ingestion",
+    "name": "reporium-ingestion",
+    "description": "Local data ingestion and analysis scripts for Reporium : fetch, process, and generate embeddings for repositories, communicating with Reporium API. AI-native analysis, embeddings, scraping, tagging. Pushes updates to API. Standalone and private by default.",
+    "stars": 1,
+    "forks": 0,
+    "primaryLanguage": "Python",
+    "pushedAt": "2026-03-21T05:24:38Z",
+    "updatedAt": "2026-03-21T05:24:41Z",
+    "createdAt": "2026-03-14T10:40:24Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
+    "nameWithOwner": "perditioinc/reporium-api",
+    "name": "reporium-api",
+    "description": "Backend API for Reporium : read/write access to repository database, designed for public queries and private ingestion updates. Gatekeeper API that talks to the database, handles authorized writes, serves data to clients/frontends. Public-facing, but writes are only authorized.",
+    "stars": 1,
+    "forks": 0,
+    "primaryLanguage": "Python",
+    "pushedAt": "2026-03-21T05:04:00Z",
+    "updatedAt": "2026-03-21T05:04:03Z",
+    "createdAt": "2026-03-14T10:33:51Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
+    "nameWithOwner": "perditioinc/portfolio",
+    "name": "portfolio",
+    "description": "Portfolio of AI discovery tools, developer tooling, and automation systems built by Kim Loza",
+    "stars": 1,
+    "forks": 0,
+    "primaryLanguage": "Python",
+    "pushedAt": "2026-03-21T01:39:54Z",
+    "updatedAt": "2026-03-21T01:39:57Z",
+    "createdAt": "2026-03-17T00:41:10Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 1,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
+    "nameWithOwner": "perditioinc/perditio-devkit",
+    "name": "perditio-devkit",
+    "description": "Shared tooling for Perditio projects \u2014 badges, GitHub client, file utilities",
+    "stars": 1,
+    "forks": 0,
+    "primaryLanguage": "Python",
+    "pushedAt": "2026-03-21T01:24:45Z",
+    "updatedAt": "2026-03-21T01:24:48Z",
+    "createdAt": "2026-03-20T07:29:26Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
+    "nameWithOwner": "perditioinc/reporium-system-design",
+    "name": "reporium-system-design",
+    "description": "Architecture decisions, tradeoffs, CAP theorem analysis, and diagrams for the Reporium platform",
+    "stars": 1,
+    "forks": 0,
+    "primaryLanguage": "Python",
+    "pushedAt": "2026-03-21T01:23:18Z",
+    "updatedAt": "2026-03-21T01:23:21Z",
+    "createdAt": "2026-03-20T19:56:01Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
+    "nameWithOwner": "perditioinc/reporium-security",
+    "name": "reporium-security",
+    "description": "Automated security scanning for the Reporium suite \u2014 grades every public repo A through F nightly",
+    "stars": 1,
+    "forks": 0,
+    "primaryLanguage": "Python",
+    "pushedAt": "2026-03-21T01:23:17Z",
+    "updatedAt": "2026-03-21T01:23:20Z",
+    "createdAt": "2026-03-20T19:56:21Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
+    "nameWithOwner": "perditioinc/reporium-events",
+    "name": "reporium-events",
+    "description": "Event schema definitions and Python publisher client for Reporium platform \u2014 GCP Pub/Sub",
+    "stars": 1,
+    "forks": 0,
+    "primaryLanguage": "Python",
+    "pushedAt": "2026-03-21T01:23:15Z",
+    "updatedAt": "2026-03-21T01:23:18Z",
+    "createdAt": "2026-03-20T07:32:57Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
+    "nameWithOwner": "perditioinc/reporium-scoring",
+    "name": "reporium-scoring",
+    "description": "Score any GitHub repo 0-100 for the Reporium platform \u2014 README quality, activity, community health, CI/CD",
+    "stars": 1,
+    "forks": 0,
+    "primaryLanguage": "Python",
+    "pushedAt": "2026-03-21T01:23:12Z",
+    "updatedAt": "2026-03-21T01:23:16Z",
+    "createdAt": "2026-03-18T04:54:08Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
     "nameWithOwner": "perditioinc/reporium-metrics",
     "name": "reporium-metrics",
     "description": "Platform performance tracking over time \u2014 ASCII trend charts, nightly collection.",
     "stars": 1,
     "forks": 0,
     "primaryLanguage": "Python",
-    "pushedAt": "2026-03-20T07:07:21Z",
-    "updatedAt": "2026-03-20T07:07:24Z",
+    "pushedAt": "2026-03-21T01:23:11Z",
+    "updatedAt": "2026-03-21T01:23:14Z",
     "createdAt": "2026-03-18T04:48:28Z",
     "isArchived": false,
     "isFork": false,
@@ -27,8 +195,8 @@
     "stars": 1,
     "forks": 0,
     "primaryLanguage": "Python",
-    "pushedAt": "2026-03-20T07:07:19Z",
-    "updatedAt": "2026-03-20T07:07:22Z",
+    "pushedAt": "2026-03-21T01:23:09Z",
+    "updatedAt": "2026-03-21T01:23:13Z",
     "createdAt": "2026-03-18T04:44:11Z",
     "isArchived": false,
     "isFork": false,
@@ -42,15 +210,57 @@
     "parentForks": null
   },
   {
-    "nameWithOwner": "perditioinc/portfolio",
-    "name": "portfolio",
-    "description": "Portfolio of AI discovery tools, developer tooling, and automation systems built by Kim Loza",
+    "nameWithOwner": "perditioinc/reporium-dataset",
+    "name": "reporium-dataset",
+    "description": "Public dataset mirror for reporium.com \u2014 nightly-updated AI dev tool stats from reporium-db.",
     "stars": 1,
     "forks": 0,
     "primaryLanguage": "Python",
-    "pushedAt": "2026-03-20T07:07:16Z",
-    "updatedAt": "2026-03-20T07:07:19Z",
-    "createdAt": "2026-03-17T00:41:10Z",
+    "pushedAt": "2026-03-21T01:23:07Z",
+    "updatedAt": "2026-03-21T01:23:10Z",
+    "createdAt": "2026-03-18T04:37:54Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
+    "nameWithOwner": "perditioinc/reporium-db",
+    "name": "reporium-db",
+    "description": "Nightly GitHub metadata sync \u2014 powers reporium.com. Supports 100K repos via GraphQL tiers, checkpointing, and partitioned output.",
+    "stars": 1,
+    "forks": 0,
+    "primaryLanguage": "Python",
+    "pushedAt": "2026-03-21T01:23:05Z",
+    "updatedAt": "2026-03-21T01:23:08Z",
+    "createdAt": "2026-03-18T04:35:40Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
+    "nameWithOwner": "perditioinc/reporium-audit",
+    "name": "reporium-audit",
+    "description": "Nightly automated audit of the entire Reporium platform \u2014 verified health checks",
+    "stars": 1,
+    "forks": 0,
+    "primaryLanguage": "Python",
+    "pushedAt": "2026-03-20T20:07:11Z",
+    "updatedAt": "2026-03-20T20:07:14Z",
+    "createdAt": "2026-03-20T07:35:42Z",
     "isArchived": false,
     "isFork": false,
     "isEmpty": false,
@@ -69,8 +279,8 @@
     "stars": 1,
     "forks": 0,
     "primaryLanguage": "Python",
-    "pushedAt": "2026-03-20T07:05:38Z",
-    "updatedAt": "2026-03-20T07:05:41Z",
+    "pushedAt": "2026-03-20T20:07:00Z",
+    "updatedAt": "2026-03-20T20:07:03Z",
     "createdAt": "2026-03-17T00:28:27Z",
     "isArchived": false,
     "isFork": false,
@@ -78,48 +288,6 @@
     "topics": [
       "tooling"
     ],
-    "licenseName": null,
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": null,
-    "parentStars": null,
-    "parentForks": null
-  },
-  {
-    "nameWithOwner": "perditioinc/reporium-dataset",
-    "name": "reporium-dataset",
-    "description": "Public dataset mirror for reporium.com \u2014 nightly-updated AI dev tool stats from reporium-db.",
-    "stars": 1,
-    "forks": 0,
-    "primaryLanguage": "Python",
-    "pushedAt": "2026-03-20T07:03:30Z",
-    "updatedAt": "2026-03-20T07:03:34Z",
-    "createdAt": "2026-03-18T04:37:54Z",
-    "isArchived": false,
-    "isFork": false,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": null,
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": null,
-    "parentStars": null,
-    "parentForks": null
-  },
-  {
-    "nameWithOwner": "perditioinc/reporium-api",
-    "name": "reporium-api",
-    "description": "Backend API for Reporium : read/write access to repository database, designed for public queries and private ingestion updates. Gatekeeper API that talks to the database, handles authorized writes, serves data to clients/frontends. Public-facing, but writes are only authorized.",
-    "stars": 1,
-    "forks": 0,
-    "primaryLanguage": "Python",
-    "pushedAt": "2026-03-20T07:02:21Z",
-    "updatedAt": "2026-03-20T07:02:25Z",
-    "createdAt": "2026-03-14T10:33:51Z",
-    "isArchived": false,
-    "isFork": false,
-    "isEmpty": false,
-    "topics": [],
     "licenseName": null,
     "openIssues": 0,
     "defaultBranch": "main",
@@ -149,27 +317,6 @@
     "parentForks": null
   },
   {
-    "nameWithOwner": "perditioinc/reporium-db",
-    "name": "reporium-db",
-    "description": "Nightly GitHub metadata sync \u2014 powers reporium.com. Supports 100K repos via GraphQL tiers, checkpointing, and partitioned output.",
-    "stars": 1,
-    "forks": 0,
-    "primaryLanguage": "Python",
-    "pushedAt": "2026-03-20T05:56:23Z",
-    "updatedAt": "2026-03-20T05:56:26Z",
-    "createdAt": "2026-03-18T04:35:40Z",
-    "isArchived": false,
-    "isFork": false,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": null,
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": null,
-    "parentStars": null,
-    "parentForks": null
-  },
-  {
     "nameWithOwner": "perditioinc/agent-skills",
     "name": "agent-skills",
     "description": "Collection of Apify Agent Skills",
@@ -187,7 +334,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "apify/agent-skills",
-    "parentStars": 1691,
+    "parentStars": 1695,
     "parentForks": 179
   },
   {
@@ -208,8 +355,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "CopilotKit/CopilotKit",
-    "parentStars": 29591,
-    "parentForks": 3839
+    "parentStars": 29617,
+    "parentForks": 3844
   },
   {
     "nameWithOwner": "perditioinc/clawteam",
@@ -229,29 +376,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "HKUDS/ClawTeam",
-    "parentStars": 1780,
-    "parentForks": 216
-  },
-  {
-    "nameWithOwner": "perditioinc/repo-intelligence",
-    "name": "repo-intelligence",
-    "description": "Score any GitHub repo 0-100 \u2014 README, activity, community, CI. Pip-installable.",
-    "stars": 1,
-    "forks": 0,
-    "primaryLanguage": "Python",
-    "pushedAt": "2026-03-19T06:53:39Z",
-    "updatedAt": "2026-03-19T06:53:41Z",
-    "createdAt": "2026-03-18T04:54:08Z",
-    "isArchived": false,
-    "isFork": false,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": null,
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": null,
-    "parentStars": null,
-    "parentForks": null
+    "parentStars": 2175,
+    "parentForks": 271
   },
   {
     "nameWithOwner": "perditioinc/labclaw",
@@ -271,29 +397,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "wu-yc/LabClaw",
-    "parentStars": 801,
-    "parentForks": 119
-  },
-  {
-    "nameWithOwner": "perditioinc/reporium-ingestion",
-    "name": "reporium-ingestion",
-    "description": "Local data ingestion and analysis scripts for Reporium : fetch, process, and generate embeddings for repositories, communicating with Reporium API. AI-native analysis, embeddings, scraping, tagging. Pushes updates to API. Standalone and private by default.",
-    "stars": 1,
-    "forks": 0,
-    "primaryLanguage": "Python",
-    "pushedAt": "2026-03-19T06:36:04Z",
-    "updatedAt": "2026-03-16T09:29:09Z",
-    "createdAt": "2026-03-14T10:40:24Z",
-    "isArchived": false,
-    "isFork": false,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": null,
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": null,
-    "parentStars": null,
-    "parentForks": null
+    "parentStars": 816,
+    "parentForks": 118
   },
   {
     "nameWithOwner": "perditioinc/get-shit-done",
@@ -313,8 +418,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "gsd-build/get-shit-done",
-    "parentStars": 36505,
-    "parentForks": 2980
+    "parentStars": 37341,
+    "parentForks": 3028
   },
   {
     "nameWithOwner": "perditioinc/NemoClaw",
@@ -334,8 +439,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/NemoClaw",
-    "parentStars": 13378,
-    "parentForks": 1280
+    "parentStars": 14429,
+    "parentForks": 1394
   },
   {
     "nameWithOwner": "perditioinc/clui-cc",
@@ -355,8 +460,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "lcoutodemos/clui-cc",
-    "parentStars": 848,
-    "parentForks": 110
+    "parentStars": 929,
+    "parentForks": 121
   },
   {
     "nameWithOwner": "perditioinc/pm-operating-os",
@@ -376,8 +481,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Sach1ng/PM-operating-OS",
-    "parentStars": 56,
-    "parentForks": 27
+    "parentStars": 69,
+    "parentForks": 29
   },
   {
     "nameWithOwner": "perditioinc/colab-mcp",
@@ -397,8 +502,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "googlecolab/colab-mcp",
-    "parentStars": 286,
-    "parentForks": 36
+    "parentStars": 308,
+    "parentForks": 38
   },
   {
     "nameWithOwner": "perditioinc/code-review-graph",
@@ -418,8 +523,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "tirth8205/code-review-graph",
-    "parentStars": 1889,
-    "parentForks": 166
+    "parentStars": 2158,
+    "parentForks": 196
   },
   {
     "nameWithOwner": "perditioinc/generative-ai",
@@ -439,7 +544,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "GoogleCloudPlatform/generative-ai",
-    "parentStars": 16358,
+    "parentStars": 16398,
     "parentForks": 4079
   },
   {
@@ -461,7 +566,7 @@
     "defaultBranch": "main",
     "parentRepo": "directus/directus",
     "parentStars": 34529,
-    "parentForks": 4643
+    "parentForks": 4639
   },
   {
     "nameWithOwner": "perditioinc/langflow",
@@ -481,8 +586,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "langflow-ai/langflow",
-    "parentStars": 145929,
-    "parentForks": 8616
+    "parentStars": 145966,
+    "parentForks": 8623
   },
   {
     "nameWithOwner": "perditioinc/coder",
@@ -502,8 +607,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "coder/coder",
-    "parentStars": 12587,
-    "parentForks": 1217
+    "parentStars": 12601,
+    "parentForks": 1219
   },
   {
     "nameWithOwner": "perditioinc/pentagi",
@@ -523,8 +628,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "vxcontrol/pentagi",
-    "parentStars": 10117,
-    "parentForks": 1214
+    "parentStars": 10211,
+    "parentForks": 1218
   },
   {
     "nameWithOwner": "perditioinc/LocalAI",
@@ -544,8 +649,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "mudler/LocalAI",
-    "parentStars": 44063,
-    "parentForks": 3759
+    "parentStars": 44127,
+    "parentForks": 3762
   },
   {
     "nameWithOwner": "perditioinc/handson-mlp",
@@ -565,8 +670,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "ageron/handson-mlp",
-    "parentStars": 1189,
-    "parentForks": 413
+    "parentStars": 1192,
+    "parentForks": 412
   },
   {
     "nameWithOwner": "perditioinc/edit",
@@ -586,8 +691,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "fmhy/edit",
-    "parentStars": 8599,
-    "parentForks": 2317
+    "parentStars": 8616,
+    "parentForks": 2318
   },
   {
     "nameWithOwner": "perditioinc/jellyfin-web",
@@ -607,7 +712,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "jellyfin/jellyfin-web",
-    "parentStars": 3444,
+    "parentStars": 3446,
     "parentForks": 1868
   },
   {
@@ -628,8 +733,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "navidrome/navidrome",
-    "parentStars": 19952,
-    "parentForks": 1418
+    "parentStars": 19966,
+    "parentForks": 1419
   },
   {
     "nameWithOwner": "perditioinc/brave-core",
@@ -649,8 +754,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "brave/brave-core",
-    "parentStars": 3021,
-    "parentForks": 1155
+    "parentStars": 3024,
+    "parentForks": 1156
   },
   {
     "nameWithOwner": "perditioinc/attention-residuals",
@@ -670,8 +775,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "MoonshotAI/Attention-Residuals",
-    "parentStars": 2063,
-    "parentForks": 92
+    "parentStars": 2286,
+    "parentForks": 99
   },
   {
     "nameWithOwner": "perditioinc/FreeCAD",
@@ -691,8 +796,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "FreeCAD/FreeCAD",
-    "parentStars": 29132,
-    "parentForks": 5280
+    "parentStars": 29150,
+    "parentForks": 5286
   },
   {
     "nameWithOwner": "perditioinc/mongo",
@@ -712,7 +817,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "mongodb/mongo",
-    "parentStars": 28213,
+    "parentStars": 28214,
     "parentForks": 5763
   },
   {
@@ -733,8 +838,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Blaizzy/mlx-audio",
-    "parentStars": 6333,
-    "parentForks": 500
+    "parentStars": 6342,
+    "parentForks": 501
   },
   {
     "nameWithOwner": "perditioinc/JoltPhysics",
@@ -754,8 +859,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "jrouwe/JoltPhysics",
-    "parentStars": 9835,
-    "parentForks": 675
+    "parentStars": 9839,
+    "parentForks": 676
   },
   {
     "nameWithOwner": "perditioinc/plannotator",
@@ -775,8 +880,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "backnotprop/plannotator",
-    "parentStars": 3364,
-    "parentForks": 200
+    "parentStars": 3403,
+    "parentForks": 204
   },
   {
     "nameWithOwner": "perditioinc/openscreen",
@@ -796,8 +901,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "siddharthvaddem/openscreen",
-    "parentStars": 8548,
-    "parentForks": 528
+    "parentStars": 8633,
+    "parentForks": 535
   },
   {
     "nameWithOwner": "perditioinc/ott-platform",
@@ -838,8 +943,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NawfalMotii79/PLFM_RADAR",
-    "parentStars": 3411,
-    "parentForks": 710
+    "parentStars": 3449,
+    "parentForks": 719
   },
   {
     "nameWithOwner": "perditioinc/gstack",
@@ -859,8 +964,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "garrytan/gstack",
-    "parentStars": 29734,
-    "parentForks": 3591
+    "parentStars": 32996,
+    "parentForks": 4005
   },
   {
     "nameWithOwner": "perditioinc/fullstack-solution-template-for-agentcore",
@@ -880,8 +985,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "awslabs/fullstack-solution-template-for-agentcore",
-    "parentStars": 415,
-    "parentForks": 110
+    "parentStars": 420,
+    "parentForks": 112
   },
   {
     "nameWithOwner": "perditioinc/chrome-devtools-mcp",
@@ -901,8 +1006,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "ChromeDevTools/chrome-devtools-mcp",
-    "parentStars": 30398,
-    "parentForks": 1805
+    "parentStars": 30554,
+    "parentForks": 1807
   },
   {
     "nameWithOwner": "perditioinc/nanochat",
@@ -922,8 +1027,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "karpathy/nanochat",
-    "parentStars": 49608,
-    "parentForks": 6499
+    "parentStars": 49748,
+    "parentForks": 6522
   },
   {
     "nameWithOwner": "perditioinc/idea-claude-code-gui",
@@ -943,8 +1048,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "zhukunpenglinyutong/idea-claude-code-gui",
-    "parentStars": 2034,
-    "parentForks": 227
+    "parentStars": 2057,
+    "parentForks": 230
   },
   {
     "nameWithOwner": "perditioinc/scikit-learn",
@@ -964,8 +1069,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "scikit-learn/scikit-learn",
-    "parentStars": 65450,
-    "parentForks": 26824
+    "parentStars": 65461,
+    "parentForks": 26820
   },
   {
     "nameWithOwner": "perditioinc/awesome-machine-learning",
@@ -985,8 +1090,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "josephmisiti/awesome-machine-learning",
-    "parentStars": 72040,
-    "parentForks": 15341
+    "parentStars": 72043,
+    "parentForks": 15342
   },
   {
     "nameWithOwner": "perditioinc/openclaw-vertexai-memorybank",
@@ -1006,7 +1111,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Shubhamsaboo/openclaw-vertexai-memorybank",
-    "parentStars": 119,
+    "parentStars": 120,
     "parentForks": 19
   },
   {
@@ -1027,8 +1132,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "VectifyAI/PageIndex",
-    "parentStars": 22355,
-    "parentForks": 1780
+    "parentStars": 22454,
+    "parentForks": 1789
   },
   {
     "nameWithOwner": "perditioinc/dimos",
@@ -1048,8 +1153,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "dimensionalOS/dimos",
-    "parentStars": 1790,
-    "parentForks": 268
+    "parentStars": 1870,
+    "parentForks": 277
   },
   {
     "nameWithOwner": "perditioinc/transformers",
@@ -1069,8 +1174,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "huggingface/transformers",
-    "parentStars": 158129,
-    "parentForks": 32557
+    "parentStars": 158154,
+    "parentForks": 32554
   },
   {
     "nameWithOwner": "perditioinc/langchain",
@@ -1090,8 +1195,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "langchain-ai/langchain",
-    "parentStars": 130305,
-    "parentForks": 21489
+    "parentStars": 130416,
+    "parentForks": 21494
   },
   {
     "nameWithOwner": "perditioinc/tensorflow",
@@ -1111,8 +1216,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "tensorflow/tensorflow",
-    "parentStars": 194256,
-    "parentForks": 75259
+    "parentStars": 194258,
+    "parentForks": 75247
   },
   {
     "nameWithOwner": "perditioinc/TransformerEngine",
@@ -1132,8 +1237,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/TransformerEngine",
-    "parentStars": 3228,
-    "parentForks": 667
+    "parentStars": 3231,
+    "parentForks": 668
   },
   {
     "nameWithOwner": "perditioinc/cuda-python",
@@ -1153,7 +1258,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/cuda-python",
-    "parentStars": 3190,
+    "parentStars": 3191,
     "parentForks": 259
   },
   {
@@ -1174,8 +1279,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/NeMo-Retriever",
-    "parentStars": 2879,
-    "parentForks": 308
+    "parentStars": 2881,
+    "parentForks": 310
   },
   {
     "nameWithOwner": "perditioinc/CUDALibrarySamples",
@@ -1195,7 +1300,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/CUDALibrarySamples",
-    "parentStars": 2350,
+    "parentStars": 2353,
     "parentForks": 456
   },
   {
@@ -1216,7 +1321,7 @@
     "openIssues": 0,
     "defaultBranch": "develop",
     "parentRepo": "NVIDIA/NeMo-Agent-Toolkit",
-    "parentStars": 2040,
+    "parentStars": 2048,
     "parentForks": 576
   },
   {
@@ -1237,8 +1342,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/Megatron-LM",
-    "parentStars": 15741,
-    "parentForks": 3716
+    "parentStars": 15751,
+    "parentForks": 3725
   },
   {
     "nameWithOwner": "perditioinc/Isaac-GR00T",
@@ -1258,8 +1363,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/Isaac-GR00T",
-    "parentStars": 6460,
-    "parentForks": 1078
+    "parentStars": 6473,
+    "parentForks": 1081
   },
   {
     "nameWithOwner": "perditioinc/DALI",
@@ -1279,7 +1384,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/DALI",
-    "parentStars": 5646,
+    "parentStars": 5647,
     "parentForks": 660
   },
   {
@@ -1300,7 +1405,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "openai/openai-go",
-    "parentStars": 3070,
+    "parentStars": 3071,
     "parentForks": 284
   },
   {
@@ -1321,8 +1426,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "openai/openai-agents-js",
-    "parentStars": 2493,
-    "parentForks": 652
+    "parentStars": 2502,
+    "parentForks": 655
   },
   {
     "nameWithOwner": "perditioinc/cuopt",
@@ -1342,7 +1447,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/cuopt",
-    "parentStars": 769,
+    "parentStars": 770,
     "parentForks": 147
   },
   {
@@ -1363,7 +1468,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/aistore",
-    "parentStars": 1789,
+    "parentStars": 1790,
     "parentForks": 243
   },
   {
@@ -1384,7 +1489,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "anthropics/claude-code-base-action",
-    "parentStars": 614,
+    "parentStars": 616,
     "parentForks": 590
   },
   {
@@ -1405,7 +1510,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "anthropics/claude-agent-sdk-typescript",
-    "parentStars": 985,
+    "parentStars": 990,
     "parentForks": 110
   },
   {
@@ -1426,8 +1531,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "openai/symphony",
-    "parentStars": 13571,
-    "parentForks": 1077
+    "parentStars": 13653,
+    "parentForks": 1089
   },
   {
     "nameWithOwner": "perditioinc/adk-java",
@@ -1447,7 +1552,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google/adk-java",
-    "parentStars": 1373,
+    "parentStars": 1376,
     "parentForks": 300
   },
   {
@@ -1468,8 +1573,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google/adk-docs",
-    "parentStars": 1234,
-    "parentForks": 913
+    "parentStars": 1237,
+    "parentForks": 915
   },
   {
     "nameWithOwner": "perditioinc/claude-code-action",
@@ -1489,8 +1594,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "anthropics/claude-code-action",
-    "parentStars": 6393,
-    "parentForks": 1570
+    "parentStars": 6417,
+    "parentForks": 1573
   },
   {
     "nameWithOwner": "perditioinc/claude-agent-sdk-python",
@@ -1510,8 +1615,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "anthropics/claude-agent-sdk-python",
-    "parentStars": 5604,
-    "parentForks": 749
+    "parentStars": 5626,
+    "parentForks": 753
   },
   {
     "nameWithOwner": "perditioinc/AirSim",
@@ -1531,7 +1636,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/AirSim",
-    "parentStars": 18035,
+    "parentStars": 18043,
     "parentForks": 4862
   },
   {
@@ -1573,7 +1678,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/garnet",
-    "parentStars": 11776,
+    "parentStars": 11777,
     "parentForks": 646
   },
   {
@@ -1594,8 +1699,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "google/guava",
-    "parentStars": 51506,
-    "parentForks": 11151
+    "parentStars": 51504,
+    "parentForks": 11150
   },
   {
     "nameWithOwner": "perditioinc/vscode",
@@ -1615,8 +1720,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/vscode",
-    "parentStars": 182864,
-    "parentForks": 38637
+    "parentStars": 182893,
+    "parentForks": 38647
   },
   {
     "nameWithOwner": "perditioinc/PowerToys",
@@ -1636,8 +1741,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/PowerToys",
-    "parentStars": 130728,
-    "parentForks": 7796
+    "parentStars": 130767,
+    "parentForks": 7800
   },
   {
     "nameWithOwner": "perditioinc/markitdown",
@@ -1657,8 +1762,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/markitdown",
-    "parentStars": 91004,
-    "parentForks": 5385
+    "parentStars": 91226,
+    "parentForks": 5402
   },
   {
     "nameWithOwner": "perditioinc/monaco-editor",
@@ -1678,8 +1783,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/monaco-editor",
-    "parentStars": 45785,
-    "parentForks": 4017
+    "parentStars": 45789,
+    "parentForks": 4013
   },
   {
     "nameWithOwner": "perditioinc/golang-samples",
@@ -1741,7 +1846,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "GoogleCloudPlatform/bank-of-anthos",
-    "parentStars": 1305,
+    "parentStars": 1306,
     "parentForks": 792
   },
   {
@@ -1762,7 +1867,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "TheAlgorithms/Java",
-    "parentStars": 65244,
+    "parentStars": 65246,
     "parentForks": 21035
   },
   {
@@ -1783,8 +1888,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "ray-project/ray",
-    "parentStars": 41800,
-    "parentForks": 7366
+    "parentStars": 41814,
+    "parentForks": 7371
   },
   {
     "nameWithOwner": "perditioinc/PerfKitBenchmarker",
@@ -1825,8 +1930,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Aider-AI/aider",
-    "parentStars": 42171,
-    "parentForks": 4056
+    "parentStars": 42196,
+    "parentForks": 4053
   },
   {
     "nameWithOwner": "perditioinc/weave",
@@ -1867,7 +1972,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "guardrails-ai/guardrails",
-    "parentStars": 6560,
+    "parentStars": 6562,
     "parentForks": 551
   },
   {
@@ -1889,7 +1994,7 @@
     "defaultBranch": "main",
     "parentRepo": "archestra-ai/archestra",
     "parentStars": 3539,
-    "parentForks": 361
+    "parentForks": 366
   },
   {
     "nameWithOwner": "perditioinc/garak",
@@ -1909,7 +2014,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/garak",
-    "parentStars": 7302,
+    "parentStars": 7312,
     "parentForks": 833
   },
   {
@@ -1930,8 +2035,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "chroma-core/chroma",
-    "parentStars": 26734,
-    "parentForks": 2140
+    "parentStars": 26747,
+    "parentForks": 2141
   },
   {
     "nameWithOwner": "perditioinc/milvus",
@@ -1951,8 +2056,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "milvus-io/milvus",
-    "parentStars": 43407,
-    "parentForks": 3905
+    "parentStars": 43423,
+    "parentForks": 3909
   },
   {
     "nameWithOwner": "perditioinc/nginx",
@@ -1972,7 +2077,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "nginx/nginx",
-    "parentStars": 29729,
+    "parentStars": 29738,
     "parentForks": 7821
   },
   {
@@ -1993,7 +2098,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "RfidResearchGroup/proxmark3",
-    "parentStars": 5353,
+    "parentStars": 5357,
     "parentForks": 1287
   },
   {
@@ -2014,7 +2119,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "renode/renode",
-    "parentStars": 2340,
+    "parentStars": 2344,
     "parentForks": 422
   },
   {
@@ -2035,8 +2140,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "netdata/netdata",
-    "parentStars": 78153,
-    "parentForks": 6389
+    "parentStars": 78152,
+    "parentForks": 6379
   },
   {
     "nameWithOwner": "perditioinc/jq",
@@ -2056,7 +2161,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "jqlang/jq",
-    "parentStars": 33889,
+    "parentStars": 33899,
     "parentForks": 1713
   },
   {
@@ -2077,8 +2182,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "git/git",
-    "parentStars": 59794,
-    "parentForks": 27670
+    "parentStars": 59819,
+    "parentForks": 27675
   },
   {
     "nameWithOwner": "perditioinc/redis",
@@ -2098,7 +2203,7 @@
     "openIssues": 0,
     "defaultBranch": "unstable",
     "parentRepo": "redis/redis",
-    "parentStars": 73481,
+    "parentStars": 73497,
     "parentForks": 24552
   },
   {
@@ -2119,8 +2224,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "Facepunch/sbox-public",
-    "parentStars": 3845,
-    "parentForks": 284
+    "parentStars": 3852,
+    "parentForks": 286
   },
   {
     "nameWithOwner": "perditioinc/mcp",
@@ -2140,8 +2245,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/mcp",
-    "parentStars": 2821,
-    "parentForks": 429
+    "parentStars": 2829,
+    "parentForks": 432
   },
   {
     "nameWithOwner": "perditioinc/server",
@@ -2161,8 +2266,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "bitwarden/server",
-    "parentStars": 18292,
-    "parentForks": 1559
+    "parentStars": 18300,
+    "parentForks": 1558
   },
   {
     "nameWithOwner": "perditioinc/unity-mcp",
@@ -2182,8 +2287,8 @@
     "openIssues": 0,
     "defaultBranch": "beta",
     "parentRepo": "CoplayDev/unity-mcp",
-    "parentStars": 7305,
-    "parentForks": 865
+    "parentStars": 7335,
+    "parentForks": 867
   },
   {
     "nameWithOwner": "perditioinc/PowerShell",
@@ -2203,8 +2308,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "PowerShell/PowerShell",
-    "parentStars": 51932,
-    "parentForks": 8223
+    "parentStars": 51956,
+    "parentForks": 8225
   },
   {
     "nameWithOwner": "perditioinc/FluentFlyout",
@@ -2224,8 +2329,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "unchihugo/FluentFlyout",
-    "parentStars": 1495,
-    "parentForks": 62
+    "parentStars": 1544,
+    "parentForks": 63
   },
   {
     "nameWithOwner": "perditioinc/QtScrcpy",
@@ -2245,8 +2350,8 @@
     "openIssues": 0,
     "defaultBranch": "dev",
     "parentRepo": "barry-ran/QtScrcpy",
-    "parentStars": 28905,
-    "parentForks": 3482
+    "parentStars": 28915,
+    "parentForks": 3483
   },
   {
     "nameWithOwner": "perditioinc/ESP32-Bus-Pirate",
@@ -2266,8 +2371,8 @@
     "openIssues": 0,
     "defaultBranch": "pioarduino",
     "parentRepo": "geo-tp/ESP32-Bus-Pirate",
-    "parentStars": 2973,
-    "parentForks": 244
+    "parentStars": 2976,
+    "parentForks": 246
   },
   {
     "nameWithOwner": "perditioinc/REFramework",
@@ -2287,8 +2392,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "praydog/REFramework",
-    "parentStars": 4813,
-    "parentForks": 520
+    "parentStars": 4821,
+    "parentForks": 521
   },
   {
     "nameWithOwner": "perditioinc/Files",
@@ -2308,7 +2413,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "files-community/Files",
-    "parentStars": 42521,
+    "parentStars": 42554,
     "parentForks": 2640
   },
   {
@@ -2329,8 +2434,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "QuantConnect/Lean",
-    "parentStars": 17941,
-    "parentForks": 4606
+    "parentStars": 17962,
+    "parentForks": 4614
   },
   {
     "nameWithOwner": "perditioinc/NanaZip",
@@ -2350,8 +2455,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "M2Team/NanaZip",
-    "parentStars": 13669,
-    "parentForks": 342
+    "parentStars": 13693,
+    "parentForks": 343
   },
   {
     "nameWithOwner": "perditioinc/WSL",
@@ -2371,8 +2476,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "microsoft/WSL",
-    "parentStars": 31464,
-    "parentForks": 1648
+    "parentStars": 31479,
+    "parentForks": 1651
   },
   {
     "nameWithOwner": "perditioinc/ladybird",
@@ -2392,7 +2497,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "LadybirdBrowser/ladybird",
-    "parentStars": 61408,
+    "parentStars": 61417,
     "parentForks": 2877
   },
   {
@@ -2413,8 +2518,8 @@
     "openIssues": 0,
     "defaultBranch": "dev",
     "parentRepo": "amnezia-vpn/amnezia-client",
-    "parentStars": 10672,
-    "parentForks": 759
+    "parentStars": 10698,
+    "parentForks": 762
   },
   {
     "nameWithOwner": "perditioinc/LichtFeld-Studio",
@@ -2434,8 +2539,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "MrNeRF/LichtFeld-Studio",
-    "parentStars": 2582,
-    "parentForks": 271
+    "parentStars": 2591,
+    "parentForks": 272
   },
   {
     "nameWithOwner": "perditioinc/ppsspp",
@@ -2455,8 +2560,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "hrydgard/ppsspp",
-    "parentStars": 13577,
-    "parentForks": 2454
+    "parentStars": 13580,
+    "parentForks": 2455
   },
   {
     "nameWithOwner": "perditioinc/mlx",
@@ -2476,8 +2581,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "ml-explore/mlx",
-    "parentStars": 24634,
-    "parentForks": 1591
+    "parentStars": 24657,
+    "parentForks": 1592
   },
   {
     "nameWithOwner": "perditioinc/Serial-Studio",
@@ -2497,7 +2602,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "Serial-Studio/Serial-Studio",
-    "parentStars": 6722,
+    "parentStars": 6725,
     "parentForks": 1009
   },
   {
@@ -2518,8 +2623,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/terminal",
-    "parentStars": 102268,
-    "parentForks": 9140
+    "parentStars": 102286,
+    "parentForks": 9144
   },
   {
     "nameWithOwner": "perditioinc/runanywhere-sdks",
@@ -2539,8 +2644,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "RunanywhereAI/runanywhere-sdks",
-    "parentStars": 10255,
-    "parentForks": 313
+    "parentStars": 10304,
+    "parentForks": 319
   },
   {
     "nameWithOwner": "perditioinc/geode",
@@ -2560,8 +2665,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "geode-sdk/geode",
-    "parentStars": 2054,
-    "parentForks": 374
+    "parentStars": 2061,
+    "parentForks": 373
   },
   {
     "nameWithOwner": "perditioinc/claude-agent-acp",
@@ -2581,8 +2686,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "zed-industries/claude-agent-acp",
-    "parentStars": 1262,
-    "parentForks": 193
+    "parentStars": 1273,
+    "parentForks": 194
   },
   {
     "nameWithOwner": "perditioinc/daytona",
@@ -2602,8 +2707,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "daytonaio/daytona",
-    "parentStars": 67886,
-    "parentForks": 5185
+    "parentStars": 68594,
+    "parentForks": 5239
   },
   {
     "nameWithOwner": "perditioinc/insomnia",
@@ -2624,7 +2729,7 @@
     "defaultBranch": "develop",
     "parentRepo": "Kong/insomnia",
     "parentStars": 38115,
-    "parentForks": 2247
+    "parentForks": 2242
   },
   {
     "nameWithOwner": "perditioinc/openui",
@@ -2644,8 +2749,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "thesysdev/openui",
-    "parentStars": 2096,
-    "parentForks": 158
+    "parentStars": 2229,
+    "parentForks": 161
   },
   {
     "nameWithOwner": "perditioinc/CodexMonitor",
@@ -2665,8 +2770,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Dimillian/CodexMonitor",
-    "parentStars": 3234,
-    "parentForks": 308
+    "parentStars": 3252,
+    "parentForks": 309
   },
   {
     "nameWithOwner": "perditioinc/jan",
@@ -2686,8 +2791,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "janhq/jan",
-    "parentStars": 41155,
-    "parentForks": 2608
+    "parentStars": 41170,
+    "parentForks": 2610
   },
   {
     "nameWithOwner": "perditioinc/Gym",
@@ -2707,8 +2812,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA-NeMo/Gym",
-    "parentStars": 756,
-    "parentForks": 93
+    "parentStars": 758,
+    "parentForks": 95
   },
   {
     "nameWithOwner": "perditioinc/grok2api",
@@ -2728,8 +2833,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "chenyme/grok2api",
-    "parentStars": 3260,
-    "parentForks": 1130
+    "parentStars": 3310,
+    "parentForks": 1166
   },
   {
     "nameWithOwner": "perditioinc/google-research",
@@ -2749,7 +2854,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "google-research/google-research",
-    "parentStars": 37494,
+    "parentStars": 37496,
     "parentForks": 8364
   },
   {
@@ -2770,7 +2875,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA-NeMo/Nemotron",
-    "parentStars": 705,
+    "parentStars": 712,
     "parentForks": 140
   },
   {
@@ -2791,8 +2896,8 @@
     "openIssues": 0,
     "defaultBranch": "develop",
     "parentRepo": "strapi/strapi",
-    "parentStars": 71660,
-    "parentForks": 9575
+    "parentStars": 71661,
+    "parentForks": 9568
   },
   {
     "nameWithOwner": "perditioinc/superset",
@@ -2812,8 +2917,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "superset-sh/superset",
-    "parentStars": 7482,
-    "parentForks": 537
+    "parentStars": 7546,
+    "parentForks": 545
   },
   {
     "nameWithOwner": "perditioinc/dolt",
@@ -2833,8 +2938,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "dolthub/dolt",
-    "parentStars": 21522,
-    "parentForks": 701
+    "parentStars": 21541,
+    "parentForks": 702
   },
   {
     "nameWithOwner": "perditioinc/memori",
@@ -2854,8 +2959,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "MemoriLabs/Memori",
-    "parentStars": 12408,
-    "parentForks": 1116
+    "parentStars": 12418,
+    "parentForks": 1114
   },
   {
     "nameWithOwner": "perditioinc/openclaw-rl",
@@ -2875,8 +2980,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Gen-Verse/OpenClaw-RL",
-    "parentStars": 3749,
-    "parentForks": 363
+    "parentStars": 3862,
+    "parentForks": 377
   },
   {
     "nameWithOwner": "perditioinc/claude-code",
@@ -2896,8 +3001,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "anthropics/claude-code",
-    "parentStars": 80293,
-    "parentForks": 6634
+    "parentStars": 80666,
+    "parentForks": 6680
   },
   {
     "nameWithOwner": "perditioinc/mediapipe",
@@ -2917,8 +3022,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "google-ai-edge/mediapipe",
-    "parentStars": 34219,
-    "parentForks": 5852
+    "parentStars": 34234,
+    "parentForks": 5853
   },
   {
     "nameWithOwner": "perditioinc/awesome-openclaw-skills",
@@ -2938,8 +3043,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "VoltAgent/awesome-openclaw-skills",
-    "parentStars": 39880,
-    "parentForks": 3821
+    "parentStars": 40163,
+    "parentForks": 3857
   },
   {
     "nameWithOwner": "perditioinc/awesome-claude-code",
@@ -2959,8 +3064,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "hesreallyhim/awesome-claude-code",
-    "parentStars": 29273,
-    "parentForks": 1975
+    "parentStars": 29470,
+    "parentForks": 1994
   },
   {
     "nameWithOwner": "perditioinc/magictools",
@@ -2980,8 +3085,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "ellisonleao/magictools",
-    "parentStars": 16317,
-    "parentForks": 1157
+    "parentStars": 16319,
+    "parentForks": 1156
   },
   {
     "nameWithOwner": "perditioinc/trl",
@@ -3001,8 +3106,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "huggingface/trl",
-    "parentStars": 17722,
-    "parentForks": 2570
+    "parentStars": 17735,
+    "parentForks": 2573
   },
   {
     "nameWithOwner": "perditioinc/mergekit",
@@ -3022,7 +3127,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "arcee-ai/mergekit",
-    "parentStars": 6884,
+    "parentStars": 6889,
     "parentForks": 678
   },
   {
@@ -3043,8 +3148,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "guidance-ai/guidance",
-    "parentStars": 21355,
-    "parentForks": 1156
+    "parentStars": 21353,
+    "parentForks": 1157
   },
   {
     "nameWithOwner": "perditioinc/lm-evaluation-harness",
@@ -3064,8 +3169,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "EleutherAI/lm-evaluation-harness",
-    "parentStars": 11763,
-    "parentForks": 3103
+    "parentStars": 11776,
+    "parentForks": 3110
   },
   {
     "nameWithOwner": "perditioinc/vllm",
@@ -3085,8 +3190,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "vllm-project/vllm",
-    "parentStars": 73756,
-    "parentForks": 14565
+    "parentStars": 73819,
+    "parentForks": 14593
   },
   {
     "nameWithOwner": "perditioinc/ollama",
@@ -3106,8 +3211,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "ollama/ollama",
-    "parentStars": 165635,
-    "parentForks": 15068
+    "parentStars": 165720,
+    "parentForks": 15085
   },
   {
     "nameWithOwner": "perditioinc/learn-claude-code",
@@ -3127,8 +3232,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "shareAI-lab/learn-claude-code",
-    "parentStars": 34082,
-    "parentForks": 5527
+    "parentStars": 34796,
+    "parentForks": 5601
   },
   {
     "nameWithOwner": "perditioinc/langfuse",
@@ -3148,8 +3253,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "langfuse/langfuse",
-    "parentStars": 23445,
-    "parentForks": 2376
+    "parentStars": 23487,
+    "parentForks": 2378
   },
   {
     "nameWithOwner": "perditioinc/helicone",
@@ -3169,7 +3274,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Helicone/helicone",
-    "parentStars": 5272,
+    "parentStars": 5278,
     "parentForks": 495
   },
   {
@@ -3190,8 +3295,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "huggingface/skills",
-    "parentStars": 9449,
-    "parentForks": 567
+    "parentStars": 9529,
+    "parentForks": 576
   },
   {
     "nameWithOwner": "perditioinc/heretic",
@@ -3211,8 +3316,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "p-e-w/heretic",
-    "parentStars": 16146,
-    "parentForks": 1633
+    "parentStars": 16253,
+    "parentForks": 1641
   },
   {
     "nameWithOwner": "perditioinc/deer-flow",
@@ -3232,8 +3337,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "bytedance/deer-flow",
-    "parentStars": 31952,
-    "parentForks": 3864
+    "parentStars": 32094,
+    "parentForks": 3892
   },
   {
     "nameWithOwner": "perditioinc/claude-skills",
@@ -3253,8 +3358,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "alirezarezvani/claude-skills",
-    "parentStars": 6011,
-    "parentForks": 699
+    "parentStars": 6103,
+    "parentForks": 713
   },
   {
     "nameWithOwner": "perditioinc/AReaL",
@@ -3274,8 +3379,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "inclusionAI/AReaL",
-    "parentStars": 4855,
-    "parentForks": 419
+    "parentStars": 4860,
+    "parentForks": 420
   },
   {
     "nameWithOwner": "perditioinc/claude-plugins-official",
@@ -3295,8 +3400,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "anthropics/claude-plugins-official",
-    "parentStars": 13077,
-    "parentForks": 1278
+    "parentStars": 13713,
+    "parentForks": 1366
   },
   {
     "nameWithOwner": "perditioinc/ai-hedge-fund",
@@ -3316,8 +3421,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "virattt/ai-hedge-fund",
-    "parentStars": 49395,
-    "parentForks": 8590
+    "parentStars": 49427,
+    "parentForks": 8599
   },
   {
     "nameWithOwner": "perditioinc/BettaFish",
@@ -3337,8 +3442,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "666ghj/BettaFish",
-    "parentStars": 39588,
-    "parentForks": 7382
+    "parentStars": 39620,
+    "parentForks": 7395
   },
   {
     "nameWithOwner": "perditioinc/notebooklm-py",
@@ -3358,8 +3463,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "teng-lin/notebooklm-py",
-    "parentStars": 6419,
-    "parentForks": 801
+    "parentStars": 6562,
+    "parentForks": 825
   },
   {
     "nameWithOwner": "perditioinc/superpowers",
@@ -3379,8 +3484,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "obra/superpowers",
-    "parentStars": 100044,
-    "parentForks": 7982
+    "parentStars": 101890,
+    "parentForks": 8148
   },
   {
     "nameWithOwner": "perditioinc/A2UI",
@@ -3400,8 +3505,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google/A2UI",
-    "parentStars": 13463,
-    "parentForks": 1012
+    "parentStars": 13506,
+    "parentForks": 1019
   },
   {
     "nameWithOwner": "perditioinc/playwright",
@@ -3421,8 +3526,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/playwright",
-    "parentStars": 84607,
-    "parentForks": 5321
+    "parentStars": 84653,
+    "parentForks": 5328
   },
   {
     "nameWithOwner": "perditioinc/fish-speech",
@@ -3442,8 +3547,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "fishaudio/fish-speech",
-    "parentStars": 28403,
-    "parentForks": 2376
+    "parentStars": 28553,
+    "parentForks": 2389
   },
   {
     "nameWithOwner": "perditioinc/CLI-Anything",
@@ -3463,8 +3568,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "HKUDS/CLI-Anything",
-    "parentStars": 19557,
-    "parentForks": 1696
+    "parentStars": 20053,
+    "parentForks": 1754
   },
   {
     "nameWithOwner": "perditioinc/reasoning-from-scratch",
@@ -3484,8 +3589,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "rasbt/reasoning-from-scratch",
-    "parentStars": 3614,
-    "parentForks": 517
+    "parentStars": 3618,
+    "parentForks": 518
   },
   {
     "nameWithOwner": "perditioinc/scrapling",
@@ -3505,8 +3610,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "D4Vinci/Scrapling",
-    "parentStars": 31338,
-    "parentForks": 2477
+    "parentStars": 31546,
+    "parentForks": 2498
   },
   {
     "nameWithOwner": "perditioinc/mavros",
@@ -3547,8 +3652,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "OpenHands/OpenHands",
-    "parentStars": 69450,
-    "parentForks": 8711
+    "parentStars": 69474,
+    "parentForks": 8710
   },
   {
     "nameWithOwner": "perditioinc/dspy",
@@ -3568,8 +3673,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "stanfordnlp/dspy",
-    "parentStars": 32952,
-    "parentForks": 2718
+    "parentStars": 32971,
+    "parentForks": 2720
   },
   {
     "nameWithOwner": "perditioinc/mem0",
@@ -3589,8 +3694,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "mem0ai/mem0",
-    "parentStars": 50475,
-    "parentForks": 5627
+    "parentStars": 50561,
+    "parentForks": 5638
   },
   {
     "nameWithOwner": "perditioinc/letta",
@@ -3610,8 +3715,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "letta-ai/letta",
-    "parentStars": 21673,
-    "parentForks": 2284
+    "parentStars": 21675,
+    "parentForks": 2287
   },
   {
     "nameWithOwner": "perditioinc/adk-js",
@@ -3631,7 +3736,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google/adk-js",
-    "parentStars": 916,
+    "parentStars": 919,
     "parentForks": 111
   },
   {
@@ -3652,8 +3757,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "alibaba/page-agent",
-    "parentStars": 11966,
-    "parentForks": 907
+    "parentStars": 12552,
+    "parentForks": 952
   },
   {
     "nameWithOwner": "perditioinc/camel",
@@ -3673,8 +3778,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "camel-ai/camel",
-    "parentStars": 16423,
-    "parentForks": 1833
+    "parentStars": 16434,
+    "parentForks": 1837
   },
   {
     "nameWithOwner": "perditioinc/burr",
@@ -3715,8 +3820,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "SWE-agent/SWE-agent",
-    "parentStars": 18795,
-    "parentForks": 2025
+    "parentStars": 18800,
+    "parentForks": 2027
   },
   {
     "nameWithOwner": "perditioinc/notebooks",
@@ -3736,7 +3841,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "unslothai/notebooks",
-    "parentStars": 4927,
+    "parentStars": 4938,
     "parentForks": 784
   },
   {
@@ -3757,8 +3862,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "andrewyng/context-hub",
-    "parentStars": 10714,
-    "parentForks": 945
+    "parentStars": 11058,
+    "parentForks": 971
   },
   {
     "nameWithOwner": "perditioinc/AutoGPT",
@@ -3778,8 +3883,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "Significant-Gravitas/AutoGPT",
-    "parentStars": 182621,
-    "parentForks": 46227
+    "parentStars": 182646,
+    "parentForks": 46222
   },
   {
     "nameWithOwner": "perditioinc/smolagents",
@@ -3799,8 +3904,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "huggingface/smolagents",
-    "parentStars": 26164,
-    "parentForks": 2380
+    "parentStars": 26180,
+    "parentForks": 2384
   },
   {
     "nameWithOwner": "perditioinc/geo_neural_op",
@@ -3883,8 +3988,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "paperclipai/paperclip",
-    "parentStars": 30121,
-    "parentForks": 4088
+    "parentStars": 30724,
+    "parentForks": 4218
   },
   {
     "nameWithOwner": "perditioinc/VisionClaw",
@@ -3904,8 +4009,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Intent-Lab/VisionClaw",
-    "parentStars": 1684,
-    "parentForks": 310
+    "parentStars": 1691,
+    "parentForks": 308
   },
   {
     "nameWithOwner": "perditioinc/robometer",
@@ -3925,7 +4030,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "robometer/robometer",
-    "parentStars": 99,
+    "parentStars": 100,
     "parentForks": 20
   },
   {
@@ -3967,7 +4072,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "flyteorg/flyte",
-    "parentStars": 6893,
+    "parentStars": 6896,
     "parentForks": 800
   },
   {
@@ -3988,8 +4093,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "openai/openai-cookbook",
-    "parentStars": 72248,
-    "parentForks": 12165
+    "parentStars": 72271,
+    "parentForks": 12169
   },
   {
     "nameWithOwner": "perditioinc/openai-agents-python",
@@ -4009,8 +4114,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "openai/openai-agents-python",
-    "parentStars": 20140,
-    "parentForks": 3296
+    "parentStars": 20167,
+    "parentForks": 3302
   },
   {
     "nameWithOwner": "perditioinc/ai-engineering-field-guide",
@@ -4030,8 +4135,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "alexeygrigorev/ai-engineering-field-guide",
-    "parentStars": 1398,
-    "parentForks": 153
+    "parentStars": 1495,
+    "parentForks": 161
   },
   {
     "nameWithOwner": "perditioinc/agency-agents",
@@ -4051,8 +4156,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "msitarzewski/agency-agents",
-    "parentStars": 55883,
-    "parentForks": 8376
+    "parentStars": 57015,
+    "parentForks": 8542
   },
   {
     "nameWithOwner": "perditioinc/claude-code-best-practice",
@@ -4072,8 +4177,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "shanraisshan/claude-code-best-practice",
-    "parentStars": 19119,
-    "parentForks": 1671
+    "parentStars": 19568,
+    "parentForks": 1706
   },
   {
     "nameWithOwner": "perditioinc/autoresearch",
@@ -4093,8 +4198,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "karpathy/autoresearch",
-    "parentStars": 44161,
-    "parentForks": 6122
+    "parentStars": 46384,
+    "parentForks": 6442
   },
   {
     "nameWithOwner": "perditioinc/gpu-perf-engineering-resources",
@@ -4114,7 +4219,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "wafer-ai/gpu-perf-engineering-resources",
-    "parentStars": 482,
+    "parentStars": 486,
     "parentForks": 49
   },
   {
@@ -4135,7 +4240,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "cfregly/ai-performance-engineering",
-    "parentStars": 1220,
+    "parentStars": 1223,
     "parentForks": 173
   },
   {
@@ -4156,8 +4261,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "agentscope-ai/CoPaw",
-    "parentStars": 12757,
-    "parentForks": 1584
+    "parentStars": 12845,
+    "parentForks": 1607
   },
   {
     "nameWithOwner": "perditioinc/ART",
@@ -4177,7 +4282,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "OpenPipe/ART",
-    "parentStars": 9044,
+    "parentStars": 9049,
     "parentForks": 769
   },
   {
@@ -4198,8 +4303,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "ComposioHQ/agent-orchestrator",
-    "parentStars": 4971,
-    "parentForks": 588
+    "parentStars": 5023,
+    "parentForks": 603
   },
   {
     "nameWithOwner": "perditioinc/memU",
@@ -4219,8 +4324,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NevaMind-AI/memU",
-    "parentStars": 13068,
-    "parentForks": 965
+    "parentStars": 13086,
+    "parentForks": 967
   },
   {
     "nameWithOwner": "perditioinc/DeepCode",
@@ -4240,7 +4345,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "HKUDS/DeepCode",
-    "parentStars": 14953,
+    "parentStars": 14961,
     "parentForks": 2018
   },
   {
@@ -4261,8 +4366,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "thedotmack/claude-mem",
-    "parentStars": 38531,
-    "parentForks": 2788
+    "parentStars": 38806,
+    "parentForks": 2814
   },
   {
     "nameWithOwner": "perditioinc/reBot-DevArm",
@@ -4282,7 +4387,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Seeed-Projects/reBot-DevArm",
-    "parentStars": 1313,
+    "parentStars": 1314,
     "parentForks": 94
   },
   {
@@ -4303,8 +4408,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Shubhamsaboo/awesome-llm-apps",
-    "parentStars": 102911,
-    "parentForks": 14998
+    "parentStars": 102983,
+    "parentForks": 15009
   },
   {
     "nameWithOwner": "perditioinc/personaplex",
@@ -4324,8 +4429,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/personaplex",
-    "parentStars": 5814,
-    "parentForks": 898
+    "parentStars": 5828,
+    "parentForks": 899
   },
   {
     "nameWithOwner": "perditioinc/LTX-2",
@@ -4345,8 +4450,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Lightricks/LTX-2",
-    "parentStars": 4983,
-    "parentForks": 750
+    "parentStars": 5012,
+    "parentForks": 751
   },
   {
     "nameWithOwner": "perditioinc/ComfyUI-LTXVideo",
@@ -4366,7 +4471,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "Lightricks/ComfyUI-LTXVideo",
-    "parentStars": 3307,
+    "parentStars": 3317,
     "parentForks": 348
   },
   {
@@ -4387,7 +4492,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "OpenBMB/VoxCPM",
-    "parentStars": 6144,
+    "parentStars": 6149,
     "parentForks": 745
   },
   {
@@ -4408,8 +4513,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "andrewekhalel/MLQuestions",
-    "parentStars": 4520,
-    "parentForks": 738
+    "parentStars": 4521,
+    "parentForks": 737
   },
   {
     "nameWithOwner": "perditioinc/sam-audio",
@@ -4429,7 +4534,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "facebookresearch/sam-audio",
-    "parentStars": 3398,
+    "parentStars": 3399,
     "parentForks": 299
   },
   {
@@ -4471,7 +4576,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "aishwaryanr/awesome-generative-ai-guide",
-    "parentStars": 25417,
+    "parentStars": 25431,
     "parentForks": 5371
   },
   {
@@ -4513,7 +4618,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "mithi/robotics-coursework",
-    "parentStars": 4073,
+    "parentStars": 4076,
     "parentForks": 659
   },
   {
@@ -4534,8 +4639,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "jamwithai/production-agentic-rag-course",
-    "parentStars": 3924,
-    "parentForks": 1044
+    "parentStars": 4176,
+    "parentForks": 1095
   },
   {
     "nameWithOwner": "perditioinc/GenAI_Agents",
@@ -4555,8 +4660,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NirDiamant/GenAI_Agents",
-    "parentStars": 20668,
-    "parentForks": 3427
+    "parentStars": 20686,
+    "parentForks": 3431
   },
   {
     "nameWithOwner": "perditioinc/RAG_Techniques",
@@ -4576,8 +4681,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NirDiamant/RAG_Techniques",
-    "parentStars": 26124,
-    "parentForks": 3089
+    "parentStars": 26140,
+    "parentForks": 3092
   },
   {
     "nameWithOwner": "perditioinc/annotated_deep_learning_paper_implementations",
@@ -4597,8 +4702,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "labmlai/annotated_deep_learning_paper_implementations",
-    "parentStars": 66059,
-    "parentForks": 6649
+    "parentStars": 66068,
+    "parentForks": 6641
   },
   {
     "nameWithOwner": "perditioinc/Hands-On-Large-Language-Models",
@@ -4618,8 +4723,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "HandsOnLLM/Hands-On-Large-Language-Models",
-    "parentStars": 24229,
-    "parentForks": 5606
+    "parentStars": 24254,
+    "parentForks": 5610
   },
   {
     "nameWithOwner": "perditioinc/Prompt-Engineering-Guide",
@@ -4639,8 +4744,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "dair-ai/Prompt-Engineering-Guide",
-    "parentStars": 71982,
-    "parentForks": 7684
+    "parentStars": 72013,
+    "parentForks": 7689
   },
   {
     "nameWithOwner": "perditioinc/Made-With-ML",
@@ -4660,8 +4765,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "GokuMohandas/Made-With-ML",
-    "parentStars": 46879,
-    "parentForks": 7357
+    "parentStars": 46891,
+    "parentForks": 7360
   },
   {
     "nameWithOwner": "perditioinc/magenta-realtime",
@@ -4702,8 +4807,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "Infatoshi/cuda-course",
-    "parentStars": 3389,
-    "parentForks": 593
+    "parentStars": 3391,
+    "parentForks": 595
   },
   {
     "nameWithOwner": "perditioinc/pg_lake",
@@ -4723,7 +4828,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Snowflake-Labs/pg_lake",
-    "parentStars": 1461,
+    "parentStars": 1463,
     "parentForks": 86
   },
   {
@@ -4744,8 +4849,8 @@
     "openIssues": 0,
     "defaultBranch": "release",
     "parentRepo": "SillyTavern/SillyTavern",
-    "parentStars": 24594,
-    "parentForks": 4963
+    "parentStars": 24629,
+    "parentForks": 4962
   },
   {
     "nameWithOwner": "perditioinc/OCRmyPDF",
@@ -4765,7 +4870,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "ocrmypdf/OCRmyPDF",
-    "parentStars": 32991,
+    "parentStars": 33002,
     "parentForks": 2291
   },
   {
@@ -4786,8 +4891,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "PaddlePaddle/PaddleOCR",
-    "parentStars": 72666,
-    "parentForks": 10002
+    "parentStars": 72716,
+    "parentForks": 10004
   },
   {
     "nameWithOwner": "perditioinc/immich",
@@ -4807,8 +4912,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "immich-app/immich",
-    "parentStars": 95213,
-    "parentForks": 5161
+    "parentStars": 95299,
+    "parentForks": 5155
   },
   {
     "nameWithOwner": "perditioinc/xiaozhi-esp32",
@@ -4828,8 +4933,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "78/xiaozhi-esp32",
-    "parentStars": 24937,
-    "parentForks": 5356
+    "parentStars": 24966,
+    "parentForks": 5360
   },
   {
     "nameWithOwner": "perditioinc/evcc",
@@ -4849,8 +4954,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "evcc-io/evcc",
-    "parentStars": 6277,
-    "parentForks": 1237
+    "parentStars": 6282,
+    "parentForks": 1238
   },
   {
     "nameWithOwner": "perditioinc/stable-diffusion.cpp",
@@ -4870,8 +4975,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "leejet/stable-diffusion.cpp",
-    "parentStars": 5583,
-    "parentForks": 550
+    "parentStars": 5588,
+    "parentForks": 552
   },
   {
     "nameWithOwner": "perditioinc/hugo",
@@ -4891,7 +4996,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "gohugoio/hugo",
-    "parentStars": 87160,
+    "parentStars": 87181,
     "parentForks": 8218
   },
   {
@@ -4912,8 +5017,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "tesseract-ocr/tesseract",
-    "parentStars": 73009,
-    "parentForks": 10554
+    "parentStars": 73024,
+    "parentForks": 10550
   },
   {
     "nameWithOwner": "perditioinc/Fabric",
@@ -4933,8 +5038,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "danielmiessler/Fabric",
-    "parentStars": 40036,
-    "parentForks": 4000
+    "parentStars": 40076,
+    "parentForks": 4003
   },
   {
     "nameWithOwner": "perditioinc/claudian",
@@ -4954,8 +5059,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "YishenTu/claudian",
-    "parentStars": 4669,
-    "parentForks": 268
+    "parentStars": 4719,
+    "parentForks": 275
   },
   {
     "nameWithOwner": "perditioinc/daily_stock_analysis",
@@ -4975,8 +5080,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "ZhuLinsen/daily_stock_analysis",
-    "parentStars": 23478,
-    "parentForks": 24291
+    "parentStars": 23866,
+    "parentForks": 24672
   },
   {
     "nameWithOwner": "perditioinc/vite-plus",
@@ -4996,8 +5101,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "voidzero-dev/vite-plus",
-    "parentStars": 3040,
-    "parentForks": 107
+    "parentStars": 3120,
+    "parentForks": 114
   },
   {
     "nameWithOwner": "perditioinc/kiji-proxy",
@@ -5017,7 +5122,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "dataiku/kiji-proxy",
-    "parentStars": 117,
+    "parentStars": 118,
     "parentForks": 36
   },
   {
@@ -5038,8 +5143,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "bambulab/BambuStudio",
-    "parentStars": 4140,
-    "parentForks": 645
+    "parentStars": 4142,
+    "parentForks": 648
   },
   {
     "nameWithOwner": "perditioinc/GLM-OCR",
@@ -5059,8 +5164,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "zai-org/GLM-OCR",
-    "parentStars": 3122,
-    "parentForks": 258
+    "parentStars": 3211,
+    "parentForks": 269
   },
   {
     "nameWithOwner": "perditioinc/uncloud",
@@ -5080,7 +5185,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "psviderski/uncloud",
-    "parentStars": 4920,
+    "parentStars": 4923,
     "parentForks": 142
   },
   {
@@ -5101,8 +5206,8 @@
     "openIssues": 0,
     "defaultBranch": "dev",
     "parentRepo": "NoFxAiOS/nofx",
-    "parentStars": 10980,
-    "parentForks": 2837
+    "parentStars": 10985,
+    "parentForks": 2840
   },
   {
     "nameWithOwner": "perditioinc/Marlin",
@@ -5143,8 +5248,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "wled/WLED",
-    "parentStars": 17701,
-    "parentForks": 4056
+    "parentStars": 17705,
+    "parentForks": 4057
   },
   {
     "nameWithOwner": "perditioinc/GitNexus",
@@ -5164,8 +5269,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "abhigyanpatwari/GitNexus",
-    "parentStars": 18102,
-    "parentForks": 2093
+    "parentStars": 18410,
+    "parentForks": 2122
   },
   {
     "nameWithOwner": "perditioinc/jellyfin-desktop",
@@ -5185,7 +5290,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "jellyfin/jellyfin-desktop",
-    "parentStars": 5490,
+    "parentStars": 5489,
     "parentForks": 507
   },
   {
@@ -5206,8 +5311,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "decolua/9router",
-    "parentStars": 1102,
-    "parentForks": 308
+    "parentStars": 1122,
+    "parentForks": 312
   },
   {
     "nameWithOwner": "perditioinc/awesome-python",
@@ -5227,8 +5332,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "vinta/awesome-python",
-    "parentStars": 288049,
-    "parentForks": 27442
+    "parentStars": 288213,
+    "parentForks": 27441
   },
   {
     "nameWithOwner": "perditioinc/TradingAgents",
@@ -5248,8 +5353,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "TauricResearch/TradingAgents",
-    "parentStars": 33408,
-    "parentForks": 6457
+    "parentStars": 34360,
+    "parentForks": 6554
   },
   {
     "nameWithOwner": "perditioinc/godot",
@@ -5269,8 +5374,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "godotengine/godot",
-    "parentStars": 108154,
-    "parentForks": 24724
+    "parentStars": 108193,
+    "parentForks": 24729
   },
   {
     "nameWithOwner": "perditioinc/betaflight",
@@ -5291,7 +5396,7 @@
     "defaultBranch": "master",
     "parentRepo": "betaflight/betaflight",
     "parentStars": 10727,
-    "parentForks": 3657
+    "parentForks": 3659
   },
   {
     "nameWithOwner": "perditioinc/doctr",
@@ -5311,7 +5416,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "mindee/doctr",
-    "parentStars": 5967,
+    "parentStars": 5969,
     "parentForks": 631
   },
   {
@@ -5354,7 +5459,7 @@
     "defaultBranch": "development",
     "parentRepo": "Stremio/stremio-web",
     "parentStars": 10506,
-    "parentForks": 1125
+    "parentForks": 1126
   },
   {
     "nameWithOwner": "perditioinc/OpenMetadata",
@@ -5374,8 +5479,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "open-metadata/OpenMetadata",
-    "parentStars": 8969,
-    "parentForks": 1683
+    "parentStars": 8972,
+    "parentForks": 1685
   },
   {
     "nameWithOwner": "perditioinc/cognee",
@@ -5395,8 +5500,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "topoteretes/cognee",
-    "parentStars": 14376,
-    "parentForks": 1425
+    "parentStars": 14417,
+    "parentForks": 1430
   },
   {
     "nameWithOwner": "perditioinc/notebook",
@@ -5437,8 +5542,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "vitejs/vite",
-    "parentStars": 79227,
-    "parentForks": 7944
+    "parentStars": 79253,
+    "parentForks": 7946
   },
   {
     "nameWithOwner": "perditioinc/project-nomad",
@@ -5458,1498 +5563,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Crosstalk-Solutions/project-nomad",
-    "parentStars": 2828,
-    "parentForks": 264
-  },
-  {
-    "nameWithOwner": "perditioinc/dotenvx",
-    "name": "dotenvx",
-    "description": "a secure dotenv\u2013from the creator of `dotenv`",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2026-03-14T04:47:25Z",
-    "updatedAt": "2026-03-16T19:50:59Z",
-    "createdAt": "2026-03-16T19:50:59Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "BSD 3-Clause \"New\" or \"Revised\" License",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "dotenvx/dotenvx",
-    "parentStars": 5216,
-    "parentForks": 126
-  },
-  {
-    "nameWithOwner": "perditioinc/pytorch",
-    "name": "pytorch",
-    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Python",
-    "pushedAt": "2026-03-14T03:11:51Z",
-    "updatedAt": "2026-03-14T03:22:22Z",
-    "createdAt": "2026-03-14T03:22:22Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Other",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "pytorch/pytorch",
-    "parentStars": 98436,
-    "parentForks": 27259
-  },
-  {
-    "nameWithOwner": "perditioinc/open-webui",
-    "name": "open-webui",
-    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Python",
-    "pushedAt": "2026-03-14T03:09:12Z",
-    "updatedAt": "2026-03-14T03:22:59Z",
-    "createdAt": "2026-03-14T03:22:59Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Other",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "open-webui/open-webui",
-    "parentStars": 127943,
-    "parentForks": 18078
-  },
-  {
-    "nameWithOwner": "perditioinc/olmocr",
-    "name": "olmocr",
-    "description": "Toolkit for linearizing PDFs for LLM datasets/training",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Python",
-    "pushedAt": "2026-03-14T01:08:08Z",
-    "updatedAt": "2026-03-16T23:25:29Z",
-    "createdAt": "2026-03-16T23:25:29Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "allenai/olmocr",
-    "parentStars": 17043,
-    "parentForks": 1365
-  },
-  {
-    "nameWithOwner": "perditioinc/agent-lightning",
-    "name": "agent-lightning",
-    "description": "The absolute trainer to light up AI agents.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Python",
-    "pushedAt": "2026-03-14T01:05:07Z",
-    "updatedAt": "2026-03-14T01:04:59Z",
-    "createdAt": "2025-10-29T09:40:08Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "MIT License",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "microsoft/agent-lightning",
-    "parentStars": 15496,
-    "parentForks": 1325
-  },
-  {
-    "nameWithOwner": "perditioinc/Wan2.2",
-    "name": "Wan2.2",
-    "description": "Wan: Open and Advanced Large-Scale Video Generative Models",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Python",
-    "pushedAt": "2026-03-14T01:04:58Z",
-    "updatedAt": "2026-03-14T01:05:05Z",
-    "createdAt": "2025-10-29T05:11:52Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "Wan-Video/Wan2.2",
-    "parentStars": 14730,
-    "parentForks": 1779
-  },
-  {
-    "nameWithOwner": "perditioinc/embardiment",
-    "name": "embardiment",
-    "description": "Packages and tools to enable EmBARDiment type of AI agents inside Android XR.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "C#",
-    "pushedAt": "2026-03-13T23:58:34Z",
-    "updatedAt": "2026-03-13T23:58:41Z",
-    "createdAt": "2025-11-22T07:38:26Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "google/embardiment",
-    "parentStars": 24,
-    "parentForks": 5
-  },
-  {
-    "nameWithOwner": "perditioinc/xrblocks",
-    "name": "xrblocks",
-    "description": "XR Blocks is a lightweight WebXR + WebAI library for rapidly prototyping advanced XR and AI experiences.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "TypeScript",
-    "pushedAt": "2026-03-13T23:57:02Z",
-    "updatedAt": "2026-03-13T23:57:26Z",
-    "createdAt": "2025-10-29T05:11:08Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "google/xrblocks",
-    "parentStars": 219,
-    "parentForks": 38
-  },
-  {
-    "nameWithOwner": "perditioinc/TensorRT-LLM",
-    "name": "TensorRT-LLM",
-    "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Python",
-    "pushedAt": "2026-03-13T23:28:23Z",
-    "updatedAt": "2026-03-14T00:18:23Z",
-    "createdAt": "2026-03-14T00:18:23Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Other",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "NVIDIA/TensorRT-LLM",
-    "parentStars": 13152,
-    "parentForks": 2201
-  },
-  {
-    "nameWithOwner": "perditioinc/gemini-cli",
-    "name": "gemini-cli",
-    "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "TypeScript",
-    "pushedAt": "2026-03-13T23:20:42Z",
-    "updatedAt": "2026-03-13T23:22:08Z",
-    "createdAt": "2026-03-13T23:22:08Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "google-gemini/gemini-cli",
-    "parentStars": 98438,
-    "parentForks": 12448
-  },
-  {
-    "nameWithOwner": "perditioinc/continue",
-    "name": "continue",
-    "description": "\u23e9 Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "TypeScript",
-    "pushedAt": "2026-03-13T23:10:06Z",
-    "updatedAt": "2026-03-13T23:15:13Z",
-    "createdAt": "2026-03-13T23:15:13Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "continuedev/continue",
-    "parentStars": 31952,
-    "parentForks": 4279
-  },
-  {
-    "nameWithOwner": "perditioinc/PyRIT",
-    "name": "PyRIT",
-    "description": "The Python Risk Identification Tool for generative AI (PyRIT) is an open source framework built to empower security professionals and engineers to proactively identify risks in generative AI systems.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Python",
-    "pushedAt": "2026-03-13T23:09:09Z",
-    "updatedAt": "2026-03-13T23:12:20Z",
-    "createdAt": "2026-03-13T23:12:20Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "MIT License",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "Azure/PyRIT",
-    "parentStars": 3572,
-    "parentForks": 699
-  },
-  {
-    "nameWithOwner": "perditioinc/wandb",
-    "name": "wandb",
-    "description": "The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Python",
-    "pushedAt": "2026-03-13T23:04:24Z",
-    "updatedAt": "2026-03-13T23:17:05Z",
-    "createdAt": "2026-03-13T23:17:05Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "MIT License",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "wandb/wandb",
-    "parentStars": 10921,
-    "parentForks": 842
-  },
-  {
-    "nameWithOwner": "perditioinc/llama_index",
-    "name": "llama_index",
-    "description": "LlamaIndex is the leading document agent and OCR platform",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Python",
-    "pushedAt": "2026-03-13T23:02:59Z",
-    "updatedAt": "2026-03-13T23:04:33Z",
-    "createdAt": "2026-03-13T23:04:32Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "MIT License",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "run-llama/llama_index",
-    "parentStars": 47809,
-    "parentForks": 7051
-  },
-  {
-    "nameWithOwner": "perditioinc/warp",
-    "name": "warp",
-    "description": "A Python framework for accelerated simulation, data generation and spatial computing.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Python",
-    "pushedAt": "2026-03-13T22:55:34Z",
-    "updatedAt": "2026-03-14T01:49:40Z",
-    "createdAt": "2026-03-14T01:49:40Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "NVIDIA/warp",
-    "parentStars": 6356,
-    "parentForks": 460
-  },
-  {
-    "nameWithOwner": "perditioinc/qdrant",
-    "name": "qdrant",
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Rust",
-    "pushedAt": "2026-03-13T22:46:51Z",
-    "updatedAt": "2026-03-13T23:05:46Z",
-    "createdAt": "2026-03-13T23:05:46Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "master",
-    "parentRepo": "qdrant/qdrant",
-    "parentStars": 29702,
-    "parentForks": 2114
-  },
-  {
-    "nameWithOwner": "perditioinc/letta-code",
-    "name": "letta-code",
-    "description": "The memory-first coding agent",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "TypeScript",
-    "pushedAt": "2026-03-13T22:34:19Z",
-    "updatedAt": "2026-03-13T22:41:05Z",
-    "createdAt": "2026-03-13T22:41:05Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "letta-ai/letta-code",
-    "parentStars": 1913,
-    "parentForks": 194
-  },
-  {
-    "nameWithOwner": "perditioinc/weaviate",
-    "name": "weaviate",
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database\u200b.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Go",
-    "pushedAt": "2026-03-13T22:31:17Z",
-    "updatedAt": "2026-03-13T23:07:30Z",
-    "createdAt": "2026-03-13T23:07:30Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "BSD 3-Clause \"New\" or \"Revised\" License",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "weaviate/weaviate",
-    "parentStars": 15834,
-    "parentForks": 1227
-  },
-  {
-    "nameWithOwner": "perditioinc/kuberay",
-    "name": "kuberay",
-    "description": "A toolkit to run Ray applications on Kubernetes",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Go",
-    "pushedAt": "2026-03-13T22:17:57Z",
-    "updatedAt": "2026-03-13T23:19:23Z",
-    "createdAt": "2026-03-13T23:19:23Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "master",
-    "parentRepo": "ray-project/kuberay",
-    "parentStars": 2385,
-    "parentForks": 723
-  },
-  {
-    "nameWithOwner": "perditioinc/financial-services-plugins",
-    "name": "financial-services-plugins",
-    "description": null,
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Python",
-    "pushedAt": "2026-03-13T22:12:13Z",
-    "updatedAt": "2026-03-14T00:03:35Z",
-    "createdAt": "2026-03-14T00:03:35Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "anthropics/financial-services-plugins",
-    "parentStars": 6423,
-    "parentForks": 728
-  },
-  {
-    "nameWithOwner": "perditioinc/Unity-MCP_",
-    "name": "Unity-MCP_",
-    "description": "AI-powered bridge connecting LLMs and advanced AI agents to the Unity Editor via the Model Context Protocol (MCP). Chat with AI to generate code, debug errors, and automate game development tasks directly within your project.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "C#",
-    "pushedAt": "2026-03-13T21:49:56Z",
-    "updatedAt": "2026-03-13T21:58:49Z",
-    "createdAt": "2026-03-13T21:58:49Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "IvanMurzak/Unity-MCP",
-    "parentStars": 1376,
-    "parentForks": 141
-  },
-  {
-    "nameWithOwner": "perditioinc/TypeScript_",
-    "name": "TypeScript_",
-    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "TypeScript",
-    "pushedAt": "2026-03-13T21:48:16Z",
-    "updatedAt": "2026-03-13T23:42:51Z",
-    "createdAt": "2026-03-13T23:42:51Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "microsoft/TypeScript",
-    "parentStars": 108218,
-    "parentForks": 13312
-  },
-  {
-    "nameWithOwner": "perditioinc/knowledge-work-plugins",
-    "name": "knowledge-work-plugins",
-    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Python",
-    "pushedAt": "2026-03-13T21:47:30Z",
-    "updatedAt": "2026-03-14T00:03:20Z",
-    "createdAt": "2026-03-14T00:03:20Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "anthropics/knowledge-work-plugins",
-    "parentStars": 10025,
-    "parentForks": 1083
-  },
-  {
-    "nameWithOwner": "perditioinc/ComfyUI_frontend",
-    "name": "ComfyUI_frontend",
-    "description": "Official front-end implementation of ComfyUI",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "TypeScript",
-    "pushedAt": "2026-03-13T21:45:42Z",
-    "updatedAt": "2026-03-13T21:46:21Z",
-    "createdAt": "2026-03-13T21:46:21Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "GNU General Public License v3.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "Comfy-Org/ComfyUI_frontend",
-    "parentStars": 1711,
-    "parentForks": 530
-  },
-  {
-    "nameWithOwner": "perditioinc/rocm-systems",
-    "name": "rocm-systems",
-    "description": "super repo for rocm systems projects",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "C++",
-    "pushedAt": "2026-03-13T21:43:17Z",
-    "updatedAt": "2026-03-13T21:53:35Z",
-    "createdAt": "2026-03-13T21:53:35Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": null,
-    "openIssues": 0,
-    "defaultBranch": "develop",
-    "parentRepo": "ROCm/rocm-systems",
-    "parentStars": 314,
-    "parentForks": 177
-  },
-  {
-    "nameWithOwner": "perditioinc/systemd",
-    "name": "systemd",
-    "description": "The systemd System and Service Manager ",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "C",
-    "pushedAt": "2026-03-13T21:42:34Z",
-    "updatedAt": "2026-03-13T22:03:02Z",
-    "createdAt": "2026-03-13T22:03:02Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "GNU General Public License v2.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "systemd/systemd",
-    "parentStars": 15484,
-    "parentForks": 4308
-  },
-  {
-    "nameWithOwner": "perditioinc/Guardrails",
-    "name": "Guardrails",
-    "description": "NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Python",
-    "pushedAt": "2026-03-13T21:38:04Z",
-    "updatedAt": "2026-03-13T23:09:47Z",
-    "createdAt": "2026-03-13T23:09:47Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Other",
-    "openIssues": 0,
-    "defaultBranch": "develop",
-    "parentRepo": "NVIDIA-NeMo/Guardrails",
-    "parentStars": 5823,
-    "parentForks": 632
-  },
-  {
-    "nameWithOwner": "perditioinc/runtime",
-    "name": "runtime",
-    "description": ".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "C#",
-    "pushedAt": "2026-03-13T21:18:05Z",
-    "updatedAt": "2026-03-13T22:01:08Z",
-    "createdAt": "2026-03-13T22:01:08Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "MIT License",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "dotnet/runtime",
-    "parentStars": 17743,
-    "parentForks": 5383
-  },
-  {
-    "nameWithOwner": "perditioinc/openai-python",
-    "name": "openai-python",
-    "description": "The official Python library for the OpenAI API",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Python",
-    "pushedAt": "2026-03-13T21:12:05Z",
-    "updatedAt": "2026-03-14T00:06:01Z",
-    "createdAt": "2026-03-14T00:06:01Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "openai/openai-python",
-    "parentStars": 30292,
-    "parentForks": 4645
-  },
-  {
-    "nameWithOwner": "perditioinc/openai-node",
-    "name": "openai-node",
-    "description": "Official JavaScript / TypeScript library for the OpenAI API",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "TypeScript",
-    "pushedAt": "2026-03-13T21:12:03Z",
-    "updatedAt": "2026-03-14T00:06:16Z",
-    "createdAt": "2026-03-14T00:06:16Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "master",
-    "parentRepo": "openai/openai-node",
-    "parentStars": 10746,
-    "parentForks": 1430
-  },
-  {
-    "nameWithOwner": "perditioinc/kilocode",
-    "name": "kilocode",
-    "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 coding agent on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "TypeScript",
-    "pushedAt": "2026-03-13T21:03:08Z",
-    "updatedAt": "2026-03-13T23:14:46Z",
-    "createdAt": "2026-03-13T23:14:46Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "MIT License",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "Kilo-Org/kilocode",
-    "parentStars": 16947,
-    "parentForks": 2187
-  },
-  {
-    "nameWithOwner": "perditioinc/kolibri",
-    "name": "kolibri",
-    "description": "Kolibri Learning Platform: the offline app for universal education",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "CSS",
-    "pushedAt": "2026-03-13T20:54:45Z",
-    "updatedAt": "2026-03-13T21:48:41Z",
-    "createdAt": "2026-03-13T21:48:41Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "MIT License",
-    "openIssues": 0,
-    "defaultBranch": "develop",
-    "parentRepo": "learningequality/kolibri",
-    "parentStars": 1011,
-    "parentForks": 933
-  },
-  {
-    "nameWithOwner": "perditioinc/bifrost",
-    "name": "bifrost",
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 \u00b5s overhead at 5k RPS.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Go",
-    "pushedAt": "2026-03-13T20:54:22Z",
-    "updatedAt": "2026-03-13T23:10:58Z",
-    "createdAt": "2026-03-13T23:10:58Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "maximhq/bifrost",
-    "parentStars": 3045,
-    "parentForks": 326
-  },
-  {
-    "nameWithOwner": "perditioinc/haystack",
-    "name": "haystack",
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "MDX",
-    "pushedAt": "2026-03-13T20:39:24Z",
-    "updatedAt": "2026-03-14T03:22:05Z",
-    "createdAt": "2026-03-14T03:22:05Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "deepset-ai/haystack",
-    "parentStars": 24564,
-    "parentForks": 2668
-  },
-  {
-    "nameWithOwner": "perditioinc/varlock",
-    "name": "varlock",
-    "description": ".env files built for sharing powered by @env-spec decorator comments",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "TypeScript",
-    "pushedAt": "2026-03-13T20:30:37Z",
-    "updatedAt": "2026-03-13T21:44:58Z",
-    "createdAt": "2026-03-13T21:44:58Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "MIT License",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "dmno-dev/varlock",
-    "parentStars": 2660,
-    "parentForks": 67
-  },
-  {
-    "nameWithOwner": "perditioinc/agno",
-    "name": "agno",
-    "description": "Build, run, manage agentic software at scale.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Python",
-    "pushedAt": "2026-03-13T20:04:03Z",
-    "updatedAt": "2026-03-13T22:41:42Z",
-    "createdAt": "2026-03-13T22:41:42Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "agno-agi/agno",
-    "parentStars": 38815,
-    "parentForks": 5139
-  },
-  {
-    "nameWithOwner": "perditioinc/openai-dotnet",
-    "name": "openai-dotnet",
-    "description": "The official .NET library for the OpenAI API",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "C#",
-    "pushedAt": "2026-03-13T19:44:12Z",
-    "updatedAt": "2026-03-14T00:12:52Z",
-    "createdAt": "2026-03-14T00:12:52Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "MIT License",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "openai/openai-dotnet",
-    "parentStars": 2537,
-    "parentForks": 375
-  },
-  {
-    "nameWithOwner": "perditioinc/promptflow",
-    "name": "promptflow",
-    "description": "Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Python",
-    "pushedAt": "2026-03-13T19:40:40Z",
-    "updatedAt": "2026-03-13T23:49:49Z",
-    "createdAt": "2026-03-13T23:49:49Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "MIT License",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "microsoft/promptflow",
-    "parentStars": 11071,
-    "parentForks": 1081
-  },
-  {
-    "nameWithOwner": "perditioinc/aspnetcore",
-    "name": "aspnetcore",
-    "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "C#",
-    "pushedAt": "2026-03-13T19:32:46Z",
-    "updatedAt": "2026-03-13T21:59:25Z",
-    "createdAt": "2026-03-13T21:59:25Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "MIT License",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "dotnet/aspnetcore",
-    "parentStars": 37769,
-    "parentForks": 10612
-  },
-  {
-    "nameWithOwner": "perditioinc/playwright-mcp",
-    "name": "playwright-mcp",
-    "description": "Playwright MCP server",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "TypeScript",
-    "pushedAt": "2026-03-13T18:59:22Z",
-    "updatedAt": "2026-03-13T23:46:10Z",
-    "createdAt": "2026-03-13T23:46:10Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "microsoft/playwright-mcp",
-    "parentStars": 29310,
-    "parentForks": 2366
-  },
-  {
-    "nameWithOwner": "perditioinc/ImageMagick",
-    "name": "ImageMagick",
-    "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "C",
-    "pushedAt": "2026-03-13T18:54:41Z",
-    "updatedAt": "2026-03-13T22:02:11Z",
-    "createdAt": "2026-03-13T22:02:11Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Other",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "ImageMagick/ImageMagick",
-    "parentStars": 15960,
-    "parentForks": 1563
-  },
-  {
-    "nameWithOwner": "perditioinc/mlflow",
-    "name": "mlflow",
-    "description": "The open source AI engineering platform. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI agents, LLM applications, and ML models while controlling costs and managing access to models and data.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Python",
-    "pushedAt": "2026-03-13T18:52:59Z",
-    "updatedAt": "2026-03-13T23:16:21Z",
-    "createdAt": "2026-03-13T23:16:21Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "master",
-    "parentRepo": "mlflow/mlflow",
-    "parentStars": 24858,
-    "parentForks": 5451
-  },
-  {
-    "nameWithOwner": "perditioinc/sqlite-vec",
-    "name": "sqlite-vec",
-    "description": "A vector search SQLite extension that runs anywhere!",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "C",
-    "pushedAt": "2026-03-13T18:46:13Z",
-    "updatedAt": "2026-03-13T22:07:07Z",
-    "createdAt": "2026-03-13T22:07:07Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "asg017/sqlite-vec",
-    "parentStars": 7223,
-    "parentForks": 294
-  },
-  {
-    "nameWithOwner": "perditioinc/open-gpu-kernel-modules",
-    "name": "open-gpu-kernel-modules",
-    "description": "NVIDIA Linux open GPU kernel module source",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "C",
-    "pushedAt": "2026-03-13T18:33:52Z",
-    "updatedAt": "2026-03-14T00:16:15Z",
-    "createdAt": "2026-03-14T00:16:15Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Other",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "NVIDIA/open-gpu-kernel-modules",
-    "parentStars": 16818,
-    "parentForks": 1630
-  },
-  {
-    "nameWithOwner": "perditioinc/OrcaSlicer",
-    "name": "OrcaSlicer",
-    "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "C++",
-    "pushedAt": "2026-03-13T18:01:42Z",
-    "updatedAt": "2026-03-13T21:53:07Z",
-    "createdAt": "2026-03-13T21:53:07Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "GNU Affero General Public License v3.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "OrcaSlicer/OrcaSlicer",
-    "parentStars": 12948,
-    "parentForks": 1881
-  },
-  {
-    "nameWithOwner": "perditioinc/fluentui",
-    "name": "fluentui",
-    "description": "Fluent UI web represents a collection of utilities, React components, and web components for building web applications.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "TypeScript",
-    "pushedAt": "2026-03-13T17:42:28Z",
-    "updatedAt": "2026-03-13T23:48:48Z",
-    "createdAt": "2026-03-13T23:48:48Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Other",
-    "openIssues": 0,
-    "defaultBranch": "master",
-    "parentRepo": "microsoft/fluentui",
-    "parentStars": 19880,
-    "parentForks": 2875
-  },
-  {
-    "nameWithOwner": "perditioinc/claude-agent-sdk-demos",
-    "name": "claude-agent-sdk-demos",
-    "description": "Claude Code SDK Demos",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "TypeScript",
-    "pushedAt": "2026-03-13T17:15:43Z",
-    "updatedAt": "2026-03-14T00:04:12Z",
-    "createdAt": "2026-03-14T00:04:12Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": null,
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "anthropics/claude-agent-sdk-demos",
-    "parentStars": 1765,
-    "parentForks": 272
-  },
-  {
-    "nameWithOwner": "perditioinc/workflow-use",
-    "name": "workflow-use",
-    "description": "\u2699\ufe0f Create and run workflows (RPA 2.0)",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Python",
-    "pushedAt": "2026-03-13T17:15:40Z",
-    "updatedAt": "2026-03-13T23:25:00Z",
-    "createdAt": "2026-03-13T23:25:00Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "GNU Affero General Public License v3.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "browser-use/workflow-use",
-    "parentStars": 3908,
-    "parentForks": 313
-  },
-  {
-    "nameWithOwner": "perditioinc/zenml",
-    "name": "zenml",
-    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Python",
-    "pushedAt": "2026-03-13T17:13:19Z",
-    "updatedAt": "2026-03-13T23:18:45Z",
-    "createdAt": "2026-03-13T23:18:45Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "zenml-io/zenml",
-    "parentStars": 5281,
-    "parentForks": 592
-  },
-  {
-    "nameWithOwner": "perditioinc/qdrant-client",
-    "name": "qdrant-client",
-    "description": "Python client for Qdrant vector search engine",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Python",
-    "pushedAt": "2026-03-13T17:12:54Z",
-    "updatedAt": "2026-03-13T23:05:52Z",
-    "createdAt": "2026-03-13T23:05:52Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "master",
-    "parentRepo": "qdrant/qdrant-client",
-    "parentStars": 1244,
-    "parentForks": 202
-  },
-  {
-    "nameWithOwner": "perditioinc/MiroThinker",
-    "name": "MiroThinker",
-    "description": "MiroThinker is a deep research agent optimized for complex research and prediction tasks. Our latest models, MiroThinker-1.7 and MiroThinker-H1, achieve 74.0 and 88.2 on the BrowseComp, respectively.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Python",
-    "pushedAt": "2026-03-13T16:55:34Z",
-    "updatedAt": "2026-03-18T05:05:25Z",
-    "createdAt": "2026-03-13T21:38:25Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "MiroMindAI/MiroThinker",
-    "parentStars": 7328,
-    "parentForks": 561
-  },
-  {
-    "nameWithOwner": "perditioinc/tmux",
-    "name": "tmux",
-    "description": "tmux source code",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "C",
-    "pushedAt": "2026-03-13T16:48:46Z",
-    "updatedAt": "2026-03-13T22:05:45Z",
-    "createdAt": "2026-03-13T22:05:44Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Other",
-    "openIssues": 0,
-    "defaultBranch": "master",
-    "parentRepo": "tmux/tmux",
-    "parentStars": 43291,
-    "parentForks": 2501
-  },
-  {
-    "nameWithOwner": "perditioinc/cuopt-examples",
-    "name": "cuopt-examples",
-    "description": "NVIDIA cuOpt examples for decision optimization",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Jupyter Notebook",
-    "pushedAt": "2026-03-13T16:06:23Z",
-    "updatedAt": "2026-03-14T00:16:10Z",
-    "createdAt": "2026-03-14T00:16:10Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "NVIDIA/cuopt-examples",
-    "parentStars": 424,
-    "parentForks": 72
-  },
-  {
-    "nameWithOwner": "perditioinc/browser",
-    "name": "browser",
-    "description": "Lightpanda: the headless browser designed for AI and automation",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Zig",
-    "pushedAt": "2026-03-13T15:49:34Z",
-    "updatedAt": "2026-03-13T21:37:21Z",
-    "createdAt": "2026-03-13T21:37:21Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "GNU Affero General Public License v3.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "lightpanda-io/browser",
-    "parentStars": 22332,
-    "parentForks": 858
-  },
-  {
-    "nameWithOwner": "perditioinc/GenerativeAIExamples",
-    "name": "GenerativeAIExamples",
-    "description": "Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Jupyter Notebook",
-    "pushedAt": "2026-03-13T15:36:49Z",
-    "updatedAt": "2026-03-13T21:42:04Z",
-    "createdAt": "2026-03-13T21:42:04Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "NVIDIA/GenerativeAIExamples",
-    "parentStars": 3863,
-    "parentForks": 1010
-  },
-  {
-    "nameWithOwner": "perditioinc/genai-processors",
-    "name": "genai-processors",
-    "description": "GenAI Processors is a lightweight Python library that enables efficient, parallel content processing.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Python",
-    "pushedAt": "2026-03-13T15:01:26Z",
-    "updatedAt": "2026-03-13T23:40:45Z",
-    "createdAt": "2026-03-13T23:40:45Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "google-gemini/genai-processors",
-    "parentStars": 2079,
-    "parentForks": 213
-  },
-  {
-    "nameWithOwner": "perditioinc/wiseflow",
-    "name": "wiseflow",
-    "description": "enhance any agent's browser use skill",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2026-03-13T14:40:35Z",
-    "updatedAt": "2026-03-13T23:25:22Z",
-    "createdAt": "2026-03-13T23:25:21Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Other",
-    "openIssues": 0,
-    "defaultBranch": "master",
-    "parentRepo": "TeamWiseFlow/wiseflow",
-    "parentStars": 8127,
-    "parentForks": 1410
-  },
-  {
-    "nameWithOwner": "perditioinc/semantic-kernel",
-    "name": "semantic-kernel",
-    "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "C#",
-    "pushedAt": "2026-03-13T13:14:00Z",
-    "updatedAt": "2026-03-13T21:57:59Z",
-    "createdAt": "2026-03-13T21:57:59Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "MIT License",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "microsoft/semantic-kernel",
-    "parentStars": 27512,
-    "parentForks": 4517
-  },
-  {
-    "nameWithOwner": "perditioinc/ai-engineering-hub",
-    "name": "ai-engineering-hub",
-    "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Jupyter Notebook",
-    "pushedAt": "2026-03-13T13:02:07Z",
-    "updatedAt": "2026-03-13T21:43:37Z",
-    "createdAt": "2026-03-13T21:43:37Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "MIT License",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "patchy631/ai-engineering-hub",
-    "parentStars": 32321,
-    "parentForks": 5333
-  },
-  {
-    "nameWithOwner": "perditioinc/gemini-voyager",
-    "name": "gemini-voyager",
-    "description": "An all-in-one enhancement suite for Google Gemini & AI Studio - timeline navigation, folder management, prompt library, and chat export in one powerful extension. / Google Gemini & AI Studio \u5168\u80fd\u589e\u5f3a\u63d2\u4ef6\uff1a\u96c6\u6210\u65f6\u95f4\u8f74\u5bfc\u822a\u3001\u6587\u4ef6\u5939\u7ba1\u7406\u3001\u63d0\u793a\u8bcd\u5e93\u53ca\u804a\u5929\u5bfc\u51fa\u7b49\u4f17\u591a\u529f\u80fd\u3002",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "TypeScript",
-    "pushedAt": "2026-03-13T13:00:28Z",
-    "updatedAt": "2026-03-13T21:46:51Z",
-    "createdAt": "2026-03-13T21:46:51Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "GNU General Public License v3.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "Nagi-ovo/gemini-voyager",
-    "parentStars": 12897,
-    "parentForks": 389
-  },
-  {
-    "nameWithOwner": "perditioinc/supersplat",
-    "name": "supersplat",
-    "description": "3D Gaussian Splat Editor",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "TypeScript",
-    "pushedAt": "2026-03-13T11:57:50Z",
-    "updatedAt": "2026-03-13T21:45:11Z",
-    "createdAt": "2026-03-13T21:45:11Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "MIT License",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "playcanvas/supersplat",
-    "parentStars": 3937,
-    "parentForks": 463
-  },
-  {
-    "nameWithOwner": "perditioinc/cookbook",
-    "name": "cookbook",
-    "description": "Examples and guides for using the Gemini API",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Jupyter Notebook",
-    "pushedAt": "2026-03-13T11:31:56Z",
-    "updatedAt": "2026-03-13T23:40:05Z",
-    "createdAt": "2026-03-13T23:40:05Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "google-gemini/cookbook",
-    "parentStars": 16782,
-    "parentForks": 2538
-  },
-  {
-    "nameWithOwner": "perditioinc/bootcamp",
-    "name": "bootcamp",
-    "description": "Dealing with all unstructured data, such as reverse image search, audio search, molecular search, video analysis, question and answer systems, NLP, etc.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Jupyter Notebook",
-    "pushedAt": "2026-03-13T10:12:53Z",
-    "updatedAt": "2026-03-13T23:06:48Z",
-    "createdAt": "2026-03-13T23:06:48Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "master",
-    "parentRepo": "milvus-io/bootcamp",
-    "parentStars": 2396,
-    "parentForks": 679
-  },
-  {
-    "nameWithOwner": "perditioinc/prompt-optimizer",
-    "name": "prompt-optimizer",
-    "description": "\u4e00\u6b3e\u63d0\u793a\u8bcd\u4f18\u5316\u5668\uff0c\u52a9\u529b\u4e8e\u7f16\u5199\u9ad8\u8d28\u91cf\u7684\u63d0\u793a\u8bcd",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "TypeScript",
-    "pushedAt": "2026-03-13T09:59:06Z",
-    "updatedAt": "2026-03-13T21:47:02Z",
-    "createdAt": "2026-03-13T21:47:02Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Other",
-    "openIssues": 0,
-    "defaultBranch": "develop",
-    "parentRepo": "linshenkx/prompt-optimizer",
-    "parentStars": 25130,
-    "parentForks": 2975
-  },
-  {
-    "nameWithOwner": "perditioinc/pymilvus",
-    "name": "pymilvus",
-    "description": "Python SDK for Milvus Vector Database",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Python",
-    "pushedAt": "2026-03-13T09:53:52Z",
-    "updatedAt": "2026-03-13T23:06:52Z",
-    "createdAt": "2026-03-13T23:06:52Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "master",
-    "parentRepo": "milvus-io/pymilvus",
-    "parentStars": 1356,
-    "parentForks": 419
-  },
-  {
-    "nameWithOwner": "perditioinc/jetson-containers",
-    "name": "jetson-containers",
-    "description": "Machine Learning Containers for NVIDIA Jetson and JetPack-L4T",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Jupyter Notebook",
-    "pushedAt": "2026-03-13T09:45:56Z",
-    "updatedAt": "2026-03-16T05:13:18Z",
-    "createdAt": "2026-03-16T05:13:17Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Other",
-    "openIssues": 0,
-    "defaultBranch": "master",
-    "parentRepo": "dusty-nv/jetson-containers",
-    "parentStars": 4494,
-    "parentForks": 817
-  },
-  {
-    "nameWithOwner": "perditioinc/dashy",
-    "name": "dashy",
-    "description": "\ud83d\ude80 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Vue",
-    "pushedAt": "2026-03-13T09:27:15Z",
-    "updatedAt": "2026-03-13T10:38:59Z",
-    "createdAt": "2026-03-13T10:38:59Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "MIT License",
-    "openIssues": 0,
-    "defaultBranch": "master",
-    "parentRepo": "Lissy93/dashy",
-    "parentStars": 24278,
-    "parentForks": 1778
-  },
-  {
-    "nameWithOwner": "perditioinc/Rust",
-    "name": "Rust",
-    "description": " All Algorithms implemented in Rust ",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Rust",
-    "pushedAt": "2026-03-13T08:47:34Z",
-    "updatedAt": "2026-03-13T23:38:43Z",
-    "createdAt": "2026-03-13T23:38:43Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "MIT License",
-    "openIssues": 0,
-    "defaultBranch": "master",
-    "parentRepo": "TheAlgorithms/Rust",
-    "parentStars": 25587,
-    "parentForks": 2541
-  },
-  {
-    "nameWithOwner": "perditioinc/nvidia-container-toolkit",
-    "name": "nvidia-container-toolkit",
-    "description": "Build and run containers leveraging NVIDIA GPUs",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Go",
-    "pushedAt": "2026-03-13T08:16:02Z",
-    "updatedAt": "2026-03-14T00:16:25Z",
-    "createdAt": "2026-03-14T00:16:25Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "NVIDIA/nvidia-container-toolkit",
-    "parentStars": 4168,
-    "parentForks": 494
-  },
-  {
-    "nameWithOwner": "perditioinc/RD-Agent",
-    "name": "RD-Agent",
-    "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. \ud83d\udd17https://aka.ms/RD-Agent-Tech-Report",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Python",
-    "pushedAt": "2026-03-13T08:04:15Z",
-    "updatedAt": "2026-03-13T23:49:38Z",
-    "createdAt": "2026-03-13T23:49:38Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "MIT License",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "microsoft/RD-Agent",
-    "parentStars": 11927,
-    "parentForks": 1380
-  },
-  {
-    "nameWithOwner": "perditioinc/browser-use",
-    "name": "browser-use",
-    "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Python",
-    "pushedAt": "2026-03-13T07:31:43Z",
-    "updatedAt": "2026-03-13T23:24:48Z",
-    "createdAt": "2026-03-13T23:24:48Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "MIT License",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "browser-use/browser-use",
-    "parentStars": 81355,
-    "parentForks": 9612
+    "parentStars": 4970,
+    "parentForks": 487
   }
 ]

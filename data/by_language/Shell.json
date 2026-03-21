@@ -38,8 +38,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "FlorianBruniaux/claude-code-ultimate-guide",
-    "parentStars": 2001,
-    "parentForks": 313
+    "parentStars": 2033,
+    "parentForks": 316
   },
   {
     "nameWithOwner": "perditioinc/tinyclaw",
@@ -59,7 +59,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "TinyAGI/tinyagi",
-    "parentStars": 3171,
+    "parentStars": 3176,
     "parentForks": 465
   },
   {
@@ -80,8 +80,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "msitarzewski/agency-agents",
-    "parentStars": 55883,
-    "parentForks": 8376
+    "parentStars": 57015,
+    "parentForks": 8542
   },
   {
     "nameWithOwner": "perditioinc/superpowers",
@@ -101,8 +101,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "obra/superpowers",
-    "parentStars": 100044,
-    "parentForks": 7982
+    "parentStars": 101890,
+    "parentForks": 8148
   },
   {
     "nameWithOwner": "perditioinc/awesome-claude-code-subagents",
@@ -122,8 +122,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "VoltAgent/awesome-claude-code-subagents",
-    "parentStars": 14454,
-    "parentForks": 1602
+    "parentStars": 14571,
+    "parentForks": 1617
   },
   {
     "nameWithOwner": "perditioinc/claude-code",
@@ -143,8 +143,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "anthropics/claude-code",
-    "parentStars": 80293,
-    "parentForks": 6634
+    "parentStars": 80666,
+    "parentForks": 6680
   },
   {
     "nameWithOwner": "perditioinc/claude-agent-sdk-typescript",
@@ -164,7 +164,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "anthropics/claude-agent-sdk-typescript",
-    "parentStars": 985,
+    "parentStars": 990,
     "parentForks": 110
   }
 ]
