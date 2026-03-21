@@ -6,6 +6,7 @@ on:
 
 permissions:
   contents: read
+  issues: write
 
 jobs:
   test:
@@ -28,3 +29,15 @@ jobs:
 
       - name: Test
         run: pytest tests/ -v --timeout=30
+
+  notify-on-failure:
+    needs: test
+    if: failure()
+    uses: perditioinc/perditio-devkit/.github/workflows/on-test-failure.yml@main
+    with:
+      branch: ${{ github.ref_name }}
+      sha: ${{ github.sha }}
+      run_id: ${{ github.run_id }}
+      repo: ${{ github.repository }}
+    permissions:
+      issues: write
