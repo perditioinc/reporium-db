@@ -1,27 +1,27 @@
 {
   "meta": {
-    "total": 831,
-    "last_updated": "2026-03-21T05:44:30.671884+00:00",
+    "total": 1054,
+    "last_updated": "2026-03-22T10:11:25.617500+00:00",
     "version": "1.0.0"
   },
   "categories": {
     "tooling": 1
   },
   "languages": {
-    "Python": 322,
-    "TypeScript": 114,
-    "Jupyter Notebook": 87,
-    "C++": 67,
-    "Go": 37,
-    "C": 30,
-    "JavaScript": 29,
+    "Python": 439,
+    "TypeScript": 145,
+    "Jupyter Notebook": 92,
+    "C++": 73,
+    "JavaScript": 49,
+    "Go": 39,
+    "C": 31,
+    "Rust": 28,
     "C#": 21,
-    "Rust": 15,
+    "HTML": 16,
     "Shell": 8,
-    "HTML": 8,
+    "Java": 7,
     "MDX": 5,
     "CSS": 5,
-    "Java": 4,
     "Cuda": 3,
     "Zig": 2,
     "Swift": 2,
@@ -36,6 +36,8 @@
     "Scala": 1,
     "ABAP": 1,
     "Svelte": 1,
-    "Elixir": 1
+    "Elixir": 1,
+    "Kotlin": 1,
+    "Nushell": 1
   }
 }

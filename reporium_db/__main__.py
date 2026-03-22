@@ -103,8 +103,8 @@ async def _cmd_sync(dry_run: bool) -> None:
         run.duration_seconds = time.monotonic() - t0
 
         readme = generate_readme(run, index)
-        Path("README.md").write_text(readme)
-        Path("LAST_RUN.md").write_text(generate_last_run(run))
+        Path("README.md").write_text(readme, encoding="utf-8")
+        Path("LAST_RUN.md").write_text(generate_last_run(run), encoding="utf-8")
 
         logger.info(
             "Sync complete in %.1fs — %d new, %d updated",

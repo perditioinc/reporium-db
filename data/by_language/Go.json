@@ -17,7 +17,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google/adk-go",
-    "parentStars": 7205,
+    "parentStars": 7212,
     "parentForks": 585
   },
   {
@@ -38,8 +38,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "github/gh-aw",
-    "parentStars": 4146,
-    "parentForks": 307
+    "parentStars": 4144,
+    "parentForks": 308
   },
   {
     "nameWithOwner": "perditioinc/picoclaw",
@@ -59,8 +59,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "sipeed/picoclaw",
-    "parentStars": 25645,
-    "parentForks": 3531
+    "parentStars": 25750,
+    "parentForks": 3559
   },
   {
     "nameWithOwner": "perditioinc/flyte",
@@ -80,8 +80,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "flyteorg/flyte",
-    "parentStars": 6896,
-    "parentForks": 800
+    "parentStars": 6897,
+    "parentForks": 801
   },
   {
     "nameWithOwner": "perditioinc/genai-toolbox",
@@ -101,7 +101,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "googleapis/genai-toolbox",
-    "parentStars": 13480,
+    "parentStars": 13489,
     "parentForks": 1275
   },
   {
@@ -122,8 +122,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "pinchtab/pinchtab",
-    "parentStars": 8025,
-    "parentForks": 597
+    "parentStars": 8056,
+    "parentForks": 601
   },
   {
     "nameWithOwner": "perditioinc/plandex",
@@ -143,8 +143,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "plandex-ai/plandex",
-    "parentStars": 15114,
-    "parentForks": 1103
+    "parentStars": 15118,
+    "parentForks": 1104
   },
   {
     "nameWithOwner": "perditioinc/ollama",
@@ -164,8 +164,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "ollama/ollama",
-    "parentStars": 165720,
-    "parentForks": 15085
+    "parentStars": 165841,
+    "parentForks": 15098
   },
   {
     "nameWithOwner": "perditioinc/dolt",
@@ -185,8 +185,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "dolthub/dolt",
-    "parentStars": 21541,
-    "parentForks": 702
+    "parentStars": 21584,
+    "parentForks": 703
   },
   {
     "nameWithOwner": "perditioinc/milvus",
@@ -206,8 +206,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "milvus-io/milvus",
-    "parentStars": 43423,
-    "parentForks": 3909
+    "parentStars": 43450,
+    "parentForks": 3910
   },
   {
     "nameWithOwner": "perditioinc/weaviate",
@@ -227,8 +227,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "weaviate/weaviate",
-    "parentStars": 15840,
-    "parentForks": 1227
+    "parentStars": 15854,
+    "parentForks": 1229
   },
   {
     "nameWithOwner": "perditioinc/bifrost",
@@ -248,8 +248,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "maximhq/bifrost",
-    "parentStars": 3060,
-    "parentForks": 328
+    "parentStars": 3074,
+    "parentForks": 332
   },
   {
     "nameWithOwner": "perditioinc/kuberay",
@@ -269,7 +269,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "ray-project/kuberay",
-    "parentStars": 2387,
+    "parentStars": 2389,
     "parentForks": 723
   },
   {
@@ -290,8 +290,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "GoogleCloudPlatform/microservices-demo",
-    "parentStars": 19978,
-    "parentForks": 9655
+    "parentStars": 19981,
+    "parentForks": 9658
   },
   {
     "nameWithOwner": "perditioinc/terraformer",
@@ -311,7 +311,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "GoogleCloudPlatform/terraformer",
-    "parentStars": 14523,
+    "parentStars": 14522,
     "parentForks": 1821
   },
   {
@@ -332,7 +332,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "GoogleCloudPlatform/kubectl-ai",
-    "parentStars": 7369,
+    "parentStars": 7370,
     "parentForks": 687
   },
   {
@@ -353,7 +353,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "GoogleCloudPlatform/golang-samples",
-    "parentStars": 4597,
+    "parentStars": 4598,
     "parentForks": 1861
   },
   {
@@ -395,7 +395,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "GoogleCloudPlatform/cloud-builders-community",
-    "parentStars": 1306,
+    "parentStars": 1307,
     "parentForks": 849
   },
   {
@@ -458,8 +458,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "TheAlgorithms/Go",
-    "parentStars": 17888,
-    "parentForks": 2792
+    "parentStars": 17893,
+    "parentForks": 2791
   },
   {
     "nameWithOwner": "perditioinc/generative-ai-go",
@@ -500,7 +500,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "openai/openai-go",
-    "parentStars": 3071,
+    "parentStars": 3076,
     "parentForks": 284
   },
   {
@@ -542,8 +542,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/nvidia-container-toolkit",
-    "parentStars": 4173,
-    "parentForks": 495
+    "parentStars": 4176,
+    "parentForks": 496
   },
   {
     "nameWithOwner": "perditioinc/navidrome",
@@ -563,8 +563,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "navidrome/navidrome",
-    "parentStars": 19966,
-    "parentForks": 1419
+    "parentStars": 19988,
+    "parentForks": 1420
   },
   {
     "nameWithOwner": "perditioinc/hugo",
@@ -584,8 +584,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "gohugoio/hugo",
-    "parentStars": 87181,
-    "parentForks": 8218
+    "parentStars": 87200,
+    "parentForks": 8219
   },
   {
     "nameWithOwner": "perditioinc/coder",
@@ -605,8 +605,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "coder/coder",
-    "parentStars": 12601,
-    "parentForks": 1219
+    "parentStars": 12607,
+    "parentForks": 1222
   },
   {
     "nameWithOwner": "perditioinc/pentagi",
@@ -626,8 +626,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "vxcontrol/pentagi",
-    "parentStars": 10211,
-    "parentForks": 1218
+    "parentStars": 11219,
+    "parentForks": 1408
   },
   {
     "nameWithOwner": "perditioinc/Fabric",
@@ -647,7 +647,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "danielmiessler/Fabric",
-    "parentStars": 40076,
+    "parentStars": 40100,
     "parentForks": 4003
   },
   {
@@ -668,8 +668,8 @@
     "openIssues": 0,
     "defaultBranch": "dev",
     "parentRepo": "projectdiscovery/katana",
-    "parentStars": 16195,
-    "parentForks": 1055
+    "parentStars": 16250,
+    "parentForks": 1062
   },
   {
     "nameWithOwner": "perditioinc/evcc",
@@ -689,8 +689,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "evcc-io/evcc",
-    "parentStars": 6282,
-    "parentForks": 1238
+    "parentStars": 6286,
+    "parentForks": 1239
   },
   {
     "nameWithOwner": "perditioinc/nofx",
@@ -710,8 +710,8 @@
     "openIssues": 0,
     "defaultBranch": "dev",
     "parentRepo": "NoFxAiOS/nofx",
-    "parentStars": 10985,
-    "parentForks": 2840
+    "parentStars": 11015,
+    "parentForks": 2841
   },
   {
     "nameWithOwner": "perditioinc/uncloud",
@@ -731,7 +731,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "psviderski/uncloud",
-    "parentStars": 4923,
+    "parentStars": 4926,
     "parentForks": 142
   },
   {
@@ -752,8 +752,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "mudler/LocalAI",
-    "parentStars": 44127,
-    "parentForks": 3762
+    "parentStars": 44192,
+    "parentForks": 3772
   },
   {
     "nameWithOwner": "perditioinc/container-use",
@@ -773,7 +773,49 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "dagger/container-use",
-    "parentStars": 3653,
-    "parentForks": 180
+    "parentStars": 3657,
+    "parentForks": 181
+  },
+  {
+    "nameWithOwner": "perditioinc/mcp-go",
+    "name": "mcp-go",
+    "description": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Go",
+    "pushedAt": "2026-03-15T09:15:46Z",
+    "updatedAt": "2026-03-21T09:19:50Z",
+    "createdAt": "2026-03-21T09:19:50Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "mark3labs/mcp-go",
+    "parentStars": 8404,
+    "parentForks": 800
+  },
+  {
+    "nameWithOwner": "perditioinc/trivy",
+    "name": "trivy",
+    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Go",
+    "pushedAt": "2026-03-19T23:13:49Z",
+    "updatedAt": "2026-03-22T09:04:18Z",
+    "createdAt": "2026-03-22T09:04:18Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Apache License 2.0",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "aquasecurity/trivy",
+    "parentStars": 33477,
+    "parentForks": 138
   }
 ]

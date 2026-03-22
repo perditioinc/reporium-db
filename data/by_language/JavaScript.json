@@ -1,5 +1,383 @@
 [
   {
+    "nameWithOwner": "perditioinc/digital-panda-planner",
+    "name": "digital-panda-planner",
+    "description": "Digital Panda Planner Pro",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2025-01-27T23:49:41Z",
+    "updatedAt": "2025-01-27T23:49:44Z",
+    "createdAt": "2025-01-26T23:46:52Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
+    "nameWithOwner": "perditioinc/whatsapp-webhook",
+    "name": "whatsapp-webhook",
+    "description": "Cloud Run webhook service for WhatsApp Flows. Handles encrypted Flow submissions, writes to Firestore, and supports CI/CD deployment via Cloud Build.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2025-09-22T16:41:45Z",
+    "updatedAt": "2025-09-22T16:41:49Z",
+    "createdAt": "2025-08-01T16:51:19Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
+    "nameWithOwner": "perditioinc/ticket-generator",
+    "name": "ticket-generator",
+    "description": "Cloud Run microservice that generates event tickets with personalized guest info, uploads to Meta, Firebase, and Google Drive, and returns media IDs for WhatsApp delivery. Designed for async Flow submissions and scalable messaging workflows.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2025-09-22T18:59:32Z",
+    "updatedAt": "2025-09-22T18:59:37Z",
+    "createdAt": "2025-08-06T05:21:34Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
+    "nameWithOwner": "perditioinc/ticket-issuer",
+    "name": "ticket-issuer",
+    "description": "Ticket Issuer (Cloud Run, us-central1). Sends WhatsApp tickets once a submission is READY and confirmed. Exposes /send, /wait-and-send, /pubsub/ticket-ready, and /healthz. Plays nice with Pub/Sub, Cloud Tasks, Firestore, and Google Sheets.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2025-08-11T15:19:33Z",
+    "updatedAt": "2025-08-11T15:19:37Z",
+    "createdAt": "2025-08-10T03:35:13Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
+    "nameWithOwner": "perditioinc/giveaway-generator",
+    "name": "giveaway-generator",
+    "description": "\u2014 Google Cloud Run microservice that generates personalized \u201cSpecial Guest Giveaway\u201d flyers from a base template, auto-styling the guest\u2019s name, and uploads them to Firebase Storage and Google Drive while updating Firestore and Google Sheets.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2025-08-13T13:48:45Z",
+    "updatedAt": "2025-08-13T13:48:49Z",
+    "createdAt": "2025-08-13T08:03:19Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
+    "nameWithOwner": "perditioinc/didymo-ai-website",
+    "name": "didymo-ai-website",
+    "description": "Didymo.ai landing page for leads generation using AI digital twin avatar",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2025-08-20T20:47:59Z",
+    "updatedAt": "2025-08-20T20:48:04Z",
+    "createdAt": "2025-08-17T22:29:48Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
+    "nameWithOwner": "perditioinc/didymo-ai-api",
+    "name": "didymo-ai-api",
+    "description": "Backend API service for **Didymo AI Digital Twin** platform.   This service provides REST endpoints for lead capture, demo session management, and a lightweight admin dashboard.  ",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2025-08-22T02:55:57Z",
+    "updatedAt": "2025-08-21T23:32:53Z",
+    "createdAt": "2025-08-18T16:16:20Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
+    "nameWithOwner": "perditioinc/didymo-ai-agent",
+    "name": "didymo-ai-agent",
+    "description": "orchestrates memory + RAG + LLM",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2025-08-21T17:47:51Z",
+    "updatedAt": "2025-08-20T23:30:33Z",
+    "createdAt": "2025-08-20T21:53:50Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
+    "nameWithOwner": "perditioinc/didymo-ai-openai-stt",
+    "name": "didymo-ai-openai-stt",
+    "description": "OpenAI speech\u2192text",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2025-08-21T17:48:54Z",
+    "updatedAt": "2025-08-20T23:59:03Z",
+    "createdAt": "2025-08-20T21:55:21Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
+    "nameWithOwner": "perditioinc/didymo-ai-openai-tts",
+    "name": "didymo-ai-openai-tts",
+    "description": "OpenAI text\u2192speech",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2025-08-21T18:07:30Z",
+    "updatedAt": "2025-08-21T18:07:34Z",
+    "createdAt": "2025-08-20T21:55:58Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
+    "nameWithOwner": "perditioinc/didymo-ai-vector",
+    "name": "didymo-ai-vector",
+    "description": "(vector search & upsert; can sit on Supabase or pgvector/AlloyDB)",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2025-08-26T05:22:24Z",
+    "updatedAt": "2025-08-23T00:57:54Z",
+    "createdAt": "2025-08-20T22:02:27Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
+    "nameWithOwner": "perditioinc/didymo-ai-usage",
+    "name": "didymo-ai-usage",
+    "description": "consumes usage events (Pub/Sub), aggregates per tenant/day, (optionally) triggers Stripe metered billing.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2025-08-26T05:22:07Z",
+    "updatedAt": "2025-08-21T04:37:20Z",
+    "createdAt": "2025-08-21T04:10:02Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
+    "nameWithOwner": "perditioinc/didymo-ai-ingest",
+    "name": "didymo-ai-ingest",
+    "description": "admin/batch ingestion for RAG (pull docs \u2192 chunk \u2192 upsert to vector).",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2025-08-24T03:11:41Z",
+    "updatedAt": "2025-08-22T05:59:11Z",
+    "createdAt": "2025-08-21T04:11:09Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
+    "nameWithOwner": "perditioinc/didymo-ai-services-lab",
+    "name": "didymo-ai-services-lab",
+    "description": "Admin Dashboard website view for testing and monitoring Google Cloud Services",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2025-08-26T05:21:30Z",
+    "updatedAt": "2025-08-22T02:35:51Z",
+    "createdAt": "2025-08-21T19:34:10Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
+    "nameWithOwner": "perditioinc/didymo-ai-studio",
+    "name": "didymo-ai-studio",
+    "description": "Didymo.ai Studio hosted on website where users can create their own digital twins using brain builder and avatar creator tools",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2025-08-26T05:21:44Z",
+    "updatedAt": "2025-08-25T04:49:23Z",
+    "createdAt": "2025-08-24T17:45:20Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
+    "nameWithOwner": "perditioinc/didymo-ai-auth",
+    "name": "didymo-ai-auth",
+    "description": "SSO for all Didymo.ai Apps via Google & Email/Password through Firebase",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2025-08-27T00:50:39Z",
+    "updatedAt": "2025-08-26T21:08:40Z",
+    "createdAt": "2025-08-26T20:20:59Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
+    "nameWithOwner": "perditioinc/didymo-ai-ptr",
+    "name": "didymo-ai-ptr",
+    "description": "People Tech Revolution Didymo.ai Website",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2025-08-27T09:49:12Z",
+    "updatedAt": "2025-08-27T09:34:57Z",
+    "createdAt": "2025-08-27T06:35:13Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
+    "nameWithOwner": "perditioinc/didymo-ai-gcp-tts",
+    "name": "didymo-ai-gcp-tts",
+    "description": "Didymo.ai Google Cloud Platform text-to-speech",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2025-09-02T06:55:02Z",
+    "updatedAt": "2025-09-02T06:55:06Z",
+    "createdAt": "2025-09-02T06:12:15Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
     "nameWithOwner": "perditioinc/anything-llm",
     "name": "anything-llm",
     "description": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.",
@@ -17,8 +395,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "Mintplex-Labs/anything-llm",
-    "parentStars": 56534,
-    "parentForks": 6107
+    "parentStars": 56575,
+    "parentForks": 6119
   },
   {
     "nameWithOwner": "perditioinc/cs249r_book",
@@ -38,7 +416,7 @@
     "openIssues": 0,
     "defaultBranch": "dev",
     "parentRepo": "harvard-edge/cs249r_book",
-    "parentStars": 22839,
+    "parentStars": 22859,
     "parentForks": 2719
   },
   {
@@ -59,8 +437,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "affaan-m/everything-claude-code",
-    "parentStars": 91314,
-    "parentForks": 11993
+    "parentStars": 95591,
+    "parentForks": 12506
   },
   {
     "nameWithOwner": "perditioinc/Manifolder",
@@ -122,8 +500,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "andrewyng/context-hub",
-    "parentStars": 11058,
-    "parentForks": 971
+    "parentStars": 11400,
+    "parentForks": 1003
   },
   {
     "nameWithOwner": "perditioinc/mediapipe-touchdesigner",
@@ -143,8 +521,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "torinmb/mediapipe-touchdesigner",
-    "parentStars": 2130,
-    "parentForks": 96
+    "parentStars": 2134,
+    "parentForks": 95
   },
   {
     "nameWithOwner": "perditioinc/wiseflow",
@@ -164,8 +542,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "TeamWiseFlow/wiseflow",
-    "parentStars": 8130,
-    "parentForks": 1411
+    "parentStars": 8133,
+    "parentForks": 1410
   },
   {
     "nameWithOwner": "perditioinc/store.js",
@@ -206,7 +584,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "magenta/magenta-studio",
-    "parentStars": 1217,
+    "parentStars": 1218,
     "parentForks": 192
   },
   {
@@ -228,7 +606,7 @@
     "defaultBranch": "main",
     "parentRepo": "GoogleCloudPlatform/nodejs-docs-samples",
     "parentStars": 2965,
-    "parentForks": 2027
+    "parentForks": 2026
   },
   {
     "nameWithOwner": "perditioinc/JavaScript",
@@ -248,8 +626,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "TheAlgorithms/JavaScript",
-    "parentStars": 34090,
-    "parentForks": 5842
+    "parentStars": 34093,
+    "parentForks": 5841
   },
   {
     "nameWithOwner": "perditioinc/Web-Dev-For-Beginners",
@@ -269,8 +647,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/Web-Dev-For-Beginners",
-    "parentStars": 95437,
-    "parentForks": 15267
+    "parentStars": 95452,
+    "parentForks": 15272
   },
   {
     "nameWithOwner": "perditioinc/monaco-editor",
@@ -290,8 +668,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/monaco-editor",
-    "parentStars": 45789,
-    "parentForks": 4013
+    "parentStars": 45797,
+    "parentForks": 4011
   },
   {
     "nameWithOwner": "perditioinc/openai-realtime-console",
@@ -353,8 +731,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "dotenvx/dotenvx",
-    "parentStars": 5224,
-    "parentForks": 126
+    "parentStars": 5226,
+    "parentForks": 127
   },
   {
     "nameWithOwner": "perditioinc/SillyTavern",
@@ -374,8 +752,8 @@
     "openIssues": 0,
     "defaultBranch": "release",
     "parentRepo": "SillyTavern/SillyTavern",
-    "parentStars": 24629,
-    "parentForks": 4962
+    "parentStars": 24679,
+    "parentForks": 4972
   },
   {
     "nameWithOwner": "perditioinc/LinkSwift",
@@ -395,8 +773,8 @@
     "openIssues": 0,
     "defaultBranch": "dev",
     "parentRepo": "hmjz100/LinkSwift",
-    "parentStars": 13486,
-    "parentForks": 786
+    "parentStars": 13513,
+    "parentForks": 788
   },
   {
     "nameWithOwner": "perditioinc/stremio-web",
@@ -416,8 +794,8 @@
     "openIssues": 0,
     "defaultBranch": "development",
     "parentRepo": "Stremio/stremio-web",
-    "parentStars": 10506,
-    "parentForks": 1126
+    "parentStars": 10511,
+    "parentForks": 1127
   },
   {
     "nameWithOwner": "perditioinc/aiox-core",
@@ -437,8 +815,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "SynkraAI/aiox-core",
-    "parentStars": 2393,
-    "parentForks": 796
+    "parentStars": 2408,
+    "parentForks": 798
   },
   {
     "nameWithOwner": "perditioinc/edit",
@@ -458,8 +836,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "fmhy/edit",
-    "parentStars": 8616,
-    "parentForks": 2318
+    "parentStars": 8633,
+    "parentForks": 2324
   },
   {
     "nameWithOwner": "perditioinc/jellyfin-web",
@@ -480,7 +858,7 @@
     "defaultBranch": "master",
     "parentRepo": "jellyfin/jellyfin-web",
     "parentStars": 3446,
-    "parentForks": 1868
+    "parentForks": 1872
   },
   {
     "nameWithOwner": "perditioinc/pi-skills",
@@ -500,7 +878,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "badlogic/pi-skills",
-    "parentStars": 875,
+    "parentStars": 885,
     "parentForks": 94
   },
   {
@@ -521,8 +899,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "decolua/9router",
-    "parentStars": 1122,
-    "parentForks": 312
+    "parentStars": 1143,
+    "parentForks": 319
   },
   {
     "nameWithOwner": "perditioinc/documind",
@@ -563,8 +941,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/NemoClaw",
-    "parentStars": 14429,
-    "parentForks": 1394
+    "parentStars": 15021,
+    "parentForks": 1513
   },
   {
     "nameWithOwner": "perditioinc/get-shit-done",
@@ -584,8 +962,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "gsd-build/get-shit-done",
-    "parentStars": 37341,
-    "parentForks": 3028
+    "parentStars": 38339,
+    "parentForks": 3122
   },
   {
     "nameWithOwner": "perditioinc/agent-skills",
@@ -605,7 +983,49 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "apify/agent-skills",
-    "parentStars": 1695,
-    "parentForks": 179
+    "parentStars": 1706,
+    "parentForks": 180
+  },
+  {
+    "nameWithOwner": "perditioinc/claude-hud",
+    "name": "claude-hud",
+    "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2026-03-20T01:45:28Z",
+    "updatedAt": "2026-03-22T09:05:02Z",
+    "createdAt": "2026-03-22T09:05:01Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "jarrodwatts/claude-hud",
+    "parentStars": 10792,
+    "parentForks": 456
+  },
+  {
+    "nameWithOwner": "perditioinc/AgentVerse",
+    "name": "AgentVerse",
+    "description": "\ud83e\udd16 AgentVerse \ud83e\ude90 is designed to facilitate the deployment of multiple LLM-based agents in various applications, which primarily provides two frameworks: task-solving and simulation",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2024-09-09T05:47:44Z",
+    "updatedAt": "2026-03-22T09:12:26Z",
+    "createdAt": "2026-03-22T09:12:26Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Apache License 2.0",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "OpenBMB/AgentVerse",
+    "parentStars": 4970,
+    "parentForks": 496
   }
 ]

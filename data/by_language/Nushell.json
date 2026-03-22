@@ -1,0 +1,23 @@
+[
+  {
+    "nameWithOwner": "perditioinc/vouch",
+    "name": "vouch",
+    "description": "A community trust management system based on explicit vouches to participate.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Nushell",
+    "pushedAt": "2026-03-22T03:12:34Z",
+    "updatedAt": "2026-03-22T09:12:51Z",
+    "createdAt": "2026-03-22T09:12:50Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "mitchellh/vouch",
+    "parentStars": 3996,
+    "parentForks": 67
+  }
+]

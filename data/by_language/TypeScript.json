@@ -1,5 +1,89 @@
 [
   {
+    "nameWithOwner": "perditioinc/mind-guard-app",
+    "name": "mind-guard-app",
+    "description": "MindGuard App",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "TypeScript",
+    "pushedAt": "2025-09-30T22:27:29Z",
+    "updatedAt": "2025-09-30T22:27:35Z",
+    "createdAt": "2025-09-28T16:42:38Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
+    "nameWithOwner": "perditioinc/perditio-web",
+    "name": "perditio-web",
+    "description": "Perditio.com Front-end website for all various apps (sub-mappings)",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "TypeScript",
+    "pushedAt": "2025-10-26T05:49:22Z",
+    "updatedAt": "2025-10-26T05:49:25Z",
+    "createdAt": "2025-10-01T01:38:40Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
+    "nameWithOwner": "perditioinc/perditio-web-app",
+    "name": "perditio-web-app",
+    "description": "Perditio Website App made with Firebase Studio + Gemini",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "TypeScript",
+    "pushedAt": "2025-10-21T05:34:43Z",
+    "updatedAt": "2025-10-21T05:34:48Z",
+    "createdAt": "2025-10-04T01:29:41Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
+    "nameWithOwner": "perditioinc/perditio-figma-website",
+    "name": "perditio-figma-website",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "TypeScript",
+    "pushedAt": "2025-11-14T04:11:53Z",
+    "updatedAt": "2025-11-14T04:11:57Z",
+    "createdAt": "2025-10-17T01:03:36Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
     "nameWithOwner": "perditioinc/xrblocks",
     "name": "xrblocks",
     "description": "XR Blocks is a lightweight WebXR + WebAI library for rapidly prototyping advanced XR and AI experiences.",
@@ -38,7 +122,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "directus/directus",
-    "parentStars": 34529,
+    "parentStars": 34541,
     "parentForks": 4639
   },
   {
@@ -59,8 +143,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "fiberplane/mcp-lite",
-    "parentStars": 100,
-    "parentForks": 9
+    "parentStars": 101,
+    "parentForks": 10
   },
   {
     "nameWithOwner": "perditioinc/toon",
@@ -80,7 +164,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "toon-format/toon",
-    "parentStars": 23406,
+    "parentStars": 23420,
     "parentForks": 1045
   },
   {
@@ -101,8 +185,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "simstudioai/sim",
-    "parentStars": 27094,
-    "parentForks": 3437
+    "parentStars": 27123,
+    "parentForks": 3442
   },
   {
     "nameWithOwner": "perditioinc/transformerlab-app",
@@ -143,8 +227,29 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "infiniflow/ragflow",
-    "parentStars": 75637,
-    "parentForks": 8470
+    "parentStars": 75763,
+    "parentForks": 8480
+  },
+  {
+    "nameWithOwner": "perditioinc/v0-edm-demo-submission-website",
+    "name": "v0-edm-demo-submission-website",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "TypeScript",
+    "pushedAt": "2025-11-13T03:13:35Z",
+    "updatedAt": "2025-11-13T03:13:39Z",
+    "createdAt": "2025-11-13T03:13:04Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
   },
   {
     "nameWithOwner": "perditioinc/claude-mem",
@@ -164,8 +269,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "thedotmack/claude-mem",
-    "parentStars": 38806,
-    "parentForks": 2814
+    "parentStars": 39255,
+    "parentForks": 2871
   },
   {
     "nameWithOwner": "perditioinc/Personal_AI_Infrastructure",
@@ -185,8 +290,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "danielmiessler/Personal_AI_Infrastructure",
-    "parentStars": 10269,
-    "parentForks": 1431
+    "parentStars": 10325,
+    "parentForks": 1434
   },
   {
     "nameWithOwner": "perditioinc/nao",
@@ -206,8 +311,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "getnao/nao",
-    "parentStars": 750,
-    "parentForks": 95
+    "parentStars": 756,
+    "parentForks": 97
   },
   {
     "nameWithOwner": "perditioinc/dify",
@@ -227,8 +332,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "langgenius/dify",
-    "parentStars": 133770,
-    "parentForks": 20844
+    "parentStars": 133909,
+    "parentForks": 20856
   },
   {
     "nameWithOwner": "perditioinc/voicebox",
@@ -248,8 +353,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "jamiepine/voicebox",
-    "parentStars": 13834,
-    "parentForks": 1623
+    "parentStars": 13960,
+    "parentForks": 1643
   },
   {
     "nameWithOwner": "perditioinc/agent-orchestrator",
@@ -269,8 +374,29 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "ComposioHQ/agent-orchestrator",
-    "parentStars": 5023,
-    "parentForks": 603
+    "parentStars": 5064,
+    "parentForks": 615
+  },
+  {
+    "nameWithOwner": "perditioinc/figma-make-perditio-website-claude",
+    "name": "figma-make-perditio-website-claude",
+    "description": "Perditio Marketing Website migration from Figma Make using Claude Code",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "TypeScript",
+    "pushedAt": "2026-03-12T00:00:27Z",
+    "updatedAt": "2026-03-12T00:00:32Z",
+    "createdAt": "2026-03-07T07:09:59Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
   },
   {
     "nameWithOwner": "perditioinc/cline",
@@ -290,8 +416,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "cline/cline",
-    "parentStars": 59198,
-    "parentForks": 6002
+    "parentStars": 59230,
+    "parentForks": 6009
   },
   {
     "nameWithOwner": "perditioinc/8thwall",
@@ -311,7 +437,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "8thwall/8thwall",
-    "parentStars": 241,
+    "parentStars": 244,
     "parentForks": 47
   },
   {
@@ -353,8 +479,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "paperclipai/paperclip",
-    "parentStars": 30724,
-    "parentForks": 4218
+    "parentStars": 31311,
+    "parentForks": 4328
   },
   {
     "nameWithOwner": "perditioinc/ManifolderMCP",
@@ -394,8 +520,8 @@
     "licenseName": "Other",
     "openIssues": 0,
     "defaultBranch": "master",
-    "parentRepo": "KhanhPham2411/n8n-atom",
-    "parentStars": 54,
+    "parentRepo": "khanh-atom/n8n-atom-fork",
+    "parentStars": 55,
     "parentForks": 13
   },
   {
@@ -416,8 +542,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "reworkd/AgentGPT",
-    "parentStars": 35858,
-    "parentForks": 9426
+    "parentStars": 35864,
+    "parentForks": 9425
   },
   {
     "nameWithOwner": "perditioinc/mastra",
@@ -437,8 +563,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "mastra-ai/mastra",
-    "parentStars": 22178,
-    "parentForks": 1765
+    "parentStars": 22209,
+    "parentForks": 1771
   },
   {
     "nameWithOwner": "perditioinc/Acontext",
@@ -458,8 +584,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "memodb-io/Acontext",
-    "parentStars": 3176,
-    "parentForks": 297
+    "parentStars": 3178,
+    "parentForks": 299
   },
   {
     "nameWithOwner": "perditioinc/adk-js",
@@ -479,8 +605,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google/adk-js",
-    "parentStars": 919,
-    "parentForks": 111
+    "parentStars": 920,
+    "parentForks": 112
   },
   {
     "nameWithOwner": "perditioinc/page-agent",
@@ -500,8 +626,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "alibaba/page-agent",
-    "parentStars": 12552,
-    "parentForks": 952
+    "parentStars": 13174,
+    "parentForks": 1000
   },
   {
     "nameWithOwner": "perditioinc/composio",
@@ -521,8 +647,8 @@
     "openIssues": 0,
     "defaultBranch": "next",
     "parentRepo": "ComposioHQ/composio",
-    "parentStars": 27455,
-    "parentForks": 4485
+    "parentStars": 27468,
+    "parentForks": 4486
   },
   {
     "nameWithOwner": "perditioinc/tree-node-cli",
@@ -543,7 +669,7 @@
     "defaultBranch": "main",
     "parentRepo": "yangshun/tree-node-cli",
     "parentStars": 281,
-    "parentForks": 30
+    "parentForks": 31
   },
   {
     "nameWithOwner": "perditioinc/openclaw",
@@ -563,8 +689,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "openclaw/openclaw",
-    "parentStars": 327462,
-    "parentForks": 63407
+    "parentStars": 329279,
+    "parentForks": 63952
   },
   {
     "nameWithOwner": "perditioinc/playwright",
@@ -584,8 +710,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/playwright",
-    "parentStars": 84653,
-    "parentForks": 5328
+    "parentStars": 84711,
+    "parentForks": 5334
   },
   {
     "nameWithOwner": "perditioinc/A2UI",
@@ -605,8 +731,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google/A2UI",
-    "parentStars": 13506,
-    "parentForks": 1019
+    "parentStars": 13540,
+    "parentForks": 1021
   },
   {
     "nameWithOwner": "perditioinc/airi",
@@ -626,8 +752,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "moeru-ai/airi",
-    "parentStars": 34946,
-    "parentForks": 3464
+    "parentStars": 35096,
+    "parentForks": 3482
   },
   {
     "nameWithOwner": "perditioinc/promptfoo",
@@ -647,8 +773,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "promptfoo/promptfoo",
-    "parentStars": 17866,
-    "parentForks": 1536
+    "parentStars": 18089,
+    "parentForks": 1547
   },
   {
     "nameWithOwner": "perditioinc/pi-mono",
@@ -668,8 +794,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "badlogic/pi-mono",
-    "parentStars": 26423,
-    "parentForks": 2796
+    "parentStars": 26775,
+    "parentForks": 2834
   },
   {
     "nameWithOwner": "perditioinc/rowboat",
@@ -689,7 +815,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "rowboatlabs/rowboat",
-    "parentStars": 9300,
+    "parentStars": 9312,
     "parentForks": 790
   },
   {
@@ -710,8 +836,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "shareAI-lab/learn-claude-code",
-    "parentStars": 34796,
-    "parentForks": 5601
+    "parentStars": 35558,
+    "parentForks": 5695
   },
   {
     "nameWithOwner": "perditioinc/langfuse",
@@ -731,8 +857,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "langfuse/langfuse",
-    "parentStars": 23487,
-    "parentForks": 2378
+    "parentStars": 23533,
+    "parentForks": 2379
   },
   {
     "nameWithOwner": "perditioinc/helicone",
@@ -752,8 +878,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Helicone/helicone",
-    "parentStars": 5278,
-    "parentForks": 495
+    "parentStars": 5280,
+    "parentForks": 497
   },
   {
     "nameWithOwner": "perditioinc/personal-security-checklist",
@@ -773,8 +899,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "Lissy93/personal-security-checklist",
-    "parentStars": 20978,
-    "parentForks": 1431
+    "parentStars": 20989,
+    "parentForks": 1429
   },
   {
     "nameWithOwner": "perditioinc/physical-ai-toolchain",
@@ -815,8 +941,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "InsForge/InsForge",
-    "parentStars": 4965,
-    "parentForks": 518
+    "parentStars": 4980,
+    "parentForks": 519
   },
   {
     "nameWithOwner": "perditioinc/openclaw-rl",
@@ -836,8 +962,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Gen-Verse/OpenClaw-RL",
-    "parentStars": 3862,
-    "parentForks": 377
+    "parentStars": 3958,
+    "parentForks": 387
   },
   {
     "nameWithOwner": "perditioinc/superset",
@@ -857,8 +983,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "superset-sh/superset",
-    "parentStars": 7546,
-    "parentForks": 545
+    "parentStars": 7704,
+    "parentForks": 551
   },
   {
     "nameWithOwner": "perditioinc/strapi",
@@ -878,8 +1004,8 @@
     "openIssues": 0,
     "defaultBranch": "develop",
     "parentRepo": "strapi/strapi",
-    "parentStars": 71661,
-    "parentForks": 9568
+    "parentStars": 71664,
+    "parentForks": 9570
   },
   {
     "nameWithOwner": "perditioinc/insomnia",
@@ -899,8 +1025,8 @@
     "openIssues": 0,
     "defaultBranch": "develop",
     "parentRepo": "Kong/insomnia",
-    "parentStars": 38115,
-    "parentForks": 2242
+    "parentStars": 38134,
+    "parentForks": 2244
   },
   {
     "nameWithOwner": "perditioinc/varlock",
@@ -920,8 +1046,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "dmno-dev/varlock",
-    "parentStars": 2697,
-    "parentForks": 68
+    "parentStars": 2737,
+    "parentForks": 69
   },
   {
     "nameWithOwner": "perditioinc/supersplat",
@@ -941,8 +1067,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "playcanvas/supersplat",
-    "parentStars": 3940,
-    "parentForks": 464
+    "parentStars": 3946,
+    "parentForks": 465
   },
   {
     "nameWithOwner": "perditioinc/openui",
@@ -962,8 +1088,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "thesysdev/openui",
-    "parentStars": 2229,
-    "parentForks": 161
+    "parentStars": 2360,
+    "parentForks": 164
   },
   {
     "nameWithOwner": "perditioinc/CodexMonitor",
@@ -983,7 +1109,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Dimillian/CodexMonitor",
-    "parentStars": 3252,
+    "parentStars": 3268,
     "parentForks": 309
   },
   {
@@ -1004,8 +1130,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "janhq/jan",
-    "parentStars": 41170,
-    "parentForks": 2610
+    "parentStars": 41189,
+    "parentForks": 2613
   },
   {
     "nameWithOwner": "perditioinc/claude-agent-acp",
@@ -1025,8 +1151,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "zed-industries/claude-agent-acp",
-    "parentStars": 1273,
-    "parentForks": 194
+    "parentStars": 1288,
+    "parentForks": 195
   },
   {
     "nameWithOwner": "perditioinc/ComfyUI_frontend",
@@ -1046,8 +1172,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Comfy-Org/ComfyUI_frontend",
-    "parentStars": 1713,
-    "parentForks": 528
+    "parentStars": 1714,
+    "parentForks": 529
   },
   {
     "nameWithOwner": "perditioinc/daytona",
@@ -1067,8 +1193,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "daytonaio/daytona",
-    "parentStars": 68594,
-    "parentForks": 5239
+    "parentStars": 69023,
+    "parentForks": 5337
   },
   {
     "nameWithOwner": "perditioinc/gemini-voyager",
@@ -1088,8 +1214,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Nagi-ovo/gemini-voyager",
-    "parentStars": 12985,
-    "parentForks": 391
+    "parentStars": 13108,
+    "parentForks": 394
   },
   {
     "nameWithOwner": "perditioinc/prompt-optimizer",
@@ -1109,8 +1235,8 @@
     "openIssues": 0,
     "defaultBranch": "develop",
     "parentRepo": "linshenkx/prompt-optimizer",
-    "parentStars": 25178,
-    "parentForks": 2977
+    "parentStars": 25251,
+    "parentForks": 2985
   },
   {
     "nameWithOwner": "perditioinc/cursor2api",
@@ -1130,8 +1256,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "7836246/cursor2api",
-    "parentStars": 1035,
-    "parentForks": 315
+    "parentStars": 1066,
+    "parentForks": 319
   },
   {
     "nameWithOwner": "perditioinc/langflow-embedded-chat",
@@ -1172,8 +1298,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "letta-ai/letta-code",
-    "parentStars": 1917,
-    "parentForks": 195
+    "parentStars": 1920,
+    "parentForks": 194
   },
   {
     "nameWithOwner": "perditioinc/agent-ui",
@@ -1193,7 +1319,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "agno-agi/agent-ui",
-    "parentStars": 1680,
+    "parentStars": 1681,
     "parentForks": 345
   },
   {
@@ -1214,7 +1340,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "mem0ai/mem0-chrome-extension",
-    "parentStars": 662,
+    "parentStars": 663,
     "parentForks": 98
   },
   {
@@ -1235,8 +1361,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Portkey-AI/gateway",
-    "parentStars": 10981,
-    "parentForks": 948
+    "parentStars": 10987,
+    "parentForks": 954
   },
   {
     "nameWithOwner": "perditioinc/archestra",
@@ -1256,8 +1382,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "archestra-ai/archestra",
-    "parentStars": 3539,
-    "parentForks": 366
+    "parentStars": 3538,
+    "parentForks": 368
   },
   {
     "nameWithOwner": "perditioinc/rebuff",
@@ -1277,7 +1403,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "protectai/rebuff",
-    "parentStars": 1447,
+    "parentStars": 1449,
     "parentForks": 130
   },
   {
@@ -1298,8 +1424,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Kilo-Org/kilocode",
-    "parentStars": 16995,
-    "parentForks": 2193
+    "parentStars": 17041,
+    "parentForks": 2197
   },
   {
     "nameWithOwner": "perditioinc/continue",
@@ -1319,8 +1445,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "continuedev/continue",
-    "parentStars": 31957,
-    "parentForks": 4279
+    "parentStars": 31977,
+    "parentForks": 4283
   },
   {
     "nameWithOwner": "perditioinc/openui_",
@@ -1340,8 +1466,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "wandb/openui",
-    "parentStars": 22186,
-    "parentForks": 2050
+    "parentStars": 22192,
+    "parentForks": 2051
   },
   {
     "nameWithOwner": "perditioinc/wandbox",
@@ -1382,8 +1508,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google-gemini/gemini-cli",
-    "parentStars": 98524,
-    "parentForks": 12465
+    "parentStars": 98642,
+    "parentForks": 12504
   },
   {
     "nameWithOwner": "perditioinc/run-gemini-cli",
@@ -1403,8 +1529,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google-github-actions/run-gemini-cli",
-    "parentStars": 1871,
-    "parentForks": 241
+    "parentStars": 1875,
+    "parentForks": 242
   },
   {
     "nameWithOwner": "perditioinc/gemini-mcp-tool",
@@ -1424,7 +1550,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "jamubc/gemini-mcp-tool",
-    "parentStars": 2078,
+    "parentStars": 2089,
     "parentForks": 175
   },
   {
@@ -1466,8 +1592,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "TheAlgorithms/TypeScript",
-    "parentStars": 2695,
-    "parentForks": 538
+    "parentStars": 2696,
+    "parentForks": 540
   },
   {
     "nameWithOwner": "perditioinc/live-api-web-console",
@@ -1487,8 +1613,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google-gemini/live-api-web-console",
-    "parentStars": 2501,
-    "parentForks": 714
+    "parentStars": 2502,
+    "parentForks": 715
   },
   {
     "nameWithOwner": "perditioinc/starter-applets",
@@ -1508,7 +1634,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google-gemini/starter-applets",
-    "parentStars": 1294,
+    "parentStars": 1296,
     "parentForks": 449
   },
   {
@@ -1529,8 +1655,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/vscode",
-    "parentStars": 182893,
-    "parentForks": 38647
+    "parentStars": 182945,
+    "parentForks": 38676
   },
   {
     "nameWithOwner": "perditioinc/TypeScript_",
@@ -1550,8 +1676,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/TypeScript",
-    "parentStars": 108220,
-    "parentForks": 13308
+    "parentStars": 108238,
+    "parentForks": 13307
   },
   {
     "nameWithOwner": "perditioinc/playwright-mcp",
@@ -1571,8 +1697,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/playwright-mcp",
-    "parentStars": 29359,
-    "parentForks": 2366
+    "parentStars": 29423,
+    "parentForks": 2372
   },
   {
     "nameWithOwner": "perditioinc/fluentui",
@@ -1613,8 +1739,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "microsoft/TypeScript-React-Starter",
-    "parentStars": 11063,
-    "parentForks": 1206
+    "parentStars": 11064,
+    "parentForks": 1207
   },
   {
     "nameWithOwner": "perditioinc/frontend-bootcamp",
@@ -1655,8 +1781,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/data-formulator",
-    "parentStars": 15149,
-    "parentForks": 1381
+    "parentStars": 15154,
+    "parentForks": 1383
   },
   {
     "nameWithOwner": "perditioinc/genaiscript",
@@ -1697,8 +1823,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/TypeChat",
-    "parentStars": 8633,
-    "parentForks": 408
+    "parentStars": 8634,
+    "parentForks": 409
   },
   {
     "nameWithOwner": "perditioinc/claude-code-action",
@@ -1718,7 +1844,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "anthropics/claude-code-action",
-    "parentStars": 6417,
+    "parentStars": 6438,
     "parentForks": 1573
   },
   {
@@ -1739,7 +1865,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "anthropics/anthropic-sdk-typescript",
-    "parentStars": 1740,
+    "parentStars": 1745,
     "parentForks": 253
   },
   {
@@ -1760,8 +1886,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "anthropics/claude-agent-sdk-demos",
-    "parentStars": 1774,
-    "parentForks": 272
+    "parentStars": 1791,
+    "parentForks": 275
   },
   {
     "nameWithOwner": "perditioinc/claude-code-base-action",
@@ -1781,8 +1907,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "anthropics/claude-code-base-action",
-    "parentStars": 616,
-    "parentForks": 590
+    "parentStars": 620,
+    "parentForks": 589
   },
   {
     "nameWithOwner": "perditioinc/openai-node",
@@ -1802,7 +1928,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "openai/openai-node",
-    "parentStars": 10749,
+    "parentStars": 10753,
     "parentForks": 1432
   },
   {
@@ -1824,7 +1950,7 @@
     "defaultBranch": "main",
     "parentRepo": "openai/openai-realtime-agents",
     "parentStars": 6806,
-    "parentForks": 1078
+    "parentForks": 1079
   },
   {
     "nameWithOwner": "perditioinc/openai-fm",
@@ -1844,7 +1970,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "openai/openai-fm",
-    "parentStars": 2825,
+    "parentStars": 2826,
     "parentForks": 7940
   },
   {
@@ -1865,7 +1991,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "openai/openai-agents-js",
-    "parentStars": 2502,
+    "parentStars": 2512,
     "parentForks": 655
   },
   {
@@ -1886,7 +2012,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "openai/openai-apps-sdk-examples",
-    "parentStars": 2158,
+    "parentStars": 2159,
     "parentForks": 491
   },
   {
@@ -1928,8 +2054,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "gcui-art/suno-api",
-    "parentStars": 2749,
-    "parentForks": 729
+    "parentStars": 2753,
+    "parentForks": 731
   },
   {
     "nameWithOwner": "perditioinc/TTS-WebUI",
@@ -1949,7 +2075,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "rsxdalv/TTS-WebUI",
-    "parentStars": 3027,
+    "parentStars": 3029,
     "parentForks": 306
   },
   {
@@ -1980,8 +2106,8 @@
     "stars": 1,
     "forks": 0,
     "primaryLanguage": "TypeScript",
-    "pushedAt": "2026-03-20T06:51:25Z",
-    "updatedAt": "2026-03-20T06:51:37Z",
+    "pushedAt": "2026-03-21T09:28:12Z",
+    "updatedAt": "2026-03-21T09:28:15Z",
     "createdAt": "2026-03-14T04:16:01Z",
     "isArchived": false,
     "isFork": false,
@@ -2012,7 +2138,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Shubhamsaboo/openclaw-vertexai-memorybank",
-    "parentStars": 120,
+    "parentStars": 121,
     "parentForks": 19
   },
   {
@@ -2033,7 +2159,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "open-metadata/OpenMetadata",
-    "parentStars": 8972,
+    "parentStars": 8976,
     "parentForks": 1685
   },
   {
@@ -2054,8 +2180,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "vitejs/vite",
-    "parentStars": 79253,
-    "parentForks": 7946
+    "parentStars": 79296,
+    "parentForks": 7954
   },
   {
     "nameWithOwner": "perditioinc/project-nomad",
@@ -2075,8 +2201,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Crosstalk-Solutions/project-nomad",
-    "parentStars": 4970,
-    "parentForks": 487
+    "parentStars": 7551,
+    "parentForks": 724
   },
   {
     "nameWithOwner": "perditioinc/copilot-api",
@@ -2096,8 +2222,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "ericc-ch/copilot-api",
-    "parentStars": 3106,
-    "parentForks": 534
+    "parentStars": 3130,
+    "parentForks": 538
   },
   {
     "nameWithOwner": "perditioinc/antigravity-kit",
@@ -2117,8 +2243,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "vudovn/antigravity-kit",
-    "parentStars": 6448,
-    "parentForks": 1284
+    "parentStars": 6488,
+    "parentForks": 1295
   },
   {
     "nameWithOwner": "perditioinc/idea-claude-code-gui",
@@ -2138,8 +2264,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "zhukunpenglinyutong/idea-claude-code-gui",
-    "parentStars": 2057,
-    "parentForks": 230
+    "parentStars": 2072,
+    "parentForks": 233
   },
   {
     "nameWithOwner": "perditioinc/gstack",
@@ -2159,8 +2285,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "garrytan/gstack",
-    "parentStars": 32996,
-    "parentForks": 4005
+    "parentStars": 36185,
+    "parentForks": 4454
   },
   {
     "nameWithOwner": "perditioinc/fullstack-solution-template-for-agentcore",
@@ -2180,8 +2306,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "awslabs/fullstack-solution-template-for-agentcore",
-    "parentStars": 420,
-    "parentForks": 112
+    "parentStars": 428,
+    "parentForks": 114
   },
   {
     "nameWithOwner": "perditioinc/chrome-devtools-mcp",
@@ -2201,8 +2327,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "ChromeDevTools/chrome-devtools-mcp",
-    "parentStars": 30554,
-    "parentForks": 1807
+    "parentStars": 30727,
+    "parentForks": 1824
   },
   {
     "nameWithOwner": "perditioinc/plannotator",
@@ -2222,7 +2348,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "backnotprop/plannotator",
-    "parentStars": 3403,
+    "parentStars": 3440,
     "parentForks": 204
   },
   {
@@ -2243,8 +2369,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "siddharthvaddem/openscreen",
-    "parentStars": 8633,
-    "parentForks": 535
+    "parentStars": 8674,
+    "parentForks": 536
   },
   {
     "nameWithOwner": "perditioinc/GitNexus",
@@ -2264,8 +2390,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "abhigyanpatwari/GitNexus",
-    "parentStars": 18410,
-    "parentForks": 2122
+    "parentStars": 18674,
+    "parentForks": 2156
   },
   {
     "nameWithOwner": "perditioinc/immich",
@@ -2285,8 +2411,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "immich-app/immich",
-    "parentStars": 95299,
-    "parentForks": 5155
+    "parentStars": 95403,
+    "parentForks": 5166
   },
   {
     "nameWithOwner": "perditioinc/claudian",
@@ -2306,8 +2432,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "YishenTu/claudian",
-    "parentStars": 4719,
-    "parentForks": 275
+    "parentStars": 4790,
+    "parentForks": 279
   },
   {
     "nameWithOwner": "perditioinc/zerox",
@@ -2327,8 +2453,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "getomni-ai/zerox",
-    "parentStars": 12187,
-    "parentForks": 833
+    "parentStars": 12189,
+    "parentForks": 835
   },
   {
     "nameWithOwner": "perditioinc/unpdf",
@@ -2369,8 +2495,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "CopilotKit/CopilotKit",
-    "parentStars": 29617,
-    "parentForks": 3844
+    "parentStars": 29643,
+    "parentForks": 3849
   },
   {
     "nameWithOwner": "perditioinc/clui-cc",
@@ -2390,7 +2516,532 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "lcoutodemos/clui-cc",
-    "parentStars": 929,
-    "parentForks": 121
+    "parentStars": 976,
+    "parentForks": 129
+  },
+  {
+    "nameWithOwner": "perditioinc/servers",
+    "name": "servers",
+    "description": "Model Context Protocol Servers",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "TypeScript",
+    "pushedAt": "2026-03-17T14:21:11Z",
+    "updatedAt": "2026-03-21T09:17:38Z",
+    "createdAt": "2026-03-21T09:17:38Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Other",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "modelcontextprotocol/servers",
+    "parentStars": 81751,
+    "parentForks": 10023
+  },
+  {
+    "nameWithOwner": "perditioinc/mcpso",
+    "name": "mcpso",
+    "description": "directory for Awesome MCP Servers",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "TypeScript",
+    "pushedAt": "2025-03-26T16:29:02Z",
+    "updatedAt": "2026-03-21T09:18:11Z",
+    "createdAt": "2026-03-21T09:18:11Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Apache License 2.0",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "chatmcp/mcpso",
+    "parentStars": 1982,
+    "parentForks": 185
+  },
+  {
+    "nameWithOwner": "perditioinc/typescript-sdk",
+    "name": "typescript-sdk",
+    "description": "The official TypeScript SDK for Model Context Protocol servers and clients",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "TypeScript",
+    "pushedAt": "2026-03-21T04:31:50Z",
+    "updatedAt": "2026-03-21T09:18:46Z",
+    "createdAt": "2026-03-21T09:18:46Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Other",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "modelcontextprotocol/typescript-sdk",
+    "parentStars": 11918,
+    "parentForks": 1696
+  },
+  {
+    "nameWithOwner": "perditioinc/ThreatMapper",
+    "name": "ThreatMapper",
+    "description": "Open Source Cloud Native Application Protection Platform (CNAPP)",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "TypeScript",
+    "pushedAt": "2026-03-08T03:35:58Z",
+    "updatedAt": "2026-03-21T09:24:43Z",
+    "createdAt": "2026-03-21T09:24:43Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Apache License 2.0",
+    "openIssues": 0,
+    "defaultBranch": "release-2.5",
+    "parentRepo": "deepfence/ThreatMapper",
+    "parentStars": 5242,
+    "parentForks": 642
+  },
+  {
+    "nameWithOwner": "perditioinc/modelcontextprotocol",
+    "name": "modelcontextprotocol",
+    "description": "Specification and\u00a0documentation for the Model Context Protocol",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "TypeScript",
+    "pushedAt": "2026-03-20T17:59:34Z",
+    "updatedAt": "2026-03-21T10:42:43Z",
+    "createdAt": "2026-03-21T10:42:42Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Other",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "modelcontextprotocol/modelcontextprotocol",
+    "parentStars": 7579,
+    "parentForks": 1396
+  },
+  {
+    "nameWithOwner": "perditioinc/azure-sdk-for-js",
+    "name": "azure-sdk-for-js",
+    "description": "Microsoft Azure SDK for JavaScript (NodeJS & Browser)",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "TypeScript",
+    "pushedAt": "2026-03-21T00:09:56Z",
+    "updatedAt": "2026-03-22T09:09:31Z",
+    "createdAt": "2026-03-22T09:09:31Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "azure-sdk/azure-sdk-for-js",
+    "parentStars": 51,
+    "parentForks": 26
+  },
+  {
+    "nameWithOwner": "perditioinc/squad",
+    "name": "squad",
+    "description": "Squad: AI agent teams for any project",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "TypeScript",
+    "pushedAt": "2026-03-22T08:53:34Z",
+    "updatedAt": "2026-03-22T09:10:04Z",
+    "createdAt": "2026-03-22T09:10:04Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "dev",
+    "parentRepo": "bradygaster/squad",
+    "parentStars": 1112,
+    "parentForks": 146
+  },
+  {
+    "nameWithOwner": "perditioinc/background-agents",
+    "name": "background-agents",
+    "description": "An open-source background agents coding system",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "TypeScript",
+    "pushedAt": "2026-03-22T04:56:39Z",
+    "updatedAt": "2026-03-22T09:10:13Z",
+    "createdAt": "2026-03-22T09:10:13Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "ColeMurray/background-agents",
+    "parentStars": 1209,
+    "parentForks": 184
+  },
+  {
+    "nameWithOwner": "perditioinc/stitch-mcp",
+    "name": "stitch-mcp",
+    "description": "A CLI for moving AI-generated UI designs from Google\u2019s Stitch platform into your development workflow.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "TypeScript",
+    "pushedAt": "2026-03-22T02:53:27Z",
+    "updatedAt": "2026-03-22T09:10:22Z",
+    "createdAt": "2026-03-22T09:10:22Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Apache License 2.0",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "davideast/stitch-mcp",
+    "parentStars": 519,
+    "parentForks": 60
+  },
+  {
+    "nameWithOwner": "perditioinc/infinite-monitor",
+    "name": "infinite-monitor",
+    "description": "Monitor anything in real time",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "TypeScript",
+    "pushedAt": "2026-03-20T23:39:10Z",
+    "updatedAt": "2026-03-22T09:10:55Z",
+    "createdAt": "2026-03-22T09:10:55Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "homanp/infinite-monitor",
+    "parentStars": 271,
+    "parentForks": 27
+  },
+  {
+    "nameWithOwner": "perditioinc/inbox-zero",
+    "name": "inbox-zero",
+    "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "TypeScript",
+    "pushedAt": "2026-03-22T07:18:15Z",
+    "updatedAt": "2026-03-22T09:11:06Z",
+    "createdAt": "2026-03-22T09:11:06Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Other",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "elie222/inbox-zero",
+    "parentStars": 10306,
+    "parentForks": 1239
+  },
+  {
+    "nameWithOwner": "perditioinc/cody-public-snapshot",
+    "name": "cody-public-snapshot",
+    "description": "Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "TypeScript",
+    "pushedAt": "2025-08-01T14:31:09Z",
+    "updatedAt": "2026-03-22T09:11:23Z",
+    "createdAt": "2026-03-22T09:11:23Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Apache License 2.0",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "sourcegraph/cody-public-snapshot",
+    "parentStars": 3794,
+    "parentForks": 481
+  },
+  {
+    "nameWithOwner": "perditioinc/remotion",
+    "name": "remotion",
+    "description": "\ud83c\udfa5      Make videos programmatically with React",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "TypeScript",
+    "pushedAt": "2026-03-20T17:32:59Z",
+    "updatedAt": "2026-03-22T09:11:36Z",
+    "createdAt": "2026-03-22T09:11:36Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Other",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "remotion-dev/remotion",
+    "parentStars": 40338,
+    "parentForks": 2570
+  },
+  {
+    "nameWithOwner": "perditioinc/InvokeAI",
+    "name": "InvokeAI",
+    "description": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "TypeScript",
+    "pushedAt": "2026-03-22T03:03:42Z",
+    "updatedAt": "2026-03-22T09:11:44Z",
+    "createdAt": "2026-03-22T09:11:44Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Apache License 2.0",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "invoke-ai/InvokeAI",
+    "parentStars": 26939,
+    "parentForks": 2800
+  },
+  {
+    "nameWithOwner": "perditioinc/label-studio",
+    "name": "label-studio",
+    "description": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "TypeScript",
+    "pushedAt": "2026-03-20T21:03:16Z",
+    "updatedAt": "2026-03-22T09:11:47Z",
+    "createdAt": "2026-03-22T09:11:47Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Apache License 2.0",
+    "openIssues": 0,
+    "defaultBranch": "develop",
+    "parentRepo": "HumanSignal/label-studio",
+    "parentStars": 26790,
+    "parentForks": 3445
+  },
+  {
+    "nameWithOwner": "perditioinc/lobehub",
+    "name": "lobehub",
+    "description": "The ultimate space for work and life \u2014 to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level \u2014 enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "TypeScript",
+    "pushedAt": "2026-03-22T07:28:40Z",
+    "updatedAt": "2026-03-22T09:13:03Z",
+    "createdAt": "2026-03-22T09:13:03Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Other",
+    "openIssues": 0,
+    "defaultBranch": "canary",
+    "parentRepo": "lobehub/lobehub",
+    "parentStars": 74084,
+    "parentForks": 14818
+  },
+  {
+    "nameWithOwner": "perditioinc/NextChat",
+    "name": "NextChat",
+    "description": "\u2728 Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "TypeScript",
+    "pushedAt": "2025-12-02T17:05:02Z",
+    "updatedAt": "2026-03-22T09:13:05Z",
+    "createdAt": "2026-03-22T09:13:05Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "ChatGPTNextWeb/NextChat",
+    "parentStars": 87562,
+    "parentForks": 60107
+  },
+  {
+    "nameWithOwner": "perditioinc/chatbot-ui",
+    "name": "chatbot-ui",
+    "description": "AI chat for any model.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "TypeScript",
+    "pushedAt": "2024-08-03T00:38:07Z",
+    "updatedAt": "2026-03-22T09:13:07Z",
+    "createdAt": "2026-03-22T09:13:07Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "mckaywrigley/chatbot-ui",
+    "parentStars": 33127,
+    "parentForks": 9461
+  },
+  {
+    "nameWithOwner": "perditioinc/Flowise",
+    "name": "Flowise",
+    "description": "Build AI Agents, Visually",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "TypeScript",
+    "pushedAt": "2026-03-21T14:22:49Z",
+    "updatedAt": "2026-03-22T09:13:09Z",
+    "createdAt": "2026-03-22T09:13:08Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Other",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "FlowiseAI/Flowise",
+    "parentStars": 50962,
+    "parentForks": 23975
+  },
+  {
+    "nameWithOwner": "perditioinc/LibreChat",
+    "name": "LibreChat",
+    "description": "Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "TypeScript",
+    "pushedAt": "2026-03-22T06:21:29Z",
+    "updatedAt": "2026-03-22T09:13:10Z",
+    "createdAt": "2026-03-22T09:13:10Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "danny-avila/LibreChat",
+    "parentStars": 34840,
+    "parentForks": 7063
+  },
+  {
+    "nameWithOwner": "perditioinc/opencli",
+    "name": "opencli",
+    "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "TypeScript",
+    "pushedAt": "2026-03-22T09:05:27Z",
+    "updatedAt": "2026-03-22T09:13:38Z",
+    "createdAt": "2026-03-22T09:13:38Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Apache License 2.0",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "jackwener/opencli",
+    "parentStars": 3962,
+    "parentForks": 338
+  },
+  {
+    "nameWithOwner": "perditioinc/eliza",
+    "name": "eliza",
+    "description": "Autonomous agents for everyone",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "TypeScript",
+    "pushedAt": "2026-03-22T06:50:42Z",
+    "updatedAt": "2026-03-22T09:14:05Z",
+    "createdAt": "2026-03-22T09:14:05Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "develop",
+    "parentRepo": "elizaOS/eliza",
+    "parentStars": 17871,
+    "parentForks": 5464
+  },
+  {
+    "nameWithOwner": "perditioinc/hey",
+    "name": "hey",
+    "description": "Hey is a decentralized and permissionless social media app built with Lens Protocol \ud83c\udf3f",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "TypeScript",
+    "pushedAt": "2026-03-06T10:01:55Z",
+    "updatedAt": "2026-03-22T09:14:18Z",
+    "createdAt": "2026-03-22T09:14:18Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "GNU General Public License v3.0",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "bigint/hey",
+    "parentStars": 29491,
+    "parentForks": 1807
+  },
+  {
+    "nameWithOwner": "perditioinc/supabase",
+    "name": "supabase",
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "TypeScript",
+    "pushedAt": "2026-03-22T00:36:23Z",
+    "updatedAt": "2026-03-22T09:15:47Z",
+    "createdAt": "2026-03-22T09:15:47Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Apache License 2.0",
+    "openIssues": 0,
+    "defaultBranch": "master",
+    "parentRepo": "supabase/supabase",
+    "parentStars": 99447,
+    "parentForks": 11854
+  },
+  {
+    "nameWithOwner": "perditioinc/firecrawl",
+    "name": "firecrawl",
+    "description": "\ud83d\udd25 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "TypeScript",
+    "pushedAt": "2026-03-21T21:16:29Z",
+    "updatedAt": "2026-03-22T09:16:08Z",
+    "createdAt": "2026-03-22T09:16:08Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "GNU Affero General Public License v3.0",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "firecrawl/firecrawl",
+    "parentStars": 96305,
+    "parentForks": 6551
   }
 ]

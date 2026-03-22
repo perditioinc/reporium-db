@@ -18,7 +18,7 @@
     "defaultBranch": "main",
     "parentRepo": "vmayoral/ros-robotics-companies",
     "parentStars": 1784,
-    "parentForks": 227
+    "parentForks": 226
   },
   {
     "nameWithOwner": "perditioinc/claude-code-ultimate-guide",
@@ -38,8 +38,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "FlorianBruniaux/claude-code-ultimate-guide",
-    "parentStars": 2033,
-    "parentForks": 316
+    "parentStars": 2077,
+    "parentForks": 321
   },
   {
     "nameWithOwner": "perditioinc/tinyclaw",
@@ -59,8 +59,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "TinyAGI/tinyagi",
-    "parentStars": 3176,
-    "parentForks": 465
+    "parentStars": 3183,
+    "parentForks": 462
   },
   {
     "nameWithOwner": "perditioinc/agency-agents",
@@ -80,8 +80,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "msitarzewski/agency-agents",
-    "parentStars": 57015,
-    "parentForks": 8542
+    "parentStars": 58827,
+    "parentForks": 8788
   },
   {
     "nameWithOwner": "perditioinc/superpowers",
@@ -101,8 +101,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "obra/superpowers",
-    "parentStars": 101890,
-    "parentForks": 8148
+    "parentStars": 104035,
+    "parentForks": 8359
   },
   {
     "nameWithOwner": "perditioinc/awesome-claude-code-subagents",
@@ -122,8 +122,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "VoltAgent/awesome-claude-code-subagents",
-    "parentStars": 14571,
-    "parentForks": 1617
+    "parentStars": 14703,
+    "parentForks": 1638
   },
   {
     "nameWithOwner": "perditioinc/claude-code",
@@ -143,8 +143,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "anthropics/claude-code",
-    "parentStars": 80666,
-    "parentForks": 6680
+    "parentStars": 81101,
+    "parentForks": 6729
   },
   {
     "nameWithOwner": "perditioinc/claude-agent-sdk-typescript",
@@ -164,7 +164,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "anthropics/claude-agent-sdk-typescript",
-    "parentStars": 990,
+    "parentStars": 997,
     "parentForks": 110
   }
 ]

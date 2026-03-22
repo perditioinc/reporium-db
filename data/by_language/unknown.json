@@ -1,5 +1,194 @@
 [
   {
+    "nameWithOwner": "perditioinc/simon-brain",
+    "name": "simon-brain",
+    "description": "Simon's digital AI twin avatar's RAG brain as a sales closer.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": null,
+    "pushedAt": "2025-08-19T19:47:14Z",
+    "updatedAt": "2025-08-19T19:46:52Z",
+    "createdAt": "2025-08-19T19:46:48Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
+    "nameWithOwner": "perditioinc/didymo-ai-mini",
+    "name": "didymo-ai-mini",
+    "description": "Mini Didymo.ai Go Live MVP",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": null,
+    "pushedAt": "2025-08-27T01:33:39Z",
+    "updatedAt": "2025-08-25T23:51:11Z",
+    "createdAt": "2025-08-25T23:51:07Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
+    "nameWithOwner": "perditioinc/18degrees-ecom",
+    "name": "18degrees-ecom",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": null,
+    "pushedAt": "2025-08-27T04:03:43Z",
+    "updatedAt": "2025-08-27T03:34:58Z",
+    "createdAt": "2025-08-27T03:34:54Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
+    "nameWithOwner": "perditioinc/didymo-ai-submissions-website",
+    "name": "didymo-ai-submissions-website",
+    "description": "Didymo.ai Lead Generation Website \u2013 React/Vite Implementation",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": null,
+    "pushedAt": "2025-09-02T05:52:36Z",
+    "updatedAt": "2025-08-28T02:23:20Z",
+    "createdAt": "2025-08-28T02:23:16Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
+    "nameWithOwner": "perditioinc/event-schedule-generator",
+    "name": "event-schedule-generator",
+    "description": "Nano Banana Hackathon Event Schedule Generator",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": null,
+    "pushedAt": "2025-09-08T04:32:10Z",
+    "updatedAt": "2025-09-07T04:49:43Z",
+    "createdAt": "2025-09-07T04:49:39Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
+    "nameWithOwner": "perditioinc/whatsapp-template-generator",
+    "name": "whatsapp-template-generator",
+    "description": "Creates WhatsApp Templates across multiple Phone Number IDs and Business Accounts",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": null,
+    "pushedAt": "2025-09-23T02:14:22Z",
+    "updatedAt": "2025-09-23T01:48:48Z",
+    "createdAt": "2025-09-23T01:48:44Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
+    "nameWithOwner": "perditioinc/perditio-platform-api",
+    "name": "perditio-platform-api",
+    "description": "Perditio Platform's public facing API",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": null,
+    "pushedAt": "2025-10-01T03:21:27Z",
+    "updatedAt": "2025-10-01T01:41:23Z",
+    "createdAt": "2025-10-01T01:41:19Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
+    "nameWithOwner": "perditioinc/perditio-services",
+    "name": "perditio-services",
+    "description": "All internal, private microservices",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": null,
+    "pushedAt": "2025-10-01T03:21:52Z",
+    "updatedAt": "2025-10-01T02:08:45Z",
+    "createdAt": "2025-10-01T02:08:41Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
+    "nameWithOwner": "perditioinc/perditio-infra",
+    "name": "perditio-infra",
+    "description": "Terraform/Deployment Manager configs for GCP infra (Cloud Run mappings, LB/CDN, DNS, IAM)",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": null,
+    "pushedAt": "2025-10-01T03:18:52Z",
+    "updatedAt": "2025-10-01T02:10:00Z",
+    "createdAt": "2025-10-01T02:09:56Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
+  },
+  {
     "nameWithOwner": "perditioinc/100-Days-Of-ML-Code",
     "name": "100-Days-Of-ML-Code",
     "description": "100 Days of ML Coding",
@@ -17,8 +206,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "Avik-Jain/100-Days-Of-ML-Code",
-    "parentStars": 49999,
-    "parentForks": 11362
+    "parentStars": 50012,
+    "parentForks": 11367
   },
   {
     "nameWithOwner": "perditioinc/awesome-datascience",
@@ -38,8 +227,8 @@
     "openIssues": 0,
     "defaultBranch": "live",
     "parentRepo": "academic/awesome-datascience",
-    "parentStars": 28668,
-    "parentForks": 6410
+    "parentStars": 28674,
+    "parentForks": 6413
   },
   {
     "nameWithOwner": "perditioinc/awesome-nlp",
@@ -59,8 +248,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "keon/awesome-nlp",
-    "parentStars": 18314,
-    "parentForks": 2751
+    "parentStars": 18320,
+    "parentForks": 2753
   },
   {
     "nameWithOwner": "perditioinc/awesome-rl",
@@ -80,8 +269,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "aikorea/awesome-rl",
-    "parentStars": 9676,
-    "parentForks": 1897
+    "parentStars": 9680,
+    "parentForks": 1899
   },
   {
     "nameWithOwner": "perditioinc/robotics-coursework",
@@ -101,7 +290,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "mithi/robotics-coursework",
-    "parentStars": 4076,
+    "parentStars": 4079,
     "parentForks": 659
   },
   {
@@ -185,8 +374,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "kiloreux/awesome-robotics",
-    "parentStars": 6242,
-    "parentForks": 981
+    "parentStars": 6246,
+    "parentForks": 982
   },
   {
     "nameWithOwner": "perditioinc/machine-learning-interview",
@@ -206,7 +395,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "khangich/machine-learning-interview",
-    "parentStars": 12428,
+    "parentStars": 12430,
     "parentForks": 2001
   },
   {
@@ -227,8 +416,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "afshinea/stanford-cme-295-transformers-large-language-models",
-    "parentStars": 4136,
-    "parentForks": 581
+    "parentStars": 4139,
+    "parentForks": 582
   },
   {
     "nameWithOwner": "perditioinc/interviews.ai",
@@ -248,7 +437,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "BoltzmannEntropy/interviews.ai",
-    "parentStars": 4819,
+    "parentStars": 4821,
     "parentForks": 322
   },
   {
@@ -269,7 +458,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "andrewekhalel/MLQuestions",
-    "parentStars": 4521,
+    "parentStars": 4523,
     "parentForks": 737
   },
   {
@@ -290,7 +479,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Coder-World04/Complete-System-Design",
-    "parentStars": 4743,
+    "parentStars": 4742,
     "parentForks": 667
   },
   {
@@ -311,8 +500,29 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "youssefHosni/Data-Science-Interview-Questions-Answers",
-    "parentStars": 5544,
+    "parentStars": 5545,
     "parentForks": 1244
+  },
+  {
+    "nameWithOwner": "perditioinc/ideas-2026",
+    "name": "ideas-2026",
+    "description": "A collection of ideas for 2026",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": null,
+    "pushedAt": "2026-03-11T23:01:39Z",
+    "updatedAt": "2026-03-11T23:01:44Z",
+    "createdAt": "2025-12-22T13:25:32Z",
+    "isArchived": false,
+    "isFork": false,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": null,
+    "parentStars": null,
+    "parentForks": null
   },
   {
     "nameWithOwner": "perditioinc/purz-comfyui-workflows",
@@ -333,7 +543,7 @@
     "defaultBranch": "main",
     "parentRepo": "purzbeats/purz-comfyui-workflows",
     "parentStars": 106,
-    "parentForks": 13
+    "parentForks": 14
   },
   {
     "nameWithOwner": "perditioinc/reBot-DevArm",
@@ -353,7 +563,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Seeed-Projects/reBot-DevArm",
-    "parentStars": 1314,
+    "parentStars": 1320,
     "parentForks": 94
   },
   {
@@ -374,8 +584,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "asimovinc/asimov-v0",
-    "parentStars": 558,
-    "parentForks": 57
+    "parentStars": 578,
+    "parentForks": 58
   },
   {
     "nameWithOwner": "perditioinc/AI-ML-Roadmap-from-scratch",
@@ -395,8 +605,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "aadi1011/AI-ML-Roadmap-from-scratch",
-    "parentStars": 3246,
-    "parentForks": 627
+    "parentStars": 3249,
+    "parentForks": 628
   },
   {
     "nameWithOwner": "perditioinc/gpu-perf-engineering-resources",
@@ -416,7 +626,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "wafer-ai/gpu-perf-engineering-resources",
-    "parentStars": 486,
+    "parentStars": 488,
     "parentForks": 49
   },
   {
@@ -437,8 +647,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "phuryn/pm-skills",
-    "parentStars": 7854,
-    "parentForks": 794
+    "parentStars": 7913,
+    "parentForks": 800
   },
   {
     "nameWithOwner": "perditioinc/ai-engineer-handbook",
@@ -458,7 +668,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "DataExpert-io/ai-engineer-handbook",
-    "parentStars": 964,
+    "parentStars": 966,
     "parentForks": 155
   },
   {
@@ -479,8 +689,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Intent-Lab/VisionClaw",
-    "parentStars": 1691,
-    "parentForks": 308
+    "parentStars": 1705,
+    "parentForks": 310
   },
   {
     "nameWithOwner": "perditioinc/cs-video-courses",
@@ -500,8 +710,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "Developer-Y/cs-video-courses",
-    "parentStars": 77366,
-    "parentForks": 10488
+    "parentStars": 77387,
+    "parentForks": 10495
   },
   {
     "nameWithOwner": "perditioinc/Claude-Code-Frontend-Design-Toolkit",
@@ -542,7 +752,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "chiphuyen/dmls-book",
-    "parentStars": 4552,
+    "parentStars": 4558,
     "parentForks": 897
   },
   {
@@ -563,8 +773,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "mlabonne/llm-course",
-    "parentStars": 77126,
-    "parentForks": 8907
+    "parentStars": 77168,
+    "parentForks": 8914
   },
   {
     "nameWithOwner": "perditioinc/a-curated-list-of-ml-system-design-case-studies",
@@ -584,8 +794,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies",
-    "parentStars": 9613,
-    "parentForks": 1429
+    "parentStars": 9615,
+    "parentForks": 1430
   },
   {
     "nameWithOwner": "perditioinc/learn-ai-engineering",
@@ -605,8 +815,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "ashishps1/learn-ai-engineering",
-    "parentStars": 5181,
-    "parentForks": 1297
+    "parentStars": 5193,
+    "parentForks": 1301
   },
   {
     "nameWithOwner": "perditioinc/system-prompts-and-models-of-ai-tools",
@@ -626,8 +836,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "x1xhlol/system-prompts-and-models-of-ai-tools",
-    "parentStars": 132443,
-    "parentForks": 33515
+    "parentStars": 132590,
+    "parentForks": 33529
   },
   {
     "nameWithOwner": "perditioinc/llm-engineer-toolkit",
@@ -647,8 +857,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "KalyanKS-NLP/llm-engineer-toolkit",
-    "parentStars": 10033,
-    "parentForks": 1600
+    "parentStars": 10038,
+    "parentForks": 1599
   },
   {
     "nameWithOwner": "perditioinc/free-certifications",
@@ -668,7 +878,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "cloudcommunity/Free-Certifications",
-    "parentStars": 52872,
+    "parentStars": 52915,
     "parentForks": 3504
   },
   {
@@ -689,8 +899,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "VoltAgent/awesome-openclaw-skills",
-    "parentStars": 40163,
-    "parentForks": 3857
+    "parentStars": 40664,
+    "parentForks": 3889
   },
   {
     "nameWithOwner": "perditioinc/500-ai-machine-learning-deep-learning-computer-vision-nlp-projects-with-code",
@@ -710,8 +920,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
-    "parentStars": 32375,
-    "parentForks": 6971
+    "parentStars": 32395,
+    "parentForks": 6972
   },
   {
     "nameWithOwner": "perditioinc/awesome-deep-learning",
@@ -731,7 +941,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "ChristosChristofidis/awesome-deep-learning",
-    "parentStars": 27738,
+    "parentStars": 27744,
     "parentForks": 6291
   },
   {
@@ -752,8 +962,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "e2b-dev/awesome-ai-agents",
-    "parentStars": 26710,
-    "parentForks": 2485
+    "parentStars": 26765,
+    "parentForks": 2497
   },
   {
     "nameWithOwner": "perditioinc/awesome-github-profile-readme",
@@ -773,8 +983,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "abhisheknaiidu/awesome-github-profile-readme",
-    "parentStars": 29419,
-    "parentForks": 4310
+    "parentStars": 29428,
+    "parentForks": 4307
   },
   {
     "nameWithOwner": "perditioinc/awesome-production-machine-learning",
@@ -794,8 +1004,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "EthicalML/awesome-production-machine-learning",
-    "parentStars": 20273,
-    "parentForks": 2531
+    "parentStars": 20277,
+    "parentForks": 2530
   },
   {
     "nameWithOwner": "perditioinc/awesome-n8n-templates",
@@ -815,8 +1025,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "enescingoz/awesome-n8n-templates",
-    "parentStars": 20365,
-    "parentForks": 5702
+    "parentStars": 20415,
+    "parentForks": 5713
   },
   {
     "nameWithOwner": "perditioinc/machine-learning-tutorials",
@@ -836,7 +1046,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "ujjwalkarn/Machine-Learning-Tutorials",
-    "parentStars": 17643,
+    "parentStars": 17648,
     "parentForks": 3982
   },
   {
@@ -857,7 +1067,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "bharathgs/Awesome-pytorch-list",
-    "parentStars": 16423,
+    "parentStars": 16426,
     "parentForks": 2832
   },
   {
@@ -879,7 +1089,7 @@
     "defaultBranch": "master",
     "parentRepo": "oxnr/awesome-bigdata",
     "parentStars": 14288,
-    "parentForks": 2587
+    "parentForks": 2588
   },
   {
     "nameWithOwner": "perditioinc/awesome-generative-ai",
@@ -899,8 +1109,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "steven2358/awesome-generative-ai",
-    "parentStars": 11640,
-    "parentForks": 1382
+    "parentStars": 11646,
+    "parentForks": 1384
   },
   {
     "nameWithOwner": "perditioinc/awesome-fastapi",
@@ -920,8 +1130,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "mjhea0/awesome-fastapi",
-    "parentStars": 11181,
-    "parentForks": 828
+    "parentStars": 11184,
+    "parentForks": 827
   },
   {
     "nameWithOwner": "perditioinc/prompts",
@@ -962,8 +1172,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google-gemini/gemini-skills",
-    "parentStars": 2288,
-    "parentForks": 197
+    "parentStars": 2297,
+    "parentForks": 200
   },
   {
     "nameWithOwner": "perditioinc/material-design-icons",
@@ -983,7 +1193,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "google/material-design-icons",
-    "parentStars": 53003,
+    "parentStars": 53005,
     "parentForks": 9734
   },
   {
@@ -1004,7 +1214,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "anthropics/hh-rlhf",
-    "parentStars": 1831,
+    "parentStars": 1832,
     "parentForks": 155
   },
   {
@@ -1026,7 +1236,7 @@
     "defaultBranch": "master",
     "parentRepo": "openai/gpt-3",
     "parentStars": 15753,
-    "parentForks": 2268
+    "parentForks": 2267
   },
   {
     "nameWithOwner": "perditioinc/openai-openapi",
@@ -1088,7 +1298,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/Cosmos",
-    "parentStars": 8093,
+    "parentStars": 8094,
     "parentForks": 518
   },
   {
@@ -1130,8 +1340,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Hannibal046/Awesome-LLM",
-    "parentStars": 26497,
-    "parentForks": 2362
+    "parentStars": 26507,
+    "parentForks": 2365
   },
   {
     "nameWithOwner": "perditioinc/Mathematics-for-ML",
@@ -1151,8 +1361,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "dair-ai/Mathematics-for-ML",
-    "parentStars": 5848,
-    "parentForks": 658
+    "parentStars": 5853,
+    "parentForks": 659
   },
   {
     "nameWithOwner": "perditioinc/project-based-learning",
@@ -1172,8 +1382,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "practical-tutorials/project-based-learning",
-    "parentStars": 261331,
-    "parentForks": 34023
+    "parentStars": 261413,
+    "parentForks": 34033
   },
   {
     "nameWithOwner": "perditioinc/awesome",
@@ -1193,8 +1403,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "sindresorhus/awesome",
-    "parentStars": 447408,
-    "parentForks": 33651
+    "parentStars": 447782,
+    "parentForks": 33687
   },
   {
     "nameWithOwner": "perditioinc/attention-residuals",
@@ -1214,8 +1424,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "MoonshotAI/Attention-Residuals",
-    "parentStars": 2286,
-    "parentForks": 99
+    "parentStars": 2460,
+    "parentForks": 115
   },
   {
     "nameWithOwner": "perditioinc/labclaw",
@@ -1235,7 +1445,112 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "wu-yc/LabClaw",
-    "parentStars": 816,
-    "parentForks": 118
+    "parentStars": 837,
+    "parentForks": 121
+  },
+  {
+    "nameWithOwner": "perditioinc/awesome-mcp-servers",
+    "name": "awesome-mcp-servers",
+    "description": "A collection of MCP servers.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": null,
+    "pushedAt": "2026-03-19T21:54:44Z",
+    "updatedAt": "2026-03-21T09:17:28Z",
+    "createdAt": "2026-03-21T09:17:27Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "punkpeye/awesome-mcp-servers",
+    "parentStars": 83789,
+    "parentForks": 8486
+  },
+  {
+    "nameWithOwner": "perditioinc/claude-ai-mcp",
+    "name": "claude-ai-mcp",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": null,
+    "pushedAt": "2026-02-06T21:08:58Z",
+    "updatedAt": "2026-03-21T10:43:18Z",
+    "createdAt": "2026-03-21T10:43:18Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Other",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "anthropics/claude-ai-mcp",
+    "parentStars": 135,
+    "parentForks": 17
+  },
+  {
+    "nameWithOwner": "perditioinc/best-of-ml-python",
+    "name": "best-of-ml-python",
+    "description": "\ud83c\udfc6 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": null,
+    "pushedAt": "2026-03-22T08:44:47Z",
+    "updatedAt": "2026-03-22T09:10:33Z",
+    "createdAt": "2026-03-22T09:10:33Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Creative Commons Attribution Share Alike 4.0 International",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "lukasmasuch/best-of-ml-python",
+    "parentStars": 23349,
+    "parentForks": 3109
+  },
+  {
+    "nameWithOwner": "perditioinc/kubeflow",
+    "name": "kubeflow",
+    "description": "Machine Learning Toolkit for Kubernetes",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": null,
+    "pushedAt": "2026-01-05T13:47:10Z",
+    "updatedAt": "2026-03-22T09:12:16Z",
+    "createdAt": "2026-03-22T09:12:16Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Apache License 2.0",
+    "openIssues": 0,
+    "defaultBranch": "master",
+    "parentRepo": "kubeflow/kubeflow",
+    "parentStars": 15527,
+    "parentForks": 2615
+  },
+  {
+    "nameWithOwner": "perditioinc/DeepSeek-R1",
+    "name": "DeepSeek-R1",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": null,
+    "pushedAt": "2025-06-27T08:35:54Z",
+    "updatedAt": "2026-03-22T09:12:40Z",
+    "createdAt": "2026-03-22T09:12:40Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "deepseek-ai/DeepSeek-R1",
+    "parentStars": 91974,
+    "parentForks": 11747
   }
 ]

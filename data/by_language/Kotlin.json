@@ -1,0 +1,23 @@
+[
+  {
+    "nameWithOwner": "perditioinc/PixelPlayer",
+    "name": "PixelPlayer",
+    "description": "privacy-first Android music player built with Material 3 Expressive. Play offline, sync lyrics, fine-tune with equalizer presets, and cast to your devices.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Kotlin",
+    "pushedAt": "2026-03-20T22:39:06Z",
+    "updatedAt": "2026-03-22T09:12:05Z",
+    "createdAt": "2026-03-22T09:12:04Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "master",
+    "parentRepo": "theovilardo/PixelPlayer",
+    "parentStars": 3567,
+    "parentForks": 258
+  }
+]

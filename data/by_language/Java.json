@@ -38,8 +38,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "TheAlgorithms/Java",
-    "parentStars": 65246,
-    "parentForks": 21035
+    "parentStars": 65254,
+    "parentForks": 21038
   },
   {
     "nameWithOwner": "perditioinc/guava",
@@ -59,8 +59,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "google/guava",
-    "parentStars": 51504,
-    "parentForks": 11150
+    "parentStars": 51500,
+    "parentForks": 11147
   },
   {
     "nameWithOwner": "perditioinc/adk-java",
@@ -80,7 +80,70 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google/adk-java",
-    "parentStars": 1376,
+    "parentStars": 1377,
     "parentForks": 300
+  },
+  {
+    "nameWithOwner": "perditioinc/opendataloader-pdf",
+    "name": "opendataloader-pdf",
+    "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Java",
+    "pushedAt": "2026-03-20T10:22:16Z",
+    "updatedAt": "2026-03-22T09:04:35Z",
+    "createdAt": "2026-03-22T09:04:35Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Apache License 2.0",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "opendataloader-project/opendataloader-pdf",
+    "parentStars": 8109,
+    "parentForks": 547
+  },
+  {
+    "nameWithOwner": "perditioinc/vespa",
+    "name": "vespa",
+    "description": "AI + Data, online. https://vespa.ai",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Java",
+    "pushedAt": "2026-03-21T19:45:48Z",
+    "updatedAt": "2026-03-22T09:13:20Z",
+    "createdAt": "2026-03-22T09:13:20Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Apache License 2.0",
+    "openIssues": 0,
+    "defaultBranch": "master",
+    "parentRepo": "vespa-engine/vespa",
+    "parentStars": 6829,
+    "parentForks": 701
+  },
+  {
+    "nameWithOwner": "perditioinc/dbeaver",
+    "name": "dbeaver",
+    "description": "Free universal database tool and SQL client",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Java",
+    "pushedAt": "2026-03-22T08:58:12Z",
+    "updatedAt": "2026-03-22T09:19:46Z",
+    "createdAt": "2026-03-22T09:19:46Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Apache License 2.0",
+    "openIssues": 0,
+    "defaultBranch": "devel",
+    "parentRepo": "dbeaver/dbeaver",
+    "parentStars": 49223,
+    "parentForks": 4089
   }
 ]

@@ -18,7 +18,7 @@
     "defaultBranch": "main",
     "parentRepo": "Snapchat/Valdi",
     "parentStars": 16285,
-    "parentForks": 544
+    "parentForks": 543
   },
   {
     "nameWithOwner": "perditioinc/dynamic_robot_localization",
@@ -59,8 +59,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "alibaba/zvec",
-    "parentStars": 9103,
-    "parentForks": 518
+    "parentStars": 9121,
+    "parentForks": 519
   },
   {
     "nameWithOwner": "perditioinc/SnapRHI",
@@ -101,7 +101,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "allenk/GeminiWatermarkTool",
-    "parentStars": 1867,
+    "parentStars": 1876,
     "parentForks": 152
   },
   {
@@ -122,7 +122,7 @@
     "openIssues": 0,
     "defaultBranch": "ros2",
     "parentRepo": "mavlink/mavros",
-    "parentStars": 1135,
+    "parentStars": 1136,
     "parentForks": 1080
   },
   {
@@ -164,7 +164,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google-ai-edge/LiteRT",
-    "parentStars": 1971,
+    "parentStars": 1973,
     "parentForks": 246
   },
   {
@@ -185,8 +185,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "ggml-org/llama.cpp",
-    "parentStars": 98777,
-    "parentForks": 15675
+    "parentStars": 98904,
+    "parentForks": 15699
   },
   {
     "nameWithOwner": "perditioinc/mediapipe",
@@ -206,8 +206,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "google-ai-edge/mediapipe",
-    "parentStars": 34234,
-    "parentForks": 5853
+    "parentStars": 34248,
+    "parentForks": 5854
   },
   {
     "nameWithOwner": "perditioinc/Serial-Studio",
@@ -227,7 +227,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "Serial-Studio/Serial-Studio",
-    "parentStars": 6725,
+    "parentStars": 6726,
     "parentForks": 1009
   },
   {
@@ -248,7 +248,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/terminal",
-    "parentStars": 102286,
+    "parentStars": 102307,
     "parentForks": 9144
   },
   {
@@ -269,8 +269,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "RunanywhereAI/runanywhere-sdks",
-    "parentStars": 10304,
-    "parentForks": 319
+    "parentStars": 10368,
+    "parentForks": 329
   },
   {
     "nameWithOwner": "perditioinc/geode",
@@ -290,8 +290,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "geode-sdk/geode",
-    "parentStars": 2061,
-    "parentForks": 373
+    "parentStars": 2072,
+    "parentForks": 374
   },
   {
     "nameWithOwner": "perditioinc/amnezia-client",
@@ -311,8 +311,8 @@
     "openIssues": 0,
     "defaultBranch": "dev",
     "parentRepo": "amnezia-vpn/amnezia-client",
-    "parentStars": 10698,
-    "parentForks": 762
+    "parentStars": 10732,
+    "parentForks": 765
   },
   {
     "nameWithOwner": "perditioinc/LichtFeld-Studio",
@@ -332,7 +332,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "MrNeRF/LichtFeld-Studio",
-    "parentStars": 2591,
+    "parentStars": 2597,
     "parentForks": 272
   },
   {
@@ -353,8 +353,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "hrydgard/ppsspp",
-    "parentStars": 13580,
-    "parentForks": 2455
+    "parentStars": 13587,
+    "parentForks": 2454
   },
   {
     "nameWithOwner": "perditioinc/OrcaSlicer",
@@ -374,8 +374,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "OrcaSlicer/OrcaSlicer",
-    "parentStars": 12956,
-    "parentForks": 1886
+    "parentStars": 12968,
+    "parentForks": 1890
   },
   {
     "nameWithOwner": "perditioinc/mlx",
@@ -395,8 +395,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "ml-explore/mlx",
-    "parentStars": 24657,
-    "parentForks": 1592
+    "parentStars": 24681,
+    "parentForks": 1596
   },
   {
     "nameWithOwner": "perditioinc/rocm-systems",
@@ -417,7 +417,7 @@
     "defaultBranch": "develop",
     "parentRepo": "ROCm/rocm-systems",
     "parentStars": 314,
-    "parentForks": 177
+    "parentForks": 180
   },
   {
     "nameWithOwner": "perditioinc/GR00T-WholeBodyControl",
@@ -437,8 +437,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVlabs/GR00T-WholeBodyControl",
-    "parentStars": 1229,
-    "parentForks": 144
+    "parentStars": 1236,
+    "parentForks": 146
   },
   {
     "nameWithOwner": "perditioinc/WSL",
@@ -458,8 +458,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "microsoft/WSL",
-    "parentStars": 31479,
-    "parentForks": 1651
+    "parentStars": 31487,
+    "parentForks": 1652
   },
   {
     "nameWithOwner": "perditioinc/NanaZip",
@@ -479,8 +479,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "M2Team/NanaZip",
-    "parentStars": 13693,
-    "parentForks": 343
+    "parentStars": 13710,
+    "parentForks": 344
   },
   {
     "nameWithOwner": "perditioinc/ggml",
@@ -500,8 +500,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "ggml-org/ggml",
-    "parentStars": 14257,
-    "parentForks": 1523
+    "parentStars": 14262,
+    "parentForks": 1526
   },
   {
     "nameWithOwner": "perditioinc/ladybird",
@@ -521,8 +521,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "LadybirdBrowser/ladybird",
-    "parentStars": 61417,
-    "parentForks": 2877
+    "parentStars": 61435,
+    "parentForks": 2879
   },
   {
     "nameWithOwner": "perditioinc/QtScrcpy",
@@ -542,7 +542,7 @@
     "openIssues": 0,
     "defaultBranch": "dev",
     "parentRepo": "barry-ran/QtScrcpy",
-    "parentStars": 28915,
+    "parentStars": 28925,
     "parentForks": 3483
   },
   {
@@ -563,8 +563,8 @@
     "openIssues": 0,
     "defaultBranch": "pioarduino",
     "parentRepo": "geo-tp/ESP32-Bus-Pirate",
-    "parentStars": 2976,
-    "parentForks": 246
+    "parentStars": 2980,
+    "parentForks": 247
   },
   {
     "nameWithOwner": "perditioinc/REFramework",
@@ -584,7 +584,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "praydog/REFramework",
-    "parentStars": 4821,
+    "parentStars": 4828,
     "parentForks": 521
   },
   {
@@ -605,8 +605,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "TheAlgorithms/C-Plus-Plus",
-    "parentStars": 33947,
-    "parentForks": 7750
+    "parentStars": 33956,
+    "parentForks": 7749
   },
   {
     "nameWithOwner": "perditioinc/calculator",
@@ -626,8 +626,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/calculator",
-    "parentStars": 30874,
-    "parentForks": 5732
+    "parentStars": 30876,
+    "parentForks": 5734
   },
   {
     "nameWithOwner": "perditioinc/AirSim",
@@ -668,8 +668,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/react-native-windows",
-    "parentStars": 17206,
-    "parentForks": 1193
+    "parentStars": 17209,
+    "parentForks": 1194
   },
   {
     "nameWithOwner": "perditioinc/googletest",
@@ -689,7 +689,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google/googletest",
-    "parentStars": 38385,
+    "parentStars": 38389,
     "parentForks": 10728
   },
   {
@@ -731,8 +731,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/TensorRT",
-    "parentStars": 12807,
-    "parentForks": 2326
+    "parentStars": 12813,
+    "parentForks": 2325
   },
   {
     "nameWithOwner": "perditioinc/cutlass",
@@ -752,7 +752,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/cutlass",
-    "parentStars": 9470,
+    "parentStars": 9474,
     "parentForks": 1742
   },
   {
@@ -773,7 +773,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/FasterTransformer",
-    "parentStars": 6397,
+    "parentStars": 6399,
     "parentForks": 931
   },
   {
@@ -836,7 +836,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "NVIDIA/VideoProcessingFramework",
-    "parentStars": 1377,
+    "parentStars": 1378,
     "parentForks": 239
   },
   {
@@ -858,7 +858,7 @@
     "defaultBranch": "main",
     "parentRepo": "nomic-ai/gpt4all",
     "parentStars": 77235,
-    "parentForks": 8328
+    "parentForks": 8327
   },
   {
     "nameWithOwner": "perditioinc/tensorflow",
@@ -878,8 +878,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "tensorflow/tensorflow",
-    "parentStars": 194258,
-    "parentForks": 75247
+    "parentStars": 194308,
+    "parentForks": 75253
   },
   {
     "nameWithOwner": "perditioinc/OdomLaserCalibraTool",
@@ -983,8 +983,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "jrouwe/JoltPhysics",
-    "parentStars": 9839,
-    "parentForks": 676
+    "parentStars": 9843,
+    "parentForks": 678
   },
   {
     "nameWithOwner": "perditioinc/brave-core",
@@ -1004,8 +1004,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "brave/brave-core",
-    "parentStars": 3024,
-    "parentForks": 1156
+    "parentStars": 3025,
+    "parentForks": 1160
   },
   {
     "nameWithOwner": "perditioinc/godot",
@@ -1025,8 +1025,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "godotengine/godot",
-    "parentStars": 108193,
-    "parentForks": 24729
+    "parentStars": 108258,
+    "parentForks": 24734
   },
   {
     "nameWithOwner": "perditioinc/Marlin",
@@ -1046,8 +1046,8 @@
     "openIssues": 0,
     "defaultBranch": "bugfix-2.1.x",
     "parentRepo": "MarlinFirmware/Marlin",
-    "parentStars": 17328,
-    "parentForks": 19690
+    "parentStars": 17332,
+    "parentForks": 19692
   },
   {
     "nameWithOwner": "perditioinc/jellyfin-desktop",
@@ -1067,8 +1067,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "jellyfin/jellyfin-desktop",
-    "parentStars": 5489,
-    "parentForks": 507
+    "parentStars": 5494,
+    "parentForks": 508
   },
   {
     "nameWithOwner": "perditioinc/WLED",
@@ -1088,8 +1088,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "wled/WLED",
-    "parentStars": 17705,
-    "parentForks": 4057
+    "parentStars": 17707,
+    "parentForks": 4060
   },
   {
     "nameWithOwner": "perditioinc/FreeCAD",
@@ -1109,8 +1109,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "FreeCAD/FreeCAD",
-    "parentStars": 29150,
-    "parentForks": 5286
+    "parentStars": 29167,
+    "parentForks": 5287
   },
   {
     "nameWithOwner": "perditioinc/mongo",
@@ -1130,8 +1130,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "mongodb/mongo",
-    "parentStars": 28214,
-    "parentForks": 5763
+    "parentStars": 28226,
+    "parentForks": 5764
   },
   {
     "nameWithOwner": "perditioinc/BambuStudio",
@@ -1151,8 +1151,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "bambulab/BambuStudio",
-    "parentStars": 4142,
-    "parentForks": 648
+    "parentStars": 4149,
+    "parentForks": 651
   },
   {
     "nameWithOwner": "perditioinc/xiaozhi-esp32",
@@ -1172,8 +1172,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "78/xiaozhi-esp32",
-    "parentStars": 24966,
-    "parentForks": 5360
+    "parentStars": 24992,
+    "parentForks": 5365
   },
   {
     "nameWithOwner": "perditioinc/stable-diffusion.cpp",
@@ -1193,8 +1193,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "leejet/stable-diffusion.cpp",
-    "parentStars": 5588,
-    "parentForks": 552
+    "parentStars": 5591,
+    "parentForks": 554
   },
   {
     "nameWithOwner": "perditioinc/steam_icp",
@@ -1256,7 +1256,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "PRBonn/kiss-icp",
-    "parentStars": 2111,
+    "parentStars": 2112,
     "parentForks": 428
   },
   {
@@ -1340,7 +1340,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "engcang/SLAM-application",
-    "parentStars": 1123,
+    "parentStars": 1124,
     "parentForks": 150
   },
   {
@@ -1382,7 +1382,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "YibinWu/LIO-EKF",
-    "parentStars": 312,
+    "parentStars": 313,
     "parentForks": 30
   },
   {
@@ -1403,7 +1403,133 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "tesseract-ocr/tesseract",
-    "parentStars": 73024,
-    "parentForks": 10550
+    "parentStars": 73041,
+    "parentForks": 10555
+  },
+  {
+    "nameWithOwner": "perditioinc/protobuf",
+    "name": "protobuf",
+    "description": "Protocol Buffers - Google's data interchange format",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "C++",
+    "pushedAt": "2026-03-22T05:19:27Z",
+    "updatedAt": "2026-03-22T09:05:13Z",
+    "createdAt": "2026-03-22T09:05:13Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Other",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "protocolbuffers/protobuf",
+    "parentStars": 70974,
+    "parentForks": 16085
+  },
+  {
+    "nameWithOwner": "perditioinc/serving",
+    "name": "serving",
+    "description": "A flexible, high-performance serving system for machine learning models",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "C++",
+    "pushedAt": "2025-12-18T04:41:08Z",
+    "updatedAt": "2026-03-22T09:11:11Z",
+    "createdAt": "2026-03-22T09:11:11Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Apache License 2.0",
+    "openIssues": 0,
+    "defaultBranch": "master",
+    "parentRepo": "tensorflow/serving",
+    "parentStars": 6349,
+    "parentForks": 2201
+  },
+  {
+    "nameWithOwner": "perditioinc/onnxruntime",
+    "name": "onnxruntime",
+    "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "C++",
+    "pushedAt": "2026-03-22T07:54:11Z",
+    "updatedAt": "2026-03-22T09:11:13Z",
+    "createdAt": "2026-03-22T09:11:13Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "microsoft/onnxruntime",
+    "parentStars": 19630,
+    "parentForks": 3782
+  },
+  {
+    "nameWithOwner": "perditioinc/faiss",
+    "name": "faiss",
+    "description": "A library for efficient similarity search and clustering of dense vectors.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "C++",
+    "pushedAt": "2026-03-21T05:02:26Z",
+    "updatedAt": "2026-03-22T09:13:16Z",
+    "createdAt": "2026-03-22T09:13:16Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "facebookresearch/faiss",
+    "parentStars": 39460,
+    "parentForks": 4303
+  },
+  {
+    "nameWithOwner": "perditioinc/typesense",
+    "name": "typesense",
+    "description": "Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch \u26a1 \ud83d\udd0d \u2728 Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "C++",
+    "pushedAt": "2026-03-21T15:56:39Z",
+    "updatedAt": "2026-03-22T09:13:22Z",
+    "createdAt": "2026-03-22T09:13:22Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "GNU General Public License v3.0",
+    "openIssues": 0,
+    "defaultBranch": "v31",
+    "parentRepo": "typesense/typesense",
+    "parentStars": 25428,
+    "parentForks": 867
+  },
+  {
+    "nameWithOwner": "perditioinc/opencv",
+    "name": "opencv",
+    "description": "Open Source Computer Vision Library",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "C++",
+    "pushedAt": "2026-03-20T09:55:02Z",
+    "updatedAt": "2026-03-22T09:13:26Z",
+    "createdAt": "2026-03-22T09:13:26Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Apache License 2.0",
+    "openIssues": 0,
+    "defaultBranch": "4.x",
+    "parentRepo": "opencv/opencv",
+    "parentStars": 86727,
+    "parentForks": 56564
   }
 ]
