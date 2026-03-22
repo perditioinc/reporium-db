@@ -22,7 +22,6 @@ class RepoMetadata:
     isArchived: bool
     isFork: bool
     isEmpty: bool
-    isPrivate: bool = False
     topics: list[str]
     licenseName: Optional[str]
     openIssues: int
@@ -30,6 +29,7 @@ class RepoMetadata:
     parentRepo: Optional[str] = None
     parentStars: Optional[int] = None
     parentForks: Optional[int] = None
+    isPrivate: bool = False
 
 
 @dataclass
