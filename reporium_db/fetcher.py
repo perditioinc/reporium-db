@@ -31,7 +31,7 @@ query($login: String!, $first: Int!, $after: String) {
         nameWithOwner name description stargazerCount forkCount
         primaryLanguage { name }
         pushedAt updatedAt createdAt
-        isArchived isFork isEmpty
+        isArchived isFork isEmpty isPrivate
         parent { nameWithOwner stargazerCount forkCount }
         repositoryTopics(first: 10) { nodes { topic { name } } }
         licenseInfo { name }
@@ -61,6 +61,7 @@ def _parse_repo(node: dict[str, Any]) -> RepoMetadata:
         isArchived=node["isArchived"],
         isFork=node["isFork"],
         isEmpty=node["isEmpty"],
+        isPrivate=node.get("isPrivate", False),
         topics=[n["topic"]["name"] for n in node.get("repositoryTopics", {}).get("nodes", [])],
         licenseName=(node["licenseInfo"]["name"] if node.get("licenseInfo") else None),
         openIssues=node["issues"]["totalCount"],
@@ -180,7 +181,12 @@ async def fetch_all_repos(config: Config) -> tuple[list[RepoMetadata], dict[str,
                 await asyncio.sleep(5)
 
             page = data["data"]["repositoryOwner"]["repositories"]
-            repos.extend(_parse_repo(n) for n in page["nodes"])
+            for n in page["nodes"]:
+                parsed = _parse_repo(n)
+                if parsed.isPrivate:
+                    logger.debug("Skipping private repo: %s", parsed.nameWithOwner)
+                    continue
+                repos.append(parsed)
 
             if len(repos) % config.checkpoint_interval < 100:
                 _save_checkpoint(started_at, cursor, len(repos))
