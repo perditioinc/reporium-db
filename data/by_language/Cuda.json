@@ -17,8 +17,9 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "Infatoshi/cuda-course",
-    "parentStars": 3393,
-    "parentForks": 595
+    "parentStars": 3396,
+    "parentForks": 596,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/imp",
@@ -39,7 +40,8 @@
     "defaultBranch": "main",
     "parentRepo": "kekzl/imp",
     "parentStars": 15,
-    "parentForks": 2
+    "parentForks": 2,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/cuopt",
@@ -59,7 +61,30 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/cuopt",
-    "parentStars": 770,
-    "parentForks": 148
+    "parentStars": 777,
+    "parentForks": 148,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/instant-ngp",
+    "name": "instant-ngp",
+    "description": "Instant neural graphics primitives: lightning fast NeRF and more",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Cuda",
+    "pushedAt": "2026-02-02T12:32:34Z",
+    "updatedAt": "2026-03-22T13:43:29Z",
+    "createdAt": "2026-03-22T13:43:29Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Other",
+    "openIssues": 0,
+    "defaultBranch": "master",
+    "parentRepo": "NVlabs/instant-ngp",
+    "parentStars": 17329,
+    "parentForks": 2060,
+    "isPrivate": false
   }
 ]

@@ -17,8 +17,9 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "openai/mujoco-py",
-    "parentStars": 3118,
-    "parentForks": 829
+    "parentStars": 3120,
+    "parentForks": 829,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/cuda-python",
@@ -39,6 +40,7 @@
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/cuda-python",
     "parentStars": 3192,
-    "parentForks": 260
+    "parentForks": 261,
+    "isPrivate": false
   }
 ]

@@ -18,6 +18,29 @@
     "defaultBranch": "main",
     "parentRepo": "tobi/try",
     "parentStars": 3528,
-    "parentForks": 137
+    "parentForks": 137,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/spree",
+    "name": "spree",
+    "description": "Spree is an API-first, open-source eCommerce platform for fast growing businesses and enterprises. Spree supports complex commerce scenarios natively \u2014 from B2B wholesale to multi-vendor marketplace to global multi-region or multi-tenant distributor platforms. Use each model independently or combine them as your business evolves.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Ruby",
+    "pushedAt": "2026-03-22T21:20:28Z",
+    "updatedAt": "2026-03-23T01:15:43Z",
+    "createdAt": "2026-03-23T01:15:43Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "spree/spree",
+    "parentStars": 15285,
+    "parentForks": 5247,
+    "isPrivate": false
   }
 ]

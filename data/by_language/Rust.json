@@ -17,8 +17,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "openai/codex",
-    "parentStars": 66824,
-    "parentForks": 8929
+    "parentStars": 66961,
+    "parentForks": 8952,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/edgequake",
@@ -38,8 +39,9 @@
     "openIssues": 0,
     "defaultBranch": "edgequake-main",
     "parentRepo": "raphaelmansuy/edgequake",
-    "parentStars": 1500,
-    "parentForks": 156
+    "parentStars": 1506,
+    "parentForks": 157,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/zeroclaw",
@@ -59,8 +61,9 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "zeroclaw-labs/zeroclaw",
-    "parentStars": 28323,
-    "parentForks": 3864
+    "parentStars": 28441,
+    "parentForks": 3887,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/openfang",
@@ -80,8 +83,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "RightNow-AI/openfang",
-    "parentStars": 15212,
-    "parentForks": 1839
+    "parentStars": 15276,
+    "parentForks": 1844,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/ffflow",
@@ -102,7 +106,8 @@
     "defaultBranch": "main",
     "parentRepo": "yugaaank/ffflow",
     "parentStars": 23,
-    "parentForks": 2
+    "parentForks": 2,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/llmfit",
@@ -122,8 +127,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "AlexsJones/llmfit",
-    "parentStars": 18361,
-    "parentForks": 1055
+    "parentStars": 18566,
+    "parentForks": 1068,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/agent-browser",
@@ -143,8 +149,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "vercel-labs/agent-browser",
-    "parentStars": 24096,
-    "parentForks": 1423
+    "parentStars": 24291,
+    "parentForks": 1436,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/RuView",
@@ -164,8 +171,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "ruvnet/RuView",
-    "parentStars": 38902,
-    "parentForks": 5304
+    "parentStars": 39678,
+    "parentForks": 5429,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/chroma",
@@ -185,8 +193,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "chroma-core/chroma",
-    "parentStars": 26765,
-    "parentForks": 2140
+    "parentStars": 26775,
+    "parentForks": 2141,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/qdrant",
@@ -206,8 +215,9 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "qdrant/qdrant",
-    "parentStars": 29772,
-    "parentForks": 2120
+    "parentStars": 29781,
+    "parentForks": 2124,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/shellfirm",
@@ -228,7 +238,8 @@
     "defaultBranch": "main",
     "parentRepo": "kaplanelad/shellfirm",
     "parentStars": 885,
-    "parentForks": 30
+    "parentForks": 30,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/Rust",
@@ -248,8 +259,9 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "TheAlgorithms/Rust",
-    "parentStars": 25590,
-    "parentForks": 2540
+    "parentStars": 25594,
+    "parentForks": 2540,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/claudes-c-compiler",
@@ -269,8 +281,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "anthropics/claudes-c-compiler",
-    "parentStars": 2554,
-    "parentForks": 198
+    "parentStars": 2557,
+    "parentForks": 198,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/harmony",
@@ -290,8 +303,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "openai/harmony",
-    "parentStars": 4238,
-    "parentForks": 262
+    "parentStars": 4237,
+    "parentForks": 262,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/vite-plus",
@@ -311,8 +325,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "voidzero-dev/vite-plus",
-    "parentStars": 3213,
-    "parentForks": 115
+    "parentStars": 3310,
+    "parentForks": 117,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/arnis",
@@ -332,8 +347,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "louis-e/arnis",
-    "parentStars": 12411,
-    "parentForks": 1024
+    "parentStars": 12849,
+    "parentForks": 1046,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/agent-of-empires",
@@ -353,8 +369,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "njbrake/agent-of-empires",
-    "parentStars": 1248,
-    "parentForks": 102
+    "parentStars": 1275,
+    "parentForks": 101,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/horizon",
@@ -374,8 +391,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "peters/horizon",
-    "parentStars": 354,
-    "parentForks": 15
+    "parentStars": 381,
+    "parentForks": 18,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/candle",
@@ -395,8 +413,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "huggingface/candle",
-    "parentStars": 19747,
-    "parentForks": 1469
+    "parentStars": 19760,
+    "parentForks": 1469,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/burn",
@@ -416,8 +435,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "tracel-ai/burn",
-    "parentStars": 14685,
-    "parentForks": 856
+    "parentStars": 14692,
+    "parentForks": 856,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/zed",
@@ -437,8 +457,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "zed-industries/zed",
-    "parentStars": 77637,
-    "parentForks": 7495
+    "parentStars": 77682,
+    "parentForks": 7504,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/tabby",
@@ -458,8 +479,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "TabbyML/tabby",
-    "parentStars": 33036,
-    "parentForks": 1692
+    "parentStars": 33035,
+    "parentForks": 1692,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/goose",
@@ -479,8 +501,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "block/goose",
-    "parentStars": 33408,
-    "parentForks": 3103
+    "parentStars": 33452,
+    "parentForks": 3109,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/refact",
@@ -501,7 +524,8 @@
     "defaultBranch": "main",
     "parentRepo": "smallcloudai/refact",
     "parentStars": 3524,
-    "parentForks": 309
+    "parentForks": 309,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/meilisearch",
@@ -521,8 +545,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "meilisearch/meilisearch",
-    "parentStars": 56637,
-    "parentForks": 2441
+    "parentStars": 56665,
+    "parentForks": 2445,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/pgvecto.rs",
@@ -542,8 +567,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "tensorchord/pgvecto.rs",
-    "parentStars": 2163,
-    "parentForks": 84
+    "parentStars": 2164,
+    "parentForks": 84,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/tokenizers",
@@ -564,7 +590,8 @@
     "defaultBranch": "main",
     "parentRepo": "huggingface/tokenizers",
     "parentStars": 10554,
-    "parentForks": 1061
+    "parentForks": 1062,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/ChatGPT",
@@ -585,6 +612,117 @@
     "defaultBranch": "v2-dev",
     "parentRepo": "lencx/ChatGPT",
     "parentStars": 54368,
-    "parentForks": 6193
+    "parentForks": 6191,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/tensorzero",
+    "name": "tensorzero",
+    "description": "TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, optimization, evaluation, and experimentation.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Rust",
+    "pushedAt": "2026-03-21T20:33:18Z",
+    "updatedAt": "2026-03-22T13:41:18Z",
+    "createdAt": "2026-03-22T13:41:18Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Apache License 2.0",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "tensorzero/tensorzero",
+    "parentStars": 11119,
+    "parentForks": 797,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/cube",
+    "name": "cube",
+    "description": "\ud83d\udcca Cube Core is open-source semantic layer for AI, BI and embedded analytics",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Rust",
+    "pushedAt": "2026-03-21T20:32:51Z",
+    "updatedAt": "2026-03-23T00:52:33Z",
+    "createdAt": "2026-03-23T00:52:33Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Other",
+    "openIssues": 0,
+    "defaultBranch": "master",
+    "parentRepo": "cube-js/cube",
+    "parentStars": 19665,
+    "parentForks": 1978,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/screenpipe",
+    "name": "screenpipe",
+    "description": "screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Rust",
+    "pushedAt": "2026-03-23T00:35:49Z",
+    "updatedAt": "2026-03-23T00:53:42Z",
+    "createdAt": "2026-03-23T00:53:42Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Other",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "screenpipe/screenpipe",
+    "parentStars": 17437,
+    "parentForks": 1490,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/iii",
+    "name": "iii",
+    "description": "iii (pronounced \u201cthree eye\u201d) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Rust",
+    "pushedAt": "2026-03-21T18:25:43Z",
+    "updatedAt": "2026-03-23T00:58:57Z",
+    "createdAt": "2026-03-23T00:58:57Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Apache License 2.0",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "iii-hq/iii",
+    "parentStars": 15238,
+    "parentForks": 1019,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/memvid",
+    "name": "memvid",
+    "description": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Rust",
+    "pushedAt": "2026-03-16T13:23:51Z",
+    "updatedAt": "2026-03-23T01:03:54Z",
+    "createdAt": "2026-03-23T01:03:54Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Apache License 2.0",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "memvid/memvid",
+    "parentStars": 13563,
+    "parentForks": 1128,
+    "isPrivate": false
   }
 ]
