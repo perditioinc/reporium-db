@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0] - 2026-03-22
+
+### Security
+- Added `isPrivate` field to GraphQL query and RepoMetadata model
+- Private repos are now filtered out during fetch — never enter the database
+- Added security unit tests for isPrivate field
+
 ## [1.1.0] - 2026-03-21
 
 ### Added
