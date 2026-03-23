@@ -17,8 +17,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google/adk-go",
-    "parentStars": 7212,
-    "parentForks": 585
+    "parentStars": 7215,
+    "parentForks": 585,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/gh-aw",
@@ -38,8 +39,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "github/gh-aw",
-    "parentStars": 4144,
-    "parentForks": 308
+    "parentStars": 4146,
+    "parentForks": 312,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/picoclaw",
@@ -59,8 +61,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "sipeed/picoclaw",
-    "parentStars": 25750,
-    "parentForks": 3559
+    "parentStars": 25839,
+    "parentForks": 3578,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/flyte",
@@ -80,8 +83,9 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "flyteorg/flyte",
-    "parentStars": 6897,
-    "parentForks": 801
+    "parentStars": 6902,
+    "parentForks": 801,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/genai-toolbox",
@@ -101,8 +105,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "googleapis/genai-toolbox",
-    "parentStars": 13489,
-    "parentForks": 1275
+    "parentStars": 13495,
+    "parentForks": 1276,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/pinchtab",
@@ -122,8 +127,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "pinchtab/pinchtab",
-    "parentStars": 8056,
-    "parentForks": 601
+    "parentStars": 8079,
+    "parentForks": 601,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/plandex",
@@ -143,8 +149,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "plandex-ai/plandex",
-    "parentStars": 15118,
-    "parentForks": 1104
+    "parentStars": 15124,
+    "parentForks": 1104,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/ollama",
@@ -164,8 +171,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "ollama/ollama",
-    "parentStars": 165841,
-    "parentForks": 15098
+    "parentStars": 165910,
+    "parentForks": 15111,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/dolt",
@@ -185,8 +193,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "dolthub/dolt",
-    "parentStars": 21584,
-    "parentForks": 703
+    "parentStars": 21615,
+    "parentForks": 705,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/milvus",
@@ -206,8 +215,9 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "milvus-io/milvus",
-    "parentStars": 43450,
-    "parentForks": 3910
+    "parentStars": 43459,
+    "parentForks": 3911,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/weaviate",
@@ -227,8 +237,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "weaviate/weaviate",
-    "parentStars": 15854,
-    "parentForks": 1229
+    "parentStars": 15859,
+    "parentForks": 1231,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/bifrost",
@@ -248,8 +259,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "maximhq/bifrost",
-    "parentStars": 3074,
-    "parentForks": 332
+    "parentStars": 3092,
+    "parentForks": 335,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/kuberay",
@@ -269,8 +281,9 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "ray-project/kuberay",
-    "parentStars": 2389,
-    "parentForks": 723
+    "parentStars": 2390,
+    "parentForks": 724,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/microservices-demo",
@@ -290,8 +303,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "GoogleCloudPlatform/microservices-demo",
-    "parentStars": 19981,
-    "parentForks": 9658
+    "parentStars": 19989,
+    "parentForks": 9664,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/terraformer",
@@ -311,8 +325,9 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "GoogleCloudPlatform/terraformer",
-    "parentStars": 14522,
-    "parentForks": 1821
+    "parentStars": 14521,
+    "parentForks": 1821,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/kubectl-ai",
@@ -333,7 +348,8 @@
     "defaultBranch": "main",
     "parentRepo": "GoogleCloudPlatform/kubectl-ai",
     "parentStars": 7370,
-    "parentForks": 687
+    "parentForks": 687,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/golang-samples",
@@ -354,7 +370,8 @@
     "defaultBranch": "main",
     "parentRepo": "GoogleCloudPlatform/golang-samples",
     "parentStars": 4598,
-    "parentForks": 1861
+    "parentForks": 1861,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/gcsfuse",
@@ -375,7 +392,8 @@
     "defaultBranch": "master",
     "parentRepo": "GoogleCloudPlatform/gcsfuse",
     "parentStars": 2217,
-    "parentForks": 485
+    "parentForks": 485,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/cloud-builders-community",
@@ -396,7 +414,8 @@
     "defaultBranch": "master",
     "parentRepo": "GoogleCloudPlatform/cloud-builders-community",
     "parentStars": 1307,
-    "parentForks": 849
+    "parentForks": 849,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/berglas",
@@ -417,7 +436,8 @@
     "defaultBranch": "main",
     "parentRepo": "GoogleCloudPlatform/berglas",
     "parentStars": 1295,
-    "parentForks": 101
+    "parentForks": 101,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/cloud-builders",
@@ -438,7 +458,8 @@
     "defaultBranch": "master",
     "parentRepo": "GoogleCloudPlatform/cloud-builders",
     "parentStars": 1448,
-    "parentForks": 612
+    "parentForks": 612,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/Go",
@@ -459,7 +480,8 @@
     "defaultBranch": "master",
     "parentRepo": "TheAlgorithms/Go",
     "parentStars": 17893,
-    "parentForks": 2791
+    "parentForks": 2791,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/generative-ai-go",
@@ -480,7 +502,8 @@
     "defaultBranch": "main",
     "parentRepo": "google/generative-ai-go",
     "parentStars": 854,
-    "parentForks": 99
+    "parentForks": 99,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/openai-go",
@@ -500,8 +523,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "openai/openai-go",
-    "parentStars": 3076,
-    "parentForks": 284
+    "parentStars": 3082,
+    "parentForks": 286,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/aistore",
@@ -521,8 +545,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/aistore",
-    "parentStars": 1790,
-    "parentForks": 243
+    "parentStars": 1793,
+    "parentForks": 243,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/nvidia-container-toolkit",
@@ -542,8 +567,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/nvidia-container-toolkit",
-    "parentStars": 4176,
-    "parentForks": 496
+    "parentStars": 4180,
+    "parentForks": 496,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/navidrome",
@@ -563,8 +589,9 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "navidrome/navidrome",
-    "parentStars": 19988,
-    "parentForks": 1420
+    "parentStars": 19998,
+    "parentForks": 1422,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/hugo",
@@ -584,8 +611,9 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "gohugoio/hugo",
-    "parentStars": 87200,
-    "parentForks": 8219
+    "parentStars": 87218,
+    "parentForks": 8222,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/coder",
@@ -605,8 +633,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "coder/coder",
-    "parentStars": 12607,
-    "parentForks": 1222
+    "parentStars": 12614,
+    "parentForks": 1223,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/pentagi",
@@ -626,8 +655,9 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "vxcontrol/pentagi",
-    "parentStars": 11219,
-    "parentForks": 1408
+    "parentStars": 12332,
+    "parentForks": 1543,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/Fabric",
@@ -647,8 +677,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "danielmiessler/Fabric",
-    "parentStars": 40100,
-    "parentForks": 4003
+    "parentStars": 40116,
+    "parentForks": 4003,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/katana",
@@ -668,8 +699,9 @@
     "openIssues": 0,
     "defaultBranch": "dev",
     "parentRepo": "projectdiscovery/katana",
-    "parentStars": 16250,
-    "parentForks": 1062
+    "parentStars": 16273,
+    "parentForks": 1062,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/evcc",
@@ -689,8 +721,9 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "evcc-io/evcc",
-    "parentStars": 6286,
-    "parentForks": 1239
+    "parentStars": 6291,
+    "parentForks": 1240,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/nofx",
@@ -710,8 +743,9 @@
     "openIssues": 0,
     "defaultBranch": "dev",
     "parentRepo": "NoFxAiOS/nofx",
-    "parentStars": 11015,
-    "parentForks": 2841
+    "parentStars": 11103,
+    "parentForks": 2850,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/uncloud",
@@ -731,8 +765,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "psviderski/uncloud",
-    "parentStars": 4926,
-    "parentForks": 142
+    "parentStars": 4931,
+    "parentForks": 142,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/LocalAI",
@@ -752,8 +787,9 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "mudler/LocalAI",
-    "parentStars": 44192,
-    "parentForks": 3772
+    "parentStars": 44246,
+    "parentForks": 3781,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/container-use",
@@ -773,8 +809,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "dagger/container-use",
-    "parentStars": 3657,
-    "parentForks": 181
+    "parentStars": 3661,
+    "parentForks": 181,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/mcp-go",
@@ -794,8 +831,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "mark3labs/mcp-go",
-    "parentStars": 8404,
-    "parentForks": 800
+    "parentStars": 8406,
+    "parentForks": 800,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/trivy",
@@ -815,7 +853,404 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "aquasecurity/trivy",
-    "parentStars": 33477,
-    "parentForks": 138
+    "parentStars": 33732,
+    "parentForks": 162,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/caddy",
+    "name": "caddy",
+    "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Go",
+    "pushedAt": "2026-03-21T01:23:16Z",
+    "updatedAt": "2026-03-22T22:11:51Z",
+    "createdAt": "2026-03-22T22:11:51Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Apache License 2.0",
+    "openIssues": 0,
+    "defaultBranch": "master",
+    "parentRepo": "caddyserver/caddy",
+    "parentStars": 71047,
+    "parentForks": 4687,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/memos",
+    "name": "memos",
+    "description": "Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Go",
+    "pushedAt": "2026-03-22T00:07:48Z",
+    "updatedAt": "2026-03-22T22:12:03Z",
+    "createdAt": "2026-03-22T22:12:03Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "usememos/memos",
+    "parentStars": 58130,
+    "parentForks": 4211,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/keploy",
+    "name": "keploy",
+    "description": "Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Go",
+    "pushedAt": "2026-03-22T21:41:51Z",
+    "updatedAt": "2026-03-22T22:12:16Z",
+    "createdAt": "2026-03-22T22:12:15Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Apache License 2.0",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "keploy/keploy",
+    "parentStars": 16446,
+    "parentForks": 2180,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/pocketbase",
+    "name": "pocketbase",
+    "description": "Open Source realtime backend in 1 file",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Go",
+    "pushedAt": "2026-03-19T06:48:37Z",
+    "updatedAt": "2026-03-22T22:12:31Z",
+    "createdAt": "2026-03-22T22:12:31Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "master",
+    "parentRepo": "pocketbase/pocketbase",
+    "parentStars": 57033,
+    "parentForks": 3208,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/meshery",
+    "name": "meshery",
+    "description": "Meshery, the cloud native manager",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Go",
+    "pushedAt": "2026-03-22T19:08:10Z",
+    "updatedAt": "2026-03-22T22:12:44Z",
+    "createdAt": "2026-03-22T22:12:44Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Apache License 2.0",
+    "openIssues": 0,
+    "defaultBranch": "master",
+    "parentRepo": "meshery/meshery",
+    "parentStars": 10088,
+    "parentForks": 3169,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/traefik",
+    "name": "traefik",
+    "description": "The Cloud Native Application Proxy",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Go",
+    "pushedAt": "2026-03-20T15:24:05Z",
+    "updatedAt": "2026-03-22T22:12:56Z",
+    "createdAt": "2026-03-22T22:12:56Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "master",
+    "parentRepo": "traefik/traefik",
+    "parentStars": 62349,
+    "parentForks": 5888,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/moai-adk",
+    "name": "moai-adk",
+    "description": "MoAI - Agentic Development Kit",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Go",
+    "pushedAt": "2026-03-22T13:45:37Z",
+    "updatedAt": "2026-03-22T22:13:11Z",
+    "createdAt": "2026-03-22T22:13:11Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "GNU General Public License v3.0",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "modu-ai/moai-adk",
+    "parentStars": 861,
+    "parentForks": 149,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/vitess",
+    "name": "vitess",
+    "description": "Vitess is a database clustering system for horizontal scaling of MySQL.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Go",
+    "pushedAt": "2026-03-22T18:44:49Z",
+    "updatedAt": "2026-03-22T22:13:24Z",
+    "createdAt": "2026-03-22T22:13:24Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Apache License 2.0",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "vitessio/vitess",
+    "parentStars": 20880,
+    "parentForks": 2323,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/Xray-core",
+    "name": "Xray-core",
+    "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Go",
+    "pushedAt": "2026-03-22T20:58:48Z",
+    "updatedAt": "2026-03-22T22:13:43Z",
+    "createdAt": "2026-03-22T22:13:43Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Mozilla Public License 2.0",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "XTLS/Xray-core",
+    "parentStars": 36132,
+    "parentForks": 5080,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/waveterm",
+    "name": "waveterm",
+    "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Go",
+    "pushedAt": "2026-03-22T20:51:18Z",
+    "updatedAt": "2026-03-22T22:13:57Z",
+    "createdAt": "2026-03-22T22:13:57Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Apache License 2.0",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "wavetermdev/waveterm",
+    "parentStars": 18534,
+    "parentForks": 837,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/axonhub",
+    "name": "axonhub",
+    "description": "\u26a1\ufe0f Open-source AI Gateway \u2014 Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Go",
+    "pushedAt": "2026-03-22T18:43:09Z",
+    "updatedAt": "2026-03-22T22:14:10Z",
+    "createdAt": "2026-03-22T22:14:10Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Other",
+    "openIssues": 0,
+    "defaultBranch": "release/v0.9.x",
+    "parentRepo": "looplj/axonhub",
+    "parentStars": 2647,
+    "parentForks": 293,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/photoprism",
+    "name": "photoprism",
+    "description": "AI-Powered Photos App for the Decentralized Web \ud83c\udf08\ud83d\udc8e\u2728",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Go",
+    "pushedAt": "2026-03-14T12:04:24Z",
+    "updatedAt": "2026-03-23T00:38:04Z",
+    "createdAt": "2026-03-23T00:38:04Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Other",
+    "openIssues": 0,
+    "defaultBranch": "develop",
+    "parentRepo": "photoprism/photoprism",
+    "parentStars": 39506,
+    "parentForks": 2232,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/kratos",
+    "name": "kratos",
+    "description": "Your ultimate Go microservices framework for the cloud-native era.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Go",
+    "pushedAt": "2026-03-12T12:10:50Z",
+    "updatedAt": "2026-03-23T00:43:50Z",
+    "createdAt": "2026-03-23T00:43:50Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "go-kratos/kratos",
+    "parentStars": 25549,
+    "parentForks": 4156,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/crush",
+    "name": "crush",
+    "description": "Glamourous agentic coding for all \ud83d\udc98",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Go",
+    "pushedAt": "2026-03-22T15:26:16Z",
+    "updatedAt": "2026-03-23T00:46:29Z",
+    "createdAt": "2026-03-23T00:46:29Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Other",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "charmbracelet/crush",
+    "parentStars": 21841,
+    "parentForks": 1383,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/excelize",
+    "name": "excelize",
+    "description": "Go language library for reading and writing Microsoft Excel\u2122 (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Go",
+    "pushedAt": "2026-03-22T03:37:04Z",
+    "updatedAt": "2026-03-23T00:49:20Z",
+    "createdAt": "2026-03-23T00:49:20Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "openIssues": 0,
+    "defaultBranch": "master",
+    "parentRepo": "qax-os/excelize",
+    "parentStars": 20420,
+    "parentForks": 1879,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/dagger",
+    "name": "dagger",
+    "description": "Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Go",
+    "pushedAt": "2026-03-21T02:21:25Z",
+    "updatedAt": "2026-03-23T00:58:30Z",
+    "createdAt": "2026-03-23T00:58:30Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Apache License 2.0",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "dagger/dagger",
+    "parentStars": 15559,
+    "parentForks": 854,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/WeKnora",
+    "name": "WeKnora",
+    "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Go",
+    "pushedAt": "2026-03-21T02:22:05Z",
+    "updatedAt": "2026-03-23T01:03:59Z",
+    "createdAt": "2026-03-23T01:03:59Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Other",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "Tencent/WeKnora",
+    "parentStars": 13528,
+    "parentForks": 1569,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/opencode_",
+    "name": "opencode_",
+    "description": "A powerful AI coding agent. Built for the terminal.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Go",
+    "pushedAt": "2025-09-18T02:54:28Z",
+    "updatedAt": "2026-03-23T01:07:17Z",
+    "createdAt": "2026-03-23T01:07:17Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "opencode-ai/opencode",
+    "parentStars": 11538,
+    "parentForks": 1142,
+    "isPrivate": false
   }
 ]

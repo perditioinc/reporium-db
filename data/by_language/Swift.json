@@ -18,7 +18,8 @@
     "defaultBranch": "main",
     "parentRepo": "zetic-ai/ZETIC_Melange_apps",
     "parentStars": 52,
-    "parentForks": 7
+    "parentForks": 7,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/Queryable",
@@ -39,6 +40,7 @@
     "defaultBranch": "main",
     "parentRepo": "mazzzystar/Queryable",
     "parentStars": 2929,
-    "parentForks": 451
+    "parentForks": 451,
+    "isPrivate": false
   }
 ]

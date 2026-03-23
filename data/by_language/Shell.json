@@ -18,7 +18,8 @@
     "defaultBranch": "main",
     "parentRepo": "vmayoral/ros-robotics-companies",
     "parentStars": 1784,
-    "parentForks": 226
+    "parentForks": 226,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/claude-code-ultimate-guide",
@@ -38,8 +39,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "FlorianBruniaux/claude-code-ultimate-guide",
-    "parentStars": 2077,
-    "parentForks": 321
+    "parentStars": 2110,
+    "parentForks": 323,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/tinyclaw",
@@ -59,8 +61,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "TinyAGI/tinyagi",
-    "parentStars": 3183,
-    "parentForks": 462
+    "parentStars": 3202,
+    "parentForks": 465,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/agency-agents",
@@ -80,8 +83,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "msitarzewski/agency-agents",
-    "parentStars": 58827,
-    "parentForks": 8788
+    "parentStars": 59866,
+    "parentForks": 8979,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/superpowers",
@@ -101,8 +105,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "obra/superpowers",
-    "parentStars": 104035,
-    "parentForks": 8359
+    "parentStars": 105864,
+    "parentForks": 8508,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/awesome-claude-code-subagents",
@@ -122,8 +127,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "VoltAgent/awesome-claude-code-subagents",
-    "parentStars": 14703,
-    "parentForks": 1638
+    "parentStars": 14795,
+    "parentForks": 1650,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/claude-code",
@@ -143,8 +149,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "anthropics/claude-code",
-    "parentStars": 81101,
-    "parentForks": 6729
+    "parentStars": 81432,
+    "parentForks": 6774,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/claude-agent-sdk-typescript",
@@ -164,7 +171,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "anthropics/claude-agent-sdk-typescript",
-    "parentStars": 997,
-    "parentForks": 110
+    "parentStars": 1000,
+    "parentForks": 111,
+    "isPrivate": false
   }
 ]

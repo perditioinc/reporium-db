@@ -18,7 +18,8 @@
     "defaultBranch": "main",
     "parentRepo": "GoogleCloudPlatform/bank-of-anthos",
     "parentStars": 1306,
-    "parentForks": 792
+    "parentForks": 792,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/Java",
@@ -38,8 +39,9 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "TheAlgorithms/Java",
-    "parentStars": 65254,
-    "parentForks": 21038
+    "parentStars": 65258,
+    "parentForks": 21039,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/guava",
@@ -59,8 +61,9 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "google/guava",
-    "parentStars": 51500,
-    "parentForks": 11147
+    "parentStars": 51501,
+    "parentForks": 11147,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/adk-java",
@@ -80,8 +83,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google/adk-java",
-    "parentStars": 1377,
-    "parentForks": 300
+    "parentStars": 1379,
+    "parentForks": 302,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/opendataloader-pdf",
@@ -101,8 +105,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "opendataloader-project/opendataloader-pdf",
-    "parentStars": 8109,
-    "parentForks": 547
+    "parentStars": 8390,
+    "parentForks": 574,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/vespa",
@@ -122,8 +127,9 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "vespa-engine/vespa",
-    "parentStars": 6829,
-    "parentForks": 701
+    "parentStars": 6830,
+    "parentForks": 701,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/dbeaver",
@@ -143,7 +149,96 @@
     "openIssues": 0,
     "defaultBranch": "devel",
     "parentRepo": "dbeaver/dbeaver",
-    "parentStars": 49223,
-    "parentForks": 4089
+    "parentStars": 49231,
+    "parentForks": 4089,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/JeecgBoot",
+    "name": "JeecgBoot",
+    "description": "\u4e00\u6b3e AI \u9a71\u52a8\u7684\u4f4e\u4ee3\u7801\u5e73\u53f0\uff0c\u63d0\u4f9b\"\u96f6\u4ee3\u7801\"\u4e0e\"\u4ee3\u7801\u751f\u6210\"\u53cc\u6a21\u5f0f\u2014\u2014\u96f6\u4ee3\u7801\u6a21\u5f0f\u4e00\u53e5\u8bdd\u642d\u5efa\u7cfb\u7edf\uff0c\u4ee3\u7801\u751f\u6210\u6a21\u5f0f\u81ea\u52a8\u8f93\u51fa\u524d\u540e\u7aef\u4ee3\u7801\u4e0e\u5efa\u8868 SQL\uff0c\u751f\u6210\u5373\u53ef\u8fd0\u884c\u3002\u5e73\u53f0\u5185\u7f6e AI \u804a\u5929\u52a9\u624b\u3001AI\u5927\u6a21\u578b\u3001\u77e5\u8bc6\u5e93\u3001AI\u6d41\u7a0b\u7f16\u6392\u3001MCP \u4e0e\u63d2\u4ef6\u4f53\u7cfb\uff0c\u517c\u5bb9\u4e3b\u6d41\u5927\u6a21\u578b\uff0c\u652f\u6301\u4e00\u53e5\u8bdd\u751f\u6210\u6d41\u7a0b\u56fe\u3001\u8bbe\u8ba1\u8868\u5355\u3001\u804a\u5929\u5f0f\u4e1a\u52a1\u64cd\u4f5c\uff0c\u89e3\u51b3 Java \u9879\u76ee 80% \u91cd\u590d\u5de5\u4f5c\uff0c\u9ad8\u6548\u4e14\u4e0d\u5931\u7075\u6d3b\u3002",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Java",
+    "pushedAt": "2026-03-20T08:04:10Z",
+    "updatedAt": "2026-03-22T11:41:01Z",
+    "createdAt": "2026-03-22T11:41:01Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Apache License 2.0",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "jeecgboot/JeecgBoot",
+    "parentStars": 45511,
+    "parentForks": 15847,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/neo4j",
+    "name": "neo4j",
+    "description": "Graphs for Everyone",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Java",
+    "pushedAt": "2026-03-20T15:45:08Z",
+    "updatedAt": "2026-03-22T13:40:21Z",
+    "createdAt": "2026-03-22T13:40:21Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "GNU General Public License v3.0",
+    "openIssues": 0,
+    "defaultBranch": "release/5.26.0",
+    "parentRepo": "neo4j/neo4j",
+    "parentStars": 16131,
+    "parentForks": 2583,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/Chat2DB",
+    "name": "Chat2DB",
+    "description": "AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Java",
+    "pushedAt": "2026-03-22T14:30:05Z",
+    "updatedAt": "2026-03-23T00:44:02Z",
+    "createdAt": "2026-03-23T00:44:02Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Apache License 2.0",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "CodePhiliaX/Chat2DB",
+    "parentStars": 25264,
+    "parentForks": 2764,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/doris",
+    "name": "doris",
+    "description": "Apache Doris is an easy-to-use, high performance and unified analytics database.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Java",
+    "pushedAt": "2026-03-23T00:01:48Z",
+    "updatedAt": "2026-03-23T00:59:02Z",
+    "createdAt": "2026-03-23T00:59:02Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Apache License 2.0",
+    "openIssues": 0,
+    "defaultBranch": "master",
+    "parentRepo": "apache/doris",
+    "parentStars": 15137,
+    "parentForks": 3741,
+    "isPrivate": false
   }
 ]
