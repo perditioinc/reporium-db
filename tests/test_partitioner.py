@@ -50,8 +50,10 @@ def test_partitioner_top_starred(tmp_path):
 
 def test_partitioner_recent_filters_old(tmp_path):
     """recent.json excludes repos not pushed in the last 7 days."""
+    from datetime import datetime, timedelta, timezone
+    recent_date = (datetime.now(timezone.utc) - timedelta(days=1)).strftime("%Y-%m-%dT%H:%M:%SZ")
     repos = [
-        make_repo("new", pushed_at="2026-03-16T00:00:00Z"),
+        make_repo("new", pushed_at=recent_date),
         make_repo("old", pushed_at="2025-01-01T00:00:00Z"),
     ]
     write_partitioned(repos, tmp_path)
