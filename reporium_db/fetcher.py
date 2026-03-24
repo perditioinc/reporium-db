@@ -98,13 +98,49 @@ def _save_checkpoint(started_at: str, cursor: Optional[str], count: int) -> None
     os.replace(tmp, CHECKPOINT_FILE)
 
 
+def _parse_retry_after(value: str | None) -> float | None:
+    """Parse a Retry-After header value into seconds when possible."""
+    if not value:
+        return None
+    try:
+        return max(float(value), 0.0)
+    except ValueError:
+        return None
+
+
+def _is_retryable_403(resp: httpx.Response) -> bool:
+    """Treat GitHub secondary-rate-limit style 403s as retryable."""
+    if resp.status_code != 403:
+        return False
+
+    retry_after = _parse_retry_after(resp.headers.get("Retry-After"))
+    remaining = resp.headers.get("X-RateLimit-Remaining")
+    body = resp.text.lower()
+
+    return (
+        retry_after is not None
+        or remaining == "0"
+        or "secondary rate limit" in body
+        or "abuse detection" in body
+        or "please wait a few minutes before you try again" in body
+    )
+
+
+def _retry_delay_seconds(resp: httpx.Response, attempt: int) -> float:
+    """Honor Retry-After when present, otherwise use bounded exponential backoff."""
+    retry_after = _parse_retry_after(resp.headers.get("Retry-After"))
+    if retry_after is not None:
+        return min(retry_after, 30.0)
+    return min(2**attempt + 0.1 * attempt, 30.0)
+
+
 async def _graphql_request(
     client: httpx.AsyncClient,
     token: str,
     variables: dict[str, Any],
     attempt: int = 0,
 ) -> dict[str, Any]:
-    """Execute a GraphQL POST with exponential backoff on 429/502/503 (max 4 attempts)."""
+    """Execute a GraphQL POST with retry on transient transport and throttling errors."""
     headers = {"Authorization": f"bearer {token}", "Content-Type": "application/json"}
     try:
         resp = await client.post(
@@ -121,11 +157,16 @@ async def _graphql_request(
         await asyncio.sleep(wait)
         return await _graphql_request(client, token, variables, attempt + 1)
 
-    if resp.status_code in (429, 502, 503):
+    if resp.status_code in (429, 502, 503) or _is_retryable_403(resp):
         if attempt >= 3:
             resp.raise_for_status()
-        wait = 2**attempt + 0.1 * attempt
-        logger.warning("HTTP %d (attempt %d) — retry in %.1fs", resp.status_code, attempt + 1, wait)
+        wait = _retry_delay_seconds(resp, attempt)
+        logger.warning(
+            "HTTP %d (attempt %d) — retry in %.1fs",
+            resp.status_code,
+            attempt + 1,
+            wait,
+        )
         await asyncio.sleep(wait)
         return await _graphql_request(client, token, variables, attempt + 1)
 
