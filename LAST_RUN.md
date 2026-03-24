@@ -2,16 +2,16 @@
 
 | Field | Value |
 |-------|-------|
-| Started | 2026-03-23T06:11:45.219298+00:00 |
-| Completed | 2026-03-23T06:16:24.391399+00:00 |
-| Duration | 279.2s |
-| Total fetched | 1,405 |
-| Checked | 1,024 |
-| Skipped (schedule) | 381 |
-| New repos | 390 |
+| Started | 2026-03-24T06:02:37.732582+00:00 |
+| Completed | 2026-03-24T06:06:55.201962+00:00 |
+| Duration | 257.5s |
+| Total fetched | 1,459 |
+| Checked | 892 |
+| Skipped (schedule) | 567 |
+| New repos | 54 |
 | Updated repos | 0 |
 | API calls used | 15 |
-| Rate limit remaining | 4,838 |
+| Rate limit remaining | 4,864 |
 | Checkpoint resumed | No |
 
 ## Errors

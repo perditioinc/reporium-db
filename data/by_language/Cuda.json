@@ -18,7 +18,7 @@
     "defaultBranch": "master",
     "parentRepo": "Infatoshi/cuda-course",
     "parentStars": 3396,
-    "parentForks": 596,
+    "parentForks": 597,
     "isPrivate": false
   },
   {
@@ -61,7 +61,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/cuopt",
-    "parentStars": 777,
+    "parentStars": 779,
     "parentForks": 148,
     "isPrivate": false
   },
@@ -83,8 +83,30 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "NVlabs/instant-ngp",
-    "parentStars": 17329,
-    "parentForks": 2060,
+    "parentStars": 17332,
+    "parentForks": 2061,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/leetcuda",
+    "name": "leetcuda",
+    "description": "\ud83d\udcdaLeetCUDA: Modern CUDA Learn Notes with PyTorch for Beginners\ud83d\udc11, 200+ CUDA Kernels, Tensor Cores, HGEMM, FA-2 MMA.\ud83c\udf89",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Cuda",
+    "pushedAt": "2026-03-23T05:43:45Z",
+    "updatedAt": "2026-03-23T07:43:41Z",
+    "createdAt": "2026-03-23T07:43:41Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "GNU General Public License v3.0",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "xlite-dev/LeetCUDA",
+    "parentStars": 9993,
+    "parentForks": 997,
     "isPrivate": false
   }
 ]

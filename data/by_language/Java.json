@@ -39,8 +39,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "TheAlgorithms/Java",
-    "parentStars": 65258,
-    "parentForks": 21039,
+    "parentStars": 65263,
+    "parentForks": 21040,
     "isPrivate": false
   },
   {
@@ -61,8 +61,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "google/guava",
-    "parentStars": 51501,
-    "parentForks": 11147,
+    "parentStars": 51502,
+    "parentForks": 11149,
     "isPrivate": false
   },
   {
@@ -83,7 +83,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google/adk-java",
-    "parentStars": 1379,
+    "parentStars": 1388,
     "parentForks": 302,
     "isPrivate": false
   },
@@ -105,8 +105,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "opendataloader-project/opendataloader-pdf",
-    "parentStars": 8390,
-    "parentForks": 574,
+    "parentStars": 8806,
+    "parentForks": 627,
     "isPrivate": false
   },
   {
@@ -127,7 +127,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "vespa-engine/vespa",
-    "parentStars": 6830,
+    "parentStars": 6832,
     "parentForks": 701,
     "isPrivate": false
   },
@@ -149,7 +149,7 @@
     "openIssues": 0,
     "defaultBranch": "devel",
     "parentRepo": "dbeaver/dbeaver",
-    "parentStars": 49231,
+    "parentStars": 49248,
     "parentForks": 4089,
     "isPrivate": false
   },
@@ -171,8 +171,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "jeecgboot/JeecgBoot",
-    "parentStars": 45511,
-    "parentForks": 15847,
+    "parentStars": 45531,
+    "parentForks": 15850,
     "isPrivate": false
   },
   {
@@ -193,7 +193,7 @@
     "openIssues": 0,
     "defaultBranch": "release/5.26.0",
     "parentRepo": "neo4j/neo4j",
-    "parentStars": 16131,
+    "parentStars": 16140,
     "parentForks": 2583,
     "isPrivate": false
   },
@@ -215,7 +215,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "CodePhiliaX/Chat2DB",
-    "parentStars": 25264,
+    "parentStars": 25269,
     "parentForks": 2764,
     "isPrivate": false
   },
@@ -237,8 +237,30 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "apache/doris",
-    "parentStars": 15137,
+    "parentStars": 15142,
     "parentForks": 3741,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/astron-agent",
+    "name": "astron-agent",
+    "description": "Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Java",
+    "pushedAt": "2026-03-23T13:27:50Z",
+    "updatedAt": "2026-03-23T23:39:53Z",
+    "createdAt": "2026-03-23T23:39:53Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Apache License 2.0",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "iflytek/astron-agent",
+    "parentStars": 10572,
+    "parentForks": 1114,
     "isPrivate": false
   }
 ]

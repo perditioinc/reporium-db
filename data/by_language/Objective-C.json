@@ -1,0 +1,24 @@
+[
+  {
+    "nameWithOwner": "perditioinc/flash-moe",
+    "name": "flash-moe",
+    "description": "Running a big model on a small laptop",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2026-03-19T17:21:57Z",
+    "updatedAt": "2026-03-23T07:44:39Z",
+    "createdAt": "2026-03-23T07:44:39Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "danveloper/flash-moe",
+    "parentStars": 1711,
+    "parentForks": 158,
+    "isPrivate": false
+  }
+]

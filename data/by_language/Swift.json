@@ -42,5 +42,27 @@
     "parentStars": 2929,
     "parentForks": 451,
     "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/AudioKit",
+    "name": "AudioKit",
+    "description": "Audio synthesis, processing, & analysis platform for iOS, macOS and tvOS",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Swift",
+    "pushedAt": "2025-12-01T21:05:26Z",
+    "updatedAt": "2026-03-23T23:53:33Z",
+    "createdAt": "2026-03-23T23:53:33Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "AudioKit/AudioKit",
+    "parentStars": 11317,
+    "parentForks": 1609,
+    "isPrivate": false
   }
 ]

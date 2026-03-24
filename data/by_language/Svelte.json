@@ -20,5 +20,27 @@
     "parentStars": 158,
     "parentForks": 33,
     "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/cobalt",
+    "name": "cobalt",
+    "description": "best way to save what you love",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Svelte",
+    "pushedAt": "2026-03-22T10:31:26Z",
+    "updatedAt": "2026-03-23T23:53:21Z",
+    "createdAt": "2026-03-23T23:53:21Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "GNU Affero General Public License v3.0",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "imputnet/cobalt",
+    "parentStars": 39246,
+    "parentForks": 3283,
+    "isPrivate": false
   }
 ]
