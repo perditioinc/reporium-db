@@ -22,8 +22,11 @@
 ## [1.0.0] - 2026-03-17
 
 ### Added
-- Nightly GitHub metadata sync via GraphQL batch fetch (9 calls for 826 repos)
+- March 2026 launch snapshot: nightly GitHub metadata sync via GraphQL batch fetch (9 calls for the initial 826-repo corpus)
 - Partitioned JSON output: index.json, by_language, by_category, full/repos_NNNN.json
 - Schedule-based tiering: nightly for active, weekly for moderate, monthly for inactive
 - Diff computation: tracks new and updated repos between runs
 - LAST_RUN.md generated after each sync with real metrics
+
+### Notes
+- The 826-repo figure above is a historical launch milestone from 2026-03-17, not the current nightly sync scale.
