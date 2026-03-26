@@ -17,8 +17,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google/adk-go",
-    "parentStars": 7227,
-    "parentForks": 588,
+    "parentStars": 7239,
+    "parentForks": 590,
     "isPrivate": false
   },
   {
@@ -39,8 +39,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "github/gh-aw",
-    "parentStars": 4149,
-    "parentForks": 311,
+    "parentStars": 4164,
+    "parentForks": 315,
     "isPrivate": false
   },
   {
@@ -61,8 +61,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "sipeed/picoclaw",
-    "parentStars": 25954,
-    "parentForks": 3596,
+    "parentStars": 26160,
+    "parentForks": 3650,
     "isPrivate": false
   },
   {
@@ -83,8 +83,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "flyteorg/flyte",
-    "parentStars": 6907,
-    "parentForks": 801,
+    "parentStars": 6908,
+    "parentForks": 800,
     "isPrivate": false
   },
   {
@@ -105,8 +105,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "googleapis/genai-toolbox",
-    "parentStars": 13505,
-    "parentForks": 1280,
+    "parentStars": 13527,
+    "parentForks": 1287,
     "isPrivate": false
   },
   {
@@ -127,8 +127,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "pinchtab/pinchtab",
-    "parentStars": 8109,
-    "parentForks": 605,
+    "parentStars": 8166,
+    "parentForks": 606,
     "isPrivate": false
   },
   {
@@ -149,7 +149,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "plandex-ai/plandex",
-    "parentStars": 15130,
+    "parentStars": 15149,
     "parentForks": 1104,
     "isPrivate": false
   },
@@ -171,8 +171,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "ollama/ollama",
-    "parentStars": 165974,
-    "parentForks": 15125,
+    "parentStars": 166178,
+    "parentForks": 15179,
     "isPrivate": false
   },
   {
@@ -193,8 +193,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "dolthub/dolt",
-    "parentStars": 21645,
-    "parentForks": 708,
+    "parentStars": 21712,
+    "parentForks": 709,
     "isPrivate": false
   },
   {
@@ -215,8 +215,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "milvus-io/milvus",
-    "parentStars": 43443,
-    "parentForks": 3911,
+    "parentStars": 43476,
+    "parentForks": 3912,
     "isPrivate": false
   },
   {
@@ -237,8 +237,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "weaviate/weaviate",
-    "parentStars": 15863,
-    "parentForks": 1231,
+    "parentStars": 15886,
+    "parentForks": 1233,
     "isPrivate": false
   },
   {
@@ -259,8 +259,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "maximhq/bifrost",
-    "parentStars": 3120,
-    "parentForks": 338,
+    "parentStars": 3213,
+    "parentForks": 347,
     "isPrivate": false
   },
   {
@@ -281,7 +281,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "ray-project/kuberay",
-    "parentStars": 2392,
+    "parentStars": 2402,
     "parentForks": 724,
     "isPrivate": false
   },
@@ -303,8 +303,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "GoogleCloudPlatform/microservices-demo",
-    "parentStars": 19993,
-    "parentForks": 9670,
+    "parentStars": 19997,
+    "parentForks": 9674,
     "isPrivate": false
   },
   {
@@ -325,8 +325,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "GoogleCloudPlatform/terraformer",
-    "parentStars": 14524,
-    "parentForks": 1822,
+    "parentStars": 14525,
+    "parentForks": 1823,
     "isPrivate": false
   },
   {
@@ -347,8 +347,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "GoogleCloudPlatform/kubectl-ai",
-    "parentStars": 7369,
-    "parentForks": 688,
+    "parentStars": 7374,
+    "parentForks": 690,
     "isPrivate": false
   },
   {
@@ -370,7 +370,7 @@
     "defaultBranch": "main",
     "parentRepo": "GoogleCloudPlatform/golang-samples",
     "parentStars": 4599,
-    "parentForks": 1861,
+    "parentForks": 1860,
     "isPrivate": false
   },
   {
@@ -479,8 +479,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "TheAlgorithms/Go",
-    "parentStars": 17894,
-    "parentForks": 2791,
+    "parentStars": 17897,
+    "parentForks": 2792,
     "isPrivate": false
   },
   {
@@ -523,8 +523,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "openai/openai-go",
-    "parentStars": 3084,
-    "parentForks": 286,
+    "parentStars": 3095,
+    "parentForks": 288,
     "isPrivate": false
   },
   {
@@ -545,7 +545,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/aistore",
-    "parentStars": 1795,
+    "parentStars": 1800,
     "parentForks": 243,
     "isPrivate": false
   },
@@ -567,8 +567,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/nvidia-container-toolkit",
-    "parentStars": 4187,
-    "parentForks": 496,
+    "parentStars": 4194,
+    "parentForks": 498,
     "isPrivate": false
   },
   {
@@ -589,8 +589,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "navidrome/navidrome",
-    "parentStars": 20015,
-    "parentForks": 1422,
+    "parentStars": 20049,
+    "parentForks": 1424,
     "isPrivate": false
   },
   {
@@ -611,8 +611,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "gohugoio/hugo",
-    "parentStars": 87235,
-    "parentForks": 8221,
+    "parentStars": 87285,
+    "parentForks": 8225,
     "isPrivate": false
   },
   {
@@ -633,8 +633,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "coder/coder",
-    "parentStars": 12623,
-    "parentForks": 1223,
+    "parentStars": 12645,
+    "parentForks": 1230,
     "isPrivate": false
   },
   {
@@ -655,8 +655,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "vxcontrol/pentagi",
-    "parentStars": 13158,
-    "parentForks": 1636,
+    "parentStars": 13627,
+    "parentForks": 1700,
     "isPrivate": false
   },
   {
@@ -677,8 +677,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "danielmiessler/Fabric",
-    "parentStars": 40144,
-    "parentForks": 4003,
+    "parentStars": 40182,
+    "parentForks": 4005,
     "isPrivate": false
   },
   {
@@ -699,8 +699,8 @@
     "openIssues": 0,
     "defaultBranch": "dev",
     "parentRepo": "projectdiscovery/katana",
-    "parentStars": 16297,
-    "parentForks": 1060,
+    "parentStars": 16321,
+    "parentForks": 1062,
     "isPrivate": false
   },
   {
@@ -721,7 +721,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "evcc-io/evcc",
-    "parentStars": 6294,
+    "parentStars": 6300,
     "parentForks": 1241,
     "isPrivate": false
   },
@@ -743,8 +743,8 @@
     "openIssues": 0,
     "defaultBranch": "dev",
     "parentRepo": "NoFxAiOS/nofx",
-    "parentStars": 11153,
-    "parentForks": 2851,
+    "parentStars": 11203,
+    "parentForks": 2877,
     "isPrivate": false
   },
   {
@@ -765,7 +765,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "psviderski/uncloud",
-    "parentStars": 4936,
+    "parentStars": 4939,
     "parentForks": 143,
     "isPrivate": false
   },
@@ -787,8 +787,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "mudler/LocalAI",
-    "parentStars": 44285,
-    "parentForks": 3786,
+    "parentStars": 44403,
+    "parentForks": 3795,
     "isPrivate": false
   },
   {
@@ -809,7 +809,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "dagger/container-use",
-    "parentStars": 3663,
+    "parentStars": 3679,
     "parentForks": 181,
     "isPrivate": false
   },
@@ -831,8 +831,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "mark3labs/mcp-go",
-    "parentStars": 8412,
-    "parentForks": 799,
+    "parentStars": 8425,
+    "parentForks": 800,
     "isPrivate": false
   },
   {
@@ -853,8 +853,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "aquasecurity/trivy",
-    "parentStars": 33871,
-    "parentForks": 179,
+    "parentStars": 34129,
+    "parentForks": 210,
     "isPrivate": false
   },
   {
@@ -875,8 +875,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "caddyserver/caddy",
-    "parentStars": 71046,
-    "parentForks": 4688,
+    "parentStars": 71109,
+    "parentForks": 4689,
     "isPrivate": false
   },
   {
@@ -897,8 +897,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "usememos/memos",
-    "parentStars": 58146,
-    "parentForks": 4207,
+    "parentStars": 58208,
+    "parentForks": 4209,
     "isPrivate": false
   },
   {
@@ -919,8 +919,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "keploy/keploy",
-    "parentStars": 16545,
-    "parentForks": 2190,
+    "parentStars": 16586,
+    "parentForks": 2193,
     "isPrivate": false
   },
   {
@@ -941,8 +941,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "pocketbase/pocketbase",
-    "parentStars": 57068,
-    "parentForks": 3210,
+    "parentStars": 57127,
+    "parentForks": 3221,
     "isPrivate": false
   },
   {
@@ -963,8 +963,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "meshery/meshery",
-    "parentStars": 10094,
-    "parentForks": 3170,
+    "parentStars": 10101,
+    "parentForks": 3175,
     "isPrivate": false
   },
   {
@@ -985,8 +985,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "traefik/traefik",
-    "parentStars": 62337,
-    "parentForks": 5887,
+    "parentStars": 62374,
+    "parentForks": 5890,
     "isPrivate": false
   },
   {
@@ -1007,8 +1007,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "modu-ai/moai-adk",
-    "parentStars": 865,
-    "parentForks": 150,
+    "parentStars": 876,
+    "parentForks": 151,
     "isPrivate": false
   },
   {
@@ -1029,8 +1029,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "vitessio/vitess",
-    "parentStars": 20856,
-    "parentForks": 2323,
+    "parentStars": 20870,
+    "parentForks": 2320,
     "isPrivate": false
   },
   {
@@ -1051,8 +1051,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "XTLS/Xray-core",
-    "parentStars": 36163,
-    "parentForks": 5083,
+    "parentStars": 36230,
+    "parentForks": 5089,
     "isPrivate": false
   },
   {
@@ -1073,8 +1073,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "wavetermdev/waveterm",
-    "parentStars": 18571,
-    "parentForks": 837,
+    "parentStars": 18646,
+    "parentForks": 839,
     "isPrivate": false
   },
   {
@@ -1095,8 +1095,8 @@
     "openIssues": 0,
     "defaultBranch": "release/v0.9.x",
     "parentRepo": "looplj/axonhub",
-    "parentStars": 2683,
-    "parentForks": 298,
+    "parentStars": 2724,
+    "parentForks": 304,
     "isPrivate": false
   },
   {
@@ -1117,8 +1117,8 @@
     "openIssues": 0,
     "defaultBranch": "develop",
     "parentRepo": "photoprism/photoprism",
-    "parentStars": 39482,
-    "parentForks": 2233,
+    "parentStars": 39496,
+    "parentForks": 2235,
     "isPrivate": false
   },
   {
@@ -1139,8 +1139,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "go-kratos/kratos",
-    "parentStars": 25556,
-    "parentForks": 4156,
+    "parentStars": 25567,
+    "parentForks": 4157,
     "isPrivate": false
   },
   {
@@ -1161,8 +1161,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "charmbracelet/crush",
-    "parentStars": 21883,
-    "parentForks": 1390,
+    "parentStars": 21982,
+    "parentForks": 1402,
     "isPrivate": false
   },
   {
@@ -1183,8 +1183,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "qax-os/excelize",
-    "parentStars": 20421,
-    "parentForks": 1879,
+    "parentStars": 20427,
+    "parentForks": 1881,
     "isPrivate": false
   },
   {
@@ -1205,8 +1205,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "dagger/dagger",
-    "parentStars": 15564,
-    "parentForks": 854,
+    "parentStars": 15569,
+    "parentForks": 852,
     "isPrivate": false
   },
   {
@@ -1227,8 +1227,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Tencent/WeKnora",
-    "parentStars": 13541,
-    "parentForks": 1575,
+    "parentStars": 13582,
+    "parentForks": 1581,
     "isPrivate": false
   },
   {
@@ -1249,8 +1249,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "opencode-ai/opencode",
-    "parentStars": 11559,
-    "parentForks": 1145,
+    "parentStars": 11592,
+    "parentForks": 1150,
     "isPrivate": false
   },
   {
@@ -1271,7 +1271,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "go-vgo/robotgo",
-    "parentStars": 10659,
+    "parentStars": 10660,
     "parentForks": 954,
     "isPrivate": false
   },
@@ -1293,8 +1293,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "cloudwego/eino",
-    "parentStars": 10207,
-    "parentForks": 801,
+    "parentStars": 10260,
+    "parentForks": 806,
     "isPrivate": false
   },
   {
@@ -1315,7 +1315,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "YaoApp/yao",
-    "parentStars": 7520,
+    "parentStars": 7522,
     "parentForks": 683,
     "isPrivate": false
   }
