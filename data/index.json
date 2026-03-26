@@ -1,15 +1,15 @@
 {
   "meta": {
-    "total": 1459,
-    "last_updated": "2026-03-24T06:06:55.142152+00:00",
+    "total": 1467,
+    "last_updated": "2026-03-26T06:18:31.153066+00:00",
     "version": "1.0.0"
   },
   "categories": {
     "tooling": 1
   },
   "languages": {
-    "Python": 641,
-    "TypeScript": 201,
+    "Python": 647,
+    "TypeScript": 203,
     "Jupyter Notebook": 133,
     "C++": 90,
     "Go": 60,
