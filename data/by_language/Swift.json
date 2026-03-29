@@ -39,7 +39,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "mazzzystar/Queryable",
-    "parentStars": 2931,
+    "parentStars": 2932,
     "parentForks": 451,
     "isPrivate": false
   },
@@ -61,8 +61,30 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "AudioKit/AudioKit",
-    "parentStars": 11319,
-    "parentForks": 1609,
+    "parentStars": 11321,
+    "parentForks": 1608,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/melange_heimdall",
+    "name": "melange_heimdall",
+    "description": "An on-device guardian for LLM API calls \u2014 safety, privacy, and cost optimization that never leaves the phone",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Swift",
+    "pushedAt": "2026-03-10T21:55:59Z",
+    "updatedAt": "2026-03-26T15:09:57Z",
+    "createdAt": "2026-03-26T15:09:57Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "zetic-ai/melange_heimdall",
+    "parentStars": 5,
+    "parentForks": 2,
     "isPrivate": false
   }
 ]

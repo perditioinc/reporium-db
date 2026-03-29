@@ -17,8 +17,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "Infatoshi/cuda-course",
-    "parentStars": 3405,
-    "parentForks": 600,
+    "parentStars": 3412,
+    "parentForks": 605,
     "isPrivate": false
   },
   {
@@ -61,7 +61,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/cuopt",
-    "parentStars": 785,
+    "parentStars": 788,
     "parentForks": 151,
     "isPrivate": false
   },
@@ -83,8 +83,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "NVlabs/instant-ngp",
-    "parentStars": 17336,
-    "parentForks": 2063,
+    "parentStars": 17343,
+    "parentForks": 2061,
     "isPrivate": false
   },
   {
@@ -105,8 +105,30 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "xlite-dev/LeetCUDA",
-    "parentStars": 10019,
-    "parentForks": 1004,
+    "parentStars": 10041,
+    "parentForks": 1009,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/llm.c",
+    "name": "llm.c",
+    "description": "LLM training in simple, raw C/CUDA",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Cuda",
+    "pushedAt": "2025-06-26T17:03:40Z",
+    "updatedAt": "2026-03-28T00:36:05Z",
+    "createdAt": "2026-03-28T00:36:05Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "master",
+    "parentRepo": "karpathy/llm.c",
+    "parentStars": 29291,
+    "parentForks": 3457,
     "isPrivate": false
   }
 ]
