@@ -1,36 +1,152 @@
 {
-  "generated_at": "2026-03-26T06:18:31.152293+00:00",
+  "generated_at": "2026-03-29T06:15:35.993258+00:00",
   "repos": [
     {
-      "name_with_owner": "perditioinc/airweave",
+      "name_with_owner": "perditioinc/AI-Scientist",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/chandra",
+      "name_with_owner": "perditioinc/Baileys",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/claude-subconscious",
+      "name_with_owner": "perditioinc/Grounded-Segment-Anything",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/context7",
+      "name_with_owner": "perditioinc/InternNav",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/last30days-skill",
+      "name_with_owner": "perditioinc/NeMo-Guardrails",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/memento-skills",
+      "name_with_owner": "perditioinc/PyMuPDF",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/openspace",
+      "name_with_owner": "perditioinc/agentscope",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/reporium-mcp",
+      "name_with_owner": "perditioinc/arcana",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/atlassian-mcp-server",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/baml",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/claude-code-reverse",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/codebase-to-course",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/cypress",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/data-engineering-zoomcamp",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/dexter",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/dinov3",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/dokploy",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/flash-attention",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/gitagent",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/insanely-fast-whisper",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/interpret",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/llm.c",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/marketingskills",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/melange_heimdall",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/n8n_",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/norma-core",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/oh-my-claudecode",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/pdf.js",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/pinecone-python-client",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/planka",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/scion",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/skill",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/three.js",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/tribev2",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/twenty",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/vllm-turboquant",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/wrenai",
       "reason": "new_repo"
     }
   ]
