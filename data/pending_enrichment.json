@@ -1,152 +1,288 @@
 {
-  "generated_at": "2026-03-29T06:15:35.993258+00:00",
+  "generated_at": "2026-03-30T06:59:13.521342+00:00",
   "repos": [
     {
-      "name_with_owner": "perditioinc/AI-Scientist",
+      "name_with_owner": "perditioinc/AI-Scientist-v2",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/Baileys",
+      "name_with_owner": "perditioinc/Agent-S",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/Grounded-Segment-Anything",
+      "name_with_owner": "perditioinc/AutoRAG",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/InternNav",
+      "name_with_owner": "perditioinc/Awesome-GraphRAG",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/NeMo-Guardrails",
+      "name_with_owner": "perditioinc/Awesome-LLM-RAG",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/PyMuPDF",
+      "name_with_owner": "perditioinc/ChatTTS",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/agentscope",
+      "name_with_owner": "perditioinc/DeepAnalyze",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/arcana",
+      "name_with_owner": "perditioinc/DeepResearch",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/atlassian-mcp-server",
+      "name_with_owner": "perditioinc/FastGPT",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/baml",
+      "name_with_owner": "perditioinc/FlagEmbedding",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/claude-code-reverse",
+      "name_with_owner": "perditioinc/FlashRAG",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/codebase-to-course",
+      "name_with_owner": "perditioinc/FlashRank",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/cypress",
+      "name_with_owner": "perditioinc/JamAIBase",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/data-engineering-zoomcamp",
+      "name_with_owner": "perditioinc/Jobs_Applier_AI_Agent_AIHawk",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/dexter",
+      "name_with_owner": "perditioinc/Langchain-Chatchat",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/dinov3",
+      "name_with_owner": "perditioinc/MemOS_",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/dokploy",
+      "name_with_owner": "perditioinc/MemoryOS",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/flash-attention",
+      "name_with_owner": "perditioinc/MiniRAG",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/gitagent",
+      "name_with_owner": "perditioinc/Open-AutoGLM",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/insanely-fast-whisper",
+      "name_with_owner": "perditioinc/PocketFlow",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/interpret",
+      "name_with_owner": "perditioinc/RAG-Retrieval",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/llm.c",
+      "name_with_owner": "perditioinc/RAGHub",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/marketingskills",
+      "name_with_owner": "perditioinc/ROLL",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/melange_heimdall",
+      "name_with_owner": "perditioinc/TaskingAI",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/n8n_",
+      "name_with_owner": "perditioinc/TrustRAG",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/norma-core",
+      "name_with_owner": "perditioinc/UI-TARS-desktop",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/oh-my-claudecode",
+      "name_with_owner": "perditioinc/VideoRAG",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/pdf.js",
+      "name_with_owner": "perditioinc/WFGY",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/pinecone-python-client",
+      "name_with_owner": "perditioinc/ag2",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/planka",
+      "name_with_owner": "perditioinc/agentic-rag-for-dummies",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/scion",
+      "name_with_owner": "perditioinc/agentica",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/skill",
+      "name_with_owner": "perditioinc/arthas",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/three.js",
+      "name_with_owner": "perditioinc/autollm",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/tribev2",
+      "name_with_owner": "perditioinc/awesome-LLM-resources",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/twenty",
+      "name_with_owner": "perditioinc/awesome-ai-web-search",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/vllm-turboquant",
+      "name_with_owner": "perditioinc/bRAG-langchain",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/wrenai",
+      "name_with_owner": "perditioinc/cc-switch",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/cli",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/cobra",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/code-graph-rag",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/colpali",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/coze-studio",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/cursor-talk-to-figma-mcp",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/deepchat",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/generative-ai_",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/github-mcp-server",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/intentkit",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/llmware",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/local-deep-research",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/magentic",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/nacos",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/nestia",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/owl",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/planning-with-files",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/ragapp",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/raglite",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/raptor",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/recipes",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/sherlock",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/solace-agent-mesh",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/sre",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/start-llms",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/superlinked",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/superset_",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/swirl-search",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/trieve",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/vearch",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/vector",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/vibe-kanban",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/yt-dlp",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/zx",
       "reason": "new_repo"
     }
   ]

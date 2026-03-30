@@ -39,8 +39,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "TheAlgorithms/Java",
-    "parentStars": 65285,
-    "parentForks": 21042,
+    "parentStars": 65287,
+    "parentForks": 21040,
     "isPrivate": false
   },
   {
@@ -61,7 +61,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "google/guava",
-    "parentStars": 51513,
+    "parentStars": 51514,
     "parentForks": 11156,
     "isPrivate": false
   },
@@ -83,8 +83,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google/adk-java",
-    "parentStars": 1406,
-    "parentForks": 305,
+    "parentStars": 1407,
+    "parentForks": 306,
     "isPrivate": false
   },
   {
@@ -105,8 +105,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "opendataloader-project/opendataloader-pdf",
-    "parentStars": 10336,
-    "parentForks": 772,
+    "parentStars": 10697,
+    "parentForks": 802,
     "isPrivate": false
   },
   {
@@ -127,8 +127,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "vespa-engine/vespa",
-    "parentStars": 6845,
-    "parentForks": 705,
+    "parentStars": 6846,
+    "parentForks": 706,
     "isPrivate": false
   },
   {
@@ -149,8 +149,8 @@
     "openIssues": 0,
     "defaultBranch": "devel",
     "parentRepo": "dbeaver/dbeaver",
-    "parentStars": 49320,
-    "parentForks": 4090,
+    "parentStars": 49323,
+    "parentForks": 4093,
     "isPrivate": false
   },
   {
@@ -171,8 +171,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "jeecgboot/JeecgBoot",
-    "parentStars": 45606,
-    "parentForks": 15856,
+    "parentStars": 45621,
+    "parentForks": 15857,
     "isPrivate": false
   },
   {
@@ -193,8 +193,8 @@
     "openIssues": 0,
     "defaultBranch": "release/5.26.0",
     "parentRepo": "neo4j/neo4j",
-    "parentStars": 16202,
-    "parentForks": 2583,
+    "parentStars": 16207,
+    "parentForks": 2584,
     "isPrivate": false
   },
   {
@@ -215,8 +215,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "CodePhiliaX/Chat2DB",
-    "parentStars": 25296,
-    "parentForks": 2765,
+    "parentStars": 25307,
+    "parentForks": 2766,
     "isPrivate": false
   },
   {
@@ -237,7 +237,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "apache/doris",
-    "parentStars": 15163,
+    "parentStars": 15162,
     "parentForks": 3742,
     "isPrivate": false
   },
@@ -259,8 +259,52 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "iflytek/astron-agent",
-    "parentStars": 10845,
-    "parentForks": 1129,
+    "parentStars": 10912,
+    "parentForks": 1131,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/arthas",
+    "name": "arthas",
+    "description": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java\u8bca\u65ad\u5229\u5668Arthas",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Java",
+    "pushedAt": "2026-03-28T16:08:11Z",
+    "updatedAt": "2026-03-29T06:32:51Z",
+    "createdAt": "2026-03-29T06:32:51Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Apache License 2.0",
+    "openIssues": 0,
+    "defaultBranch": "master",
+    "parentRepo": "alibaba/arthas",
+    "parentStars": 37218,
+    "parentForks": 7636,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/nacos",
+    "name": "nacos",
+    "description": "an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Java",
+    "pushedAt": "2026-03-27T09:16:44Z",
+    "updatedAt": "2026-03-29T06:33:37Z",
+    "createdAt": "2026-03-29T06:33:37Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Apache License 2.0",
+    "openIssues": 0,
+    "defaultBranch": "develop",
+    "parentRepo": "alibaba/nacos",
+    "parentStars": 32768,
+    "parentForks": 13264,
     "isPrivate": false
   }
 ]
