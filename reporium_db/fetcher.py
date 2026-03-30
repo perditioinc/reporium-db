@@ -98,13 +98,38 @@ def _save_checkpoint(started_at: str, cursor: Optional[str], count: int) -> None
     os.replace(tmp, CHECKPOINT_FILE)
 
 
+def _retry_delay(resp: httpx.Response, attempt: int) -> float:
+    """Return seconds to wait before the next attempt.
+
+    Honors Retry-After when present.  For 403s (GitHub secondary rate limits)
+    GitHub recommends waiting at least 60 seconds; we use a 60s base that
+    grows with each attempt.  For other transient errors we use a shorter
+    exponential backoff.
+    """
+    retry_after = resp.headers.get("Retry-After")
+    if retry_after:
+        try:
+            return max(float(retry_after), 1.0)
+        except ValueError:
+            pass
+    if resp.status_code == 403:
+        # GitHub secondary rate limit: minimum 60s, then grows
+        return min(60.0 * (attempt + 1), 300.0)
+    return min(2 ** attempt + 0.1 * attempt, 30.0)
+
+
 async def _graphql_request(
     client: httpx.AsyncClient,
     token: str,
     variables: dict[str, Any],
     attempt: int = 0,
 ) -> dict[str, Any]:
-    """Execute a GraphQL POST with exponential backoff on 429/502/503 (max 4 attempts)."""
+    """Execute a GraphQL POST with retry on 403/429/502/503 (max 5 attempts).
+
+    GitHub returns 403 for secondary rate limits mid-pagination — these are
+    always transient when a valid token successfully made prior requests.
+    We log the response body for diagnosis and retry with a 60s+ back-off.
+    """
     headers = {"Authorization": f"bearer {token}", "Content-Type": "application/json"}
     try:
         resp = await client.post(
@@ -114,18 +139,29 @@ async def _graphql_request(
             timeout=30,
         )
     except httpx.RequestError as exc:
-        if attempt >= 3:
+        if attempt >= 4:
             raise
-        wait = 2**attempt + 0.1 * attempt
+        wait = 2 ** attempt + 0.1 * attempt
         logger.warning("Request error (attempt %d): %s — retry in %.1fs", attempt + 1, exc, wait)
         await asyncio.sleep(wait)
         return await _graphql_request(client, token, variables, attempt + 1)
 
-    if resp.status_code in (429, 502, 503):
-        if attempt >= 3:
+    if resp.status_code in (403, 429, 502, 503):
+        if attempt >= 4:
             resp.raise_for_status()
-        wait = 2**attempt + 0.1 * attempt
-        logger.warning("HTTP %d (attempt %d) — retry in %.1fs", resp.status_code, attempt + 1, wait)
+        wait = _retry_delay(resp, attempt)
+        # Log the 403 body — helps diagnose which secondary-rate-limit scenario
+        if resp.status_code == 403:
+            body_preview = resp.text[:300].replace("\n", " ")
+            logger.warning(
+                "GitHub 403 (attempt %d) — body: %s | Retry-After: %s | X-RateLimit-Remaining: %s",
+                attempt + 1,
+                body_preview,
+                resp.headers.get("Retry-After"),
+                resp.headers.get("X-RateLimit-Remaining"),
+            )
+        else:
+            logger.warning("HTTP %d (attempt %d) — retry in %.1fs", resp.status_code, attempt + 1, wait)
         await asyncio.sleep(wait)
         return await _graphql_request(client, token, variables, attempt + 1)
 
