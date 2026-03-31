@@ -18,7 +18,8 @@
     "defaultBranch": "main",
     "parentRepo": "AnswerDotAI/fasthtml-example",
     "parentStars": 832,
-    "parentForks": 126
+    "parentForks": 126,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/kolibri",
@@ -38,8 +39,9 @@
     "openIssues": 0,
     "defaultBranch": "develop",
     "parentRepo": "learningequality/kolibri",
-    "parentStars": 1014,
-    "parentForks": 935
+    "parentStars": 1017,
+    "parentForks": 935,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/seeker",
@@ -59,8 +61,9 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "thewhiteh4t/seeker",
-    "parentStars": 9162,
-    "parentForks": 2135
+    "parentStars": 9166,
+    "parentForks": 2135,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/community-skeleton",
@@ -80,8 +83,9 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "uvdesk/community-skeleton",
-    "parentStars": 18204,
-    "parentForks": 558
+    "parentStars": 18203,
+    "parentForks": 558,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/animate.css",
@@ -101,7 +105,30 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "animate-css/animate.css",
-    "parentStars": 82629,
-    "parentForks": 16070
+    "parentStars": 82628,
+    "parentForks": 16069,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/dalai",
+    "name": "dalai",
+    "description": "The simplest way to run LLaMA on your local machine",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "CSS",
+    "pushedAt": "2024-06-18T20:29:46Z",
+    "updatedAt": "2026-03-23T01:06:11Z",
+    "createdAt": "2026-03-23T01:06:11Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "cocktailpeanut/dalai",
+    "parentStars": 12976,
+    "parentForks": 1353,
+    "isPrivate": false
   }
 ]

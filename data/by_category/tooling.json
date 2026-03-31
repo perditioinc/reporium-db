@@ -6,8 +6,8 @@
     "stars": 1,
     "forks": 0,
     "primaryLanguage": "Python",
-    "pushedAt": "2026-03-20T20:07:00Z",
-    "updatedAt": "2026-03-20T20:07:03Z",
+    "pushedAt": "2026-03-23T00:00:39Z",
+    "updatedAt": "2026-03-23T00:00:43Z",
     "createdAt": "2026-03-17T00:28:27Z",
     "isArchived": false,
     "isFork": false,
@@ -20,6 +20,7 @@
     "defaultBranch": "main",
     "parentRepo": null,
     "parentStars": null,
-    "parentForks": null
+    "parentForks": null,
+    "isPrivate": false
   }
 ]

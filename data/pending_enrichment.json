@@ -1,4 +1,1565 @@
 {
-  "generated_at": "2026-03-22T10:11:25.616557+00:00",
-  "repos": []
+  "generated_at": "2026-03-23T06:16:24.328488+00:00",
+  "repos": [
+    {
+      "name_with_owner": "perditioinc/12-factor-agents",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/AI-Expert-Roadmap",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/AIR",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/AISystem",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/AI_ConstructionSiteMonitoring",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/AionUi",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/AmpliGraph",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/AudioLDM2",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/AugLy",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Automated-GDPR-Compliance-Checking",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Autonomous-Drone-Inspection-with-DRL",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Awesome-EdgeAI",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Awesome-LegalAI-Resources",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Awesome-Precision-Agriculture",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/BasicSR",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/C-LOAM",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/CL4R1T4S",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/CRAFT-pytorch",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/CameraRadarFusionNet",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Chat2DB",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/ClickHouse",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/CodeFormer",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/CompressAI",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/ConstructionAI",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/ControlNet",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Cool-Chic",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/DCVC",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/DLTK",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/DataDreamer",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Deep-Learning-for-Medical-Applications",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/DeepLearning_PlantDiseases",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/DeepWeeds",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/DocsGPT",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/FAST_LIO_SAM",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/FATE",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/FLAML",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/FedML",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Figma-Context-MCP",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/FinBERT-1",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/FinGPT",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/FinRL",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Folo",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/FreeDiscovery",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/FudanOCR",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/GFPGAN",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/GPT-SoVITS",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/GitHubDaily",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Gymnasium",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Harvestify",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Hunyuan3D-2",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/HunyuanVideo",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/IP-Adapter",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/ImageToolbox",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/IsaacLab",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/JeecgBoot",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/L1B3RT4S",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/L3C-PyTorch",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/LaTeX-OCR",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/LexReviewer",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/MIScnn",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/ML-Papers-of-the-Week",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/ML-YouTube-Courses",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/MNN",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/MONAI",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Make-It-3D",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/ManiSkill",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/MedSAM",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/MedicalZooPytorch",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Meshroom",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/MidJourney-Styles-and-Keywords-Reference",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/MindSearch",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Mobile-Security-Framework-MobSF",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/MockingBird",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Mr.-Ranedeer-AI-Tutor",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Mubert-Text-to-Music",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/NASLib",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/NeoPass",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/NeuralCompression",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/OMRChecker",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Open-Assistant",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/OpenConstruction-Datasets",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/OpenEnv",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/OpenSpec",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/OpenWeedLocator",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Opennyai",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/PPE-Detection-for-Construction-site-workers",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/PlantVillage-Dataset",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Promptify",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/PySyft",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/RapidVideOCR",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Real-ESRGAN",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/RecBole",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Riskfolio-Lib",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/SDV",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Safety-Helmet-Wearing-Dataset",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/SimpleHTR",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/SingleFile",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Stock-Prediction-Models",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/SurfSense",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Surprise",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/TaxHacker",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/TenSEAL",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Translumo",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Unique3D",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Vane",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/VisDrone-Dataset",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Waifu2x-Extension-GUI",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Wan2.1",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/WeKnora",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Xray-core",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/activepieces",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/aequitas",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/agenta",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/agentic",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/agenticSeek",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/ai-pdf-chatbot-langchain",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/ally-legal-assistant",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/alphafold",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/amazon-sagemaker-examples",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/aspire",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/astrofox",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/aubio",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/audio",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/audiocraft",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/auto-code-rover",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/auto-sklearn",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/autogluon",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/automatisch",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/awesome-agriculture",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/awesome-ai-in-finance",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/awesome-ai-marketing",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/awesome-artificial-intelligence",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/awesome-claudecode-paper-proofreading",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/awesome-copilot",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/awesome-creativeai",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/awesome-digital-twins",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/awesome-edge-ai",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/awesome-edge-ai-agents",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/awesome-edge-machine-learning",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/awesome-legal-nlp",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/awesome-legaltech",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/awesome-marketing-machine-learning",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/awesome-ml-model-compression",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/awesome-mlops",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/awesome-quant",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/awesome-tinyml",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/axonhub",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/backtrader",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/basic-pitch",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/best-of-algorithmic-trading",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/bigcode-evaluation-harness",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/biopython",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/bit",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/botpress",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/butterchurn",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/c2-explorer",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/caddy",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/camelot",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/carla",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/ccxt",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/chatbot",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/clash-verge-rev",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/claude-task-master",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/compl-ai",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/content-moderation-deep-learning",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/copycat",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/core",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/cornac",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/coursera-deep-learning-specialization",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/courseware",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/crnn",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/crush",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/cuad",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/cube",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/dagger",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/daily",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/dalai",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/darts",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/dataherald",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/deep-research",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/deep-text-recognition-benchmark",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/deepchem",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/deepdoctection",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/deepwiki-open",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/demucs",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/dgl",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/dia",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/dl-translate",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/doris",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/draw-a-ui",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/drone-based-plant-monitoring-system",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/drone-navigation-inspection",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/edge-ai",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/edgeai-for-beginners",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/electerm",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/espnet",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/essentia",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/excelize",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/executorch",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/facefusion",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/fairlearn",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/faker",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/farmOS",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/farmvibes-ai",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/fastapi_mcp",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/faster-whisper",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/finBERT",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/flower",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/fraud-detection-handbook",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/free-llm-api-resources",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/free-programming-books",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/freqtrade",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/frigate",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/gaussian-splatting",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/gflownet",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/gh-gei",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/gitdiagram",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/gitingest",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/gpt-crawler",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/gpt-pilot",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/gpt-researcher",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/gs-quant",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/h2o-3",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/h2ogpt",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/h4cker",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/habitat-lab",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/handwriting-ocr",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/helm",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/honcho",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/hummingbot",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/iii",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/impeccable",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/implicit",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/instant-ngp",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/iptv",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/jellyfin",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/jsonformer",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/kaolin",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/katna",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/keploy",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/kernel-memory",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/kong",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/kraken",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/kratos",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/langmem",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/lawglance",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/layout-parser",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/leaked-system-prompts",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/learnopencv",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/legal_NER",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/leon",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/lerobot",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/lexpredict-lexnlp",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/librosa",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/lightfm",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/lightweight-neural-architecture-search",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/lime",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/litgpt",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/lkpy",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/llama-cpp-python",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/llm_engineering",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/lm-format-enforcer",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/local-deep-researcher",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/ludwig",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/m-detector",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/mautic",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/medicaltorch",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/medspacy",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/memfree",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/memos",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/memvid",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/meshery",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/midscene",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/mirascope",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/ml-engineering",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/mljar-supervised",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/mmocr",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/moai-adk",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/model-card-toolkit",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/modular",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/mujoco",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/musegan",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/muzic",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/nanobrowser",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/nasbench",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/ncnn",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/neo4j",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/nerfstudio",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/netron",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/neural_prophet",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/newsnow",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/next-ai-draw-io",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/next.js",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/node",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/oh-my-openagent",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/olaw",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/onlook",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/onnx",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/onyx",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/open-saas",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/openai-translator",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/opencode",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/opencode_",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/openfederatedlearning",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/openfold",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/openvino",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/openvino_notebooks",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/openwork",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/pandas-ai",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/paperless-ngx",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/photoprism",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/piper",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/plate",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/plip",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/pocketbase",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/posthog",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/postiz-app",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/pot-desktop",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/predictive-maintenance-using-machine-learning",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/production",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/projectm",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/prompttools",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/prophet",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/puck",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/pycaret",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/pykeen",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/pytesseract",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/pytorch-lightning",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/pyvideotrans",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/rdkit",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/recommenders",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/refine",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/rembg",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/repomix",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/responsible-ai-toolbox",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/rgthree-comfy",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/robosuite",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/safetibase",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/saleor",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/screenpipe",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/searxng",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/self-hosted-ai-starter-kit",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/serena",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/shap",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/simple-icons",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/skfolio",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/sktime",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/slideflow",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/so-vits-svc",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/social-media-agent",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/speechbrain",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/spleeter",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/spree",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/sqlchat",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/stable-baselines3",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/stable-diffusion-webui-colab",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/stagehand",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/statsforecast",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/steeleagle",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/stellargraph",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/stitch-skills",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/suna",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/system_prompts_leaks",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/table-transformer",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/tavily-mcp",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/tavily-python",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/tensorzero",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/tesseract.js",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/threestudio",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/tinyml",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/torchdrug",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/torchio",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/torchxrayvision",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/trackers",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/traefik",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/trigger.dev",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/tslearn",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/unsloth-studio",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/upscayl",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/vanna",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/video2x",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/vitess",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/waveterm",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/whisper.cpp",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/whisperX",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/windmill",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/worldmonitor",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/yfinance",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/ytDownloader",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/zipline",
+      "reason": "new_repo"
+    }
+  ]
 }

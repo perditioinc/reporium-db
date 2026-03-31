@@ -17,7 +17,30 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "soulmachine/machine-learning-cheat-sheet",
-    "parentStars": 8017,
-    "parentForks": 1340
+    "parentStars": 8016,
+    "parentForks": 1340,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/Deep-Learning-for-Medical-Applications",
+    "name": "Deep-Learning-for-Medical-Applications",
+    "description": "Deep Learning Papers on Medical Image Analysis",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "TeX",
+    "pushedAt": "2022-04-01T08:51:47Z",
+    "updatedAt": "2026-03-23T01:50:28Z",
+    "createdAt": "2026-03-23T01:50:27Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "GNU General Public License v3.0",
+    "openIssues": 0,
+    "defaultBranch": "master",
+    "parentRepo": "albarqouni/Deep-Learning-for-Medical-Applications",
+    "parentStars": 1610,
+    "parentForks": 504,
+    "isPrivate": false
   }
 ]

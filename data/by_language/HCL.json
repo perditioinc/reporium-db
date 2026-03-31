@@ -1,0 +1,24 @@
+[
+  {
+    "nameWithOwner": "perditioinc/edge-ai",
+    "name": "edge-ai",
+    "description": "Production-ready Infrastructure as Code, applications, pluggable components, and PlatformOps toolchains that empower organizations to achieve more with cloud and edge AI-powered solutions. Built by friendly geeks, for every team that needs edge solutions to achieve real production results.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "HCL",
+    "pushedAt": "2026-03-21T20:03:08Z",
+    "updatedAt": "2026-03-23T01:53:24Z",
+    "createdAt": "2026-03-23T01:53:24Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "microsoft/edge-ai",
+    "parentStars": 57,
+    "parentForks": 30,
+    "isPrivate": false
+  }
+]

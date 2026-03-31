@@ -1,68 +1,5 @@
 [
   {
-    "nameWithOwner": "perditioinc/perditio-website",
-    "name": "perditio-website",
-    "description": null,
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "HTML",
-    "pushedAt": "2024-10-13T23:24:54Z",
-    "updatedAt": "2024-10-13T23:27:38Z",
-    "createdAt": "2024-10-13T23:22:32Z",
-    "isArchived": false,
-    "isFork": false,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": null,
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": null,
-    "parentStars": null,
-    "parentForks": null
-  },
-  {
-    "nameWithOwner": "perditioinc/perditioinc.github.io",
-    "name": "perditioinc.github.io",
-    "description": "Perditio",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "HTML",
-    "pushedAt": "2026-02-25T23:42:38Z",
-    "updatedAt": "2026-02-25T23:42:42Z",
-    "createdAt": "2024-10-13T23:29:45Z",
-    "isArchived": false,
-    "isFork": false,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": null,
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": null,
-    "parentStars": null,
-    "parentForks": null
-  },
-  {
-    "nameWithOwner": "perditioinc/didymo-ai-webgl",
-    "name": "didymo-ai-webgl",
-    "description": "Unity WebGL build of Didymo AI",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "HTML",
-    "pushedAt": "2025-08-20T00:53:13Z",
-    "updatedAt": "2025-08-20T00:53:18Z",
-    "createdAt": "2025-08-18T01:31:56Z",
-    "isArchived": false,
-    "isFork": false,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": null,
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": null,
-    "parentStars": null,
-    "parentForks": null
-  },
-  {
     "nameWithOwner": "perditioinc/awesome-generative-ai-guide",
     "name": "awesome-generative-ai-guide",
     "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
@@ -80,29 +17,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "aishwaryanr/awesome-generative-ai-guide",
-    "parentStars": 25451,
-    "parentForks": 5376
-  },
-  {
-    "nameWithOwner": "perditioinc/didymo-ai-webgl-v2",
-    "name": "didymo-ai-webgl-v2",
-    "description": "Didymo AI WebGL Simon Demo V2",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "HTML",
-    "pushedAt": "2026-01-28T01:39:06Z",
-    "updatedAt": "2026-01-28T01:39:10Z",
-    "createdAt": "2026-01-28T00:48:39Z",
-    "isArchived": false,
-    "isFork": false,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": null,
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": null,
-    "parentStars": null,
-    "parentForks": null
+    "parentStars": 25467,
+    "parentForks": 5379,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/robotics-resources-for-roboticists",
@@ -123,7 +40,8 @@
     "defaultBranch": "main",
     "parentRepo": "akshetP/robotics-resources",
     "parentStars": 395,
-    "parentForks": 65
+    "parentForks": 65,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/claude-code-best-practice",
@@ -143,8 +61,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "shanraisshan/claude-code-best-practice",
-    "parentStars": 20156,
-    "parentForks": 1747
+    "parentStars": 20727,
+    "parentForks": 1801,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/ai-engineering-field-guide",
@@ -164,8 +83,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "alexeygrigorev/ai-engineering-field-guide",
-    "parentStars": 1555,
-    "parentForks": 162
+    "parentStars": 1599,
+    "parentForks": 165,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/awesome-creative-coding",
@@ -185,8 +105,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "terkelg/awesome-creative-coding",
-    "parentStars": 14601,
-    "parentForks": 931
+    "parentStars": 14600,
+    "parentForks": 931,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/garak",
@@ -206,8 +127,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/garak",
-    "parentStars": 7323,
-    "parentForks": 836
+    "parentStars": 7333,
+    "parentForks": 838,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/styleguide",
@@ -227,8 +149,9 @@
     "openIssues": 0,
     "defaultBranch": "gh-pages",
     "parentRepo": "google/styleguide",
-    "parentStars": 39115,
-    "parentForks": 12998
+    "parentStars": 39118,
+    "parentForks": 12999,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/gpt-5-coding-examples",
@@ -248,8 +171,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "openai/gpt-5-coding-examples",
-    "parentStars": 1857,
-    "parentForks": 282
+    "parentStars": 1858,
+    "parentForks": 282,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/unstructured",
@@ -269,8 +193,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Unstructured-IO/unstructured",
-    "parentStars": 14302,
-    "parentForks": 1203
+    "parentStars": 14306,
+    "parentForks": 1203,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/lancedb",
@@ -290,8 +215,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "lancedb/lancedb",
-    "parentStars": 9587,
-    "parentForks": 801
+    "parentStars": 9599,
+    "parentForks": 801,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/fastText",
@@ -311,8 +237,9 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "facebookresearch/fastText",
-    "parentStars": 26509,
-    "parentForks": 4815
+    "parentStars": 26508,
+    "parentForks": 4815,
+    "isPrivate": false
   },
   {
     "nameWithOwner": "perditioinc/prompts.chat",
@@ -332,7 +259,96 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "f/prompts.chat",
-    "parentStars": 153730,
-    "parentForks": 20217
+    "parentStars": 153904,
+    "parentForks": 20240,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/rdkit",
+    "name": "rdkit",
+    "description": "The official sources for the RDKit library",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2026-03-21T08:10:16Z",
+    "updatedAt": "2026-03-22T13:39:57Z",
+    "createdAt": "2026-03-22T13:39:57Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "openIssues": 0,
+    "defaultBranch": "master",
+    "parentRepo": "rdkit/rdkit",
+    "parentStars": 3350,
+    "parentForks": 995,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/windmill",
+    "name": "windmill",
+    "description": "Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2026-03-22T11:41:42Z",
+    "updatedAt": "2026-03-22T13:42:09Z",
+    "createdAt": "2026-03-22T13:42:08Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Other",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "windmill-labs/windmill",
+    "parentStars": 16053,
+    "parentForks": 899,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/awesome-quant",
+    "name": "awesome-quant",
+    "description": "A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2026-03-22T21:21:59Z",
+    "updatedAt": "2026-03-22T22:15:46Z",
+    "createdAt": "2026-03-22T22:15:46Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "wilsonfreitas/awesome-quant",
+    "parentStars": 25061,
+    "parentForks": 3311,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/system_prompts_leaks",
+    "name": "system_prompts_leaks",
+    "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2026-03-22T14:45:29Z",
+    "updatedAt": "2026-03-23T00:39:40Z",
+    "createdAt": "2026-03-23T00:39:39Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "asgeirtj/system_prompts_leaks",
+    "parentStars": 34852,
+    "parentForks": 5611,
+    "isPrivate": false
   }
 ]
