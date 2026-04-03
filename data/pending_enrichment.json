@@ -1,288 +1,264 @@
 {
-  "generated_at": "2026-03-30T06:59:13.521342+00:00",
+  "generated_at": "2026-04-03T06:19:09.616549+00:00",
   "repos": [
     {
-      "name_with_owner": "perditioinc/AI-Scientist-v2",
+      "name_with_owner": "perditioinc/Awesome-World-Models",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/Agent-S",
+      "name_with_owner": "perditioinc/BehaviorTree.CPP",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/AutoRAG",
+      "name_with_owner": "perditioinc/DeepThinkVLA",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/Awesome-GraphRAG",
+      "name_with_owner": "perditioinc/FSDrive",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/Awesome-LLM-RAG",
+      "name_with_owner": "perditioinc/HY-WorldPlay",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/ChatTTS",
+      "name_with_owner": "perditioinc/Helios",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/DeepAnalyze",
+      "name_with_owner": "perditioinc/HunyuanWorld-1.0",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/DeepResearch",
+      "name_with_owner": "perditioinc/HunyuanWorld-Mirror",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/FastGPT",
+      "name_with_owner": "perditioinc/JanusVLN",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/FlagEmbedding",
+      "name_with_owner": "perditioinc/OpenCat-Quadruped-Robot",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/FlashRAG",
+      "name_with_owner": "perditioinc/OpenMower",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/FlashRank",
+      "name_with_owner": "perditioinc/SimpleVLA-RL",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/JamAIBase",
+      "name_with_owner": "perditioinc/SpatialVLA",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/Jobs_Applier_AI_Agent_AIHawk",
+      "name_with_owner": "perditioinc/UniVLA",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/Langchain-Chatchat",
+      "name_with_owner": "perditioinc/Vision-Language-Models-Overview",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/MemOS_",
+      "name_with_owner": "perditioinc/ardupilot",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/MemoryOS",
+      "name_with_owner": "perditioinc/awesome-design-md",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/MiniRAG",
+      "name_with_owner": "perditioinc/awesome-llm-and-aigc",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/Open-AutoGLM",
+      "name_with_owner": "perditioinc/awesome-multimodal-ml",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/PocketFlow",
+      "name_with_owner": "perditioinc/awesome-physical-ai",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/RAG-Retrieval",
+      "name_with_owner": "perditioinc/awesome-self-supervised-learning",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/RAGHub",
+      "name_with_owner": "perditioinc/awesome-vla-for-ad",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/ROLL",
+      "name_with_owner": "perditioinc/bullet3",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/TaskingAI",
+      "name_with_owner": "perditioinc/cap-x",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/TrustRAG",
+      "name_with_owner": "perditioinc/cartographer",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/UI-TARS-desktop",
+      "name_with_owner": "perditioinc/claude-howto",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/VideoRAG",
+      "name_with_owner": "perditioinc/claude-remember",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/WFGY",
+      "name_with_owner": "perditioinc/claw-code",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/ag2",
+      "name_with_owner": "perditioinc/copper-rs",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/agentic-rag-for-dummies",
+      "name_with_owner": "perditioinc/cosmos-transfer2.5",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/agentica",
+      "name_with_owner": "perditioinc/dexbotic",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/arthas",
+      "name_with_owner": "perditioinc/diamond",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/autollm",
+      "name_with_owner": "perditioinc/drake",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/awesome-LLM-resources",
+      "name_with_owner": "perditioinc/dreamerv3",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/awesome-ai-web-search",
+      "name_with_owner": "perditioinc/evo",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/bRAG-langchain",
+      "name_with_owner": "perditioinc/fastfetch",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/cc-switch",
+      "name_with_owner": "perditioinc/freeCodeCamp",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/cli",
+      "name_with_owner": "perditioinc/gobot",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/cobra",
+      "name_with_owner": "perditioinc/habitat-sim",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/code-graph-rag",
+      "name_with_owner": "perditioinc/jetson-inference",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/colpali",
+      "name_with_owner": "perditioinc/johnny-five",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/coze-studio",
+      "name_with_owner": "perditioinc/kornia",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/cursor-talk-to-figma-mcp",
+      "name_with_owner": "perditioinc/lingbot-world",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/deepchat",
+      "name_with_owner": "perditioinc/mosaico",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/generative-ai_",
+      "name_with_owner": "perditioinc/nanobananaloradatasetgenerator",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/github-mcp-server",
+      "name_with_owner": "perditioinc/navigation2",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/intentkit",
+      "name_with_owner": "perditioinc/newton",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/llmware",
+      "name_with_owner": "perditioinc/nicegui",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/local-deep-research",
+      "name_with_owner": "perditioinc/open-source-rover",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/magentic",
+      "name_with_owner": "perditioinc/openpilot",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/nacos",
+      "name_with_owner": "perditioinc/oumi",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/nestia",
+      "name_with_owner": "perditioinc/praisonai",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/owl",
+      "name_with_owner": "perditioinc/rai",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/planning-with-files",
+      "name_with_owner": "perditioinc/realtime-vla",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/ragapp",
+      "name_with_owner": "perditioinc/rerun",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/raglite",
+      "name_with_owner": "perditioinc/ros_motion_planning",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/raptor",
+      "name_with_owner": "perditioinc/rtabmap",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/recipes",
+      "name_with_owner": "perditioinc/shifu",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/sherlock",
+      "name_with_owner": "perditioinc/skill_seekers",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/solace-agent-mesh",
+      "name_with_owner": "perditioinc/solo-cli",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/sre",
+      "name_with_owner": "perditioinc/starVLA",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/start-llms",
+      "name_with_owner": "perditioinc/uwlab",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/superlinked",
+      "name_with_owner": "perditioinc/vla0",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/superset_",
+      "name_with_owner": "perditioinc/webots",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/swirl-search",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/trieve",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/vearch",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/vector",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/vibe-kanban",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/yt-dlp",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/zx",
+      "name_with_owner": "perditioinc/wechaty",
       "reason": "new_repo"
     }
   ]

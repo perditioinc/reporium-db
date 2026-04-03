@@ -1,23 +1,23 @@
 {
   "meta": {
-    "total": 1573,
-    "last_updated": "2026-03-30T06:59:13.522334+00:00",
+    "total": 1638,
+    "last_updated": "2026-04-03T06:19:09.617520+00:00",
     "version": "1.0.0"
   },
   "categories": {
     "tooling": 1
   },
   "languages": {
-    "Python": 691,
-    "TypeScript": 219,
+    "Python": 724,
+    "TypeScript": 221,
     "Jupyter Notebook": 146,
-    "C++": 91,
-    "Go": 66,
-    "JavaScript": 65,
-    "Rust": 41,
-    "C": 33,
+    "C++": 104,
+    "Go": 68,
+    "JavaScript": 67,
+    "Rust": 44,
+    "C": 34,
     "C#": 25,
-    "HTML": 17,
+    "HTML": 20,
     "Java": 14,
     "Shell": 9,
     "Cuda": 6,
@@ -46,6 +46,7 @@
     "Mojo": 1,
     "HCL": 1,
     "Objective-C": 1,
-    "Dart": 1
+    "Dart": 1,
+    "Prolog": 1
   }
 }
