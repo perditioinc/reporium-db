@@ -17,8 +17,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "vmayoral/ros-robotics-companies",
-    "parentStars": 1793,
-    "parentForks": 228,
+    "parentStars": 1796,
+    "parentForks": 229,
     "isPrivate": false
   },
   {
@@ -39,8 +39,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "FlorianBruniaux/claude-code-ultimate-guide",
-    "parentStars": 2519,
-    "parentForks": 369,
+    "parentStars": 2790,
+    "parentForks": 395,
     "isPrivate": false
   },
   {
@@ -61,7 +61,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "TinyAGI/tinyagi",
-    "parentStars": 3428,
+    "parentStars": 3460,
     "parentForks": 488,
     "isPrivate": false
   },
@@ -83,8 +83,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "msitarzewski/agency-agents",
-    "parentStars": 65932,
-    "parentForks": 9963,
+    "parentStars": 69186,
+    "parentForks": 10516,
     "isPrivate": false
   },
   {
@@ -105,8 +105,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "obra/superpowers",
-    "parentStars": 123833,
-    "parentForks": 10089,
+    "parentStars": 132704,
+    "parentForks": 11024,
     "isPrivate": false
   },
   {
@@ -127,8 +127,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "VoltAgent/awesome-claude-code-subagents",
-    "parentStars": 15609,
-    "parentForks": 1754,
+    "parentStars": 16095,
+    "parentForks": 1815,
     "isPrivate": false
   },
   {
@@ -139,7 +139,7 @@
     "forks": 0,
     "primaryLanguage": "Shell",
     "pushedAt": "2026-03-17T01:46:57Z",
-    "updatedAt": "2026-03-17T01:47:02Z",
+    "updatedAt": "2026-03-31T23:53:47Z",
     "createdAt": "2026-03-13T21:31:36Z",
     "isArchived": false,
     "isFork": true,
@@ -149,8 +149,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "anthropics/claude-code",
-    "parentStars": 84360,
-    "parentForks": 7135,
+    "parentStars": 107066,
+    "parentForks": 17323,
     "isPrivate": false
   },
   {
@@ -171,8 +171,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "anthropics/claude-agent-sdk-typescript",
-    "parentStars": 1145,
-    "parentForks": 122,
+    "parentStars": 1223,
+    "parentForks": 134,
     "isPrivate": false
   },
   {
@@ -193,8 +193,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "codota/TabNine",
-    "parentStars": 10801,
-    "parentForks": 536,
+    "parentStars": 10802,
+    "parentForks": 537,
     "isPrivate": false
   }
 ]
