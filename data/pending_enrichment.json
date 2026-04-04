@@ -1,264 +1,60 @@
 {
-  "generated_at": "2026-04-03T06:19:09.616549+00:00",
+  "generated_at": "2026-04-04T06:03:06.219716+00:00",
   "repos": [
     {
-      "name_with_owner": "perditioinc/Awesome-World-Models",
+      "name_with_owner": "perditioinc/FAST-LIO-Multi-Sensor-Fusion",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/BehaviorTree.CPP",
+      "name_with_owner": "perditioinc/FASTLIO2_SAM_LC",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/DeepThinkVLA",
+      "name_with_owner": "perditioinc/LOL",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/FSDrive",
+      "name_with_owner": "perditioinc/Lidar_IMU_Localization",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/HY-WorldPlay",
+      "name_with_owner": "perditioinc/NDTMC",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/Helios",
+      "name_with_owner": "perditioinc/ROS2-Autonomous-Driving-and-Navigation-SLAM-with-TurtleBot3",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/HunyuanWorld-1.0",
+      "name_with_owner": "perditioinc/VoxelMapPlus_Public",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/HunyuanWorld-Mirror",
+      "name_with_owner": "perditioinc/boxmot",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/JanusVLN",
+      "name_with_owner": "perditioinc/free-claude-code",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/OpenCat-Quadruped-Robot",
+      "name_with_owner": "perditioinc/github-profile-views-counter",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/OpenMower",
+      "name_with_owner": "perditioinc/navbot_hardware",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/SimpleVLA-RL",
+      "name_with_owner": "perditioinc/oh-my-codex",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/SpatialVLA",
+      "name_with_owner": "perditioinc/open-swe",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/UniVLA",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/Vision-Language-Models-Overview",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/ardupilot",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/awesome-design-md",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/awesome-llm-and-aigc",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/awesome-multimodal-ml",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/awesome-physical-ai",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/awesome-self-supervised-learning",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/awesome-vla-for-ad",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/bullet3",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/cap-x",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/cartographer",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/claude-howto",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/claude-remember",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/claw-code",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/copper-rs",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/cosmos-transfer2.5",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/dexbotic",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/diamond",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/drake",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/dreamerv3",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/evo",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/fastfetch",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/freeCodeCamp",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/gobot",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/habitat-sim",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/jetson-inference",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/johnny-five",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/kornia",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/lingbot-world",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/mosaico",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/nanobananaloradatasetgenerator",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/navigation2",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/newton",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/nicegui",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/open-source-rover",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/openpilot",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/oumi",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/praisonai",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/rai",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/realtime-vla",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/rerun",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/ros_motion_planning",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/rtabmap",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/shifu",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/skill_seekers",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/solo-cli",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/starVLA",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/uwlab",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/vla0",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/webots",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/wechaty",
+      "name_with_owner": "perditioinc/supervision",
       "reason": "new_repo"
     }
   ]
