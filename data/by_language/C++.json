@@ -17,7 +17,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Snapchat/Valdi",
-    "parentStars": 16382,
+    "parentStars": 16383,
     "parentForks": 545,
     "isPrivate": false
   },
@@ -39,7 +39,7 @@
     "openIssues": 0,
     "defaultBranch": "noetic-devel",
     "parentRepo": "carlosmccosta/dynamic_robot_localization",
-    "parentStars": 879,
+    "parentStars": 880,
     "parentForks": 200,
     "isPrivate": false
   },
@@ -61,8 +61,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "alibaba/zvec",
-    "parentStars": 9225,
-    "parentForks": 529,
+    "parentStars": 9232,
+    "parentForks": 531,
     "isPrivate": false
   },
   {
@@ -83,7 +83,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Snapchat/SnapRHI",
-    "parentStars": 36,
+    "parentStars": 37,
     "parentForks": 5,
     "isPrivate": false
   },
@@ -105,7 +105,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "allenk/GeminiWatermarkTool",
-    "parentStars": 1976,
+    "parentStars": 1985,
     "parentForks": 163,
     "isPrivate": false
   },
@@ -128,7 +128,7 @@
     "defaultBranch": "ros2",
     "parentRepo": "mavlink/mavros",
     "parentStars": 1143,
-    "parentForks": 1084,
+    "parentForks": 1085,
     "isPrivate": false
   },
   {
@@ -171,8 +171,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google-ai-edge/LiteRT",
-    "parentStars": 2035,
-    "parentForks": 257,
+    "parentStars": 2044,
+    "parentForks": 259,
     "isPrivate": false
   },
   {
@@ -193,8 +193,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "ggml-org/llama.cpp",
-    "parentStars": 100917,
-    "parentForks": 16250,
+    "parentStars": 101201,
+    "parentForks": 16313,
     "isPrivate": false
   },
   {
@@ -215,8 +215,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "google-ai-edge/mediapipe",
-    "parentStars": 34489,
-    "parentForks": 5869,
+    "parentStars": 34513,
+    "parentForks": 5871,
     "isPrivate": false
   },
   {
@@ -237,7 +237,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "Serial-Studio/Serial-Studio",
-    "parentStars": 6747,
+    "parentStars": 6748,
     "parentForks": 1014,
     "isPrivate": false
   },
@@ -259,8 +259,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/terminal",
-    "parentStars": 102489,
-    "parentForks": 9176,
+    "parentStars": 102518,
+    "parentForks": 9178,
     "isPrivate": false
   },
   {
@@ -281,8 +281,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "RunanywhereAI/runanywhere-sdks",
-    "parentStars": 10357,
-    "parentForks": 344,
+    "parentStars": 10352,
+    "parentForks": 346,
     "isPrivate": false
   },
   {
@@ -303,8 +303,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "geode-sdk/geode",
-    "parentStars": 2149,
-    "parentForks": 402,
+    "parentStars": 2159,
+    "parentForks": 406,
     "isPrivate": false
   },
   {
@@ -325,8 +325,8 @@
     "openIssues": 0,
     "defaultBranch": "dev",
     "parentRepo": "amnezia-vpn/amnezia-client",
-    "parentStars": 11048,
-    "parentForks": 792,
+    "parentStars": 11068,
+    "parentForks": 797,
     "isPrivate": false
   },
   {
@@ -347,8 +347,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "MrNeRF/LichtFeld-Studio",
-    "parentStars": 2755,
-    "parentForks": 283,
+    "parentStars": 2762,
+    "parentForks": 284,
     "isPrivate": false
   },
   {
@@ -369,7 +369,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "hrydgard/ppsspp",
-    "parentStars": 13642,
+    "parentStars": 13646,
     "parentForks": 2460,
     "isPrivate": false
   },
@@ -391,8 +391,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "OrcaSlicer/OrcaSlicer",
-    "parentStars": 13137,
-    "parentForks": 1966,
+    "parentStars": 13151,
+    "parentForks": 1972,
     "isPrivate": false
   },
   {
@@ -413,8 +413,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "ml-explore/mlx",
-    "parentStars": 25001,
-    "parentForks": 1633,
+    "parentStars": 25045,
+    "parentForks": 1636,
     "isPrivate": false
   },
   {
@@ -457,8 +457,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVlabs/GR00T-WholeBodyControl",
-    "parentStars": 1335,
-    "parentForks": 158,
+    "parentStars": 1337,
+    "parentForks": 157,
     "isPrivate": false
   },
   {
@@ -479,8 +479,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "microsoft/WSL",
-    "parentStars": 31670,
-    "parentForks": 1669,
+    "parentStars": 31680,
+    "parentForks": 1667,
     "isPrivate": false
   },
   {
@@ -501,7 +501,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "M2Team/NanaZip",
-    "parentStars": 13839,
+    "parentStars": 13842,
     "parentForks": 346,
     "isPrivate": false
   },
@@ -523,8 +523,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "ggml-org/ggml",
-    "parentStars": 14340,
-    "parentForks": 1532,
+    "parentStars": 14350,
+    "parentForks": 1534,
     "isPrivate": false
   },
   {
@@ -545,8 +545,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "LadybirdBrowser/ladybird",
-    "parentStars": 62030,
-    "parentForks": 2913,
+    "parentStars": 62078,
+    "parentForks": 2916,
     "isPrivate": false
   },
   {
@@ -567,8 +567,8 @@
     "openIssues": 0,
     "defaultBranch": "dev",
     "parentRepo": "barry-ran/QtScrcpy",
-    "parentStars": 29072,
-    "parentForks": 3497,
+    "parentStars": 29088,
+    "parentForks": 3496,
     "isPrivate": false
   },
   {
@@ -589,7 +589,7 @@
     "openIssues": 0,
     "defaultBranch": "pioarduino",
     "parentRepo": "geo-tp/ESP32-Bus-Pirate",
-    "parentStars": 3019,
+    "parentStars": 3023,
     "parentForks": 254,
     "isPrivate": false
   },
@@ -611,7 +611,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "praydog/REFramework",
-    "parentStars": 4909,
+    "parentStars": 4912,
     "parentForks": 527,
     "isPrivate": false
   },
@@ -633,8 +633,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "TheAlgorithms/C-Plus-Plus",
-    "parentStars": 34001,
-    "parentForks": 7749,
+    "parentStars": 34006,
+    "parentForks": 7750,
     "isPrivate": false
   },
   {
@@ -655,7 +655,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/calculator",
-    "parentStars": 30890,
+    "parentStars": 30891,
     "parentForks": 5733,
     "isPrivate": false
   },
@@ -677,7 +677,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/AirSim",
-    "parentStars": 18080,
+    "parentStars": 18084,
     "parentForks": 4868,
     "isPrivate": false
   },
@@ -699,7 +699,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/react-native-windows",
-    "parentStars": 17220,
+    "parentStars": 17219,
     "parentForks": 1193,
     "isPrivate": false
   },
@@ -721,8 +721,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google/googletest",
-    "parentStars": 38434,
-    "parentForks": 10730,
+    "parentStars": 38435,
+    "parentForks": 10729,
     "isPrivate": false
   },
   {
@@ -743,7 +743,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "google/aistreamer",
-    "parentStars": 153,
+    "parentStars": 152,
     "parentForks": 58,
     "isPrivate": false
   },
@@ -765,8 +765,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/TensorRT",
-    "parentStars": 12858,
-    "parentForks": 2336,
+    "parentStars": 12863,
+    "parentForks": 2338,
     "isPrivate": false
   },
   {
@@ -787,7 +787,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/cutlass",
-    "parentStars": 9525,
+    "parentStars": 9527,
     "parentForks": 1768,
     "isPrivate": false
   },
@@ -810,7 +810,7 @@
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/FasterTransformer",
     "parentStars": 6410,
-    "parentForks": 934,
+    "parentForks": 935,
     "isPrivate": false
   },
   {
@@ -831,7 +831,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/DALI",
-    "parentStars": 5659,
+    "parentStars": 5658,
     "parentForks": 660,
     "isPrivate": false
   },
@@ -897,8 +897,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "nomic-ai/gpt4all",
-    "parentStars": 77229,
-    "parentForks": 8328,
+    "parentStars": 77231,
+    "parentForks": 8327,
     "isPrivate": false
   },
   {
@@ -919,8 +919,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "tensorflow/tensorflow",
-    "parentStars": 194442,
-    "parentForks": 75258,
+    "parentStars": 194446,
+    "parentForks": 75257,
     "isPrivate": false
   },
   {
@@ -1029,8 +1029,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "jrouwe/JoltPhysics",
-    "parentStars": 9924,
-    "parentForks": 687,
+    "parentStars": 9927,
+    "parentForks": 688,
     "isPrivate": false
   },
   {
@@ -1051,7 +1051,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "brave/brave-core",
-    "parentStars": 3071,
+    "parentStars": 3075,
     "parentForks": 1181,
     "isPrivate": false
   },
@@ -1073,8 +1073,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "godotengine/godot",
-    "parentStars": 108885,
-    "parentForks": 24857,
+    "parentStars": 108920,
+    "parentForks": 24864,
     "isPrivate": false
   },
   {
@@ -1095,8 +1095,8 @@
     "openIssues": 0,
     "defaultBranch": "bugfix-2.1.x",
     "parentRepo": "MarlinFirmware/Marlin",
-    "parentStars": 17351,
-    "parentForks": 19685,
+    "parentStars": 17355,
+    "parentForks": 19684,
     "isPrivate": false
   },
   {
@@ -1118,7 +1118,7 @@
     "defaultBranch": "master",
     "parentRepo": "jellyfin-archive/jellyfin-desktop-qt",
     "parentStars": 5491,
-    "parentForks": 511,
+    "parentForks": 510,
     "isPrivate": false
   },
   {
@@ -1139,8 +1139,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "wled/WLED",
-    "parentStars": 17766,
-    "parentForks": 4075,
+    "parentStars": 17773,
+    "parentForks": 4076,
     "isPrivate": false
   },
   {
@@ -1161,8 +1161,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "FreeCAD/FreeCAD",
-    "parentStars": 30028,
-    "parentForks": 5367,
+    "parentStars": 30056,
+    "parentForks": 5374,
     "isPrivate": false
   },
   {
@@ -1183,7 +1183,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "mongodb/mongo",
-    "parentStars": 28208,
+    "parentStars": 28207,
     "parentForks": 5765,
     "isPrivate": false
   },
@@ -1205,8 +1205,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "bambulab/BambuStudio",
-    "parentStars": 4207,
-    "parentForks": 661,
+    "parentStars": 4208,
+    "parentForks": 662,
     "isPrivate": false
   },
   {
@@ -1227,8 +1227,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "78/xiaozhi-esp32",
-    "parentStars": 25332,
-    "parentForks": 5464,
+    "parentStars": 25356,
+    "parentForks": 5472,
     "isPrivate": false
   },
   {
@@ -1249,8 +1249,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "leejet/stable-diffusion.cpp",
-    "parentStars": 5670,
-    "parentForks": 574,
+    "parentStars": 5678,
+    "parentForks": 576,
     "isPrivate": false
   },
   {
@@ -1315,7 +1315,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "PRBonn/kiss-icp",
-    "parentStars": 2130,
+    "parentStars": 2131,
     "parentForks": 431,
     "isPrivate": false
   },
@@ -1403,7 +1403,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "engcang/SLAM-application",
-    "parentStars": 1137,
+    "parentStars": 1138,
     "parentForks": 151,
     "isPrivate": false
   },
@@ -1469,8 +1469,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "tesseract-ocr/tesseract",
-    "parentStars": 73290,
-    "parentForks": 10573,
+    "parentStars": 73310,
+    "parentForks": 10574,
     "isPrivate": false
   },
   {
@@ -1491,8 +1491,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "protocolbuffers/protobuf",
-    "parentStars": 71033,
-    "parentForks": 16091,
+    "parentStars": 71035,
+    "parentForks": 16092,
     "isPrivate": false
   },
   {
@@ -1535,8 +1535,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/onnxruntime",
-    "parentStars": 19741,
-    "parentForks": 3808,
+    "parentStars": 19749,
+    "parentForks": 3806,
     "isPrivate": false
   },
   {
@@ -1557,8 +1557,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "facebookresearch/faiss",
-    "parentStars": 39587,
-    "parentForks": 4311,
+    "parentStars": 39599,
+    "parentForks": 4313,
     "isPrivate": false
   },
   {
@@ -1579,7 +1579,7 @@
     "openIssues": 0,
     "defaultBranch": "v31",
     "parentRepo": "typesense/typesense",
-    "parentStars": 25512,
+    "parentStars": 25516,
     "parentForks": 872,
     "isPrivate": false
   },
@@ -1601,8 +1601,8 @@
     "openIssues": 0,
     "defaultBranch": "4.x",
     "parentRepo": "opencv/opencv",
-    "parentStars": 86891,
-    "parentForks": 56541,
+    "parentStars": 86910,
+    "parentForks": 56546,
     "isPrivate": false
   },
   {
@@ -1623,8 +1623,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "ClickHouse/ClickHouse",
-    "parentStars": 46675,
-    "parentForks": 8264,
+    "parentStars": 46690,
+    "parentForks": 8267,
     "isPrivate": false
   },
   {
@@ -1645,7 +1645,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "Tencent/ncnn",
-    "parentStars": 23046,
+    "parentStars": 23049,
     "parentForks": 4415,
     "isPrivate": false
   },
@@ -1667,8 +1667,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "alibaba/MNN",
-    "parentStars": 14745,
-    "parentForks": 2268,
+    "parentStars": 14753,
+    "parentForks": 2269,
     "isPrivate": false
   },
   {
@@ -1689,8 +1689,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "rhasspy/piper",
-    "parentStars": 10752,
-    "parentForks": 938,
+    "parentStars": 10755,
+    "parentForks": 941,
     "isPrivate": false
   },
   {
@@ -1711,7 +1711,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "OpenMined/TenSEAL",
-    "parentStars": 1009,
+    "parentStars": 1008,
     "parentForks": 172,
     "isPrivate": false
   },
@@ -1733,8 +1733,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google-deepmind/mujoco",
-    "parentStars": 12657,
-    "parentForks": 1417,
+    "parentStars": 12667,
+    "parentForks": 1418,
     "isPrivate": false
   },
   {
@@ -1799,7 +1799,7 @@
     "openIssues": 0,
     "defaultBranch": "ue5-dev",
     "parentRepo": "carla-simulator/carla",
-    "parentStars": 13787,
+    "parentStars": 13792,
     "parentForks": 4506,
     "isPrivate": false
   },
@@ -1821,8 +1821,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "projectM-visualizer/projectm",
-    "parentStars": 4143,
-    "parentForks": 448,
+    "parentStars": 4144,
+    "parentForks": 449,
     "isPrivate": false
   },
   {
@@ -1843,8 +1843,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "MTG/essentia",
-    "parentStars": 3492,
-    "parentForks": 607,
+    "parentStars": 3493,
+    "parentForks": 608,
     "isPrivate": false
   },
   {
@@ -1865,7 +1865,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "dcajasn/Riskfolio-Lib",
-    "parentStars": 4016,
+    "parentStars": 4021,
     "parentForks": 644,
     "isPrivate": false
   },
@@ -1909,8 +1909,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "openvinotoolkit/openvino",
-    "parentStars": 10000,
-    "parentForks": 3169,
+    "parentStars": 10002,
+    "parentForks": 3170,
     "isPrivate": false
   },
   {
@@ -1931,8 +1931,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "ggml-org/whisper.cpp",
-    "parentStars": 48226,
-    "parentForks": 5369,
+    "parentStars": 48266,
+    "parentForks": 5379,
     "isPrivate": false
   },
   {
@@ -1953,8 +1953,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "k4yt3x/video2x",
-    "parentStars": 19309,
-    "parentForks": 1694,
+    "parentStars": 19320,
+    "parentForks": 1695,
     "isPrivate": false
   },
   {
@@ -1975,7 +1975,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "AaronFeng753/Waifu2x-Extension-GUI",
-    "parentStars": 16347,
+    "parentStars": 16351,
     "parentForks": 1032,
     "isPrivate": false
   },
@@ -2019,8 +2019,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "ArduPilot/ardupilot",
-    "parentStars": 14785,
-    "parentForks": 20552,
+    "parentStars": 14791,
+    "parentForks": 20559,
     "isPrivate": false
   },
   {
@@ -2041,8 +2041,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "bulletphysics/bullet3",
-    "parentStars": 14361,
-    "parentForks": 3057,
+    "parentStars": 14363,
+    "parentForks": 3056,
     "isPrivate": false
   },
   {
@@ -2063,7 +2063,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "dusty-nv/jetson-inference",
-    "parentStars": 8792,
+    "parentStars": 8795,
     "parentForks": 3094,
     "isPrivate": false
   },
@@ -2085,8 +2085,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "cartographer-project/cartographer",
-    "parentStars": 7817,
-    "parentForks": 2329,
+    "parentStars": 7818,
+    "parentForks": 2328,
     "isPrivate": false
   },
   {
@@ -2107,7 +2107,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "ClemensElflein/OpenMower",
-    "parentStars": 6438,
+    "parentStars": 6439,
     "parentForks": 374,
     "isPrivate": false
   },
@@ -2129,7 +2129,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "PetoiCamp/OpenCat-Quadruped-Robot",
-    "parentStars": 4715,
+    "parentStars": 4717,
     "parentForks": 552,
     "isPrivate": false
   },
@@ -2151,7 +2151,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "cyberbotics/webots",
-    "parentStars": 4243,
+    "parentStars": 4242,
     "parentForks": 2003,
     "isPrivate": false
   },
@@ -2173,7 +2173,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "ros-navigation/navigation2",
-    "parentStars": 4099,
+    "parentStars": 4102,
     "parentForks": 1774,
     "isPrivate": false
   },
@@ -2196,7 +2196,7 @@
     "defaultBranch": "master",
     "parentRepo": "RobotLocomotion/drake",
     "parentStars": 3972,
-    "parentForks": 1359,
+    "parentForks": 1360,
     "isPrivate": false
   },
   {
@@ -2217,8 +2217,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "BehaviorTree/BehaviorTree.CPP",
-    "parentStars": 3926,
-    "parentForks": 821,
+    "parentStars": 3929,
+    "parentForks": 820,
     "isPrivate": false
   },
   {
@@ -2239,8 +2239,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "introlab/rtabmap",
-    "parentStars": 3704,
-    "parentForks": 907,
+    "parentStars": 3705,
+    "parentForks": 908,
     "isPrivate": false
   },
   {
@@ -2261,7 +2261,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "facebookresearch/habitat-sim",
-    "parentStars": 3599,
+    "parentStars": 3600,
     "parentForks": 528,
     "isPrivate": false
   },
@@ -2283,8 +2283,162 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "ai-winter/ros_motion_planning",
-    "parentStars": 3447,
-    "parentForks": 503,
+    "parentStars": 3444,
+    "parentForks": 504,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/navbot_hardware",
+    "name": "navbot_hardware",
+    "description": "Autonomous Robot Series Code Repository. A differential drive robot controller with Arduino Mega and DC motors with encoders. Uses 2 PID controllers",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "C++",
+    "pushedAt": "2023-12-02T06:18:17Z",
+    "updatedAt": "2026-04-03T06:44:44Z",
+    "createdAt": "2026-04-03T06:44:44Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "master",
+    "parentRepo": "vinay-lanka/navbot_hardware",
+    "parentStars": 49,
+    "parentForks": 31,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/Lidar_IMU_Localization",
+    "name": "Lidar_IMU_Localization",
+    "description": "Lidar-IMU Localization System with Prior Map Constraint and Lio Constraint",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "C++",
+    "pushedAt": "2023-07-10T02:21:19Z",
+    "updatedAt": "2026-04-03T06:44:51Z",
+    "createdAt": "2026-04-03T06:44:51Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "chengwei0427/Lidar_IMU_Localization",
+    "parentStars": 323,
+    "parentForks": 45,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/LOL",
+    "name": "LOL",
+    "description": "LOL: Lidar-only Odometry and Localization in 3D point cloud maps",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "C++",
+    "pushedAt": "2021-01-08T16:49:06Z",
+    "updatedAt": "2026-04-03T06:44:56Z",
+    "createdAt": "2026-04-03T06:44:56Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "master",
+    "parentRepo": "RozDavid/LOL",
+    "parentStars": 441,
+    "parentForks": 95,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/FASTLIO2_SAM_LC",
+    "name": "FASTLIO2_SAM_LC",
+    "description": "fastlio2 with loop closure and online localization",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "C++",
+    "pushedAt": "2024-01-30T03:36:08Z",
+    "updatedAt": "2026-04-03T06:45:03Z",
+    "createdAt": "2026-04-03T06:45:03Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "master",
+    "parentRepo": "liangheming/FASTLIO2_SAM_LC",
+    "parentStars": 143,
+    "parentForks": 13,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/VoxelMapPlus_Public",
+    "name": "VoxelMapPlus_Public",
+    "description": "Voxelmap++: Mergeable Voxel Mapping Method for Online LiDAR(-inertial) Odometry",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "C++",
+    "pushedAt": "2023-10-16T03:13:16Z",
+    "updatedAt": "2026-04-03T06:45:41Z",
+    "createdAt": "2026-04-03T06:45:40Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "uestc-icsp/VoxelMapPlus_Public",
+    "parentStars": 409,
+    "parentForks": 45,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/FAST-LIO-Multi-Sensor-Fusion",
+    "name": "FAST-LIO-Multi-Sensor-Fusion",
+    "description": "Fusing GNSS and wheel measurements based on FAST-LIO and IKFOM",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "C++",
+    "pushedAt": "2025-12-12T11:10:48Z",
+    "updatedAt": "2026-04-03T06:45:47Z",
+    "createdAt": "2026-04-03T06:45:47Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "master",
+    "parentRepo": "zhh2005757/FAST-LIO-Multi-Sensor-Fusion",
+    "parentStars": 292,
+    "parentForks": 29,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/NDTMC",
+    "name": "NDTMC",
+    "description": "[IROS 2024] A 3D Global Descriptor For Loop Closure Detection. NDT-Map-Code.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "C++",
+    "pushedAt": "2025-01-06T03:57:44Z",
+    "updatedAt": "2026-04-03T06:46:28Z",
+    "createdAt": "2026-04-03T06:46:28Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "GNU General Public License v3.0",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "SlamCabbage/NDTMC",
+    "parentStars": 207,
+    "parentForks": 11,
     "isPrivate": false
   }
 ]
