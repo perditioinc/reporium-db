@@ -1,60 +1,168 @@
 {
-  "generated_at": "2026-04-04T06:03:06.219716+00:00",
+  "generated_at": "2026-04-05T06:21:12.908319+00:00",
   "repos": [
     {
-      "name_with_owner": "perditioinc/FAST-LIO-Multi-Sensor-Fusion",
+      "name_with_owner": "perditioinc/30-seconds-of-code",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/FASTLIO2_SAM_LC",
+      "name_with_owner": "perditioinc/AdminLTE",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/LOL",
+      "name_with_owner": "perditioinc/AppFlowy",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/Lidar_IMU_Localization",
+      "name_with_owner": "perditioinc/Font-Awesome",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/NDTMC",
+      "name_with_owner": "perditioinc/agent-framework",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/ROS2-Autonomous-Driving-and-Navigation-SLAM-with-TurtleBot3",
+      "name_with_owner": "perditioinc/agents___",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/VoxelMapPlus_Public",
+      "name_with_owner": "perditioinc/angular",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/boxmot",
+      "name_with_owner": "perditioinc/anime",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/free-claude-code",
+      "name_with_owner": "perditioinc/architecture-decision-record",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/github-profile-views-counter",
+      "name_with_owner": "perditioinc/axios",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/navbot_hardware",
+      "name_with_owner": "perditioinc/bevy",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/oh-my-codex",
+      "name_with_owner": "perditioinc/bootstrap",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/open-swe",
+      "name_with_owner": "perditioinc/bun",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/supervision",
+      "name_with_owner": "perditioinc/cal.com",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/ccpm",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/deno",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/django",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/docusaurus",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/electron",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/erpnext",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/first-contributions",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/focalboard",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/hyperswitch",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/javascript-algorithms",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/kanboard",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/leantime",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/mlx-vlm",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/nocobase",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/open-source-mac-os-apps",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/openproject",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/payload",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/plane",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/platform",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/puter",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/react-native",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/server_",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/spacedrive",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/tailwindcss",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/taskcafe",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/tdesktop",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/vue",
       "reason": "new_repo"
     }
   ]

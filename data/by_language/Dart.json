@@ -17,8 +17,30 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "KRTirtho/spotube",
-    "parentStars": 45370,
-    "parentForks": 2026,
+    "parentStars": 45388,
+    "parentForks": 2028,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/AppFlowy",
+    "name": "AppFlowy",
+    "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Dart",
+    "pushedAt": "2026-04-01T08:44:34Z",
+    "updatedAt": "2026-04-05T01:20:01Z",
+    "createdAt": "2026-04-05T01:20:00Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "GNU Affero General Public License v3.0",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "AppFlowy-IO/AppFlowy",
+    "parentStars": 69124,
+    "parentForks": 5029,
     "isPrivate": false
   }
 ]

@@ -17,7 +17,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "tobi/try",
-    "parentStars": 3550,
+    "parentStars": 3554,
     "parentForks": 137,
     "isPrivate": false
   },
@@ -39,8 +39,30 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "spree/spree",
-    "parentStars": 15313,
-    "parentForks": 5242,
+    "parentStars": 15316,
+    "parentForks": 5243,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/openproject",
+    "name": "openproject",
+    "description": "OpenProject is the leading open source project management software.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Ruby",
+    "pushedAt": "2026-04-04T12:08:44Z",
+    "updatedAt": "2026-04-05T01:21:23Z",
+    "createdAt": "2026-04-05T01:21:23Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "GNU General Public License v3.0",
+    "openIssues": 0,
+    "defaultBranch": "dev",
+    "parentRepo": "opf/openproject",
+    "parentStars": 14760,
+    "parentForks": 3175,
     "isPrivate": false
   }
 ]
