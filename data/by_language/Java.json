@@ -39,8 +39,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "TheAlgorithms/Java",
-    "parentStars": 65310,
-    "parentForks": 21045,
+    "parentStars": 65316,
+    "parentForks": 21044,
     "isPrivate": false
   },
   {
@@ -61,7 +61,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "google/guava",
-    "parentStars": 51516,
+    "parentStars": 51510,
     "parentForks": 11154,
     "isPrivate": false
   },
@@ -83,7 +83,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google/adk-java",
-    "parentStars": 1445,
+    "parentStars": 1446,
     "parentForks": 313,
     "isPrivate": false
   },
@@ -105,8 +105,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "opendataloader-project/opendataloader-pdf",
-    "parentStars": 11067,
-    "parentForks": 832,
+    "parentStars": 11111,
+    "parentForks": 837,
     "isPrivate": false
   },
   {
@@ -127,7 +127,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "vespa-engine/vespa",
-    "parentStars": 6853,
+    "parentStars": 6854,
     "parentForks": 706,
     "isPrivate": false
   },
@@ -149,8 +149,8 @@
     "openIssues": 0,
     "defaultBranch": "devel",
     "parentRepo": "dbeaver/dbeaver",
-    "parentStars": 49386,
-    "parentForks": 4097,
+    "parentStars": 49392,
+    "parentForks": 4099,
     "isPrivate": false
   },
   {
@@ -171,8 +171,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "jeecgboot/JeecgBoot",
-    "parentStars": 45717,
-    "parentForks": 15875,
+    "parentStars": 45729,
+    "parentForks": 15876,
     "isPrivate": false
   },
   {
@@ -193,7 +193,7 @@
     "openIssues": 0,
     "defaultBranch": "release/5.26.0",
     "parentRepo": "neo4j/neo4j",
-    "parentStars": 16247,
+    "parentStars": 16256,
     "parentForks": 2584,
     "isPrivate": false
   },
@@ -215,8 +215,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "CodePhiliaX/Chat2DB",
-    "parentStars": 25324,
-    "parentForks": 2772,
+    "parentStars": 25342,
+    "parentForks": 2773,
     "isPrivate": false
   },
   {
@@ -237,8 +237,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "apache/doris",
-    "parentStars": 15174,
-    "parentForks": 3748,
+    "parentStars": 15176,
+    "parentForks": 3751,
     "isPrivate": false
   },
   {
@@ -259,8 +259,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "iflytek/astron-agent",
-    "parentStars": 10829,
-    "parentForks": 1136,
+    "parentStars": 10880,
+    "parentForks": 1137,
     "isPrivate": false
   },
   {
@@ -281,8 +281,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "alibaba/arthas",
-    "parentStars": 37218,
-    "parentForks": 7640,
+    "parentStars": 37215,
+    "parentForks": 7638,
     "isPrivate": false
   },
   {
@@ -304,7 +304,7 @@
     "defaultBranch": "develop",
     "parentRepo": "alibaba/nacos",
     "parentStars": 32791,
-    "parentForks": 13271,
+    "parentForks": 13270,
     "isPrivate": false
   }
 ]

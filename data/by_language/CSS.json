@@ -18,7 +18,7 @@
     "defaultBranch": "main",
     "parentRepo": "AnswerDotAI/fasthtml-example",
     "parentStars": 835,
-    "parentForks": 127,
+    "parentForks": 128,
     "isPrivate": false
   },
   {
@@ -39,8 +39,8 @@
     "openIssues": 0,
     "defaultBranch": "develop",
     "parentRepo": "learningequality/kolibri",
-    "parentStars": 1033,
-    "parentForks": 945,
+    "parentStars": 1035,
+    "parentForks": 946,
     "isPrivate": false
   },
   {
@@ -62,7 +62,7 @@
     "defaultBranch": "master",
     "parentRepo": "thewhiteh4t/seeker",
     "parentStars": 9205,
-    "parentForks": 2142,
+    "parentForks": 2143,
     "isPrivate": false
   },
   {
@@ -83,7 +83,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "uvdesk/community-skeleton",
-    "parentStars": 18277,
+    "parentStars": 18276,
     "parentForks": 558,
     "isPrivate": false
   },
@@ -105,8 +105,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "animate-css/animate.css",
-    "parentStars": 82639,
-    "parentForks": 16056,
+    "parentStars": 82638,
+    "parentForks": 16055,
     "isPrivate": false
   },
   {
@@ -127,8 +127,30 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "cocktailpeanut/dalai",
-    "parentStars": 12965,
+    "parentStars": 12964,
     "parentForks": 1347,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/AdminLTE",
+    "name": "AdminLTE",
+    "description": "AdminLTE - Free admin dashboard template based on Bootstrap 5",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "CSS",
+    "pushedAt": "2026-04-04T06:19:00Z",
+    "updatedAt": "2026-04-05T01:14:30Z",
+    "createdAt": "2026-04-05T01:14:30Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "master",
+    "parentRepo": "ColorlibHQ/AdminLTE",
+    "parentStars": 45333,
+    "parentForks": 18257,
     "isPrivate": false
   }
 ]
