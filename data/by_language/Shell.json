@@ -39,8 +39,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "FlorianBruniaux/claude-code-ultimate-guide",
-    "parentStars": 2913,
-    "parentForks": 419,
+    "parentStars": 2951,
+    "parentForks": 422,
     "isPrivate": false
   },
   {
@@ -61,8 +61,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "TinyAGI/tinyagi",
-    "parentStars": 3469,
-    "parentForks": 494,
+    "parentStars": 3478,
+    "parentForks": 495,
     "isPrivate": false
   },
   {
@@ -83,8 +83,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "msitarzewski/agency-agents",
-    "parentStars": 71323,
-    "parentForks": 11013,
+    "parentStars": 72346,
+    "parentForks": 11234,
     "isPrivate": false
   },
   {
@@ -105,8 +105,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "obra/superpowers",
-    "parentStars": 135390,
-    "parentForks": 11336,
+    "parentStars": 136519,
+    "parentForks": 11490,
     "isPrivate": false
   },
   {
@@ -127,8 +127,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "VoltAgent/awesome-claude-code-subagents",
-    "parentStars": 16261,
-    "parentForks": 1836,
+    "parentStars": 16353,
+    "parentForks": 1849,
     "isPrivate": false
   },
   {
@@ -149,8 +149,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "anthropics/claude-code",
-    "parentStars": 108944,
-    "parentForks": 17994,
+    "parentStars": 109503,
+    "parentForks": 18167,
     "isPrivate": false
   },
   {
@@ -171,8 +171,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "anthropics/claude-agent-sdk-typescript",
-    "parentStars": 1234,
-    "parentForks": 135,
+    "parentStars": 1239,
+    "parentForks": 137,
     "isPrivate": false
   },
   {
@@ -215,8 +215,30 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "automazeio/ccpm",
-    "parentStars": 7887,
+    "parentStars": 7894,
     "parentForks": 798,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/claude-octopus",
+    "name": "claude-octopus",
+    "description": "Put up to 8 AI models on every coding task \u2014 blind spots surface before you ship. Claude Code plugin.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2026-04-04T19:16:55Z",
+    "updatedAt": "2026-04-05T08:19:12Z",
+    "createdAt": "2026-04-05T08:19:12Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "nyldn/claude-octopus",
+    "parentStars": 2409,
+    "parentForks": 211,
     "isPrivate": false
   }
 ]
