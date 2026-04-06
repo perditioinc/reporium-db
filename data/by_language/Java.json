@@ -17,8 +17,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "GoogleCloudPlatform/bank-of-anthos",
-    "parentStars": 1307,
-    "parentForks": 793,
+    "parentStars": 1308,
+    "parentForks": 794,
     "isPrivate": false
   },
   {
@@ -39,7 +39,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "TheAlgorithms/Java",
-    "parentStars": 65316,
+    "parentStars": 65323,
     "parentForks": 21044,
     "isPrivate": false
   },
@@ -61,7 +61,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "google/guava",
-    "parentStars": 51510,
+    "parentStars": 51512,
     "parentForks": 11154,
     "isPrivate": false
   },
@@ -83,7 +83,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google/adk-java",
-    "parentStars": 1446,
+    "parentStars": 1447,
     "parentForks": 313,
     "isPrivate": false
   },
@@ -105,8 +105,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "opendataloader-project/opendataloader-pdf",
-    "parentStars": 11111,
-    "parentForks": 837,
+    "parentStars": 11203,
+    "parentForks": 848,
     "isPrivate": false
   },
   {
@@ -127,7 +127,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "vespa-engine/vespa",
-    "parentStars": 6854,
+    "parentStars": 6857,
     "parentForks": 706,
     "isPrivate": false
   },
@@ -149,8 +149,8 @@
     "openIssues": 0,
     "defaultBranch": "devel",
     "parentRepo": "dbeaver/dbeaver",
-    "parentStars": 49392,
-    "parentForks": 4099,
+    "parentStars": 49407,
+    "parentForks": 4101,
     "isPrivate": false
   },
   {
@@ -171,8 +171,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "jeecgboot/JeecgBoot",
-    "parentStars": 45729,
-    "parentForks": 15876,
+    "parentStars": 45737,
+    "parentForks": 15878,
     "isPrivate": false
   },
   {
@@ -193,8 +193,8 @@
     "openIssues": 0,
     "defaultBranch": "release/5.26.0",
     "parentRepo": "neo4j/neo4j",
-    "parentStars": 16256,
-    "parentForks": 2584,
+    "parentStars": 16260,
+    "parentForks": 2585,
     "isPrivate": false
   },
   {
@@ -215,8 +215,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "CodePhiliaX/Chat2DB",
-    "parentStars": 25342,
-    "parentForks": 2773,
+    "parentStars": 25361,
+    "parentForks": 2772,
     "isPrivate": false
   },
   {
@@ -237,7 +237,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "apache/doris",
-    "parentStars": 15176,
+    "parentStars": 15179,
     "parentForks": 3751,
     "isPrivate": false
   },
@@ -259,8 +259,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "iflytek/astron-agent",
-    "parentStars": 10880,
-    "parentForks": 1137,
+    "parentStars": 10935,
+    "parentForks": 1138,
     "isPrivate": false
   },
   {
@@ -282,7 +282,7 @@
     "defaultBranch": "master",
     "parentRepo": "alibaba/arthas",
     "parentStars": 37215,
-    "parentForks": 7638,
+    "parentForks": 7636,
     "isPrivate": false
   },
   {
@@ -303,8 +303,52 @@
     "openIssues": 0,
     "defaultBranch": "develop",
     "parentRepo": "alibaba/nacos",
-    "parentStars": 32791,
-    "parentForks": 13270,
+    "parentStars": 32796,
+    "parentForks": 13269,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/skywalking",
+    "name": "skywalking",
+    "description": "APM, Application Performance Monitoring System",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Java",
+    "pushedAt": "2026-04-05T03:41:06Z",
+    "updatedAt": "2026-04-06T03:10:51Z",
+    "createdAt": "2026-04-06T03:10:51Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Apache License 2.0",
+    "openIssues": 0,
+    "defaultBranch": "master",
+    "parentRepo": "apache/skywalking",
+    "parentStars": 24767,
+    "parentForks": 6641,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/zipkin",
+    "name": "zipkin",
+    "description": "Zipkin is a distributed tracing system",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Java",
+    "pushedAt": "2026-03-25T19:20:40Z",
+    "updatedAt": "2026-04-06T03:11:52Z",
+    "createdAt": "2026-04-06T03:11:52Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Apache License 2.0",
+    "openIssues": 0,
+    "defaultBranch": "master",
+    "parentRepo": "openzipkin/zipkin",
+    "parentStars": 17421,
+    "parentForks": 3105,
     "isPrivate": false
   }
 ]

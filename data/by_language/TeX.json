@@ -42,5 +42,27 @@
     "parentStars": 1610,
     "parentForks": 504,
     "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/Awesome-RL-for-LRMs",
+    "name": "Awesome-RL-for-LRMs",
+    "description": "A Survey of Reinforcement Learning for Large Reasoning Models",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "TeX",
+    "pushedAt": "2025-11-09T07:33:16Z",
+    "updatedAt": "2026-04-06T03:08:21Z",
+    "createdAt": "2026-04-06T03:08:21Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "TsinghuaC3I/Awesome-RL-for-LRMs",
+    "parentStars": 2416,
+    "parentForks": 129,
+    "isPrivate": false
   }
 ]
