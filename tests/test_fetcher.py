@@ -124,6 +124,45 @@ async def test_fetch_retries_502():
 
 
 @respx.mock
+async def test_fetch_retries_secondary_rate_limit_403():
+    """Retries on GitHub secondary-rate-limit 403s and eventually succeeds."""
+    route = respx.post(GRAPHQL_URL)
+    route.side_effect = [
+        httpx.Response(
+            403,
+            headers={"Retry-After": "3"},
+            text="You have exceeded a secondary rate limit. Please wait a few minutes before you try again.",
+        ),
+        httpx.Response(200, json=_page([_node("retry-403")], False)),
+    ]
+
+    with patch("asyncio.sleep") as mock_sleep:
+        repos, meta = await fetch_all_repos(TEST_CONFIG)
+
+    assert len(repos) == 1
+    assert repos[0].name == "retry-403"
+    mock_sleep.assert_called_with(3.0)
+
+
+@respx.mock
+async def test_fetch_does_not_retry_non_rate_limit_403():
+    """Fails fast on permanent 403s that do not signal throttling."""
+    respx.post(GRAPHQL_URL).mock(
+        return_value=httpx.Response(403, text="Resource not accessible by integration")
+    )
+
+    with patch("asyncio.sleep") as mock_sleep:
+        try:
+            await fetch_all_repos(TEST_CONFIG)
+        except httpx.HTTPStatusError as exc:
+            assert exc.response.status_code == 403
+        else:
+            raise AssertionError("Expected HTTPStatusError for non-retryable 403")
+
+    mock_sleep.assert_not_called()
+
+
+@respx.mock
 async def test_fetch_checkpoint_resume(tmp_path):
     """Resumes from a valid checkpoint file."""
     ckpt = tmp_path / "checkpoints" / "current_run.json"
