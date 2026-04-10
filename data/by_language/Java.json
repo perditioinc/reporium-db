@@ -17,8 +17,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "GoogleCloudPlatform/bank-of-anthos",
-    "parentStars": 1308,
-    "parentForks": 794,
+    "parentStars": 1311,
+    "parentForks": 795,
     "isPrivate": false
   },
   {
@@ -39,8 +39,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "TheAlgorithms/Java",
-    "parentStars": 65323,
-    "parentForks": 21044,
+    "parentStars": 65350,
+    "parentForks": 21059,
     "isPrivate": false
   },
   {
@@ -61,8 +61,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "google/guava",
-    "parentStars": 51512,
-    "parentForks": 11154,
+    "parentStars": 51513,
+    "parentForks": 11156,
     "isPrivate": false
   },
   {
@@ -83,8 +83,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google/adk-java",
-    "parentStars": 1447,
-    "parentForks": 313,
+    "parentStars": 1458,
+    "parentForks": 319,
     "isPrivate": false
   },
   {
@@ -105,8 +105,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "opendataloader-project/opendataloader-pdf",
-    "parentStars": 11203,
-    "parentForks": 848,
+    "parentStars": 14154,
+    "parentForks": 1194,
     "isPrivate": false
   },
   {
@@ -127,8 +127,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "vespa-engine/vespa",
-    "parentStars": 6857,
-    "parentForks": 706,
+    "parentStars": 6869,
+    "parentForks": 705,
     "isPrivate": false
   },
   {
@@ -149,8 +149,8 @@
     "openIssues": 0,
     "defaultBranch": "devel",
     "parentRepo": "dbeaver/dbeaver",
-    "parentStars": 49407,
-    "parentForks": 4101,
+    "parentStars": 49507,
+    "parentForks": 4109,
     "isPrivate": false
   },
   {
@@ -171,8 +171,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "jeecgboot/JeecgBoot",
-    "parentStars": 45737,
-    "parentForks": 15878,
+    "parentStars": 45796,
+    "parentForks": 15892,
     "isPrivate": false
   },
   {
@@ -193,7 +193,7 @@
     "openIssues": 0,
     "defaultBranch": "release/5.26.0",
     "parentRepo": "neo4j/neo4j",
-    "parentStars": 16260,
+    "parentStars": 16284,
     "parentForks": 2585,
     "isPrivate": false
   },
@@ -215,8 +215,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "CodePhiliaX/Chat2DB",
-    "parentStars": 25361,
-    "parentForks": 2772,
+    "parentStars": 25397,
+    "parentForks": 2777,
     "isPrivate": false
   },
   {
@@ -237,8 +237,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "apache/doris",
-    "parentStars": 15179,
-    "parentForks": 3751,
+    "parentStars": 15199,
+    "parentForks": 3752,
     "isPrivate": false
   },
   {
@@ -259,8 +259,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "iflytek/astron-agent",
-    "parentStars": 10935,
-    "parentForks": 1138,
+    "parentStars": 10379,
+    "parentForks": 1055,
     "isPrivate": false
   },
   {
@@ -281,8 +281,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "alibaba/arthas",
-    "parentStars": 37215,
-    "parentForks": 7636,
+    "parentStars": 37231,
+    "parentForks": 7638,
     "isPrivate": false
   },
   {
@@ -303,8 +303,8 @@
     "openIssues": 0,
     "defaultBranch": "develop",
     "parentRepo": "alibaba/nacos",
-    "parentStars": 32796,
-    "parentForks": 13269,
+    "parentStars": 32817,
+    "parentForks": 13274,
     "isPrivate": false
   },
   {
@@ -325,7 +325,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "apache/skywalking",
-    "parentStars": 24767,
+    "parentStars": 24769,
     "parentForks": 6641,
     "isPrivate": false
   },
@@ -347,8 +347,74 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "openzipkin/zipkin",
-    "parentStars": 17421,
-    "parentForks": 3105,
+    "parentStars": 17422,
+    "parentForks": 3106,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/Telegram",
+    "name": "Telegram",
+    "description": "Telegram for Android source",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Java",
+    "pushedAt": "2026-04-06T21:12:45Z",
+    "updatedAt": "2026-04-07T00:16:09Z",
+    "createdAt": "2026-04-07T00:16:09Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "GNU General Public License v2.0",
+    "openIssues": 0,
+    "defaultBranch": "master",
+    "parentRepo": "DrKLO/Telegram",
+    "parentStars": 28902,
+    "parentForks": 9439,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/awesome-system-design-resources",
+    "name": "awesome-system-design-resources",
+    "description": "Learn System Design concepts and prepare for interviews using free resources.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Java",
+    "pushedAt": "2026-02-16T18:32:29Z",
+    "updatedAt": "2026-04-07T00:16:19Z",
+    "createdAt": "2026-04-07T00:16:19Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "GNU General Public License v3.0",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "ashishps1/awesome-system-design-resources",
+    "parentStars": 36103,
+    "parentForks": 7857,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/kestra",
+    "name": "kestra",
+    "description": "Event Driven Orchestration & Scheduling Platform for Mission Critical Applications",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Java",
+    "pushedAt": "2026-04-09T05:33:27Z",
+    "updatedAt": "2026-04-09T05:52:52Z",
+    "createdAt": "2026-04-09T05:52:52Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Apache License 2.0",
+    "openIssues": 0,
+    "defaultBranch": "develop",
+    "parentRepo": "kestra-io/kestra",
+    "parentStars": 26680,
+    "parentForks": 2548,
     "isPrivate": false
   }
 ]

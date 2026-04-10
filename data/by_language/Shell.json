@@ -17,7 +17,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "vmayoral/ros-robotics-companies",
-    "parentStars": 1797,
+    "parentStars": 1798,
     "parentForks": 229,
     "isPrivate": false
   },
@@ -39,8 +39,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "FlorianBruniaux/claude-code-ultimate-guide",
-    "parentStars": 2951,
-    "parentForks": 422,
+    "parentStars": 3125,
+    "parentForks": 435,
     "isPrivate": false
   },
   {
@@ -61,8 +61,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "TinyAGI/tinyagi",
-    "parentStars": 3478,
-    "parentForks": 495,
+    "parentStars": 3495,
+    "parentForks": 498,
     "isPrivate": false
   },
   {
@@ -83,8 +83,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "msitarzewski/agency-agents",
-    "parentStars": 72346,
-    "parentForks": 11234,
+    "parentStars": 77269,
+    "parentForks": 12215,
     "isPrivate": false
   },
   {
@@ -105,8 +105,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "obra/superpowers",
-    "parentStars": 136519,
-    "parentForks": 11490,
+    "parentStars": 144335,
+    "parentForks": 12350,
     "isPrivate": false
   },
   {
@@ -127,8 +127,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "VoltAgent/awesome-claude-code-subagents",
-    "parentStars": 16353,
-    "parentForks": 1849,
+    "parentStars": 16842,
+    "parentForks": 1919,
     "isPrivate": false
   },
   {
@@ -149,8 +149,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "anthropics/claude-code",
-    "parentStars": 109503,
-    "parentForks": 18167,
+    "parentStars": 111917,
+    "parentForks": 18679,
     "isPrivate": false
   },
   {
@@ -171,8 +171,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "anthropics/claude-agent-sdk-typescript",
-    "parentStars": 1239,
-    "parentForks": 137,
+    "parentStars": 1260,
+    "parentForks": 140,
     "isPrivate": false
   },
   {
@@ -193,7 +193,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "codota/TabNine",
-    "parentStars": 10800,
+    "parentStars": 10801,
     "parentForks": 537,
     "isPrivate": false
   },
@@ -215,8 +215,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "automazeio/ccpm",
-    "parentStars": 7894,
-    "parentForks": 798,
+    "parentStars": 7930,
+    "parentForks": 801,
     "isPrivate": false
   },
   {
@@ -237,8 +237,74 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "nyldn/claude-octopus",
-    "parentStars": 2409,
-    "parentForks": 211,
+    "parentStars": 2493,
+    "parentForks": 220,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/ralph-claude-code",
+    "name": "ralph-claude-code",
+    "description": "Autonomous AI development loop for Claude Code with intelligent exit detection",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2026-04-04T21:16:20Z",
+    "updatedAt": "2026-04-07T00:23:08Z",
+    "createdAt": "2026-04-07T00:23:08Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "frankbria/ralph-claude-code",
+    "parentStars": 8571,
+    "parentForks": 641,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/Claude-Code-Game-Studios",
+    "name": "Claude-Code-Game-Studios",
+    "description": "Turn Claude Code into a full game dev studio \u2014 48 AI agents, 36 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2026-03-09T01:52:27Z",
+    "updatedAt": "2026-04-07T00:25:00Z",
+    "createdAt": "2026-04-07T00:25:00Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "Donchitos/Claude-Code-Game-Studios",
+    "parentStars": 8522,
+    "parentForks": 1309,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/bonsai-demo",
+    "name": "bonsai-demo",
+    "description": "Bonsai Demo",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2026-04-07T00:08:54Z",
+    "updatedAt": "2026-04-07T16:57:31Z",
+    "createdAt": "2026-04-07T16:57:30Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Apache License 2.0",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "PrismML-Eng/Bonsai-demo",
+    "parentStars": 453,
+    "parentForks": 51,
     "isPrivate": false
   }
 ]
