@@ -1,160 +1,364 @@
 {
-  "generated_at": "2026-04-06T07:01:53.988823+00:00",
+  "generated_at": "2026-04-10T06:59:47.401506+00:00",
   "repos": [
     {
-      "name_with_owner": "perditioinc/AlphaZero_Gomoku",
+      "name_with_owner": "perditioinc/Agent-Reach",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/Awesome-RL-for-LRMs",
+      "name_with_owner": "perditioinc/Archon",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/Awesome-System2-Reasoning-LLM",
+      "name_with_owner": "perditioinc/CLIProxyAPI",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/DeepScientist",
+      "name_with_owner": "perditioinc/Claude-Code-Game-Studios",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/EasyR1",
+      "name_with_owner": "perditioinc/Claude-Code-Usage-Monitor",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/LiteRT-LM",
+      "name_with_owner": "perditioinc/CodexBar",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/OpenHarness",
+      "name_with_owner": "perditioinc/DeepTutor",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/PRIME",
+      "name_with_owner": "perditioinc/InstaPy",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/Pake",
+      "name_with_owner": "perditioinc/Kronos",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/Papers-in-100-Lines-of-Code",
+      "name_with_owner": "perditioinc/LLPlayer",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/VictoriaMetrics",
+      "name_with_owner": "perditioinc/Peekaboo",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/awesome-llm-human-preference-datasets",
+      "name_with_owner": "perditioinc/RedditVideoMakerBot",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/byterover-cli",
+      "name_with_owner": "perditioinc/StabilityMatrix",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/chatbox",
+      "name_with_owner": "perditioinc/Tasmota",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/cilium",
+      "name_with_owner": "perditioinc/Telegram",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/claude-octopus",
+      "name_with_owner": "perditioinc/Telegram-iOS",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/effect",
+      "name_with_owner": "perditioinc/Understand-Anything",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/fff.nvim",
+      "name_with_owner": "perditioinc/VoiceInk",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/gallery",
+      "name_with_owner": "perditioinc/YoutubeDownloader",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/jaeger",
+      "name_with_owner": "perditioinc/agent-skills_",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/kibana",
+      "name_with_owner": "perditioinc/ai-website-cloner-template",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/kubeshark",
+      "name_with_owner": "perditioinc/alacritty",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/kubesphere",
+      "name_with_owner": "perditioinc/andrej-karpathy-skills",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/mcl_3dl",
+      "name_with_owner": "perditioinc/awesome-agent-skills",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/nightingale",
+      "name_with_owner": "perditioinc/awesome-claude-code-toolkit",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/noreward-rl",
+      "name_with_owner": "perditioinc/awesome-claude-plugins",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/openobserve",
+      "name_with_owner": "perditioinc/awesome-claude-skills_",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/pyroscope",
+      "name_with_owner": "perditioinc/awesome-system-design-resources",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/qmd",
+      "name_with_owner": "perditioinc/beads",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/rko_lio",
+      "name_with_owner": "perditioinc/bonsai-demo",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/rl",
+      "name_with_owner": "perditioinc/bruno",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/rl-baselines3-zoo",
+      "name_with_owner": "perditioinc/career-ops",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/signoz",
+      "name_with_owner": "perditioinc/ccstatusline",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/skillgrade",
+      "name_with_owner": "perditioinc/cherry-studio",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/skywalking",
+      "name_with_owner": "perditioinc/claude-code-system-prompts",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/thanos",
+      "name_with_owner": "perditioinc/claude-code-templates",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/tradingview-mcp",
+      "name_with_owner": "perditioinc/claude-code-tips",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/understand-r1-zero",
+      "name_with_owner": "perditioinc/claude-island",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/zipkin",
+      "name_with_owner": "perditioinc/claude-relay-service",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/claude-squad",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/claude-usage",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/claudecodeui",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/cli_",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/cmux",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/code",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/codecompanion.nvim",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/context-mode",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/crawlee",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/deepteam",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/fastapi",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/fluxer",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/graphify",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/happy",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/harbor",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/huginn",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/iina",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/kestra",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/maxun",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/mermaid",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/mlx-swift-lm",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/mpv",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/multica",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/nanoclaw",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/nest",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/obs-studio",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/opcode",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/opencap-monocular",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/opus",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/osaurus",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/pathway",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/personalized-podcast",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/puppeteer",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/ralph-claude-code",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/react",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/rtk",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/rust_",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/rustdesk",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/shannon",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/storybook",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/sub2api",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/swift",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/tModLoader",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/taipy",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/thefuck",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/ui-ux-pro-max-skill",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/union",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/vibe-coding-cn",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/vibeproxy",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/xonsh",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/zlib",
       "reason": "new_repo"
     }
   ]

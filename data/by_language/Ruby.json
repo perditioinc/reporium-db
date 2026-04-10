@@ -17,8 +17,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "tobi/try",
-    "parentStars": 3554,
-    "parentForks": 137,
+    "parentStars": 3567,
+    "parentForks": 135,
     "isPrivate": false
   },
   {
@@ -39,8 +39,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "spree/spree",
-    "parentStars": 15319,
-    "parentForks": 5243,
+    "parentStars": 15326,
+    "parentForks": 5242,
     "isPrivate": false
   },
   {
@@ -61,8 +61,30 @@
     "openIssues": 0,
     "defaultBranch": "dev",
     "parentRepo": "opf/openproject",
-    "parentStars": 14763,
-    "parentForks": 3175,
+    "parentStars": 14784,
+    "parentForks": 3182,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/huginn",
+    "name": "huginn",
+    "description": "Create agents that monitor and act on your behalf.  Your agents are standing by!",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Ruby",
+    "pushedAt": "2026-04-08T16:39:26Z",
+    "updatedAt": "2026-04-09T05:52:02Z",
+    "createdAt": "2026-04-09T05:52:02Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "master",
+    "parentRepo": "huginn/huginn",
+    "parentStars": 49077,
+    "parentForks": 4245,
     "isPrivate": false
   }
 ]
