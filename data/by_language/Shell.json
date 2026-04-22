@@ -17,8 +17,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "vmayoral/ros-robotics-companies",
-    "parentStars": 1798,
-    "parentForks": 229,
+    "parentStars": 1849,
+    "parentForks": 233,
     "isPrivate": false
   },
   {
@@ -39,8 +39,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "FlorianBruniaux/claude-code-ultimate-guide",
-    "parentStars": 3125,
-    "parentForks": 435,
+    "parentStars": 3797,
+    "parentForks": 517,
     "isPrivate": false
   },
   {
@@ -61,8 +61,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "TinyAGI/tinyagi",
-    "parentStars": 3495,
-    "parentForks": 498,
+    "parentStars": 3527,
+    "parentForks": 501,
     "isPrivate": false
   },
   {
@@ -83,8 +83,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "msitarzewski/agency-agents",
-    "parentStars": 77269,
-    "parentForks": 12215,
+    "parentStars": 84774,
+    "parentForks": 13530,
     "isPrivate": false
   },
   {
@@ -105,8 +105,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "obra/superpowers",
-    "parentStars": 144335,
-    "parentForks": 12350,
+    "parentStars": 163000,
+    "parentForks": 14234,
     "isPrivate": false
   },
   {
@@ -127,8 +127,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "VoltAgent/awesome-claude-code-subagents",
-    "parentStars": 16842,
-    "parentForks": 1919,
+    "parentStars": 17910,
+    "parentForks": 2040,
     "isPrivate": false
   },
   {
@@ -149,8 +149,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "anthropics/claude-code",
-    "parentStars": 111917,
-    "parentForks": 18679,
+    "parentStars": 116610,
+    "parentForks": 19412,
     "isPrivate": false
   },
   {
@@ -171,8 +171,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "anthropics/claude-agent-sdk-typescript",
-    "parentStars": 1260,
-    "parentForks": 140,
+    "parentStars": 1304,
+    "parentForks": 145,
     "isPrivate": false
   },
   {
@@ -193,8 +193,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "codota/TabNine",
-    "parentStars": 10801,
-    "parentForks": 537,
+    "parentStars": 10802,
+    "parentForks": 538,
     "isPrivate": false
   },
   {
@@ -215,8 +215,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "automazeio/ccpm",
-    "parentStars": 7930,
-    "parentForks": 801,
+    "parentStars": 8006,
+    "parentForks": 810,
     "isPrivate": false
   },
   {
@@ -237,8 +237,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "nyldn/claude-octopus",
-    "parentStars": 2493,
-    "parentForks": 220,
+    "parentStars": 2777,
+    "parentForks": 264,
     "isPrivate": false
   },
   {
@@ -259,8 +259,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "frankbria/ralph-claude-code",
-    "parentStars": 8571,
-    "parentForks": 641,
+    "parentStars": 8773,
+    "parentForks": 657,
     "isPrivate": false
   },
   {
@@ -281,8 +281,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Donchitos/Claude-Code-Game-Studios",
-    "parentStars": 8522,
-    "parentForks": 1309,
+    "parentStars": 14977,
+    "parentForks": 2125,
     "isPrivate": false
   },
   {
@@ -303,8 +303,30 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "PrismML-Eng/Bonsai-demo",
-    "parentStars": 453,
-    "parentForks": 51,
+    "parentStars": 670,
+    "parentForks": 74,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/pi-hole",
+    "name": "pi-hole",
+    "description": "A black hole for Internet advertisements",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2026-04-21T01:02:52Z",
+    "updatedAt": "2026-04-21T07:20:19Z",
+    "createdAt": "2026-04-21T07:20:18Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Other",
+    "openIssues": 0,
+    "defaultBranch": "master",
+    "parentRepo": "pi-hole/pi-hole",
+    "parentStars": 57565,
+    "parentForks": 3063,
     "isPrivate": false
   }
 ]
