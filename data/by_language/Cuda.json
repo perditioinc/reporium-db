@@ -17,8 +17,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "Infatoshi/cuda-course",
-    "parentStars": 3499,
-    "parentForks": 618,
+    "parentStars": 3539,
+    "parentForks": 625,
     "isPrivate": false
   },
   {
@@ -61,8 +61,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/cuopt",
-    "parentStars": 808,
-    "parentForks": 158,
+    "parentStars": 824,
+    "parentForks": 161,
     "isPrivate": false
   },
   {
@@ -83,8 +83,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "NVlabs/instant-ngp",
-    "parentStars": 17355,
-    "parentForks": 2058,
+    "parentStars": 17362,
+    "parentForks": 2056,
     "isPrivate": false
   },
   {
@@ -105,8 +105,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "xlite-dev/LeetCUDA",
-    "parentStars": 10225,
-    "parentForks": 1037,
+    "parentStars": 10697,
+    "parentForks": 1081,
     "isPrivate": false
   },
   {
@@ -127,8 +127,30 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "karpathy/llm.c",
-    "parentStars": 29485,
-    "parentForks": 3506,
+    "parentStars": 29649,
+    "parentForks": 3544,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/DeepGEMM",
+    "name": "DeepGEMM",
+    "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Cuda",
+    "pushedAt": "2026-04-17T01:45:14Z",
+    "updatedAt": "2026-04-21T07:19:45Z",
+    "createdAt": "2026-04-21T07:19:45Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "deepseek-ai/DeepGEMM",
+    "parentStars": 6920,
+    "parentForks": 910,
     "isPrivate": false
   }
 ]
