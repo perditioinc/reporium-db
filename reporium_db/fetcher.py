@@ -6,6 +6,7 @@ import asyncio
 import json
 import logging
 import os
+import random
 import time
 from datetime import datetime, timezone
 from pathlib import Path
@@ -21,6 +22,16 @@ logger = logging.getLogger(__name__)
 GRAPHQL_URL = "https://api.github.com/graphql"
 CHECKPOINT_FILE = Path("checkpoints/current_run.json")
 _RATE_LIMIT_TOTAL = 5000  # GitHub authenticated GraphQL points/hour
+
+# GraphQL 502/503/504 from GitHub are common transient failures — especially
+# during incidents or peak traffic. 3 attempts (old default) covers occasional
+# blips but not a multi-minute degradation. 6 attempts with jittered
+# exponential backoff buys us ~5 minutes of resilience per request before
+# giving up, at which point the checkpoint-resume path kicks in on the next
+# run. See 2026-04-22 incident in reporium-db Nightly Sync (06:57 UTC GraphQL
+# 502 with only 3 attempts → hard fail).
+_MAX_RETRIES = 6
+_RETRYABLE_STATUS = (429, 500, 502, 503, 504)
 
 QUERY = """
 query($login: String!, $first: Int!, $after: String) {
@@ -127,11 +138,19 @@ def _is_retryable_403(resp: httpx.Response) -> bool:
 
 
 def _retry_delay_seconds(resp: httpx.Response, attempt: int) -> float:
-    """Honor Retry-After when present, otherwise use bounded exponential backoff."""
+    """Honor Retry-After when present, otherwise use bounded exponential backoff.
+
+    Adds 0–1s of jitter to the exponential path to avoid thundering-herd
+    synchronisation when multiple retries recover from a brief upstream
+    incident at the same time. Retry-After path is deterministic (no jitter)
+    because the server has told us exactly how long to wait.
+    """
     retry_after = _parse_retry_after(resp.headers.get("Retry-After"))
     if retry_after is not None:
         return min(retry_after, 300.0)
-    return min(2**attempt + 0.1 * attempt, 300.0)
+    base = 2**attempt + 0.1 * attempt
+    jitter = random.uniform(0.0, 1.0)
+    return min(base + jitter, 300.0)
 
 
 async def _graphql_request(
@@ -150,15 +169,21 @@ async def _graphql_request(
             timeout=30,
         )
     except httpx.RequestError as exc:
-        if attempt >= 3:
+        if attempt >= _MAX_RETRIES:
             raise
-        wait = 2**attempt + 0.1 * attempt
-        logger.warning("Request error (attempt %d): %s — retry in %.1fs", attempt + 1, exc, wait)
+        wait = min(2**attempt + 0.1 * attempt + random.uniform(0.0, 1.0), 300.0)
+        logger.warning(
+            "Request error (attempt %d/%d): %s — retry in %.1fs",
+            attempt + 1,
+            _MAX_RETRIES,
+            exc,
+            wait,
+        )
         await asyncio.sleep(wait)
         return await _graphql_request(client, token, variables, attempt + 1)
 
-    if resp.status_code in (429, 502, 503) or _is_retryable_403(resp):
-        if attempt >= 3:
+    if resp.status_code in _RETRYABLE_STATUS or _is_retryable_403(resp):
+        if attempt >= _MAX_RETRIES:
             resp.raise_for_status()
         wait = _retry_delay_seconds(resp, attempt)
         logger.warning(
@@ -229,9 +254,6 @@ async def fetch_all_repos(config: Config) -> tuple[list[RepoMetadata], dict[str,
                     continue
                 repos.append(parsed)
 
-            if len(repos) % config.checkpoint_interval < 100:
-                _save_checkpoint(started_at, cursor, len(repos))
-
             logger.info(
                 "Fetched %d repos (api_calls=%d, rate_remaining=%d)",
                 len(repos),
@@ -242,6 +264,14 @@ async def fetch_all_repos(config: Config) -> tuple[list[RepoMetadata], dict[str,
             if not page["pageInfo"]["hasNextPage"]:
                 break
             cursor = page["pageInfo"]["endCursor"]
+
+            # Save the checkpoint AFTER advancing the cursor so that on resume
+            # we fetch the NEXT page, not re-fetch this one (which would
+            # duplicate repos). Checkpoint every page — the file write is a
+            # trivial atomic rename, much cheaper than re-running a partial
+            # fetch against GitHub on an exhausted retry. Previous code saved
+            # with the old (pre-advance) cursor which double-counted on resume.
+            _save_checkpoint(started_at, cursor, len(repos))
 
     if CHECKPOINT_FILE.exists():
         CHECKPOINT_FILE.unlink()
