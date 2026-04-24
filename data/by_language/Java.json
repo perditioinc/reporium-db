@@ -17,7 +17,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "GoogleCloudPlatform/bank-of-anthos",
-    "parentStars": 1318,
+    "parentStars": 1319,
     "parentForks": 800,
     "isPrivate": false
   },
@@ -39,8 +39,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "TheAlgorithms/Java",
-    "parentStars": 65439,
-    "parentForks": 21074,
+    "parentStars": 65458,
+    "parentForks": 21079,
     "isPrivate": false
   },
   {
@@ -61,8 +61,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "google/guava",
-    "parentStars": 51493,
-    "parentForks": 11144,
+    "parentStars": 51494,
+    "parentForks": 11146,
     "isPrivate": false
   },
   {
@@ -83,8 +83,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google/adk-java",
-    "parentStars": 1498,
-    "parentForks": 329,
+    "parentStars": 1502,
+    "parentForks": 330,
     "isPrivate": false
   },
   {
@@ -105,8 +105,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "opendataloader-project/opendataloader-pdf",
-    "parentStars": 19058,
-    "parentForks": 1711,
+    "parentStars": 19166,
+    "parentForks": 1724,
     "isPrivate": false
   },
   {
@@ -127,7 +127,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "vespa-engine/vespa",
-    "parentStars": 6891,
+    "parentStars": 6892,
     "parentForks": 709,
     "isPrivate": false
   },
@@ -149,8 +149,8 @@
     "openIssues": 0,
     "defaultBranch": "devel",
     "parentRepo": "dbeaver/dbeaver",
-    "parentStars": 49704,
-    "parentForks": 4132,
+    "parentStars": 49725,
+    "parentForks": 4135,
     "isPrivate": false
   },
   {
@@ -171,8 +171,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "jeecgboot/JeecgBoot",
-    "parentStars": 45936,
-    "parentForks": 15937,
+    "parentStars": 45957,
+    "parentForks": 15943,
     "isPrivate": false
   },
   {
@@ -193,8 +193,8 @@
     "openIssues": 0,
     "defaultBranch": "release/5.26.0",
     "parentRepo": "neo4j/neo4j",
-    "parentStars": 16357,
-    "parentForks": 2595,
+    "parentStars": 16362,
+    "parentForks": 2596,
     "isPrivate": false
   },
   {
@@ -216,7 +216,7 @@
     "defaultBranch": "main",
     "parentRepo": "CodePhiliaX/Chat2DB",
     "parentStars": 25432,
-    "parentForks": 2789,
+    "parentForks": 2791,
     "isPrivate": false
   },
   {
@@ -237,8 +237,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "apache/doris",
-    "parentStars": 15257,
-    "parentForks": 3765,
+    "parentStars": 15258,
+    "parentForks": 3766,
     "isPrivate": false
   },
   {
@@ -259,7 +259,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "iflytek/astron-agent",
-    "parentStars": 8743,
+    "parentStars": 8753,
     "parentForks": 908,
     "isPrivate": false
   },
@@ -303,8 +303,8 @@
     "openIssues": 0,
     "defaultBranch": "develop",
     "parentRepo": "alibaba/nacos",
-    "parentStars": 32889,
-    "parentForks": 13274,
+    "parentStars": 32894,
+    "parentForks": 13273,
     "isPrivate": false
   },
   {
@@ -325,7 +325,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "apache/skywalking",
-    "parentStars": 24790,
+    "parentStars": 24787,
     "parentForks": 6645,
     "isPrivate": false
   },
@@ -347,7 +347,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "openzipkin/zipkin",
-    "parentStars": 17432,
+    "parentStars": 17430,
     "parentForks": 3103,
     "isPrivate": false
   },
@@ -369,8 +369,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "DrKLO/Telegram",
-    "parentStars": 28967,
-    "parentForks": 9467,
+    "parentStars": 28972,
+    "parentForks": 9476,
     "isPrivate": false
   },
   {
@@ -391,8 +391,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "ashishps1/awesome-system-design-resources",
-    "parentStars": 36663,
-    "parentForks": 7929,
+    "parentStars": 36699,
+    "parentForks": 7937,
     "isPrivate": false
   },
   {
@@ -413,8 +413,8 @@
     "openIssues": 0,
     "defaultBranch": "develop",
     "parentRepo": "kestra-io/kestra",
-    "parentStars": 26745,
-    "parentForks": 2558,
+    "parentStars": 26757,
+    "parentForks": 2559,
     "isPrivate": false
   }
 ]
