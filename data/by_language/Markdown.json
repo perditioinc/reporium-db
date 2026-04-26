@@ -17,8 +17,30 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "ellisonleao/magictools",
-    "parentStars": 16531,
+    "parentStars": 16537,
     "parentForks": 1176,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/build-your-own-x",
+    "name": "build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Markdown",
+    "pushedAt": "2026-02-21T09:34:54Z",
+    "updatedAt": "2026-04-25T10:20:45Z",
+    "createdAt": "2026-04-25T10:20:45Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "master",
+    "parentRepo": "codecrafters-io/build-your-own-x",
+    "parentStars": 496211,
+    "parentForks": 47027,
     "isPrivate": false
   }
 ]

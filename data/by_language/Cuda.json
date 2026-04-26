@@ -17,7 +17,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "Infatoshi/cuda-course",
-    "parentStars": 3542,
+    "parentStars": 3545,
     "parentForks": 626,
     "isPrivate": false
   },
@@ -61,8 +61,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/cuopt",
-    "parentStars": 833,
-    "parentForks": 163,
+    "parentStars": 836,
+    "parentForks": 164,
     "isPrivate": false
   },
   {
@@ -83,7 +83,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "NVlabs/instant-ngp",
-    "parentStars": 17366,
+    "parentStars": 17370,
     "parentForks": 2055,
     "isPrivate": false
   },
@@ -105,8 +105,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "xlite-dev/LeetCUDA",
-    "parentStars": 10759,
-    "parentForks": 1087,
+    "parentStars": 10772,
+    "parentForks": 1089,
     "isPrivate": false
   },
   {
@@ -127,8 +127,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "karpathy/llm.c",
-    "parentStars": 29683,
-    "parentForks": 3552,
+    "parentStars": 29702,
+    "parentForks": 3554,
     "isPrivate": false
   },
   {
@@ -149,8 +149,30 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "deepseek-ai/DeepGEMM",
-    "parentStars": 7004,
-    "parentForks": 930,
+    "parentStars": 7044,
+    "parentForks": 931,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/DeepEP",
+    "name": "DeepEP",
+    "description": "DeepEP: an efficient expert-parallel communication library",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Cuda",
+    "pushedAt": "2026-04-24T05:27:07Z",
+    "updatedAt": "2026-04-25T10:21:19Z",
+    "createdAt": "2026-04-25T10:21:19Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "deepseek-ai/DeepEP",
+    "parentStars": 9535,
+    "parentForks": 1198,
     "isPrivate": false
   }
 ]

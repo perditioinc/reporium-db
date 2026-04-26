@@ -1,19 +1,19 @@
 {
   "meta": {
-    "total": 1853,
-    "last_updated": "2026-04-25T06:24:19.080828+00:00",
+    "total": 1858,
+    "last_updated": "2026-04-26T07:02:49.748592+00:00",
     "version": "1.0.0"
   },
   "categories": {
     "tooling": 1
   },
   "languages": {
-    "Python": 781,
+    "Python": 782,
     "TypeScript": 269,
     "Jupyter Notebook": 146,
     "C++": 117,
-    "Go": 82,
-    "JavaScript": 81,
+    "Go": 83,
+    "JavaScript": 82,
     "Rust": 57,
     "C": 39,
     "C#": 29,
@@ -21,7 +21,7 @@
     "Java": 19,
     "Shell": 15,
     "Swift": 15,
-    "Cuda": 7,
+    "Cuda": 8,
     "CSS": 7,
     "MDX": 6,
     "PHP": 6,
@@ -30,13 +30,13 @@
     "Zig": 3,
     "Kotlin": 3,
     "Lua": 3,
+    "Markdown": 2,
     "Assembly": 2,
     "Svelte": 2,
     "Cython": 2,
     "Dart": 2,
     "Vue": 1,
     "Dockerfile": 1,
-    "Markdown": 1,
     "RobotFramework": 1,
     "Scala": 1,
     "ABAP": 1,
