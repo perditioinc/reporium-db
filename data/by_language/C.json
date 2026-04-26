@@ -17,8 +17,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "moonshine-ai/moonshine",
-    "parentStars": 7844,
-    "parentForks": 404,
+    "parentStars": 7857,
+    "parentForks": 405,
     "isPrivate": false
   },
   {
@@ -39,7 +39,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "google/XNNPACK",
-    "parentStars": 2324,
+    "parentStars": 2325,
     "parentForks": 485,
     "isPrivate": false
   },
@@ -61,8 +61,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "mozilla-ai/llamafile",
-    "parentStars": 24268,
-    "parentForks": 1330,
+    "parentStars": 24274,
+    "parentForks": 1333,
     "isPrivate": false
   },
   {
@@ -83,8 +83,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "ImageMagick/ImageMagick",
-    "parentStars": 16254,
-    "parentForks": 1583,
+    "parentStars": 16260,
+    "parentForks": 1582,
     "isPrivate": false
   },
   {
@@ -105,8 +105,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "systemd/systemd",
-    "parentStars": 16246,
-    "parentForks": 4460,
+    "parentStars": 16248,
+    "parentForks": 4461,
     "isPrivate": false
   },
   {
@@ -127,7 +127,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "netdata/netdata",
-    "parentStars": 78586,
+    "parentStars": 78604,
     "parentForks": 6421,
     "isPrivate": false
   },
@@ -149,7 +149,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "jqlang/jq",
-    "parentStars": 34557,
+    "parentStars": 34561,
     "parentForks": 1765,
     "isPrivate": false
   },
@@ -171,8 +171,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "ish-app/ish",
-    "parentStars": 19735,
-    "parentForks": 1345,
+    "parentStars": 19740,
+    "parentForks": 1344,
     "isPrivate": false
   },
   {
@@ -193,8 +193,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "git/git",
-    "parentStars": 60548,
-    "parentForks": 27837,
+    "parentStars": 60566,
+    "parentForks": 27845,
     "isPrivate": false
   },
   {
@@ -215,7 +215,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "termux/termux-x11",
-    "parentStars": 3951,
+    "parentStars": 3955,
     "parentForks": 540,
     "isPrivate": false
   },
@@ -237,7 +237,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Circuit-Digest/ESP-Drone",
-    "parentStars": 2042,
+    "parentStars": 2043,
     "parentForks": 337,
     "isPrivate": false
   },
@@ -259,8 +259,8 @@
     "openIssues": 0,
     "defaultBranch": "unstable",
     "parentRepo": "redis/redis",
-    "parentStars": 73996,
-    "parentForks": 24587,
+    "parentStars": 74008,
+    "parentForks": 24586,
     "isPrivate": false
   },
   {
@@ -281,7 +281,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "nginx/nginx",
-    "parentStars": 30059,
+    "parentStars": 30068,
     "parentForks": 7859,
     "isPrivate": false
   },
@@ -303,8 +303,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "tmux/tmux",
-    "parentStars": 44851,
-    "parentForks": 2588,
+    "parentStars": 44879,
+    "parentForks": 2589,
     "isPrivate": false
   },
   {
@@ -325,8 +325,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "RfidResearchGroup/proxmark3",
-    "parentStars": 5569,
-    "parentForks": 1317,
+    "parentStars": 5573,
+    "parentForks": 1318,
     "isPrivate": false
   },
   {
@@ -347,7 +347,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "TelegramMessenger/MTProxy",
-    "parentStars": 6721,
+    "parentStars": 6725,
     "parentForks": 1095,
     "isPrivate": false
   },
@@ -369,8 +369,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "karpathy/llama2.c",
-    "parentStars": 19440,
-    "parentForks": 2518,
+    "parentStars": 19446,
+    "parentForks": 2520,
     "isPrivate": false
   },
   {
@@ -391,7 +391,7 @@
     "openIssues": 0,
     "defaultBranch": "development",
     "parentRepo": "ahrm/sioyek",
-    "parentStars": 9434,
+    "parentStars": 9435,
     "parentForks": 333,
     "isPrivate": false
   },
@@ -413,7 +413,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "asg017/sqlite-vec",
-    "parentStars": 7489,
+    "parentStars": 7491,
     "parentForks": 306,
     "isPrivate": false
   },
@@ -435,7 +435,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "TheAlgorithms/C",
-    "parentStars": 21945,
+    "parentStars": 21953,
     "parentForks": 4735,
     "isPrivate": false
   },
@@ -479,7 +479,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/open-gpu-kernel-modules",
-    "parentStars": 16927,
+    "parentStars": 16931,
     "parentForks": 1669,
     "isPrivate": false
   },
@@ -501,7 +501,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "NVIDIA/cuda-samples",
-    "parentStars": 9113,
+    "parentStars": 9115,
     "parentForks": 2322,
     "isPrivate": false
   },
@@ -523,7 +523,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "arthenica/ffmpeg-kit",
-    "parentStars": 5812,
+    "parentStars": 5814,
     "parentForks": 2498,
     "isPrivate": false
   },
@@ -545,8 +545,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NawfalMotii79/PLFM_RADAR",
-    "parentStars": 18101,
-    "parentForks": 4318,
+    "parentStars": 18224,
+    "parentForks": 4351,
     "isPrivate": false
   },
   {
@@ -567,8 +567,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "betaflight/betaflight",
-    "parentStars": 10887,
-    "parentForks": 3729,
+    "parentStars": 10892,
+    "parentForks": 3730,
     "isPrivate": false
   },
   {
@@ -611,8 +611,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "fontforge/fontforge",
-    "parentStars": 7675,
-    "parentForks": 778,
+    "parentStars": 7676,
+    "parentForks": 777,
     "isPrivate": false
   },
   {
@@ -633,7 +633,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "LumaTeam/Luma3DS",
-    "parentStars": 6395,
+    "parentStars": 6398,
     "parentForks": 624,
     "isPrivate": false
   },
@@ -656,7 +656,7 @@
     "defaultBranch": "main",
     "parentRepo": "Snowflake-Labs/pg_lake",
     "parentStars": 1501,
-    "parentForks": 94,
+    "parentForks": 95,
     "isPrivate": false
   },
   {
@@ -677,8 +677,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "pgvector/pgvector",
-    "parentStars": 20984,
-    "parentForks": 1150,
+    "parentStars": 20995,
+    "parentForks": 1154,
     "isPrivate": false
   },
   {
@@ -699,7 +699,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "aubio/aubio",
-    "parentStars": 3690,
+    "parentStars": 3691,
     "parentForks": 414,
     "isPrivate": false
   },
@@ -743,8 +743,8 @@
     "openIssues": 0,
     "defaultBranch": "dev",
     "parentRepo": "fastfetch-cli/fastfetch",
-    "parentStars": 22211,
-    "parentForks": 749,
+    "parentStars": 22235,
+    "parentForks": 750,
     "isPrivate": false
   },
   {
@@ -765,8 +765,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "mpv-player/mpv",
-    "parentStars": 34948,
-    "parentForks": 3301,
+    "parentStars": 34966,
+    "parentForks": 3302,
     "isPrivate": false
   },
   {
@@ -787,8 +787,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "obsproject/obs-studio",
-    "parentStars": 71925,
-    "parentForks": 9184,
+    "parentStars": 71958,
+    "parentForks": 9188,
     "isPrivate": false
   },
   {
@@ -831,8 +831,8 @@
     "openIssues": 0,
     "defaultBranch": "develop",
     "parentRepo": "madler/zlib",
-    "parentStars": 6824,
-    "parentForks": 2746,
+    "parentStars": 6825,
+    "parentForks": 2747,
     "isPrivate": false
   },
   {
@@ -853,8 +853,8 @@
     "openIssues": 0,
     "defaultBranch": "development",
     "parentRepo": "arendst/Tasmota",
-    "parentStars": 24290,
-    "parentForks": 5081,
+    "parentStars": 24295,
+    "parentForks": 5080,
     "isPrivate": false
   }
 ]
