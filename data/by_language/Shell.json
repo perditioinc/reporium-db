@@ -39,7 +39,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "FlorianBruniaux/claude-code-ultimate-guide",
-    "parentStars": 4058,
+    "parentStars": 4081,
     "parentForks": 537,
     "isPrivate": false
   },
@@ -61,7 +61,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "TinyAGI/tinyagi",
-    "parentStars": 3542,
+    "parentStars": 3545,
     "parentForks": 503,
     "isPrivate": false
   },
@@ -83,8 +83,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "msitarzewski/agency-agents",
-    "parentStars": 89189,
-    "parentForks": 14433,
+    "parentStars": 89761,
+    "parentForks": 14576,
     "isPrivate": false
   },
   {
@@ -105,8 +105,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "obra/superpowers",
-    "parentStars": 173688,
-    "parentForks": 15323,
+    "parentStars": 174891,
+    "parentForks": 15431,
     "isPrivate": false
   },
   {
@@ -127,8 +127,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "VoltAgent/awesome-claude-code-subagents",
-    "parentStars": 18792,
-    "parentForks": 2152,
+    "parentStars": 18857,
+    "parentForks": 2169,
     "isPrivate": false
   },
   {
@@ -149,8 +149,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "anthropics/claude-code",
-    "parentStars": 119341,
-    "parentForks": 19798,
+    "parentStars": 119574,
+    "parentForks": 19832,
     "isPrivate": false
   },
   {
@@ -171,7 +171,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "anthropics/claude-agent-sdk-typescript",
-    "parentStars": 1356,
+    "parentStars": 1362,
     "parentForks": 153,
     "isPrivate": false
   },
@@ -237,7 +237,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "nyldn/claude-octopus",
-    "parentStars": 3141,
+    "parentStars": 3174,
     "parentForks": 284,
     "isPrivate": false
   },
@@ -259,8 +259,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "frankbria/ralph-claude-code",
-    "parentStars": 8936,
-    "parentForks": 668,
+    "parentStars": 8955,
+    "parentForks": 669,
     "isPrivate": false
   },
   {
@@ -281,8 +281,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Donchitos/Claude-Code-Game-Studios",
-    "parentStars": 16706,
-    "parentForks": 2434,
+    "parentStars": 16804,
+    "parentForks": 2443,
     "isPrivate": false
   },
   {
@@ -303,7 +303,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "PrismML-Eng/Bonsai-demo",
-    "parentStars": 757,
+    "parentStars": 762,
     "parentForks": 84,
     "isPrivate": false
   },
@@ -325,8 +325,30 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "pi-hole/pi-hole",
-    "parentStars": 57968,
-    "parentForks": 3110,
+    "parentStars": 58255,
+    "parentForks": 3126,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/skills____",
+    "name": "skills____",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2026-04-29T09:56:48Z",
+    "updatedAt": "2026-04-30T08:19:45Z",
+    "createdAt": "2026-04-30T08:19:44Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "mattpocock/skills",
+    "parentStars": 50363,
+    "parentForks": 4144,
     "isPrivate": false
   }
 ]
