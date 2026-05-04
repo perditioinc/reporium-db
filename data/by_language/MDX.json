@@ -17,8 +17,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "dair-ai/Prompt-Engineering-Guide",
-    "parentStars": 74130,
-    "parentForks": 8011,
+    "parentStars": 74164,
+    "parentForks": 8020,
     "isPrivate": false
   },
   {
@@ -39,7 +39,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "huggingface/agents-course",
-    "parentStars": 28335,
+    "parentStars": 28360,
     "parentForks": 2044,
     "isPrivate": false
   },
@@ -61,7 +61,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "huggingface/course",
-    "parentStars": 3883,
+    "parentStars": 3886,
     "parentForks": 1323,
     "isPrivate": false
   },
@@ -83,7 +83,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "e2b-dev/E2B",
-    "parentStars": 12027,
+    "parentStars": 12040,
     "parentForks": 887,
     "isPrivate": false
   },
@@ -105,8 +105,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "deepset-ai/haystack",
-    "parentStars": 25060,
-    "parentForks": 2759,
+    "parentStars": 25068,
+    "parentForks": 2762,
     "isPrivate": false
   },
   {
@@ -127,8 +127,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "twbs/bootstrap",
-    "parentStars": 174217,
-    "parentForks": 78940,
+    "parentStars": 174219,
+    "parentForks": 78932,
     "isPrivate": false
   }
 ]
