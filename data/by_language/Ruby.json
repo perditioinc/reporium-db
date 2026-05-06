@@ -17,7 +17,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "tobi/try",
-    "parentStars": 3640,
+    "parentStars": 3643,
     "parentForks": 143,
     "isPrivate": false
   },
@@ -39,8 +39,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "spree/spree",
-    "parentStars": 15388,
-    "parentForks": 5257,
+    "parentStars": 15394,
+    "parentForks": 5258,
     "isPrivate": false
   },
   {
@@ -61,8 +61,8 @@
     "openIssues": 0,
     "defaultBranch": "dev",
     "parentRepo": "opf/openproject",
-    "parentStars": 14972,
-    "parentForks": 3222,
+    "parentStars": 14990,
+    "parentForks": 3225,
     "isPrivate": false
   },
   {
@@ -83,8 +83,30 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "huginn/huginn",
-    "parentStars": 49219,
-    "parentForks": 4252,
+    "parentStars": 49236,
+    "parentForks": 4254,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/docuseal",
+    "name": "docuseal",
+    "description": "Open source DocuSign alternative. Create, fill, and sign digital documents \u270d\ufe0f",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Ruby",
+    "pushedAt": "2026-05-04T11:33:08Z",
+    "updatedAt": "2026-05-05T03:51:00Z",
+    "createdAt": "2026-05-05T03:51:00Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "GNU Affero General Public License v3.0",
+    "openIssues": 0,
+    "defaultBranch": "master",
+    "parentRepo": "docusealco/docuseal",
+    "parentStars": 14229,
+    "parentForks": 1284,
     "isPrivate": false
   }
 ]
