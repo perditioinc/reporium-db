@@ -17,7 +17,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "Infatoshi/cuda-course",
-    "parentStars": 3589,
+    "parentStars": 3593,
     "parentForks": 630,
     "isPrivate": false
   },
@@ -61,7 +61,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/cuopt",
-    "parentStars": 865,
+    "parentStars": 866,
     "parentForks": 167,
     "isPrivate": false
   },
@@ -83,8 +83,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "NVlabs/instant-ngp",
-    "parentStars": 17386,
-    "parentForks": 2058,
+    "parentStars": 17384,
+    "parentForks": 2059,
     "isPrivate": false
   },
   {
@@ -105,7 +105,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "xlite-dev/LeetCUDA",
-    "parentStars": 10916,
+    "parentStars": 10924,
     "parentForks": 1102,
     "isPrivate": false
   },
@@ -127,7 +127,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "karpathy/llm.c",
-    "parentStars": 29842,
+    "parentStars": 29846,
     "parentForks": 3580,
     "isPrivate": false
   },
@@ -149,7 +149,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "deepseek-ai/DeepGEMM",
-    "parentStars": 7220,
+    "parentStars": 7229,
     "parentForks": 971,
     "isPrivate": false
   },
@@ -171,8 +171,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "deepseek-ai/DeepEP",
-    "parentStars": 9611,
-    "parentForks": 1234,
+    "parentStars": 9610,
+    "parentForks": 1237,
     "isPrivate": false
   }
 ]
