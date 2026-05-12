@@ -24,13 +24,16 @@ CHECKPOINT_FILE = Path("checkpoints/current_run.json")
 _RATE_LIMIT_TOTAL = 5000  # GitHub authenticated GraphQL points/hour
 
 # GraphQL 502/503/504 from GitHub are common transient failures — especially
-# during incidents or peak traffic. 3 attempts (old default) covers occasional
-# blips but not a multi-minute degradation. 6 attempts with jittered
-# exponential backoff buys us ~5 minutes of resilience per request before
-# giving up, at which point the checkpoint-resume path kicks in on the next
-# run. See 2026-04-22 incident in reporium-db Nightly Sync (06:57 UTC GraphQL
-# 502 with only 3 attempts → hard fail).
-_MAX_RETRIES = 6
+# during incidents or peak traffic. History:
+#   - 3 attempts (original): single-blip hard fail, see 2026-04-22 incident.
+#   - 6 attempts (KAN-…): ~5 min of resilience.
+#   - 10 attempts (2026-05-12): 4 of 7 nightlies failed in the week ending
+#     2026-05-12 (May 7, 8, 11, 12 all red on sustained 502s). Bumping to 10
+#     buys ~17 min of resilience (2+4+8+16+32+64+128+256+300+300 ≈ 17 min
+#     given the 300s cap at the tail). Recovers from the typical multi-minute
+#     GitHub GraphQL outage pattern without changing the failure mode for a
+#     genuine multi-hour outage (checkpoint resume still kicks in on next run).
+_MAX_RETRIES = 10
 _RETRYABLE_STATUS = (429, 500, 502, 503, 504)
 
 QUERY = """
