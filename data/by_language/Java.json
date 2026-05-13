@@ -18,7 +18,7 @@
     "defaultBranch": "main",
     "parentRepo": "GoogleCloudPlatform/bank-of-anthos",
     "parentStars": 1322,
-    "parentForks": 798,
+    "parentForks": 797,
     "isPrivate": false
   },
   {
@@ -39,8 +39,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "TheAlgorithms/Java",
-    "parentStars": 65607,
-    "parentForks": 21140,
+    "parentStars": 65631,
+    "parentForks": 21144,
     "isPrivate": false
   },
   {
@@ -61,7 +61,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "google/guava",
-    "parentStars": 51491,
+    "parentStars": 51493,
     "parentForks": 11144,
     "isPrivate": false
   },
@@ -83,8 +83,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google/adk-java",
-    "parentStars": 1544,
-    "parentForks": 343,
+    "parentStars": 1548,
+    "parentForks": 346,
     "isPrivate": false
   },
   {
@@ -105,8 +105,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "opendataloader-project/opendataloader-pdf",
-    "parentStars": 20827,
-    "parentForks": 1935,
+    "parentStars": 21186,
+    "parentForks": 1966,
     "isPrivate": false
   },
   {
@@ -127,7 +127,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "vespa-engine/vespa",
-    "parentStars": 6910,
+    "parentStars": 6913,
     "parentForks": 710,
     "isPrivate": false
   },
@@ -149,8 +149,8 @@
     "openIssues": 0,
     "defaultBranch": "devel",
     "parentRepo": "dbeaver/dbeaver",
-    "parentStars": 49961,
-    "parentForks": 4173,
+    "parentStars": 50008,
+    "parentForks": 4176,
     "isPrivate": false
   },
   {
@@ -171,8 +171,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "jeecgboot/JeecgBoot",
-    "parentStars": 46150,
-    "parentForks": 15973,
+    "parentStars": 46212,
+    "parentForks": 15983,
     "isPrivate": false
   },
   {
@@ -193,8 +193,8 @@
     "openIssues": 0,
     "defaultBranch": "release/5.26.0",
     "parentRepo": "neo4j/neo4j",
-    "parentStars": 16455,
-    "parentForks": 2598,
+    "parentStars": 16481,
+    "parentForks": 2606,
     "isPrivate": false
   },
   {
@@ -215,8 +215,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "CodePhiliaX/Chat2DB",
-    "parentStars": 25558,
-    "parentForks": 2805,
+    "parentStars": 25584,
+    "parentForks": 2807,
     "isPrivate": false
   },
   {
@@ -237,8 +237,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "apache/doris",
-    "parentStars": 15321,
-    "parentForks": 3779,
+    "parentStars": 15331,
+    "parentForks": 3783,
     "isPrivate": false
   },
   {
@@ -259,8 +259,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "iflytek/astron-agent",
-    "parentStars": 8302,
-    "parentForks": 840,
+    "parentStars": 8775,
+    "parentForks": 853,
     "isPrivate": false
   },
   {
@@ -281,8 +281,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "alibaba/arthas",
-    "parentStars": 37295,
-    "parentForks": 7629,
+    "parentStars": 37302,
+    "parentForks": 7633,
     "isPrivate": false
   },
   {
@@ -303,8 +303,8 @@
     "openIssues": 0,
     "defaultBranch": "develop",
     "parentRepo": "alibaba/nacos",
-    "parentStars": 32931,
-    "parentForks": 13275,
+    "parentStars": 32947,
+    "parentForks": 13281,
     "isPrivate": false
   },
   {
@@ -326,7 +326,7 @@
     "defaultBranch": "master",
     "parentRepo": "apache/skywalking",
     "parentStars": 24796,
-    "parentForks": 6642,
+    "parentForks": 6648,
     "isPrivate": false
   },
   {
@@ -347,8 +347,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "openzipkin/zipkin",
-    "parentStars": 17432,
-    "parentForks": 3103,
+    "parentStars": 17431,
+    "parentForks": 3102,
     "isPrivate": false
   },
   {
@@ -369,8 +369,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "DrKLO/Telegram",
-    "parentStars": 29143,
-    "parentForks": 9549,
+    "parentStars": 29159,
+    "parentForks": 9550,
     "isPrivate": false
   },
   {
@@ -391,8 +391,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "ashishps1/awesome-system-design-resources",
-    "parentStars": 37058,
-    "parentForks": 7994,
+    "parentStars": 37124,
+    "parentForks": 8004,
     "isPrivate": false
   },
   {
@@ -413,8 +413,52 @@
     "openIssues": 0,
     "defaultBranch": "develop",
     "parentRepo": "kestra-io/kestra",
-    "parentStars": 26803,
-    "parentForks": 2568,
+    "parentStars": 26837,
+    "parentForks": 2576,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/floci",
+    "name": "floci",
+    "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Java",
+    "pushedAt": "2026-05-12T00:52:29Z",
+    "updatedAt": "2026-05-12T00:58:10Z",
+    "createdAt": "2026-05-12T00:58:10Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "floci-io/floci",
+    "parentStars": 8614,
+    "parentForks": 728,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/FadCam",
+    "name": "FadCam",
+    "description": "Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Java",
+    "pushedAt": "2026-05-11T18:02:01Z",
+    "updatedAt": "2026-05-13T07:04:04Z",
+    "createdAt": "2026-05-13T07:04:04Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "GNU General Public License v3.0",
+    "openIssues": 0,
+    "defaultBranch": "master",
+    "parentRepo": "anonfaded/FadCam",
+    "parentStars": 2318,
+    "parentForks": 176,
     "isPrivate": false
   }
 ]
