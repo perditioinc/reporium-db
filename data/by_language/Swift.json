@@ -61,7 +61,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "AudioKit/AudioKit",
-    "parentStars": 11351,
+    "parentStars": 11353,
     "parentForks": 1610,
     "isPrivate": false
   },
@@ -105,7 +105,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "TelegramMessenger/Telegram-iOS",
-    "parentStars": 8523,
+    "parentStars": 8527,
     "parentForks": 2598,
     "isPrivate": false
   },
@@ -127,8 +127,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "osaurus-ai/osaurus",
-    "parentStars": 5278,
-    "parentForks": 277,
+    "parentStars": 5327,
+    "parentForks": 282,
     "isPrivate": false
   },
   {
@@ -149,8 +149,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "farouqaldori/vibe-notch",
-    "parentStars": 2310,
-    "parentForks": 331,
+    "parentStars": 2313,
+    "parentForks": 333,
     "isPrivate": false
   },
   {
@@ -171,8 +171,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "steipete/CodexBar",
-    "parentStars": 12312,
-    "parentForks": 957,
+    "parentStars": 12490,
+    "parentForks": 975,
     "isPrivate": false
   },
   {
@@ -193,7 +193,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "automazeio/vibeproxy",
-    "parentStars": 2776,
+    "parentStars": 2780,
     "parentForks": 194,
     "isPrivate": false
   },
@@ -215,8 +215,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "ml-explore/mlx-swift-lm",
-    "parentStars": 508,
-    "parentForks": 215,
+    "parentStars": 507,
+    "parentForks": 218,
     "isPrivate": false
   },
   {
@@ -237,8 +237,8 @@
     "openIssues": 0,
     "defaultBranch": "develop",
     "parentRepo": "iina/iina",
-    "parentStars": 44874,
-    "parentForks": 2815,
+    "parentStars": 44893,
+    "parentForks": 2817,
     "isPrivate": false
   },
   {
@@ -281,8 +281,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Beingpax/VoiceInk",
-    "parentStars": 4961,
-    "parentForks": 683,
+    "parentStars": 4970,
+    "parentForks": 684,
     "isPrivate": false
   },
   {
@@ -303,8 +303,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "openclaw/Peekaboo",
-    "parentStars": 4236,
-    "parentForks": 311,
+    "parentStars": 4295,
+    "parentForks": 317,
     "isPrivate": false
   },
   {
@@ -325,8 +325,30 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "manaflow-ai/cmux",
-    "parentStars": 17087,
-    "parentForks": 1337,
+    "parentStars": 17177,
+    "parentForks": 1347,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/supertonic",
+    "name": "supertonic",
+    "description": "Lightning-Fast, On-Device, Multilingual TTS \u2014 running natively via ONNX.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Swift",
+    "pushedAt": "2026-05-16T09:24:10Z",
+    "updatedAt": "2026-05-17T05:23:14Z",
+    "createdAt": "2026-05-17T05:23:14Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "supertone-inc/supertonic",
+    "parentStars": 7093,
+    "parentForks": 727,
     "isPrivate": false
   }
 ]
