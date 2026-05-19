@@ -29,6 +29,19 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      # Restore any checkpoint left behind by a previous run that died mid-fetch
+      # (e.g. exhausted retries during a sustained GitHub GraphQL 502 window).
+      # checkpoints/ is git-ignored, so without this cache the resume path is
+      # dead in CI and every failed run restarts cold from page 1. restore-keys
+      # matches the most recent prior entry by prefix.
+      - name: Restore sync checkpoint
+        uses: actions/cache/restore@5a3ec84eff668545956fd18022155c47e93e2684 # v4.2.3
+        with:
+          path: checkpoints
+          key: sync-checkpoint-${{ github.run_id }}
+          restore-keys: |
+            sync-checkpoint-
+
       - name: Run sync
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -39,6 +52,18 @@ jobs:
           else
             python -m reporium_db sync
           fi
+
+      # Always persist the checkpoint dir, even when the sync step failed, so
+      # the NEXT scheduled run resumes from the last good page instead of
+      # restarting cold. On a fully successful run the script deletes
+      # current_run.json, so the saved entry is empty and the next run starts
+      # fresh as intended. Run-id-scoped key => every run writes its own entry.
+      - name: Persist sync checkpoint
+        if: always()
+        uses: actions/cache/save@5a3ec84eff668545956fd18022155c47e93e2684 # v4.2.3
+        with:
+          path: checkpoints
+          key: sync-checkpoint-${{ github.run_id }}
 
       - name: Configure git
         run: |

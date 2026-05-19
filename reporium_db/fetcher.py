@@ -23,18 +23,35 @@ GRAPHQL_URL = "https://api.github.com/graphql"
 CHECKPOINT_FILE = Path("checkpoints/current_run.json")
 _RATE_LIMIT_TOTAL = 5000  # GitHub authenticated GraphQL points/hour
 
-# GraphQL 502/503/504 from GitHub are common transient failures — especially
-# during incidents or peak traffic. History:
+# GraphQL 5xx from GitHub are common transient failures. History of the
+# per-request retry budget and why raising it alone never fixed the nightly:
 #   - 3 attempts (original): single-blip hard fail, see 2026-04-22 incident.
-#   - 6 attempts (KAN-…): ~5 min of resilience.
-#   - 10 attempts (2026-05-12): 4 of 7 nightlies failed in the week ending
-#     2026-05-12 (May 7, 8, 11, 12 all red on sustained 502s). Bumping to 10
-#     buys ~17 min of resilience (2+4+8+16+32+64+128+256+300+300 ≈ 17 min
-#     given the 300s cap at the tail). Recovers from the typical multi-minute
-#     GitHub GraphQL outage pattern without changing the failure mode for a
-#     genuine multi-hour outage (checkpoint resume still kicks in on next run).
-_MAX_RETRIES = 10
+#   - 6 attempts: ~5 min of per-request resilience.
+#   - 10 attempts (2026-05-12): still red — May 12/14/15/18 failed.
+#
+# Live log analysis of run 26023064535 (2026-05-18) showed the real failure
+# mode: pages 1-2 fetched fine (one 502 each, recovered on retry 1) but page
+# 3 hit a SUSTAINED GitHub-side 502 window (~16 min, 08:46→09:02 UTC) that
+# exhausted all 10 attempts. GitHub GraphQL incident windows routinely exceed
+# any sane per-request retry budget, so raising _MAX_RETRIES just delays the
+# same hard fail and burns CI minutes (a 38-min run on 2026-05-14).
+#
+# The root cause of the RED BUILD is not the retry count. When a single page
+# exhausts retries, fetch_all_repos raises with the checkpoint file still on
+# disk (the unlink only runs on the success path) — BUT checkpoints/ is
+# git-ignored and the GitHub Actions runner is ephemeral, so that checkpoint
+# is thrown away with the runner and the next scheduled run restarts cold
+# from page 1, 24h later. The resume path is therefore dead in CI and only
+# ever helps within a single process. The durable fix is at the workflow
+# level: cache checkpoints/ across runs (restore before, save always) so a
+# failed run leaves a resumable checkpoint for the very next run. Combined
+# with a sane (not inflated) per-request budget and full-jitter backoff, a
+# multi-page sync now tolerates a GitHub outage longer than any single
+# request's retry window — it just takes a couple of runs to drain.
+_DEFAULT_MAX_RETRIES = 8
+_MAX_RETRIES = int(os.getenv("SYNC_MAX_RETRIES", str(_DEFAULT_MAX_RETRIES)))
 _RETRYABLE_STATUS = (429, 500, 502, 503, 504)
+_BACKOFF_CAP_SECONDS = 120.0
 
 QUERY = """
 query($login: String!, $first: Int!, $after: String) {
@@ -140,20 +157,31 @@ def _is_retryable_403(resp: httpx.Response) -> bool:
     )
 
 
-def _retry_delay_seconds(resp: httpx.Response, attempt: int) -> float:
-    """Honor Retry-After when present, otherwise use bounded exponential backoff.
+def _backoff_seconds(attempt: int) -> float:
+    """Full-jitter exponential backoff, capped.
 
-    Adds 0–1s of jitter to the exponential path to avoid thundering-herd
-    synchronisation when multiple retries recover from a brief upstream
-    incident at the same time. Retry-After path is deterministic (no jitter)
-    because the server has told us exactly how long to wait.
+    Uses AWS-style "full jitter": sleep = random(0, min(cap, base * 2**attempt)).
+    Full jitter (rather than base + small jitter) maximally de-synchronises
+    retries so a recovering GitHub endpoint is not hit by a thundering herd,
+    and the expected wait still grows exponentially. The cap keeps a single
+    request from monopolising the job for minutes — durability against a long
+    outage comes from checkpoint resume across runs, not from one giant sleep.
+    """
+    ceiling = min(_BACKOFF_CAP_SECONDS, (2.0**attempt))
+    return random.uniform(0.0, max(ceiling, 0.0))
+
+
+def _retry_delay_seconds(resp: httpx.Response, attempt: int) -> float:
+    """Honor Retry-After when present, otherwise use full-jitter backoff.
+
+    The Retry-After path is deterministic (no jitter) because the server has
+    told us exactly how long to wait; we still clamp it to the cap so a
+    hostile/huge value cannot stall the job.
     """
     retry_after = _parse_retry_after(resp.headers.get("Retry-After"))
     if retry_after is not None:
-        return min(retry_after, 300.0)
-    base = 2**attempt + 0.1 * attempt
-    jitter = random.uniform(0.0, 1.0)
-    return min(base + jitter, 300.0)
+        return min(retry_after, _BACKOFF_CAP_SECONDS)
+    return _backoff_seconds(attempt)
 
 
 async def _graphql_request(
@@ -172,13 +200,22 @@ async def _graphql_request(
             timeout=30,
         )
     except httpx.RequestError as exc:
+        # Connection resets / read timeouts to api.github.com are the same
+        # class of transient GitHub-side failure as a 502 — retry them on the
+        # same full-jitter schedule.
         if attempt >= _MAX_RETRIES:
+            logger.error(
+                "Request error after %d attempts — giving up on this page: %s. "
+                "Checkpoint is preserved; the next run will resume from here.",
+                _MAX_RETRIES + 1,
+                exc,
+            )
             raise
-        wait = min(2**attempt + 0.1 * attempt + random.uniform(0.0, 1.0), 300.0)
+        wait = _backoff_seconds(attempt)
         logger.warning(
             "Request error (attempt %d/%d): %s — retry in %.1fs",
             attempt + 1,
-            _MAX_RETRIES,
+            _MAX_RETRIES + 1,
             exc,
             wait,
         )
@@ -187,12 +224,19 @@ async def _graphql_request(
 
     if resp.status_code in _RETRYABLE_STATUS or _is_retryable_403(resp):
         if attempt >= _MAX_RETRIES:
+            logger.error(
+                "HTTP %d after %d attempts — giving up on this page. "
+                "Checkpoint is preserved; the next run will resume from here.",
+                resp.status_code,
+                _MAX_RETRIES + 1,
+            )
             resp.raise_for_status()
         wait = _retry_delay_seconds(resp, attempt)
         logger.warning(
-            "HTTP %d (attempt %d) — retry in %.1fs",
+            "HTTP %d (attempt %d/%d) — retry in %.1fs",
             resp.status_code,
             attempt + 1,
+            _MAX_RETRIES + 1,
             wait,
         )
         await asyncio.sleep(wait)
