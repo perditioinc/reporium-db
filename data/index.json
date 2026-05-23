@@ -1,19 +1,19 @@
 {
   "meta": {
-    "total": 1898,
-    "last_updated": "2026-05-17T07:36:28.520454+00:00",
+    "total": 1923,
+    "last_updated": "2026-05-23T07:36:23.374649+00:00",
     "version": "1.0.0"
   },
   "categories": {
     "tooling": 1
   },
   "languages": {
-    "Python": 795,
-    "TypeScript": 275,
+    "Python": 804,
+    "TypeScript": 287,
     "Jupyter Notebook": 147,
     "C++": 118,
-    "Go": 86,
-    "JavaScript": 85,
+    "JavaScript": 87,
+    "Go": 87,
     "Rust": 62,
     "C": 39,
     "C#": 29,
@@ -33,6 +33,7 @@
     "Markdown": 2,
     "Assembly": 2,
     "Svelte": 2,
+    "Elixir": 2,
     "Cython": 2,
     "Dart": 2,
     "Vue": 1,
@@ -40,7 +41,6 @@
     "RobotFramework": 1,
     "Scala": 1,
     "ABAP": 1,
-    "Elixir": 1,
     "Nushell": 1,
     "QML": 1,
     "Makefile": 1,

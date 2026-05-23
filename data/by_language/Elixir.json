@@ -17,8 +17,30 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "openai/symphony",
-    "parentStars": 23954,
-    "parentForks": 2317,
+    "parentStars": 24452,
+    "parentForks": 2407,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/analytics",
+    "name": "analytics",
+    "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Elixir",
+    "pushedAt": "2026-05-17T23:07:21Z",
+    "updatedAt": "2026-05-18T03:02:33Z",
+    "createdAt": "2026-05-18T03:02:32Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "GNU Affero General Public License v3.0",
+    "openIssues": 0,
+    "defaultBranch": "master",
+    "parentRepo": "plausible/analytics",
+    "parentStars": 26404,
+    "parentForks": 1537,
     "isPrivate": false
   }
 ]
