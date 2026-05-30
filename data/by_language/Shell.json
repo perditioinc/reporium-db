@@ -1,71 +1,5 @@
 [
   {
-    "nameWithOwner": "perditioinc/ros-robotics-companies",
-    "name": "ros-robotics-companies",
-    "description": "A list of robotics companies using the Robot Operating System (ROS and ROS 2). ",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2026-03-17T01:46:18Z",
-    "updatedAt": "2026-03-17T01:46:22Z",
-    "createdAt": "2025-11-09T20:12:36Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": null,
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "vmayoral/ros-robotics-companies",
-    "parentStars": 1863,
-    "parentForks": 235,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/claude-code-ultimate-guide",
-    "name": "claude-code-ultimate-guide",
-    "description": "A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready templates for Claude Code features, guides on agentic workflows, and a lot of great learning materials, including quizzes and a handy \"cheatsheet\". Whether it's the \"ultimate\" guide to Claude Code will be up to the reader :)",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2026-02-16T19:49:07Z",
-    "updatedAt": "2026-02-17T02:34:59Z",
-    "createdAt": "2026-02-17T02:34:59Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Creative Commons Attribution Share Alike 4.0 International",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "FlorianBruniaux/claude-code-ultimate-guide",
-    "parentStars": 4470,
-    "parentForks": 590,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/tinyclaw",
-    "name": "tinyclaw",
-    "description": "TinyClaw is a team of personal agents that collaborate with each other",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2026-02-16T00:31:15Z",
-    "updatedAt": "2026-02-20T08:26:49Z",
-    "createdAt": "2026-02-17T03:01:42Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "MIT License",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "TinyAGI/tinyagi",
-    "parentStars": 3569,
-    "parentForks": 507,
-    "isPrivate": false
-  },
-  {
     "nameWithOwner": "perditioinc/agency-agents",
     "name": "agency-agents",
     "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
@@ -83,8 +17,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "msitarzewski/agency-agents",
-    "parentStars": 104584,
-    "parentForks": 17209,
+    "parentStars": 106043,
+    "parentForks": 17477,
     "isPrivate": false
   },
   {
@@ -105,8 +39,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "obra/superpowers",
-    "parentStars": 204271,
-    "parentForks": 18197,
+    "parentStars": 212488,
+    "parentForks": 18927,
     "isPrivate": false
   },
   {
@@ -127,8 +61,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "VoltAgent/awesome-claude-code-subagents",
-    "parentStars": 20409,
-    "parentForks": 2378,
+    "parentStars": 20863,
+    "parentForks": 2437,
     "isPrivate": false
   },
   {
@@ -149,8 +83,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "anthropics/claude-code",
-    "parentStars": 126083,
-    "parentForks": 20695,
+    "parentStars": 128047,
+    "parentForks": 20928,
     "isPrivate": false
   },
   {
@@ -171,8 +105,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "anthropics/claude-agent-sdk-typescript",
-    "parentStars": 1456,
-    "parentForks": 170,
+    "parentStars": 1474,
+    "parentForks": 176,
     "isPrivate": false
   },
   {
@@ -215,8 +149,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "automazeio/ccpm",
-    "parentStars": 8140,
-    "parentForks": 829,
+    "parentStars": 8157,
+    "parentForks": 831,
     "isPrivate": false
   },
   {
@@ -237,8 +171,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "nyldn/claude-octopus",
-    "parentStars": 3405,
-    "parentForks": 301,
+    "parentStars": 3441,
+    "parentForks": 307,
     "isPrivate": false
   },
   {
@@ -259,8 +193,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "frankbria/ralph-claude-code",
-    "parentStars": 9188,
-    "parentForks": 701,
+    "parentStars": 9235,
+    "parentForks": 704,
     "isPrivate": false
   },
   {
@@ -281,8 +215,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Donchitos/Claude-Code-Game-Studios",
-    "parentStars": 19758,
-    "parentForks": 2873,
+    "parentStars": 20386,
+    "parentForks": 2960,
     "isPrivate": false
   },
   {
@@ -303,8 +237,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "PrismML-Eng/Bonsai-demo",
-    "parentStars": 815,
-    "parentForks": 90,
+    "parentStars": 831,
+    "parentForks": 93,
     "isPrivate": false
   },
   {
@@ -325,8 +259,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "pi-hole/pi-hole",
-    "parentStars": 58922,
-    "parentForks": 3206,
+    "parentStars": 59026,
+    "parentForks": 3208,
     "isPrivate": false
   },
   {
@@ -347,8 +281,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "mattpocock/skills",
-    "parentStars": 102741,
-    "parentForks": 9095,
+    "parentStars": 111774,
+    "parentForks": 9799,
     "isPrivate": false
   },
   {
@@ -369,8 +303,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "addyosmani/agent-skills",
-    "parentStars": 45225,
-    "parentForks": 5005,
+    "parentStars": 46958,
+    "parentForks": 5212,
     "isPrivate": false
   },
   {
@@ -391,8 +325,52 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "SimoneAvogadro/android-reverse-engineering-skill",
-    "parentStars": 5813,
-    "parentForks": 654,
+    "parentStars": 5895,
+    "parentForks": 660,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/taste-skill",
+    "name": "taste-skill",
+    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop ",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2026-05-26T19:31:39Z",
+    "updatedAt": "2026-05-28T01:11:13Z",
+    "createdAt": "2026-05-28T01:11:13Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "Leonxlnx/taste-skill",
+    "parentStars": 28501,
+    "parentForks": 2112,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/claude-code-harness",
+    "name": "claude-code-harness",
+    "description": "Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan\u2192Work\u2192Review Cycle",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2026-05-27T19:52:07Z",
+    "updatedAt": "2026-05-28T01:11:18Z",
+    "createdAt": "2026-05-28T01:11:18Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "Chachamaru127/claude-code-harness",
+    "parentStars": 2219,
+    "parentForks": 223,
     "isPrivate": false
   }
 ]

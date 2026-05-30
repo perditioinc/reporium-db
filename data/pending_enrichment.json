@@ -1,16 +1,32 @@
 {
-  "generated_at": "2026-05-24T07:53:20.824174+00:00",
+  "generated_at": "2026-05-30T07:45:00.872130+00:00",
   "repos": [
     {
-      "name_with_owner": "perditioinc/Anthropic-Cybersecurity-Skills",
+      "name_with_owner": "perditioinc/App",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/ai-engineering-from-scratch",
+      "name_with_owner": "perditioinc/claude-code-harness",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/presenton",
+      "name_with_owner": "perditioinc/git-devkit",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/skillopt",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/skills______",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/stop-slop",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/taste-skill",
       "reason": "new_repo"
     }
   ]
