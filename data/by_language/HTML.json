@@ -1,49 +1,5 @@
 [
   {
-    "nameWithOwner": "perditioinc/awesome-generative-ai-guide",
-    "name": "awesome-generative-ai-guide",
-    "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "HTML",
-    "pushedAt": "2026-03-17T01:46:18Z",
-    "updatedAt": "2026-03-17T01:46:39Z",
-    "createdAt": "2025-11-16T17:51:53Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "MIT License",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "aishwaryanr/awesome-generative-ai-guide",
-    "parentStars": 26838,
-    "parentForks": 5637,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/robotics-resources-for-roboticists",
-    "name": "robotics-resources-for-roboticists",
-    "description": "A complete library of resources that caters to all levels of Roboticists.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "HTML",
-    "pushedAt": "2026-01-31T12:17:55Z",
-    "updatedAt": "2026-02-14T04:57:56Z",
-    "createdAt": "2026-02-14T04:57:56Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": null,
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "akshetP/robotics-resources",
-    "parentStars": 415,
-    "parentForks": 65,
-    "isPrivate": false
-  },
-  {
     "nameWithOwner": "perditioinc/claude-code-best-practice",
     "name": "claude-code-best-practice",
     "description": "practice made claude perfect",
@@ -61,8 +17,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "shanraisshan/claude-code-best-practice",
-    "parentStars": 54594,
-    "parentForks": 5473,
+    "parentStars": 55515,
+    "parentForks": 5574,
     "isPrivate": false
   },
   {
@@ -83,8 +39,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "alexeygrigorev/ai-engineering-field-guide",
-    "parentStars": 3728,
-    "parentForks": 338,
+    "parentStars": 3821,
+    "parentForks": 352,
     "isPrivate": false
   },
   {
@@ -105,8 +61,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "terkelg/awesome-creative-coding",
-    "parentStars": 14841,
-    "parentForks": 949,
+    "parentStars": 14866,
+    "parentForks": 952,
     "isPrivate": false
   },
   {
@@ -127,8 +83,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/garak",
-    "parentStars": 7891,
-    "parentForks": 953,
+    "parentStars": 7971,
+    "parentForks": 983,
     "isPrivate": false
   },
   {
@@ -149,8 +105,8 @@
     "openIssues": 0,
     "defaultBranch": "gh-pages",
     "parentRepo": "google/styleguide",
-    "parentStars": 39319,
-    "parentForks": 12977,
+    "parentStars": 39338,
+    "parentForks": 12973,
     "isPrivate": false
   },
   {
@@ -171,8 +127,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "openai/gpt-5-coding-examples",
-    "parentStars": 1884,
-    "parentForks": 288,
+    "parentStars": 1882,
+    "parentForks": 289,
     "isPrivate": false
   },
   {
@@ -193,8 +149,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Unstructured-IO/unstructured",
-    "parentStars": 14765,
-    "parentForks": 1238,
+    "parentStars": 14808,
+    "parentForks": 1241,
     "isPrivate": false
   },
   {
@@ -215,8 +171,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "lancedb/lancedb",
-    "parentStars": 10384,
-    "parentForks": 883,
+    "parentStars": 10442,
+    "parentForks": 887,
     "isPrivate": false
   },
   {
@@ -237,8 +193,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "facebookresearch/fastText",
-    "parentStars": 26524,
-    "parentForks": 4815,
+    "parentStars": 26531,
+    "parentForks": 4819,
     "isPrivate": false
   },
   {
@@ -259,8 +215,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "f/prompts.chat",
-    "parentStars": 162736,
-    "parentForks": 21171,
+    "parentStars": 163047,
+    "parentForks": 21203,
     "isPrivate": false
   },
   {
@@ -281,8 +237,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "rdkit/rdkit",
-    "parentStars": 3440,
-    "parentForks": 1015,
+    "parentStars": 3446,
+    "parentForks": 1019,
     "isPrivate": false
   },
   {
@@ -303,8 +259,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "windmill-labs/windmill",
-    "parentStars": 16560,
-    "parentForks": 965,
+    "parentStars": 16607,
+    "parentForks": 976,
     "isPrivate": false
   },
   {
@@ -325,8 +281,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "wilsonfreitas/awesome-quant",
-    "parentStars": 26382,
-    "parentForks": 3523,
+    "parentStars": 26489,
+    "parentForks": 3536,
     "isPrivate": false
   },
   {
@@ -347,8 +303,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "asgeirtj/system_prompts_leaks",
-    "parentStars": 40688,
-    "parentForks": 6761,
+    "parentStars": 40940,
+    "parentForks": 6789,
     "isPrivate": false
   },
   {
@@ -369,8 +325,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "felladrin/awesome-ai-web-search",
-    "parentStars": 1315,
-    "parentForks": 108,
+    "parentStars": 1327,
+    "parentForks": 109,
     "isPrivate": false
   },
   {
@@ -391,8 +347,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "zli12321/Vision-Language-Models-Overview",
-    "parentStars": 594,
-    "parentForks": 35,
+    "parentStars": 606,
+    "parentForks": 36,
     "isPrivate": false
   },
   {
@@ -413,7 +369,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "worldbench/awesome-vla-for-ad",
-    "parentStars": 409,
+    "parentStars": 412,
     "parentForks": 37,
     "isPrivate": false
   },
@@ -435,8 +391,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "VoltAgent/awesome-design-md",
-    "parentStars": 83209,
-    "parentForks": 9997,
+    "parentStars": 85709,
+    "parentForks": 10301,
     "isPrivate": false
   },
   {
@@ -457,8 +413,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "tractorjuice/arc-kit",
-    "parentStars": 1898,
-    "parentForks": 236,
+    "parentStars": 1928,
+    "parentForks": 241,
     "isPrivate": false
   }
 ]
