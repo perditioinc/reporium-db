@@ -1,5 +1,27 @@
 [
   {
+    "nameWithOwner": "perditioinc/try",
+    "name": "try",
+    "description": "fresh directories for every vibe",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Ruby",
+    "pushedAt": "2025-10-04T00:06:21Z",
+    "updatedAt": "2025-11-08T19:43:22Z",
+    "createdAt": "2025-11-08T19:43:22Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "tobi/try",
+    "parentStars": 3682,
+    "parentForks": 145,
+    "isPrivate": false
+  },
+  {
     "nameWithOwner": "perditioinc/spree",
     "name": "spree",
     "description": "Spree is an API-first, open-source eCommerce platform for fast growing businesses and enterprises. Spree supports complex commerce scenarios natively \u2014 from B2B wholesale to multi-vendor marketplace to global multi-region or multi-tenant distributor platforms. Use each model independently or combine them as your business evolves.",
@@ -17,7 +39,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "spree/spree",
-    "parentStars": 15441,
+    "parentStars": 15457,
     "parentForks": 5266,
     "isPrivate": false
   },
@@ -39,8 +61,8 @@
     "openIssues": 0,
     "defaultBranch": "dev",
     "parentRepo": "opf/openproject",
-    "parentStars": 15190,
-    "parentForks": 3273,
+    "parentStars": 15242,
+    "parentForks": 3289,
     "isPrivate": false
   },
   {
@@ -61,8 +83,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "huginn/huginn",
-    "parentStars": 49360,
-    "parentForks": 4268,
+    "parentStars": 49404,
+    "parentForks": 4271,
     "isPrivate": false
   },
   {
@@ -83,8 +105,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "docusealco/docuseal",
-    "parentStars": 17020,
-    "parentForks": 1596,
+    "parentStars": 17084,
+    "parentForks": 1609,
     "isPrivate": false
   }
 ]

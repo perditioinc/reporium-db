@@ -1,5 +1,27 @@
 [
   {
+    "nameWithOwner": "perditioinc/cuda-course",
+    "name": "cuda-course",
+    "description": "CUDA Course on FreeCodeCamp",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Cuda",
+    "pushedAt": "2026-03-17T01:46:09Z",
+    "updatedAt": "2026-03-17T01:46:16Z",
+    "createdAt": "2025-11-03T17:07:16Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "master",
+    "parentRepo": "Infatoshi/cuda-course",
+    "parentStars": 3690,
+    "parentForks": 642,
+    "isPrivate": false
+  },
+  {
     "nameWithOwner": "perditioinc/imp",
     "name": "imp",
     "description": "High-performance LLM inference engine in C++/CUDA for NVIDIA Blackwell GPUs (RTX 5090)",
@@ -39,8 +61,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/cuopt",
-    "parentStars": 903,
-    "parentForks": 178,
+    "parentStars": 934,
+    "parentForks": 191,
     "isPrivate": false
   },
   {
@@ -61,7 +83,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "NVlabs/instant-ngp",
-    "parentStars": 17411,
+    "parentStars": 17425,
     "parentForks": 2064,
     "isPrivate": false
   },
@@ -83,8 +105,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "xlite-dev/LeetCUDA",
-    "parentStars": 11125,
-    "parentForks": 1124,
+    "parentStars": 11195,
+    "parentForks": 1141,
     "isPrivate": false
   },
   {
@@ -105,8 +127,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "karpathy/llm.c",
-    "parentStars": 30064,
-    "parentForks": 3619,
+    "parentStars": 30135,
+    "parentForks": 3625,
     "isPrivate": false
   },
   {
@@ -127,8 +149,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "deepseek-ai/DeepGEMM",
-    "parentStars": 7314,
-    "parentForks": 1009,
+    "parentStars": 7342,
+    "parentForks": 1025,
     "isPrivate": false
   },
   {
@@ -149,8 +171,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "deepseek-ai/DeepEP",
-    "parentStars": 9686,
-    "parentForks": 1272,
+    "parentStars": 9697,
+    "parentForks": 1279,
     "isPrivate": false
   }
 ]
