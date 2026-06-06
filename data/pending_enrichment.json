@@ -1,32 +1,432 @@
 {
-  "generated_at": "2026-05-30T07:45:00.872130+00:00",
+  "generated_at": "2026-06-06T07:53:27.510827+00:00",
   "repos": [
     {
-      "name_with_owner": "perditioinc/App",
+      "name_with_owner": "perditioinc/100-Days-Of-ML-Code",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/claude-code-harness",
+      "name_with_owner": "perditioinc/Agentic_Design_Patterns",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/git-devkit",
+      "name_with_owner": "perditioinc/AutoAgent",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/skillopt",
+      "name_with_owner": "perditioinc/ComfyUI",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/skills______",
+      "name_with_owner": "perditioinc/ComfyUI-LTXVideo",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/stop-slop",
+      "name_with_owner": "perditioinc/Complete-System-Design",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/taste-skill",
+      "name_with_owner": "perditioinc/Data-Science-Interview-Questions-Answers",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/DeepCode",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Encodex",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/GenAI_Agents",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Hands-On-Large-Language-Models",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/LEANN",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/LLaMA-Factory",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/LMCache",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/LTX-2",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/LTX-Video",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/LTX-Video-Trainer",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/LightRAG",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/ML-For-Beginners",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/MLOps-Basics",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/MLQuestions",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Machine-Learning-Interviews",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Made-With-ML",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Personal_AI_Infrastructure",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Prompt-Engineering-Guide",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Python",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/PythonRobotics",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/RAG_Techniques",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Robotics-Resources",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Valdi",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/VoxCPM",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/Wan2.2",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/adk-go",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/agent-lightning",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/agent-squad",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/agent-starter-pack",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/ai-agents-for-beginners",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/all-rl-algorithms",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/annotated_deep_learning_paper_implementations",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/anything-llm",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/arxiv-paper-curator",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/asimov-v0",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/awesome-datascience",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/awesome-generative-ai-guide",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/awesome-llm-apps",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/awesome-machine-learning-robotics",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/awesome-mobile-robotics",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/awesome-nlp",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/awesome-rl",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/awesome-robotics",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/claude-code-ultimate-guide",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/claude-mem",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/codex",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/compound-engineering-plugin",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/crewai-LL-series",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/cs249r_book",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/cuda-course",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/deepeval",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/developer-portfolios",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/directus",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/dynamic_robot_localization",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/edgequake",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/embardiment",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/fsdl-text-recognizer",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/generative-ai",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/gh-aw",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/harness",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/hermes-webui",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/interviews.ai",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/langextract",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/linorobot2",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/machine-learning-cheat-sheet",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/machine-learning-interview",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/magenta-realtime",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/mcp-lite",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/ml-sharp",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/mlops-zoomcamp",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/mml-book.github.io",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/nablafx",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/nao",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/nn-zero-to-hero",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/obsidian-second-brain",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/personaplex",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/pi-subagents",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/picoclaw",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/purz-comfyui-workflows",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/pydantic-ai",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/ragflow",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/reBot-DevArm",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/robotframework",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/robotics",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/robotics-and-machine-vision-resources",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/robotics-coursework",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/robotics-resources-for-roboticists",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/ros-robotics-companies",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/sam-audio",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/scenesmith",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/sim",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/stanford-cme-295-transformers-large-language-models",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/strix",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/tinyclaw",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/toon",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/train-llm-from-scratch",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/transformerlab-app",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/try",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/xrblocks",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/zvec",
       "reason": "new_repo"
     }
   ]
