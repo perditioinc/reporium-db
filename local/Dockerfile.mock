@@ -1,0 +1,11 @@
+# Local-only mock GitHub GraphQL server for the reporium-db OSS dev substrate.
+# Stdlib-only Python; no third-party dependencies. $0 / OSS.
+FROM python:3.11-slim
+
+WORKDIR /app
+
+# The mock package and seed are mounted at runtime via compose. The server is
+# dependency-free, so there is nothing to pip install.
+
+EXPOSE 8787
+ENTRYPOINT ["python", "-m", "local.mock_github.server"]

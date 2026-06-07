@@ -1,0 +1,71 @@
+{
+  "_comment": "Deterministic seed dataset for the local OSS substrate. This stands in for the GitHub GraphQL source so the real pipeline can run with no token, no network, and no cost. Edit freely; the smoke test asserts on the shape these produce, not exact counts. pushedAt values are intentionally spread so tier assignment (nightly/weekly/monthly) and the recent.json window are all exercised.",
+  "repos": [
+    {
+      "nameWithOwner": "perditioinc/alpha-engine",
+      "name": "alpha-engine",
+      "description": "Local seed repo: an inference engine.",
+      "stars": 4200,
+      "forks": 310,
+      "language": "Python",
+      "pushedAt": "RECENT",
+      "topics": ["ai", "inference", "tooling"],
+      "isFork": false
+    },
+    {
+      "nameWithOwner": "perditioinc/beta-ui",
+      "name": "beta-ui",
+      "description": "Local seed repo: a component library.",
+      "stars": 1800,
+      "forks": 90,
+      "language": "TypeScript",
+      "pushedAt": "RECENT",
+      "topics": ["ui", "frontend"],
+      "isFork": false
+    },
+    {
+      "nameWithOwner": "perditioinc/gamma-core",
+      "name": "gamma-core",
+      "description": "Local seed repo: a Rust core library.",
+      "stars": 9500,
+      "forks": 720,
+      "language": "Rust",
+      "pushedAt": "WEEKLY",
+      "topics": ["systems", "core", "tooling"],
+      "isFork": false
+    },
+    {
+      "nameWithOwner": "perditioinc/delta-notebooks",
+      "name": "delta-notebooks",
+      "description": "Local seed repo: example notebooks.",
+      "stars": 240,
+      "forks": 30,
+      "language": "Jupyter Notebook",
+      "pushedAt": "WEEKLY",
+      "topics": ["ai", "examples"],
+      "isFork": false
+    },
+    {
+      "nameWithOwner": "perditioinc/epsilon-archive",
+      "name": "epsilon-archive",
+      "description": "Local seed repo: an older Go service.",
+      "stars": 75,
+      "forks": 12,
+      "language": "Go",
+      "pushedAt": "MONTHLY",
+      "topics": ["backend"],
+      "isFork": false
+    },
+    {
+      "nameWithOwner": "perditioinc/zeta-empty",
+      "name": "zeta-empty",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "language": null,
+      "pushedAt": null,
+      "topics": [],
+      "isFork": false
+    }
+  ]
+}
