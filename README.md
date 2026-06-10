@@ -1,5 +1,7 @@
 # reporium-db
 
+![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen)
+
 [![Nightly](https://github.com/perditioinc/reporium-db/actions/workflows/sync.yml/badge.svg)](https://github.com/perditioinc/reporium-db/actions/workflows/sync.yml)
 
 > Nightly GitHub metadata sync powering reporium.com — currently tracking **1,940 repos** across **41 languages**.
