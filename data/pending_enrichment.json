@@ -1,4 +1,25 @@
 {
-  "generated_at": "2026-06-09T08:43:14.344745+00:00",
-  "repos": []
+  "generated_at": "2026-06-13T08:26:35.363702+00:00",
+  "repos": [
+    {
+      "name_with_owner": "perditioinc/container",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/coreai-models",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/openmed",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/opik",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/server__",
+      "reason": "new_repo"
+    }
+  ]
 }

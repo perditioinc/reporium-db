@@ -1,10 +1,8 @@
 # reporium-db
 
-![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen)
-
 [![Nightly](https://github.com/perditioinc/reporium-db/actions/workflows/sync.yml/badge.svg)](https://github.com/perditioinc/reporium-db/actions/workflows/sync.yml)
 
-> Nightly GitHub metadata sync powering reporium.com — currently tracking **1,940 repos** across **41 languages**.
+> Nightly GitHub metadata sync powering reporium.com — currently tracking **1,945 repos** across **41 languages**.
 
 ## Why This Exists
 
@@ -63,7 +61,7 @@ python -m reporium_db status
 
 | Repos | Runtime | API Calls |
 |-------|---------|-----------|
-| 1,940 | 690.5s | 20 API calls |
+| 1,945 | 249.9s | 20 API calls |
 
 _Scale projections will be added as real data is collected._
 
@@ -78,12 +76,12 @@ _Scale projections will be added as real data is collected._
 
 | Field | Value |
 |-------|-------|
-| Duration | 690.5s |
-| Repos fetched | 1,940 |
-| New repos | 0 |
+| Duration | 249.9s |
+| Repos fetched | 1,945 |
+| New repos | 5 |
 | Updated repos | 0 |
 | API calls used | 20 |
-| Rate limit remaining | 4,671 |
+| Rate limit remaining | 4,903 |
 | Schedule tiers | nightly · weekly · monthly |
 | Checkpoint resumed | No |
 
@@ -97,4 +95,4 @@ MIT
 
 
 ---
-*Last updated: 2026-06-09T08:43:14.345573+00:00 | 1,940 repos tracked*
+*Last updated: 2026-06-13T08:26:35.364629+00:00 | 1,945 repos tracked*
