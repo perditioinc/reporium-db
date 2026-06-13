@@ -1,14 +1,14 @@
 {
   "meta": {
-    "total": 1940,
-    "last_updated": "2026-06-09T08:43:14.345573+00:00",
+    "total": 1945,
+    "last_updated": "2026-06-13T08:26:35.364629+00:00",
     "version": "1.0.0"
   },
   "categories": {
     "tooling": 1
   },
   "languages": {
-    "Python": 810,
+    "Python": 814,
     "TypeScript": 291,
     "Jupyter Notebook": 148,
     "C++": 118,
@@ -20,7 +20,7 @@
     "HTML": 22,
     "Java": 21,
     "Shell": 20,
-    "Swift": 16,
+    "Swift": 17,
     "Cuda": 8,
     "CSS": 7,
     "MDX": 6,
