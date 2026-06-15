@@ -1,0 +1,182 @@
+{
+  "$schema": "leak-pattern-catalog/v1",
+  "meta": {
+    "name": "Perditio public-safe leak-pattern catalog",
+    "version": "1.0.0",
+    "generated": "2026-06-14",
+    "public_safe": true,
+    "derived_from": [
+      "REPORIUM-INCIDENT-2026-06-13.md",
+      "perditio-os/AGENTS.md (data-classification-policy)"
+    ],
+    "principle": "Patterns are GENERIC SHAPES only. No literal secret values, no specific GCP project numbers, no real tokens are embedded, so this catalog is safe to commit to a public repo. Tenant-specific literals (real project ids/numbers, the exact prod *.run.app host, real SA emails, WIF pool resource names, exact internal hostnames) belong ONLY in a gitignored private config (config.json) consumed at scan time.",
+    "config_contract": {
+      "private_config_file": "config.json",
+      "gitignored": true,
+      "expected_keys": [
+        "gcp_project_ids",
+        "gcp_project_numbers",
+        "prod_run_app_hosts",
+        "wif_pool_resource_paths",
+        "service_account_emails",
+        "internal_saas_hosts",
+        "operator_pii_markers",
+        "extra_secret_env_names"
+      ],
+      "usage": "The scanner loads config.json and matches these high-precision literals in ADDITION to the generic shapes below. The literals must never be inlined into this public catalog."
+    }
+  },
+  "pattern_groups": [
+    {
+      "name": "github_tokens",
+      "regex": "\\b(?:ghp|gho|ghu|ghs|ghr)_[A-Za-z0-9]{36,}\\b|\\bgithub_pat_[A-Za-z0-9_]{22,}\\b",
+      "severity": "critical",
+      "description": "GitHub personal-access / OAuth / app tokens (classic ghp_/gho_/ghu_/ghs_/ghr_ and fine-grained github_pat_). Maps to forksync-github-token, GH_TOKEN and CI creds flagged in the incident."
+    },
+    {
+      "name": "anthropic_api_key",
+      "regex": "\\bsk-ant-[A-Za-z0-9_-]{20,}\\b",
+      "severity": "critical",
+      "description": "Anthropic API key (ANTHROPIC_API_KEY). Flagged for rotation in the incident. The sk-ant- prefix is the public shape; the body is generic."
+    },
+    {
+      "name": "openai_style_key",
+      "regex": "\\bsk-(?:proj-)?[A-Za-z0-9]{20,}\\b",
+      "severity": "critical",
+      "description": "OpenAI-style secret key (sk- / sk-proj-). Included for general threat coverage of LLM provider keys in client/server bundles."
+    },
+    {
+      "name": "google_api_key",
+      "regex": "\\bAIza[0-9A-Za-z_-]{35}\\b",
+      "severity": "critical",
+      "description": "Google / GCP API key (AIza...). Fixed 39-char shape. Common in client bundles and a NEXT_PUBLIC_* leak vector."
+    },
+    {
+      "name": "aws_access_key_id",
+      "regex": "\\b(?:AKIA|ASIA|AGPA|AIDA|AROA|AIPA|ANPA|ANVA|ABIA|ACCA)[0-9A-Z]{16}\\b",
+      "severity": "critical",
+      "description": "AWS access key id (AKIA long-lived, ASIA temporary, plus other 4-char AWS resource prefixes). Generic 20-char shape."
+    },
+    {
+      "name": "slack_token",
+      "regex": "\\bxox[baprs]-[A-Za-z0-9-]{10,}\\b",
+      "severity": "critical",
+      "description": "Slack tokens (xoxb/xoxa/xoxp/xoxr/xoxs bot, app, user, refresh tokens)."
+    },
+    {
+      "name": "jwt_token",
+      "regex": "\\beyJ[A-Za-z0-9_-]{8,}\\.eyJ[A-Za-z0-9_-]{8,}\\.[A-Za-z0-9_-]{8,}\\b",
+      "severity": "high",
+      "description": "JSON Web Token (three base64url segments, header starts eyJ). May be a session/service token; treat as high until proven non-sensitive."
+    },
+    {
+      "name": "private_key_block",
+      "regex": "-----BEGIN (?:RSA |EC |DSA |OPENSSH |PGP |ENCRYPTED )?PRIVATE KEY-----",
+      "severity": "critical",
+      "description": "PEM/OpenSSH/PGP private-key block header. Catches RSA/EC/DSA/OPENSSH/PGP/encrypted private keys. CRITICAL-class per data-classification-policy; MUST NOT appear in any repo."
+    },
+    {
+      "name": "gcp_service_account_json",
+      "regex": "\"type\"\\s*:\\s*\"service_account\"|\"private_key_id\"\\s*:\\s*\"[a-f0-9]{20,}\"",
+      "severity": "critical",
+      "description": "GCP service-account JSON key file fingerprint (type:service_account / private_key_id). Maps to GCP_SA_KEY / long-lived JSON keys flagged for WIF migration in the incident."
+    },
+    {
+      "name": "secret_named_env_vars",
+      "regex": "(?im)^[ \\t]*(?:export[ \\t]+)?[A-Z][A-Z0-9_]*(?:_API_TOKEN|_API_KEY|_TOKEN|_SECRET|_KEY|_PASSWORD|_PASSWD|_CREDENTIALS|_DSN)[ \\t]*[:=]",
+      "severity": "high",
+      "description": "Assignment to a secret-NAMED environment variable (suffixes _API_TOKEN/_API_KEY/_TOKEN/_SECRET/_KEY/_PASSWORD/_CREDENTIALS/_DSN). Flags the NAME pattern even when the value is redacted, per the incident 'secret NAMES exposed' finding. Covers ADMIN_API_KEY, APP_API_TOKEN, INGEST_API_KEY/INGESTION_API_KEY, ANTHROPIC_API_KEY, reporium-mcp-token, SENTRY_DSN."
+    },
+    {
+      "name": "next_public_token_antipattern",
+      "regex": "(?i)\\bNEXT_PUBLIC_[A-Z0-9_]*(?:TOKEN|SECRET|KEY|API_KEY|PASSWORD|CREDENTIAL)\\b",
+      "severity": "critical",
+      "description": "Client-bundle anti-pattern: a secret shipped under NEXT_PUBLIC_* (e.g. NEXT_PUBLIC_APP_API_TOKEN) is bundled into the PUBLIC client. Directly maps to incident #427. Secrets MUST be server-side, never NEXT_PUBLIC_*."
+    },
+    {
+      "name": "gcp_project_id_shape",
+      "regex": "(?i)\\b(?:project[_-]?id|--project|gcloud\\s+config\\s+set\\s+project)\\b[\"':= ]+([a-z][a-z0-9-]{4,28}[a-z0-9])\\b",
+      "severity": "medium",
+      "description": "GCP project-id SHAPE in context (6-30 chars, lowercase/digits/hyphens). Generic only; the REAL project id is tenant-specific and belongs in config.gcp_project_ids, never inlined here."
+    },
+    {
+      "name": "gcp_project_number_shape",
+      "regex": "(?i)\\b(?:project[_-]?number|projects/)\\D{0,4}([0-9]{10,14})\\b",
+      "severity": "medium",
+      "description": "GCP project-NUMBER shape (10-14 digit numeric project id, e.g. in projects/<number> resource paths). Generic shape; the real number belongs in config.gcp_project_numbers, never hardcoded."
+    },
+    {
+      "name": "gcp_service_account_email",
+      "regex": "\\b[a-z][a-z0-9-]{4,29}@(?:[a-z][a-z0-9-]{4,28}\\.iam|appspot|developer)\\.gserviceaccount\\.com\\b",
+      "severity": "high",
+      "description": "GCP service-account email (*@*.iam.gserviceaccount.com plus appspot/developer variants). Maps to the over-privileged compute SA and legacy gcloud-service-account@ in incident #382/#414. Real SA emails go in config.service_account_emails."
+    },
+    {
+      "name": "cloud_run_prod_url",
+      "regex": "(?i)\\bhttps?://[a-z0-9-]+(?:-[a-z0-9]+)?\\.[a-z]{2,}-[a-z]+[0-9]\\.run\\.app\\b|\\bhttps?://[a-z0-9-]+\\.run\\.app\\b",
+      "severity": "high",
+      "description": "Cloud Run service URL (*.run.app). The incident exposed the prod URL + ~20 endpoints. The exact prod host(s) are tenant-specific and belong in config.prod_run_app_hosts; this generic shape catches any *.run.app reference."
+    },
+    {
+      "name": "wif_pool_path",
+      "regex": "projects/[0-9]{6,}/locations/[a-z0-9-]+/workloadIdentityPools/[A-Za-z0-9_-]+(?:/providers/[A-Za-z0-9_-]+)?",
+      "severity": "high",
+      "description": "Workload Identity Federation pool/provider resource path. Relevant to the CI WIF migration (incident #415). The full real resource path belongs in config.wif_pool_resource_paths; only the shape is public-safe."
+    },
+    {
+      "name": "internal_saas_atlassian",
+      "regex": "(?i)\\bhttps?://[a-z0-9][a-z0-9-]*\\.atlassian\\.net\\b",
+      "severity": "medium",
+      "description": "Atlassian Cloud (Jira/Confluence) tenant URL (*.atlassian.net). Internal SaaS surface. Specific tenant subdomain belongs in config.internal_saas_hosts."
+    },
+    {
+      "name": "internal_saas_workato",
+      "regex": "(?i)\\b(?:[a-z0-9-]+\\.)?workato\\.com\\b|\\bworkato[_-]?(?:api[_-]?token|client[_-]?secret|webhook)\\b",
+      "severity": "medium",
+      "description": "Workato integration platform references (workato.com hosts or workato-named credentials/webhooks). Internal automation SaaS surface."
+    },
+    {
+      "name": "pii_email",
+      "regex": "\\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,}\\b",
+      "severity": "low",
+      "description": "Generic email address (PII). Low by default to limit noise; the scanner SHOULD escalate to high when the local-part/domain matches an operator marker from config.operator_pii_markers (e.g. team@perditio.com, the operator personal gmail). Do NOT inline the operator addresses in this public file."
+    },
+    {
+      "name": "pii_phone",
+      "regex": "(?<![\\w.])(?:\\+?\\d{1,3}[ .-]?)?(?:\\(\\d{1,4}\\)[ .-]?)?\\d{2,4}[ .-]?\\d{3,4}[ .-]?\\d{3,4}(?![\\w])",
+      "severity": "low",
+      "description": "Phone-number shape (international and grouped local formats), PII per data-classification-policy. Low severity / high false-positive; pair with context keywords (phone, tel, mobile) to raise precision."
+    },
+    {
+      "name": "operator_pii_marker",
+      "regex": "(?i)\\b(?:team|admin|support|ops|security)@[a-z0-9-]+\\.[a-z]{2,}\\b",
+      "severity": "medium",
+      "description": "Operator/role mailbox shape (team@/admin@/support@ etc.). The incident specific operator markers (team@perditio.com, the operator personal gmail) are tenant PII and MUST live in config.operator_pii_markers, matched as exact high-severity hits there, not embedded here."
+    },
+    {
+      "name": "internal_artifact_export",
+      "regex": "(?i)\\bjira-kan-full-export\\.json\\b|\\bjira[_-]?kan[_-]?full[_-]?export\\b",
+      "severity": "medium",
+      "description": "Internal Jira export artifact (jira-kan-full-export.json). Appears as a footer on flagged issues in the incident (Track B3 strips it). Public exposure signals internal-tracking leakage."
+    },
+    {
+      "name": "internal_artifact_audit_paths",
+      "regex": "(?i)(?:^|[\\s\"'(/=])\\.audit/[A-Za-z0-9._/-]+|\\breporium-audit\\b",
+      "severity": "medium",
+      "description": "Internal audit artifacts: .audit/ paths and the reporium-audit repo (one of the 4 infra repos to privatize, Track B1). Presence in public content indicates internal-only material leaked."
+    },
+    {
+      "name": "internal_artifact_security_vercel",
+      "regex": "(?i)\\bSECURITY-VERCEL[A-Za-z0-9._-]*\\b",
+      "severity": "medium",
+      "description": "Internal security artifact marker (SECURITY-VERCEL*). Internal remediation/security document naming that should not appear in public repos or issue bodies."
+    },
+    {
+      "name": "secrets_manager_access_cmd",
+      "regex": "(?i)gcloud\\s+secrets\\s+versions\\s+access\\b|\\bSecret\\s*Manager\\b",
+      "severity": "medium",
+      "description": "Secret Manager access command/instructions (gcloud secrets versions access ...). The incident notes #372/#413 exposed the access command + required scopes. The command shape in public content is an operational-detail leak (it names how to retrieve a live secret)."
+    }
+  ],
+  "notes": "PUBLIC-SAFE BY CONSTRUCTION: every regex is a generic format shape; no literal secret value, real GCP project id/number, real *.run.app prod host, real SA email, WIF pool name, or operator PII address is embedded. Tenant-specific high-precision literals MUST be supplied at scan time from a gitignored private config.json (keys: gcp_project_ids, gcp_project_numbers, prod_run_app_hosts, wif_pool_resource_paths, service_account_emails, internal_saas_hosts, operator_pii_markers, extra_secret_env_names) and matched in ADDITION to these shapes; for those literals the scanner SHOULD raise the matched group to critical/high. Severity rationale follows data-classification-policy: live credentials and private keys = critical (CRITICAL class, MUST NOT appear in any repo); identifiers/endpoints/SA emails/JWTs = high; project ids/numbers, internal SaaS hosts, internal-artifact markers, role mailboxes = medium; generic email/phone = low (escalate on operator-marker or context match). Two findings in the incident were LIVE misconfigs not just leaks (ADMIN_API_KEY unset so /admin/* returned 200; NEXT_PUBLIC_APP_API_TOKEN shipped client-side) - the secret_named_env_vars and next_public_token_antipattern groups exist to catch those classes pre-deploy. A scanner hit reduces FUTURE exposure only; an already-public secret still requires ROTATION (Track A), which a scanner cannot perform."
+}
