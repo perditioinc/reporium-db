@@ -1,0 +1,16 @@
+name: security-sweep
+on:
+  pull_request:
+  schedule:
+    - cron: "17 6 * * 1"
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  scan:
+    runs-on: [self-hosted]
+    steps:
+      - uses: actions/checkout@v4
+      - name: leak/secret/PII scan (blocks on critical/high)
+        shell: powershell
+        run: ./security/scan/scan.ps1 -RepoPath . -PolicyDir security/policy -FailLevel high
