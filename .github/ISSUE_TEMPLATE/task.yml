@@ -1,0 +1,42 @@
+name: Task
+description: Standard work item - enforced metadata (assignee/labels/milestone/estimate still set after creation)
+labels: ["needs-metadata"]
+body:
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      options: [feature, fix, chore, docs, security, spike]
+    validations:
+      required: true
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority
+      options: [P0, P1, P2, P3]
+    validations:
+      required: true
+  - type: input
+    id: area
+    attributes:
+      label: Area
+      description: "e.g. reporium, anomra, infra, platform"
+    validations:
+      required: true
+  - type: input
+    id: estimate
+    attributes:
+      label: Estimate (hrs)
+      description: "Estimated hours to complete"
+    validations:
+      required: true
+  - type: textarea
+    id: detail
+    attributes:
+      label: Detail
+      description: What, why, acceptance criteria
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: "After creating: set the Assignee, the P0-P3 + area:/type: labels, the Milestone, add to the Perditio-Labs Work Board, and fill the Estimate field. metadata-guard will flag the issue until these are set."

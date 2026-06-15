@@ -1,0 +1,45 @@
+name: metadata-guard
+on:
+  issues:
+    types: [opened, edited, reopened]
+  pull_request:
+    types: [opened, edited, reopened, ready_for_review, synchronize]
+permissions:
+  issues: write
+  pull-requests: write
+  contents: read
+jobs:
+  guard:
+    runs-on: [self-hosted]
+    steps:
+      - uses: actions/github-script@v7
+        with:
+          script: |
+            const isPR = !!context.payload.pull_request;
+            const obj = isPR ? context.payload.pull_request : context.payload.issue;
+            const labels = (obj.labels || []).map(l => l.name);
+            const body = obj.body || '';
+            const missing = [];
+            if (!obj.assignees || obj.assignees.length === 0) missing.push('assignee');
+            if (!labels.some(l => /^P[0-3]$/.test(l))) missing.push('priority label (P0-P3)');
+            if (!labels.some(l => l.startsWith('area:') || l.startsWith('type:'))) missing.push('area:/type: label');
+            if (!obj.milestone) missing.push('milestone');
+            if (!/Estimate[^\n]*\d/i.test(body)) missing.push('Estimate (hrs)');
+            if (isPR) {
+              if (!/Actual[^\n]*\d/i.test(body)) missing.push('Actual (hrs)');
+              if (!/(closes|fixes|resolves)\s+#\d+/i.test(body)) missing.push('linked issue (Closes #N)');
+              const revs = (context.payload.pull_request.requested_reviewers || []).length + (context.payload.pull_request.requested_teams || []).length;
+              if (revs === 0) missing.push('reviewer');
+            }
+            const n = obj.number;
+            if (missing.length) {
+              const msg = 'metadata-guard: missing required field(s) -> ' + missing.join(', ') +
+                '. See governance/metrics-and-metadata-standard.md. Every ' + (isPR ? 'PR' : 'issue') +
+                ' needs assignee + priority + area/type label + milestone + Estimate' +
+                (isPR ? ' + Actual + linked issue + reviewer' : '') + '.';
+              await github.rest.issues.createComment({ ...context.repo, issue_number: n, body: msg });
+              if (isPR) { core.setFailed(msg); }
+              else { try { await github.rest.issues.addLabels({ ...context.repo, issue_number: n, labels: ['needs-metadata'] }); } catch (e) {} }
+            } else if (!isPR) {
+              try { await github.rest.issues.removeLabel({ ...context.repo, issue_number: n, name: 'needs-metadata' }); } catch (e) {}
+            }
