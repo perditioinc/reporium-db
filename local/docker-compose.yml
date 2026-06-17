@@ -1,0 +1,63 @@
+# Local OSS dev substrate for reporium-db.
+#
+# Brings up a deterministic, offline stand-in for this repo's only cloud
+# dependency (the GitHub GraphQL API) and runs the REAL pipeline against it.
+# No GitHub token, no network egress to api.github.com, no paid services.
+#
+# Services:
+#   mock-github  - stdlib-only mock of the GitHub GraphQL API, fed by local/seed
+#   runner       - runs the real reporium_db pipeline pointed at mock-github
+#
+# Driven by the Makefile (make -C local up|seed|migrate|smoke|down) or directly
+# via `docker compose -f local/docker-compose.yml ...`.
+
+name: reporium-db-local
+
+services:
+  mock-github:
+    build:
+      context: ..
+      dockerfile: local/Dockerfile.mock
+    working_dir: /src
+    environment:
+      MOCK_PORT: "8787"
+      MOCK_SEED: "/src/local/seed/repos.json"
+      MOCK_PAGE_SIZE: "2"  # small page size exercises real cursor pagination
+    volumes:
+      - ..:/src:ro
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request,sys; sys.exit(0) if urllib.request.urlopen('http://localhost:8787/health').status==200 else sys.exit(1)"]
+      interval: 2s
+      timeout: 3s
+      retries: 20
+    expose:
+      - "8787"
+
+  runner:
+    build:
+      context: ..
+      dockerfile: local/Dockerfile.runner
+    depends_on:
+      mock-github:
+        condition: service_healthy
+    environment:
+      # Point the real fetcher at the mock; no real token is ever used.
+      MOCK_GRAPHQL_URL: "http://mock-github:8787/graphql"
+      GH_TOKEN: "local-no-secret"
+      GH_USERNAME: "perditioinc"
+      PYTHONUNBUFFERED: "1"
+    working_dir: /work
+    volumes:
+      # Source is mounted READ-ONLY so a local run can never mutate the user's
+      # checkout (no overwriting committed data/, README.md, schedule.json...).
+      - ..:/src:ro
+      # /work is a clean, ephemeral scratch dir that lives only in this
+      # container/volume. Each run starts from an empty data/ here, satisfying
+      # the "clean DB" requirement without touching the working tree.
+      - runner_work:/work
+    # No default command: the Makefile / `docker compose run` supplies the
+    # specific step. Keeps a bare `up` from doing writes.
+    command: ["-c", "print('runner ready; invoke a step via make migrate/seed/smoke')"]
+
+volumes:
+  runner_work: {}

@@ -1,0 +1,22 @@
+# Local-only runner image for the reporium-db OSS dev substrate.
+# Runs the REAL reporium_db pipeline against the local mock GitHub endpoint.
+# $0 / OSS: official slim Python base, pip from PyPI only, no secrets baked in.
+FROM python:3.11-slim
+
+WORKDIR /app
+
+# Install only the runtime deps the pipeline actually needs locally. We
+# deliberately do NOT install the optional `reporium-events` package (a private
+# git dependency) here: the real CLI guards its use with try/except ImportError,
+# so the substrate runs fully offline and the Pub/Sub publish is skipped. This
+# keeps the local build $0, network-light, and free of any private-repo auth.
+RUN pip install --no-cache-dir \
+    "httpx>=0.27" \
+    "python-dotenv>=1.0" \
+    "pyyaml>=6.0"
+
+# App source + local scaffolding are mounted at runtime via compose so the
+# working tree stays editable; nothing is copied here. The mount provides
+# /app/reporium_db and /app/local.
+
+ENTRYPOINT ["python"]
