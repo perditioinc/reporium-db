@@ -129,6 +129,35 @@ def _save_checkpoint(started_at: str, cursor: Optional[str], count: int) -> None
     os.replace(tmp, CHECKPOINT_FILE)
 
 
+def _clear_checkpoint() -> None:
+    """Best-effort removal of the checkpoint after a fully successful fetch.
+
+    Deleting the checkpoint is a cleanup, not a correctness operation: a
+    leftover checkpoint is < 24h old and resumable, and resume is idempotent
+    (the cursor is saved AFTER it advances, so the next run fetches the NEXT
+    page, never re-counting). A transient OS-level lock on the file - Windows
+    holds a brief share lock during antivirus scans / indexing, and concurrent
+    readers can keep the handle open - must therefore NOT turn an otherwise
+    green sync RED. Swallow the file-system errors that mean "already gone" or
+    "momentarily locked"; the < 24h staleness check cleans it up next run.
+    """
+    try:
+        CHECKPOINT_FILE.unlink()
+    except FileNotFoundError:
+        # Already removed (e.g. concurrent run, or never written for a
+        # single-page fetch). Nothing to do.
+        pass
+    except OSError as exc:
+        # PermissionError [WinError 5/32] and friends: the file exists but is
+        # momentarily locked. Leaving it is safe - it is resumable and will be
+        # aged out on the next run - so log and continue rather than fail.
+        logger.warning(
+            "Could not remove checkpoint %s (leaving it for next run to age out): %s",
+            CHECKPOINT_FILE,
+            exc,
+        )
+
+
 def _parse_retry_after(value: str | None) -> float | None:
     """Parse a Retry-After header value into seconds when possible."""
     if not value:
@@ -320,8 +349,7 @@ async def fetch_all_repos(config: Config) -> tuple[list[RepoMetadata], dict[str,
             # with the old (pre-advance) cursor which double-counted on resume.
             _save_checkpoint(started_at, cursor, len(repos))
 
-    if CHECKPOINT_FILE.exists():
-        CHECKPOINT_FILE.unlink()
+    _clear_checkpoint()
 
     elapsed = time.monotonic() - t0
     logger.info("Fetch complete: %d repos in %.1fs (%d API calls)", len(repos), elapsed, api_calls)

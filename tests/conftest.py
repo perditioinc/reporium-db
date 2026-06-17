@@ -4,7 +4,29 @@ from __future__ import annotations
 
 import pytest
 
+import reporium_db.fetcher as fetcher
 from reporium_db.models import RepoMetadata
+
+
+@pytest.fixture(autouse=True)
+def isolate_checkpoint(tmp_path, monkeypatch):
+    """Redirect the fetcher checkpoint to a per-test tmp path.
+
+    The fetcher writes ``checkpoints/current_run.json`` (a relative path) on
+    every multi-page fetch. Without this isolation, tests would write a real
+    checkpoint into the repo working tree - a data artifact that must never be
+    committed - and collide with each other on Windows, where a momentarily
+    locked file makes ``os.replace`` / ``unlink`` raise PermissionError and the
+    multi-page test flakes red. Pinning the checkpoint under ``tmp_path`` per
+    test makes the suite hermetic and deterministic on every OS.
+
+    Tests that need to drive the checkpoint explicitly (e.g. a pre-seeded
+    resume file) may still ``monkeypatch``/``patch`` ``fetcher.CHECKPOINT_FILE``
+    themselves; this fixture just supplies a safe default.
+    """
+    monkeypatch.setattr(
+        fetcher, "CHECKPOINT_FILE", tmp_path / "checkpoints" / "current_run.json"
+    )
 
 
 def make_repo(
