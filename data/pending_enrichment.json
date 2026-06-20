@@ -1,4 +1,45 @@
 {
-  "generated_at": "2026-06-14T08:45:02.159661+00:00",
-  "repos": []
+  "generated_at": "2026-06-20T08:24:22.333697+00:00",
+  "repos": [
+    {
+      "name_with_owner": "perditioinc/CADAM",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/HY-Motion-1.0",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/OpenMontage",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/cocoindex-code",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/codebase-memory-mcp",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/hyper-extract",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/mediamtx",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/openkb",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/rf-detr",
+      "reason": "new_repo"
+    },
+    {
+      "name_with_owner": "perditioinc/universal-android-debloater-next-generation",
+      "reason": "new_repo"
+    }
+  ]
 }
