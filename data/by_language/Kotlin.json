@@ -1,5 +1,27 @@
 [
   {
+    "nameWithOwner": "perditioinc/PixelPlayer",
+    "name": "PixelPlayer",
+    "description": "privacy-first Android music player built with Material 3 Expressive. Play offline, sync lyrics, fine-tune with equalizer presets, and cast to your devices.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Kotlin",
+    "pushedAt": "2026-03-20T22:39:06Z",
+    "updatedAt": "2026-06-14T23:51:26Z",
+    "createdAt": "2026-03-22T09:12:04Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "master",
+    "parentRepo": "PixelPlayerHQ/PixelPlayer",
+    "parentStars": 5123,
+    "parentForks": 409,
+    "isPrivate": false
+  },
+  {
     "nameWithOwner": "perditioinc/ImageToolbox",
     "name": "ImageToolbox",
     "description": "\ud83d\uddbc\ufe0f Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options",
@@ -17,8 +39,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "T8RIN/ImageToolbox",
-    "parentStars": 13316,
-    "parentForks": 570,
+    "parentStars": 13348,
+    "parentForks": 571,
     "isPrivate": false
   },
   {
@@ -39,8 +61,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google-ai-edge/gallery",
-    "parentStars": 23835,
-    "parentForks": 2507,
+    "parentStars": 23866,
+    "parentForks": 2515,
     "isPrivate": false
   }
 ]

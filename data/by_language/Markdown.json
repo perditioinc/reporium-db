@@ -1,5 +1,27 @@
 [
   {
+    "nameWithOwner": "perditioinc/magictools",
+    "name": "magictools",
+    "description": ":video_game: :pencil: A list of Game Development resources to make magic happen.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Markdown",
+    "pushedAt": "2026-03-17T01:46:56Z",
+    "updatedAt": "2026-03-17T01:47:00Z",
+    "createdAt": "2026-03-13T10:44:00Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "ellisonleao/magictools",
+    "parentStars": 16856,
+    "parentForks": 1199,
+    "isPrivate": false
+  },
+  {
     "nameWithOwner": "perditioinc/build-your-own-x",
     "name": "build-your-own-x",
     "description": "Master programming by recreating your favorite technologies from scratch.",
@@ -17,8 +39,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "codecrafters-io/build-your-own-x",
-    "parentStars": 517539,
-    "parentForks": 48968,
+    "parentStars": 518292,
+    "parentForks": 49031,
     "isPrivate": false
   }
 ]

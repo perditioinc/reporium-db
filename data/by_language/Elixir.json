@@ -1,5 +1,27 @@
 [
   {
+    "nameWithOwner": "perditioinc/symphony",
+    "name": "symphony",
+    "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "Elixir",
+    "pushedAt": "2026-03-17T01:47:26Z",
+    "updatedAt": "2026-03-17T01:47:30Z",
+    "createdAt": "2026-03-14T00:09:08Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "Apache License 2.0",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "openai/symphony",
+    "parentStars": 25530,
+    "parentForks": 2586,
+    "isPrivate": false
+  },
+  {
     "nameWithOwner": "perditioinc/analytics",
     "name": "analytics",
     "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
@@ -17,8 +39,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "plausible/analytics",
-    "parentStars": 27258,
-    "parentForks": 1647,
+    "parentStars": 27305,
+    "parentForks": 1653,
     "isPrivate": false
   }
 ]

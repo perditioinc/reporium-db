@@ -1,5 +1,27 @@
 [
   {
+    "nameWithOwner": "perditioinc/machine-learning-cheat-sheet",
+    "name": "machine-learning-cheat-sheet",
+    "description": "Classical equations and diagrams in machine learning",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "TeX",
+    "pushedAt": "2024-07-30T22:02:41Z",
+    "updatedAt": "2025-11-16T17:53:12Z",
+    "createdAt": "2025-11-16T17:53:12Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "master",
+    "parentRepo": "soulmachine/machine-learning-cheat-sheet",
+    "parentStars": 8031,
+    "parentForks": 1340,
+    "isPrivate": false
+  },
+  {
     "nameWithOwner": "perditioinc/Deep-Learning-for-Medical-Applications",
     "name": "Deep-Learning-for-Medical-Applications",
     "description": "Deep Learning Papers on Medical Image Analysis",
@@ -39,7 +61,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "TsinghuaC3I/Awesome-RL-for-LRMs",
-    "parentStars": 2468,
+    "parentStars": 2465,
     "parentForks": 131,
     "isPrivate": false
   }
