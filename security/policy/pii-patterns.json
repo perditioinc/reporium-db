@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "description": "Public-safe PII detection patterns. Generic shapes only (no live PII embedded). Operator-specific markers are intentionally included so a redaction pass can catch the operator's own contact/private data before any public publish.",
+  "description": "Public-safe PII detection patterns. Generic shapes only - NO operator-specific literals. Operator-specific markers (personal/team email, private domain, confidential keyword lists) have been REMOVED from this public file and must be supplied at scan time from a gitignored private config (e.g. security/policy/.private-markers.json, never committed). Embedding operator literals here would itself leak them.",
   "notes": "Regexes target PCRE/RE2-compatible engines. Case-insensitivity is encoded inline with (?i) where intended. RE2 (Go and many scanners) does not support lookbehind/lookahead; where lookarounds are used, the description gives an RE2 fallback. Severity scale: low | medium | high | critical.",
   "patterns": [
     {
@@ -98,42 +98,6 @@
       "regex": "(?<![\\d.])(?:(?:25[0-5]|2[0-4]\\d|1?\\d?\\d)\\.){3}(?:25[0-5]|2[0-4]\\d|1?\\d?\\d)(?![\\d.])",
       "severity": "low",
       "description": "IPv4 address with valid 0-255 octets. Low severity as a quasi-identifier; raise to medium when correlated with a user/session."
-    },
-    {
-      "name": "operator_email_team_perditio",
-      "regex": "(?i)\\b***REDACTED-OPERATOR-EMAIL***\\.com\\b",
-      "severity": "critical",
-      "description": "OPERATOR PRIVATE MARKER. The operator's internal team contact address. Must never appear in any public-facing artifact; redact unconditionally before publish."
-    },
-    {
-      "name": "operator_email_kim_loza",
-      "regex": "(?i)\\bkim\\.loza\\.dev@gmail\\.com\\b",
-      "severity": "critical",
-      "description": "OPERATOR PRIVATE MARKER. The operator's personal email. Never expose publicly; redact unconditionally."
-    },
-    {
-      "name": "operator_perditio_email_domain",
-      "regex": "(?i)\\b[A-Z0-9._%+-]+@perditio\\.com\\b",
-      "severity": "high",
-      "description": "OPERATOR PRIVATE MARKER. Any address on the operator's private perditio.com domain. Treat all such addresses as internal and non-public."
-    },
-    {
-      "name": "operator_jobsearch_marker",
-      "regex": "(?i)\\b(?:job[ _-]?search|job[ _-]?hunt|job[ _-]?application|applied[ _-]?(?:to|at)|interview[ _-]?(?:with|at|loop|scheduled)|offer[ _-]?(?:letter|stage|received)|recruiter[ _-]?(?:call|screen)|resume|cover[ _-]?letter|salary[ _-]?(?:expectation|negotiation)|notice[ _-]?period)\\b",
-      "severity": "high",
-      "description": "OPERATOR PRIVATE MARKER. Job-search activity keywords. The operator's job-search status and data are confidential and must not surface in any public or shared artifact. Tune the term list to your context to limit false positives."
-    },
-    {
-      "name": "operator_gtm_marker",
-      "regex": "(?i)\\b(?:GTM|go[ _-]?to[ _-]?market|launch[ _-]?plan|pricing[ _-]?(?:strategy|tier|model)|sales[ _-]?(?:pipeline|funnel|forecast)|revenue[ _-]?(?:target|projection)|customer[ _-]?(?:list|pipeline)|deal[ _-]?(?:size|stage)|ARR|MRR|CAC|LTV|churn[ _-]?(?:rate|risk)|roadmap[ _-]?(?:internal|confidential))\\b",
-      "severity": "high",
-      "description": "OPERATOR PRIVATE MARKER. Go-to-market and commercial-strategy keywords. Internal GTM, pricing, pipeline and revenue data are confidential; flag for review before any external sharing. Tune the term list to reduce noise on generic business prose."
-    },
-    {
-      "name": "operator_private_label_marker",
-      "regex": "(?i)\\b(?:PERDITIO[ _-]?(?:PLATFORM|INTERNAL|PRIVATE|CONFIDENTIAL)|PTR[ _-]?(?:PLATFORM|INTERNAL|PRIVATE)|INTERNAL[ _-]?ONLY|DO[ _-]?NOT[ _-]?(?:SHARE|DISTRIBUTE|PUBLISH)|CONFIDENTIAL|NDA[ _-]?(?:ONLY|REQUIRED))\\b",
-      "severity": "high",
-      "description": "OPERATOR PRIVATE MARKER. Explicit confidentiality and internal-platform labels (Perditio/PTR platform internal markers, 'INTERNAL ONLY', 'DO NOT SHARE', 'CONFIDENTIAL', 'NDA'). Presence indicates the content is not public-safe; block publish and route to review."
     }
   ]
 }
