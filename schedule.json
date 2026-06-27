@@ -8995,7 +8995,7 @@
   },
   "perditioinc/reporium-mcp": {
     "repo_name": "perditioinc/reporium-mcp",
-    "last_checked": "2026-06-25T08:36:40.455336+00:00",
+    "last_checked": "2026-06-27T07:52:01.215707+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-06-22T03:30:41Z"
   },
@@ -11293,9 +11293,9 @@
   },
   "perditioinc/reporium-trust-score": {
     "repo_name": "perditioinc/reporium-trust-score",
-    "last_checked": "2026-06-25T08:36:40.456121+00:00",
+    "last_checked": "2026-06-27T07:52:01.216505+00:00",
     "tier": "nightly",
-    "upstream_pushed_at": "2026-06-25T08:23:31Z"
+    "upstream_pushed_at": "2026-06-27T06:30:41Z"
   },
   "perditioinc/DeepGEMM": {
     "repo_name": "perditioinc/DeepGEMM",
@@ -11833,37 +11833,37 @@
   },
   "perditioinc/claude-code-harness": {
     "repo_name": "perditioinc/claude-code-harness",
-    "last_checked": "2026-06-25T08:36:40.456334+00:00",
+    "last_checked": "2026-06-27T07:52:01.216694+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-05-27T19:52:07Z"
   },
   "perditioinc/skillopt": {
     "repo_name": "perditioinc/skillopt",
-    "last_checked": "2026-06-25T08:36:40.456337+00:00",
+    "last_checked": "2026-06-27T07:52:01.216699+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-05-28T09:55:40Z"
   },
   "perditioinc/git-devkit": {
     "repo_name": "perditioinc/git-devkit",
-    "last_checked": "2026-06-25T08:36:40.456341+00:00",
+    "last_checked": "2026-06-27T07:52:01.216703+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-05-29T07:22:48Z"
   },
   "perditioinc/hermes-webui": {
     "repo_name": "perditioinc/hermes-webui",
-    "last_checked": "2026-06-25T08:36:40.456345+00:00",
+    "last_checked": "2026-06-27T07:52:01.216707+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-06-01T02:40:02Z"
   },
   "perditioinc/compound-engineering-plugin": {
     "repo_name": "perditioinc/compound-engineering-plugin",
-    "last_checked": "2026-06-25T08:36:40.456348+00:00",
+    "last_checked": "2026-06-27T07:52:01.216711+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-06-01T04:03:02Z"
   },
   "perditioinc/harness": {
     "repo_name": "perditioinc/harness",
-    "last_checked": "2026-06-25T08:36:40.456352+00:00",
+    "last_checked": "2026-06-27T07:52:01.216714+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-05-29T17:04:20Z"
   },
@@ -11875,55 +11875,55 @@
   },
   "perditioinc/pi-subagents": {
     "repo_name": "perditioinc/pi-subagents",
-    "last_checked": "2026-06-25T08:36:40.456358+00:00",
+    "last_checked": "2026-06-27T07:52:01.216720+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-05-30T22:17:09Z"
   },
   "perditioinc/developer-portfolios": {
     "repo_name": "perditioinc/developer-portfolios",
-    "last_checked": "2026-06-25T08:36:40.456362+00:00",
+    "last_checked": "2026-06-27T07:52:01.216724+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-05-31T20:49:02Z"
   },
   "perditioinc/obsidian-second-brain": {
     "repo_name": "perditioinc/obsidian-second-brain",
-    "last_checked": "2026-06-25T08:36:40.456366+00:00",
+    "last_checked": "2026-06-27T07:52:01.216728+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-05-31T22:33:37Z"
   },
   "perditioinc/liteparse": {
     "repo_name": "perditioinc/liteparse",
-    "last_checked": "2026-06-25T08:36:40.456370+00:00",
+    "last_checked": "2026-06-27T07:52:01.216731+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-06-05T22:41:08Z"
   },
   "perditioinc/opik": {
     "repo_name": "perditioinc/opik",
-    "last_checked": "2026-06-25T08:36:40.456373+00:00",
+    "last_checked": "2026-06-27T07:52:01.216735+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-06-09T20:47:13Z"
   },
   "perditioinc/coreai-models": {
     "repo_name": "perditioinc/coreai-models",
-    "last_checked": "2026-06-25T08:36:40.456377+00:00",
+    "last_checked": "2026-06-27T07:52:01.216738+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-06-11T03:46:32Z"
   },
   "perditioinc/server__": {
     "repo_name": "perditioinc/server__",
-    "last_checked": "2026-06-25T08:36:40.456381+00:00",
+    "last_checked": "2026-06-27T07:52:01.216742+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-06-12T22:36:00Z"
   },
   "perditioinc/container": {
     "repo_name": "perditioinc/container",
-    "last_checked": "2026-06-25T08:36:40.456385+00:00",
+    "last_checked": "2026-06-27T07:52:01.216746+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-06-11T18:42:22Z"
   },
   "perditioinc/openmed": {
     "repo_name": "perditioinc/openmed",
-    "last_checked": "2026-06-25T08:36:40.456389+00:00",
+    "last_checked": "2026-06-27T07:52:01.216749+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-06-12T21:08:15Z"
   },
@@ -11935,19 +11935,19 @@
   },
   "perditioinc/hyper-extract": {
     "repo_name": "perditioinc/hyper-extract",
-    "last_checked": "2026-06-25T08:36:40.456395+00:00",
+    "last_checked": "2026-06-27T07:52:01.216755+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-06-14T10:27:11Z"
   },
   "perditioinc/rf-detr": {
     "repo_name": "perditioinc/rf-detr",
-    "last_checked": "2026-06-25T08:36:40.456399+00:00",
+    "last_checked": "2026-06-27T07:52:01.216758+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-06-17T11:05:26Z"
   },
   "perditioinc/CADAM": {
     "repo_name": "perditioinc/CADAM",
-    "last_checked": "2026-06-25T08:36:40.456402+00:00",
+    "last_checked": "2026-06-27T07:52:01.216762+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-06-18T12:42:27Z"
   },
@@ -11959,49 +11959,49 @@
   },
   "perditioinc/cocoindex-code": {
     "repo_name": "perditioinc/cocoindex-code",
-    "last_checked": "2026-06-25T08:36:40.456408+00:00",
+    "last_checked": "2026-06-27T07:52:01.216767+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-06-16T06:04:19Z"
   },
   "perditioinc/universal-android-debloater-next-generation": {
     "repo_name": "perditioinc/universal-android-debloater-next-generation",
-    "last_checked": "2026-06-25T08:36:40.456412+00:00",
+    "last_checked": "2026-06-27T07:52:01.216771+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-06-18T06:01:38Z"
   },
   "perditioinc/codebase-memory-mcp": {
     "repo_name": "perditioinc/codebase-memory-mcp",
-    "last_checked": "2026-06-25T08:36:40.456415+00:00",
+    "last_checked": "2026-06-27T07:52:01.216774+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-06-13T05:43:03Z"
   },
   "perditioinc/openkb": {
     "repo_name": "perditioinc/openkb",
-    "last_checked": "2026-06-25T08:36:40.456419+00:00",
+    "last_checked": "2026-06-27T07:52:01.216778+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-06-18T20:16:41Z"
   },
   "perditioinc/mediamtx": {
     "repo_name": "perditioinc/mediamtx",
-    "last_checked": "2026-06-25T08:36:40.456423+00:00",
+    "last_checked": "2026-06-27T07:52:01.216781+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-06-18T17:03:47Z"
   },
   "perditioinc/touchdesigner-mcp": {
     "repo_name": "perditioinc/touchdesigner-mcp",
-    "last_checked": "2026-06-25T08:36:40.456426+00:00",
+    "last_checked": "2026-06-27T07:52:01.216785+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-06-17T16:39:00Z"
   },
   "perditioinc/palmier-pro": {
     "repo_name": "perditioinc/palmier-pro",
-    "last_checked": "2026-06-25T08:36:40.456430+00:00",
+    "last_checked": "2026-06-27T07:52:01.216788+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-06-22T08:49:12Z"
   },
   "perditioinc/mpfb2": {
     "repo_name": "perditioinc/mpfb2",
-    "last_checked": "2026-06-25T08:36:40.456433+00:00",
+    "last_checked": "2026-06-27T07:52:01.216792+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-06-17T09:12:42Z"
   },
@@ -12031,8 +12031,14 @@
   },
   "perditioinc/video-search-and-summarization": {
     "repo_name": "perditioinc/video-search-and-summarization",
-    "last_checked": "2026-06-25T08:36:40.456448+00:00",
+    "last_checked": "2026-06-27T07:52:01.216804+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-06-24T23:32:35Z"
+  },
+  "perditioinc/lingbot-map": {
+    "repo_name": "perditioinc/lingbot-map",
+    "last_checked": "2026-06-27T07:52:01.216807+00:00",
+    "tier": "nightly",
+    "upstream_pushed_at": "2026-06-25T15:03:12Z"
   }
 }
