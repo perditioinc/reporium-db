@@ -1,49 +1,5 @@
 [
   {
-    "nameWithOwner": "perditioinc/cuda-course",
-    "name": "cuda-course",
-    "description": "CUDA Course on FreeCodeCamp",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Cuda",
-    "pushedAt": "2026-03-17T01:46:09Z",
-    "updatedAt": "2026-03-17T01:46:16Z",
-    "createdAt": "2025-11-03T17:07:16Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": null,
-    "openIssues": 0,
-    "defaultBranch": "master",
-    "parentRepo": "Infatoshi/cuda-course",
-    "parentStars": 3801,
-    "parentForks": 655,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/imp",
-    "name": "imp",
-    "description": "High-performance LLM inference engine in C++/CUDA for NVIDIA Blackwell GPUs (RTX 5090)",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Cuda",
-    "pushedAt": "2026-03-17T01:46:34Z",
-    "updatedAt": "2026-03-17T01:46:41Z",
-    "createdAt": "2026-03-12T18:09:43Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "MIT License",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "kekzl/imp",
-    "parentStars": 26,
-    "parentForks": 2,
-    "isPrivate": false
-  },
-  {
     "nameWithOwner": "perditioinc/cuopt",
     "name": "cuopt",
     "description": "GPU accelerated decision optimization ",
@@ -61,8 +17,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/cuopt",
-    "parentStars": 958,
-    "parentForks": 199,
+    "parentStars": 961,
+    "parentForks": 201,
     "isPrivate": false
   },
   {
@@ -83,7 +39,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "NVlabs/instant-ngp",
-    "parentStars": 17453,
+    "parentStars": 17454,
     "parentForks": 2066,
     "isPrivate": false
   },
@@ -105,8 +61,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "xlite-dev/LeetCUDA",
-    "parentStars": 11342,
-    "parentForks": 1169,
+    "parentStars": 11425,
+    "parentForks": 1176,
     "isPrivate": false
   },
   {
@@ -127,8 +83,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "karpathy/llm.c",
-    "parentStars": 30368,
-    "parentForks": 3674,
+    "parentStars": 30389,
+    "parentForks": 3678,
     "isPrivate": false
   },
   {
@@ -149,8 +105,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "deepseek-ai/DeepGEMM",
-    "parentStars": 7438,
-    "parentForks": 1071,
+    "parentStars": 7457,
+    "parentForks": 1077,
     "isPrivate": false
   },
   {
@@ -171,8 +127,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "deepseek-ai/DeepEP",
-    "parentStars": 9773,
-    "parentForks": 1305,
+    "parentStars": 9793,
+    "parentForks": 1307,
     "isPrivate": false
   }
 ]

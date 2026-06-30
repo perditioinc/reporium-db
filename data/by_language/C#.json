@@ -1,27 +1,5 @@
 [
   {
-    "nameWithOwner": "perditioinc/embardiment",
-    "name": "embardiment",
-    "description": "Packages and tools to enable EmBARDiment type of AI agents inside Android XR.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "C#",
-    "pushedAt": "2026-03-13T23:58:34Z",
-    "updatedAt": "2026-03-13T23:58:41Z",
-    "createdAt": "2025-11-22T07:38:26Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "google/embardiment",
-    "parentStars": 32,
-    "parentForks": 5,
-    "isPrivate": false
-  },
-  {
     "nameWithOwner": "perditioinc/Files",
     "name": "Files",
     "description": "A modern file manager that helps users organize their files and folders.",
@@ -39,8 +17,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "files-community/Files",
-    "parentStars": 44070,
-    "parentForks": 2769,
+    "parentStars": 44096,
+    "parentForks": 2772,
     "isPrivate": false
   },
   {
@@ -61,8 +39,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "QuantConnect/Lean",
-    "parentStars": 20220,
-    "parentForks": 4988,
+    "parentStars": 20262,
+    "parentForks": 4989,
     "isPrivate": false
   },
   {
@@ -83,7 +61,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "bitwarden/server",
-    "parentStars": 19306,
+    "parentStars": 19315,
     "parentForks": 1679,
     "isPrivate": false
   },
@@ -105,7 +83,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/semantic-kernel",
-    "parentStars": 28208,
+    "parentStars": 28225,
     "parentForks": 4664,
     "isPrivate": false
   },
@@ -127,8 +105,8 @@
     "openIssues": 0,
     "defaultBranch": "beta",
     "parentRepo": "CoplayDev/unity-mcp",
-    "parentStars": 11107,
-    "parentForks": 1229,
+    "parentStars": 11179,
+    "parentForks": 1233,
     "isPrivate": false
   },
   {
@@ -149,8 +127,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "PowerShell/PowerShell",
-    "parentStars": 54232,
-    "parentForks": 8359,
+    "parentStars": 54254,
+    "parentForks": 8360,
     "isPrivate": false
   },
   {
@@ -171,8 +149,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "IvanMurzak/Unity-MCP",
-    "parentStars": 3347,
-    "parentForks": 304,
+    "parentStars": 3386,
+    "parentForks": 305,
     "isPrivate": false
   },
   {
@@ -193,8 +171,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "unchihugo/FluentFlyout",
-    "parentStars": 3286,
-    "parentForks": 141,
+    "parentStars": 3309,
+    "parentForks": 143,
     "isPrivate": false
   },
   {
@@ -215,8 +193,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "dotnet/aspnetcore",
-    "parentStars": 38156,
-    "parentForks": 10721,
+    "parentStars": 38167,
+    "parentForks": 10723,
     "isPrivate": false
   },
   {
@@ -237,8 +215,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "dotnet/eShop",
-    "parentStars": 10620,
-    "parentForks": 3681,
+    "parentStars": 10624,
+    "parentForks": 3684,
     "isPrivate": false
   },
   {
@@ -259,8 +237,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "Facepunch/sbox-public",
-    "parentStars": 6296,
-    "parentForks": 625,
+    "parentStars": 6300,
+    "parentForks": 626,
     "isPrivate": false
   },
   {
@@ -281,8 +259,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "ErsatzTV/legacy",
-    "parentStars": 2836,
-    "parentForks": 201,
+    "parentStars": 2839,
+    "parentForks": 202,
     "isPrivate": false
   },
   {
@@ -303,8 +281,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "modelcontextprotocol/csharp-sdk",
-    "parentStars": 4358,
-    "parentForks": 732,
+    "parentStars": 4360,
+    "parentForks": 734,
     "isPrivate": false
   },
   {
@@ -325,8 +303,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/mcp",
-    "parentStars": 3374,
-    "parentForks": 541,
+    "parentStars": 3384,
+    "parentForks": 542,
     "isPrivate": false
   },
   {
@@ -347,8 +325,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "dotnet/runtime",
-    "parentStars": 18003,
-    "parentForks": 5482,
+    "parentStars": 18012,
+    "parentForks": 5489,
     "isPrivate": false
   },
   {
@@ -369,8 +347,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "win4r/AISuperDomain",
-    "parentStars": 1986,
-    "parentForks": 325,
+    "parentStars": 1987,
+    "parentForks": 326,
     "isPrivate": false
   },
   {
@@ -392,7 +370,7 @@
     "defaultBranch": "main",
     "parentRepo": "GoogleCloudPlatform/dotnet-docs-samples",
     "parentStars": 838,
-    "parentForks": 1233,
+    "parentForks": 1232,
     "isPrivate": false
   },
   {
@@ -413,8 +391,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/PowerToys",
-    "parentStars": 135779,
-    "parentForks": 8171,
+    "parentStars": 135917,
+    "parentForks": 8173,
     "isPrivate": false
   },
   {
@@ -435,8 +413,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/garnet",
-    "parentStars": 11892,
-    "parentForks": 670,
+    "parentStars": 11893,
+    "parentForks": 669,
     "isPrivate": false
   },
   {
@@ -457,7 +435,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "openai/openai-dotnet",
-    "parentStars": 2636,
+    "parentStars": 2640,
     "parentForks": 406,
     "isPrivate": false
   },
@@ -501,7 +479,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "ramjke/Translumo",
-    "parentStars": 5466,
+    "parentStars": 5468,
     "parentForks": 330,
     "isPrivate": false
   },
@@ -523,7 +501,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "github/gh-gei",
-    "parentStars": 464,
+    "parentStars": 466,
     "parentForks": 139,
     "isPrivate": false
   },
@@ -545,8 +523,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "jellyfin/jellyfin",
-    "parentStars": 53753,
-    "parentForks": 5044,
+    "parentStars": 53823,
+    "parentForks": 5048,
     "isPrivate": false
   },
   {
@@ -567,8 +545,8 @@
     "openIssues": 0,
     "defaultBranch": "prime",
     "parentRepo": "Tyrrrz/YoutubeDownloader",
-    "parentStars": 15526,
-    "parentForks": 1986,
+    "parentStars": 15535,
+    "parentForks": 1985,
     "isPrivate": false
   },
   {
@@ -589,7 +567,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "umlx5h/LLPlayer",
-    "parentStars": 3863,
+    "parentStars": 3871,
     "parentForks": 222,
     "isPrivate": false
   },
@@ -611,8 +589,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "LykosAI/StabilityMatrix",
-    "parentStars": 8416,
-    "parentForks": 574,
+    "parentStars": 8426,
+    "parentForks": 575,
     "isPrivate": false
   },
   {
@@ -633,8 +611,8 @@
     "openIssues": 0,
     "defaultBranch": "1.4.4",
     "parentRepo": "tModLoader/tModLoader",
-    "parentStars": 5427,
-    "parentForks": 2109,
+    "parentStars": 5433,
+    "parentForks": 2111,
     "isPrivate": false
   },
   {
@@ -655,8 +633,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "dotnet/skills",
-    "parentStars": 3542,
-    "parentForks": 263,
+    "parentStars": 3554,
+    "parentForks": 266,
     "isPrivate": false
   }
 ]
