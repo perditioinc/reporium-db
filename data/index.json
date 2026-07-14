@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total": 1978,
-    "last_updated": "2026-07-13T08:24:44.552401+00:00",
+    "total": 1979,
+    "last_updated": "2026-07-14T07:21:12.920154+00:00",
     "version": "1.0.0"
   },
   "categories": {
@@ -12,8 +12,8 @@
     "TypeScript": 300,
     "Jupyter Notebook": 148,
     "C++": 119,
+    "JavaScript": 88,
     "Go": 88,
-    "JavaScript": 87,
     "Rust": 64,
     "C": 40,
     "C#": 30,
