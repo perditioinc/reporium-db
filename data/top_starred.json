@@ -6,8 +6,8 @@
     "stars": 2,
     "forks": 0,
     "primaryLanguage": "TypeScript",
-    "pushedAt": "2026-07-15T09:00:11Z",
-    "updatedAt": "2026-07-15T09:00:25Z",
+    "pushedAt": "2026-07-16T08:45:37Z",
+    "updatedAt": "2026-07-16T08:45:46Z",
     "createdAt": "2026-03-14T04:16:01Z",
     "isArchived": false,
     "isFork": false,
@@ -36,7 +36,7 @@
     "isEmpty": false,
     "topics": [],
     "licenseName": "MIT License",
-    "openIssues": 72,
+    "openIssues": 73,
     "defaultBranch": "main",
     "parentRepo": null,
     "parentStars": null,
@@ -72,8 +72,8 @@
     "stars": 2,
     "forks": 0,
     "primaryLanguage": "Python",
-    "pushedAt": "2026-07-15T08:42:07Z",
-    "updatedAt": "2026-07-15T08:42:11Z",
+    "pushedAt": "2026-07-16T08:40:52Z",
+    "updatedAt": "2026-07-16T08:40:56Z",
     "createdAt": "2026-03-17T00:41:10Z",
     "isArchived": false,
     "isFork": false,
@@ -94,8 +94,8 @@
     "stars": 2,
     "forks": 0,
     "primaryLanguage": "Python",
-    "pushedAt": "2026-07-15T07:22:42Z",
-    "updatedAt": "2026-07-15T07:23:40Z",
+    "pushedAt": "2026-07-16T07:29:41Z",
+    "updatedAt": "2026-07-16T07:30:16Z",
     "createdAt": "2026-03-18T04:35:40Z",
     "isArchived": false,
     "isFork": false,
@@ -162,8 +162,8 @@
     "stars": 1,
     "forks": 0,
     "primaryLanguage": "Python",
-    "pushedAt": "2026-07-15T08:22:05Z",
-    "updatedAt": "2026-07-15T08:22:29Z",
+    "pushedAt": "2026-07-16T08:21:16Z",
+    "updatedAt": "2026-07-16T08:21:48Z",
     "createdAt": "2026-03-18T04:37:54Z",
     "isArchived": false,
     "isFork": false,
@@ -184,8 +184,8 @@
     "stars": 1,
     "forks": 0,
     "primaryLanguage": "Python",
-    "pushedAt": "2026-07-15T09:03:48Z",
-    "updatedAt": "2026-07-15T09:04:14Z",
+    "pushedAt": "2026-07-16T09:06:54Z",
+    "updatedAt": "2026-07-16T09:07:17Z",
     "createdAt": "2026-03-18T04:44:11Z",
     "isArchived": false,
     "isFork": false,
@@ -206,8 +206,8 @@
     "stars": 1,
     "forks": 0,
     "primaryLanguage": "Python",
-    "pushedAt": "2026-07-15T09:25:20Z",
-    "updatedAt": "2026-07-15T09:25:24Z",
+    "pushedAt": "2026-07-16T09:33:03Z",
+    "updatedAt": "2026-07-16T09:33:15Z",
     "createdAt": "2026-03-18T04:48:28Z",
     "isArchived": false,
     "isFork": false,
@@ -371,7 +371,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "zarazhangrui/codebase-to-course",
-    "parentStars": 5228,
+    "parentStars": 5230,
     "parentForks": 534,
     "isPrivate": false
   },
@@ -382,8 +382,8 @@
     "stars": 1,
     "forks": 0,
     "primaryLanguage": "Python",
-    "pushedAt": "2026-07-16T07:19:25Z",
-    "updatedAt": "2026-07-16T07:19:34Z",
+    "pushedAt": "2026-07-17T05:15:37Z",
+    "updatedAt": "2026-07-17T05:15:42Z",
     "createdAt": "2026-04-18T08:34:35Z",
     "isArchived": false,
     "isFork": false,
@@ -415,8 +415,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Hmbown/CodeWhale",
-    "parentStars": 39838,
-    "parentForks": 3428,
+    "parentStars": 39873,
+    "parentForks": 3432,
     "isPrivate": false
   },
   {
@@ -437,8 +437,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "refactoringhq/tolaria",
-    "parentStars": 18688,
-    "parentForks": 1273,
+    "parentStars": 18704,
+    "parentForks": 1275,
     "isPrivate": false
   },
   {
@@ -459,8 +459,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "addyosmani/agent-skills",
-    "parentStars": 78626,
-    "parentForks": 8442,
+    "parentStars": 78840,
+    "parentForks": 8476,
     "isPrivate": false
   },
   {
@@ -481,8 +481,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "masterking32/MasterDnsVPN",
-    "parentStars": 6814,
-    "parentForks": 787,
+    "parentStars": 6731,
+    "parentForks": 677,
     "isPrivate": false
   },
   {
@@ -503,7 +503,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "oracle-devrel/oracle-ai-developer-hub",
-    "parentStars": 4276,
+    "parentStars": 4280,
     "parentForks": 785,
     "isPrivate": false
   },
@@ -525,7 +525,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "magenta/magenta-realtime",
-    "parentStars": 1673,
+    "parentStars": 1675,
     "parentForks": 185,
     "isPrivate": false
   },
@@ -569,8 +569,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Wan-Video/Wan2.2",
-    "parentStars": 16695,
-    "parentForks": 2081,
+    "parentStars": 16717,
+    "parentForks": 2086,
     "isPrivate": false
   },
   {
@@ -591,8 +591,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/agent-lightning",
-    "parentStars": 17392,
-    "parentForks": 1523,
+    "parentStars": 17395,
+    "parentForks": 1526,
     "isPrivate": false
   },
   {
@@ -613,8 +613,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "GoogleCloudPlatform/generative-ai",
-    "parentStars": 17322,
-    "parentForks": 4334,
+    "parentStars": 17341,
+    "parentForks": 4341,
     "isPrivate": false
   },
   {
@@ -635,7 +635,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "directus/directus",
-    "parentStars": 36492,
+    "parentStars": 36500,
     "parentForks": 4844,
     "isPrivate": false
   },
@@ -657,8 +657,8 @@
     "openIssues": 0,
     "defaultBranch": "dev",
     "parentRepo": "LMCache/LMCache",
-    "parentStars": 10578,
-    "parentForks": 1560,
+    "parentStars": 10595,
+    "parentForks": 1564,
     "isPrivate": false
   },
   {
@@ -679,8 +679,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "Infatoshi/cuda-course",
-    "parentStars": 3838,
-    "parentForks": 659,
+    "parentStars": 3841,
+    "parentForks": 660,
     "isPrivate": false
   },
   {
@@ -723,8 +723,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/ML-For-Beginners",
-    "parentStars": 88175,
-    "parentForks": 21500,
+    "parentStars": 88210,
+    "parentForks": 21523,
     "isPrivate": false
   },
   {
@@ -745,8 +745,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "Avik-Jain/100-Days-Of-ML-Code",
-    "parentStars": 51466,
-    "parentForks": 11583,
+    "parentStars": 51483,
+    "parentForks": 11587,
     "isPrivate": false
   },
   {
@@ -767,8 +767,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "TheAlgorithms/Python",
-    "parentStars": 222756,
-    "parentForks": 50849,
+    "parentStars": 222778,
+    "parentForks": 50857,
     "isPrivate": false
   },
   {
@@ -789,7 +789,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "mml-book/mml-book.github.io",
-    "parentStars": 15763,
+    "parentStars": 15774,
     "parentForks": 2823,
     "isPrivate": false
   },
@@ -811,8 +811,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "GokuMohandas/Made-With-ML",
-    "parentStars": 48727,
-    "parentForks": 7665,
+    "parentStars": 48745,
+    "parentForks": 7670,
     "isPrivate": false
   },
   {
@@ -833,8 +833,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "labmlai/annotated_deep_learning_paper_implementations",
-    "parentStars": 67115,
-    "parentForks": 6739,
+    "parentStars": 67128,
+    "parentForks": 6743,
     "isPrivate": false
   },
   {
@@ -855,8 +855,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "karpathy/nn-zero-to-hero",
-    "parentStars": 23522,
-    "parentForks": 3442,
+    "parentStars": 23542,
+    "parentForks": 3448,
     "isPrivate": false
   },
   {
@@ -877,8 +877,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "HandsOnLLM/Hands-On-Large-Language-Models",
-    "parentStars": 27597,
-    "parentForks": 6433,
+    "parentStars": 27607,
+    "parentForks": 6436,
     "isPrivate": false
   },
   {
@@ -899,8 +899,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "dair-ai/Prompt-Engineering-Guide",
-    "parentStars": 76529,
-    "parentForks": 8390,
+    "parentStars": 76635,
+    "parentForks": 8411,
     "isPrivate": false
   },
   {
@@ -921,8 +921,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "microsoft/ai-agents-for-beginners",
-    "parentStars": 69461,
-    "parentForks": 23041,
+    "parentStars": 69576,
+    "parentForks": 23074,
     "isPrivate": false
   },
   {
@@ -943,8 +943,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NirDiamant/GenAI_Agents",
-    "parentStars": 23199,
-    "parentForks": 3904,
+    "parentStars": 23273,
+    "parentForks": 3920,
     "isPrivate": false
   },
   {
@@ -965,8 +965,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NirDiamant/RAG_Techniques",
-    "parentStars": 28570,
-    "parentForks": 3485,
+    "parentStars": 28626,
+    "parentForks": 3494,
     "isPrivate": false
   },
   {
@@ -987,8 +987,8 @@
     "openIssues": 0,
     "defaultBranch": "live",
     "parentRepo": "academic/awesome-datascience",
-    "parentStars": 29635,
-    "parentForks": 6591,
+    "parentStars": 29643,
+    "parentForks": 6592,
     "isPrivate": false
   },
   {
@@ -1009,8 +1009,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "keon/awesome-nlp",
-    "parentStars": 18826,
-    "parentForks": 2850,
+    "parentStars": 18830,
+    "parentForks": 2849,
     "isPrivate": false
   },
   {
@@ -1031,7 +1031,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "aikorea/awesome-rl",
-    "parentStars": 9868,
+    "parentStars": 9874,
     "parentForks": 1942,
     "isPrivate": false
   },
@@ -1053,7 +1053,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "FareedKhan-dev/all-rl-algorithms",
-    "parentStars": 1859,
+    "parentStars": 1864,
     "parentForks": 344,
     "isPrivate": false
   },
@@ -1075,7 +1075,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "toon-format/toon",
-    "parentStars": 24878,
+    "parentStars": 24884,
     "parentForks": 1105,
     "isPrivate": false
   },
@@ -1097,8 +1097,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "usestrix/strix",
-    "parentStars": 41953,
-    "parentForks": 4406,
+    "parentStars": 42103,
+    "parentForks": 4347,
     "isPrivate": false
   },
   {
@@ -1141,8 +1141,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "simstudioai/sim",
-    "parentStars": 29120,
-    "parentForks": 3714,
+    "parentStars": 29125,
+    "parentForks": 3716,
     "isPrivate": false
   },
   {
@@ -1185,8 +1185,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "infiniflow/ragflow",
-    "parentStars": 85171,
-    "parentForks": 9943,
+    "parentStars": 85267,
+    "parentForks": 9958,
     "isPrivate": false
   },
   {
@@ -1207,8 +1207,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "HKUDS/AutoAgent",
-    "parentStars": 9467,
-    "parentForks": 1321,
+    "parentStars": 9468,
+    "parentForks": 1324,
     "isPrivate": false
   },
   {
@@ -1229,8 +1229,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "hiyouga/LlamaFactory",
-    "parentStars": 73315,
-    "parentForks": 8951,
+    "parentStars": 73335,
+    "parentForks": 8953,
     "isPrivate": false
   },
   {
@@ -1251,8 +1251,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "Mintplex-Labs/anything-llm",
-    "parentStars": 63370,
-    "parentForks": 6931,
+    "parentStars": 63422,
+    "parentForks": 6933,
     "isPrivate": false
   },
   {
@@ -1273,7 +1273,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "tobi/try",
-    "parentStars": 3746,
+    "parentStars": 3748,
     "parentForks": 149,
     "isPrivate": false
   },
@@ -1295,8 +1295,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "confident-ai/deepeval",
-    "parentStars": 16887,
-    "parentForks": 1665,
+    "parentStars": 16907,
+    "parentForks": 1668,
     "isPrivate": false
   },
   {
@@ -1361,8 +1361,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "DataTalksClub/mlops-zoomcamp",
-    "parentStars": 14958,
-    "parentForks": 2992,
+    "parentStars": 14961,
+    "parentForks": 2993,
     "isPrivate": false
   },
   {
@@ -1383,7 +1383,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "graviraja/MLOps-Basics",
-    "parentStars": 8896,
+    "parentStars": 8900,
     "parentForks": 1777,
     "isPrivate": false
   },
@@ -1405,8 +1405,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "jamwithai/production-agentic-rag-course",
-    "parentStars": 7916,
-    "parentForks": 1752,
+    "parentStars": 8005,
+    "parentForks": 1770,
     "isPrivate": false
   },
   {
@@ -1427,7 +1427,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "StarTrail-org/LEANN",
-    "parentStars": 12689,
+    "parentStars": 12695,
     "parentForks": 1145,
     "isPrivate": false
   },
@@ -1515,8 +1515,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "mithi/robotics-coursework",
-    "parentStars": 5027,
-    "parentForks": 766,
+    "parentStars": 5034,
+    "parentForks": 767,
     "isPrivate": false
   },
   {
@@ -1537,8 +1537,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "AtsushiSakai/PythonRobotics",
-    "parentStars": 30056,
-    "parentForks": 7349,
+    "parentStars": 30065,
+    "parentForks": 7350,
     "isPrivate": false
   },
   {
@@ -1581,7 +1581,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "mathiasmantelli/awesome-mobile-robotics",
-    "parentStars": 772,
+    "parentStars": 773,
     "parentForks": 112,
     "isPrivate": false
   },
@@ -1625,8 +1625,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "robotframework/robotframework",
-    "parentStars": 11757,
-    "parentForks": 2551,
+    "parentStars": 11759,
+    "parentForks": 2552,
     "isPrivate": false
   },
   {
@@ -1691,7 +1691,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "kiloreux/awesome-robotics",
-    "parentStars": 6748,
+    "parentStars": 6749,
     "parentForks": 1039,
     "isPrivate": false
   },
@@ -1735,8 +1735,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "pydantic/pydantic-ai",
-    "parentStars": 18561,
-    "parentForks": 2366,
+    "parentStars": 18603,
+    "parentForks": 2378,
     "isPrivate": false
   },
   {
@@ -1757,8 +1757,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google/adk-go",
-    "parentStars": 8571,
-    "parentForks": 900,
+    "parentStars": 8478,
+    "parentForks": 806,
     "isPrivate": false
   },
   {
@@ -1779,8 +1779,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "aishwaryanr/awesome-generative-ai-guide",
-    "parentStars": 28282,
-    "parentForks": 5803,
+    "parentStars": 28295,
+    "parentForks": 5802,
     "isPrivate": false
   },
   {
@@ -1801,7 +1801,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "khangich/machine-learning-interview",
-    "parentStars": 12729,
+    "parentStars": 12731,
     "parentForks": 2037,
     "isPrivate": false
   },
@@ -1845,8 +1845,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "afshinea/stanford-cme-295-transformers-large-language-models",
-    "parentStars": 4556,
-    "parentForks": 657,
+    "parentStars": 4558,
+    "parentForks": 658,
     "isPrivate": false
   },
   {
@@ -1867,7 +1867,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "BoltzmannEntropy/interviews.ai",
-    "parentStars": 4878,
+    "parentStars": 4880,
     "parentForks": 326,
     "isPrivate": false
   },
@@ -1889,7 +1889,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "andrewekhalel/MLQuestions",
-    "parentStars": 4741,
+    "parentStars": 4742,
     "parentForks": 769,
     "isPrivate": false
   },
@@ -1911,7 +1911,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Coder-World04/Complete-System-Design",
-    "parentStars": 4768,
+    "parentStars": 4770,
     "parentForks": 674,
     "isPrivate": false
   },
@@ -1933,7 +1933,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "alirezadir/Machine-Learning-Interviews",
-    "parentStars": 8583,
+    "parentStars": 8589,
     "parentForks": 1500,
     "isPrivate": false
   },
@@ -1955,7 +1955,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "youssefHosni/Data-Science-Interview-Questions-Answers",
-    "parentStars": 5762,
+    "parentStars": 5765,
     "parentForks": 1276,
     "isPrivate": false
   },
@@ -2021,8 +2021,8 @@
     "openIssues": 0,
     "defaultBranch": "dev",
     "parentRepo": "harvard-edge/cs249r_book",
-    "parentStars": 27473,
-    "parentForks": 3409,
+    "parentStars": 27407,
+    "parentForks": 3306,
     "isPrivate": false
   },
   {
@@ -2065,8 +2065,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "apple/ml-sharp",
-    "parentStars": 8709,
-    "parentForks": 634,
+    "parentStars": 8712,
+    "parentForks": 635,
     "isPrivate": false
   },
   {
@@ -2109,8 +2109,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "openai/codex",
-    "parentStars": 98637,
-    "parentForks": 14720,
+    "parentStars": 98976,
+    "parentForks": 14794,
     "isPrivate": false
   },
   {
@@ -2131,8 +2131,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "OpenBMB/VoxCPM",
-    "parentStars": 33435,
-    "parentForks": 3823,
+    "parentStars": 33501,
+    "parentForks": 3827,
     "isPrivate": false
   },
   {
@@ -2153,7 +2153,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/personaplex",
-    "parentStars": 10203,
+    "parentStars": 10206,
     "parentForks": 1422,
     "isPrivate": false
   },
@@ -2175,8 +2175,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Lightricks/LTX-2",
-    "parentStars": 8279,
-    "parentForks": 1325,
+    "parentStars": 8294,
+    "parentForks": 1328,
     "isPrivate": false
   },
   {
