@@ -1,112 +1,12 @@
 {
-  "generated_at": "2026-07-26T07:41:59.531478+00:00",
+  "generated_at": "2026-07-27T08:38:58.260247+00:00",
   "repos": [
     {
-      "name_with_owner": "perditioinc/Awesome-3D-Hair-Reconstruction",
+      "name_with_owner": "perditioinc/openworker",
       "reason": "new_repo"
     },
     {
-      "name_with_owner": "perditioinc/DeepSeek-OCR",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/ECON",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/GLM-TTS",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/Im2Haircut",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/LatentSync",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/MuseTalk",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/OmniVoice",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/PSHuman",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/SadTalker",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/StrandHead",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/TeCH",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/VRM-Addon-for-Blender",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/Wav2Lip",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/awesome-ai-agent-governance",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/awesome-blender",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/awesome-digital-human",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/awesome-evals",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/dots.ocr",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/higgs-audio",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/img2threejs",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/img2threejs-showcase",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/index-tts",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/labs-oo-agents",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/pdf-craft",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/rhubarb-lip-sync",
-      "reason": "new_repo"
-    },
-    {
-      "name_with_owner": "perditioinc/three-vrm",
+      "name_with_owner": "perditioinc/pocket-tts",
       "reason": "new_repo"
     }
   ]
