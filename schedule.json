@@ -4123,20 +4123,20 @@
   },
   "perditioinc/reporium": {
     "repo_name": "perditioinc/reporium",
-    "last_checked": "2026-07-28T07:46:51.208731+00:00",
+    "last_checked": "2026-07-29T07:52:33.847243+00:00",
     "tier": "nightly",
-    "upstream_pushed_at": "2026-07-27T10:16:36Z"
+    "upstream_pushed_at": "2026-07-28T09:30:32Z"
   },
   "perditioinc/reporium-api": {
     "repo_name": "perditioinc/reporium-api",
-    "last_checked": "2026-07-22T07:41:35.322476+00:00",
-    "tier": "nightly",
+    "last_checked": "2026-07-29T07:52:33.847256+00:00",
+    "tier": "weekly",
     "upstream_pushed_at": "2026-06-22T02:48:33Z"
   },
   "perditioinc/reporium-ingestion": {
     "repo_name": "perditioinc/reporium-ingestion",
-    "last_checked": "2026-07-22T07:41:35.322481+00:00",
-    "tier": "nightly",
+    "last_checked": "2026-07-29T07:52:33.847263+00:00",
+    "tier": "weekly",
     "upstream_pushed_at": "2026-06-22T03:21:25Z"
   },
   "perditioinc/openclaw-vertexai-memorybank": {
@@ -4855,9 +4855,9 @@
   },
   "perditioinc/portfolio": {
     "repo_name": "perditioinc/portfolio",
-    "last_checked": "2026-07-28T07:46:51.209016+00:00",
+    "last_checked": "2026-07-29T07:52:33.847543+00:00",
     "tier": "nightly",
-    "upstream_pushed_at": "2026-07-27T10:25:55Z"
+    "upstream_pushed_at": "2026-07-28T09:17:17Z"
   },
   "perditioinc/container-use": {
     "repo_name": "perditioinc/container-use",
@@ -4867,27 +4867,27 @@
   },
   "perditioinc/reporium-db": {
     "repo_name": "perditioinc/reporium-db",
-    "last_checked": "2026-07-28T07:46:51.209023+00:00",
+    "last_checked": "2026-07-29T07:52:33.847550+00:00",
     "tier": "nightly",
-    "upstream_pushed_at": "2026-07-27T08:39:00Z"
+    "upstream_pushed_at": "2026-07-28T07:46:53Z"
   },
   "perditioinc/reporium-dataset": {
     "repo_name": "perditioinc/reporium-dataset",
-    "last_checked": "2026-07-28T07:46:51.209027+00:00",
+    "last_checked": "2026-07-29T07:52:33.847554+00:00",
     "tier": "nightly",
-    "upstream_pushed_at": "2026-07-27T09:59:27Z"
+    "upstream_pushed_at": "2026-07-28T08:41:58Z"
   },
   "perditioinc/reporium-roadmap": {
     "repo_name": "perditioinc/reporium-roadmap",
-    "last_checked": "2026-07-28T07:46:51.209031+00:00",
+    "last_checked": "2026-07-29T07:52:33.847558+00:00",
     "tier": "nightly",
-    "upstream_pushed_at": "2026-07-27T10:30:56Z"
+    "upstream_pushed_at": "2026-07-28T09:29:34Z"
   },
   "perditioinc/reporium-metrics": {
     "repo_name": "perditioinc/reporium-metrics",
-    "last_checked": "2026-07-28T07:46:51.209034+00:00",
+    "last_checked": "2026-07-29T07:52:33.847562+00:00",
     "tier": "nightly",
-    "upstream_pushed_at": "2026-07-27T10:52:23Z"
+    "upstream_pushed_at": "2026-07-28T10:01:25Z"
   },
   "perditioinc/repo-intelligence": {
     "repo_name": "perditioinc/repo-intelligence",
@@ -4957,8 +4957,8 @@
   },
   "perditioinc/reporium-scoring": {
     "repo_name": "perditioinc/reporium-scoring",
-    "last_checked": "2026-07-22T07:41:35.322788+00:00",
-    "tier": "nightly",
+    "last_checked": "2026-07-29T07:52:33.847566+00:00",
+    "tier": "weekly",
     "upstream_pushed_at": "2026-06-22T03:20:49Z"
   },
   "perditioinc/perditio-devkit": {
@@ -4969,8 +4969,8 @@
   },
   "perditioinc/reporium-events": {
     "repo_name": "perditioinc/reporium-events",
-    "last_checked": "2026-07-22T07:41:35.322814+00:00",
-    "tier": "nightly",
+    "last_checked": "2026-07-29T07:52:33.847593+00:00",
+    "tier": "weekly",
     "upstream_pushed_at": "2026-06-22T02:48:20Z"
   },
   "perditioinc/reporium-audit": {
@@ -4981,14 +4981,14 @@
   },
   "perditioinc/reporium-system-design": {
     "repo_name": "perditioinc/reporium-system-design",
-    "last_checked": "2026-07-22T07:41:35.322822+00:00",
-    "tier": "nightly",
+    "last_checked": "2026-07-29T07:52:33.847599+00:00",
+    "tier": "weekly",
     "upstream_pushed_at": "2026-06-22T03:22:24Z"
   },
   "perditioinc/reporium-security": {
     "repo_name": "perditioinc/reporium-security",
-    "last_checked": "2026-07-22T07:41:35.322826+00:00",
-    "tier": "nightly",
+    "last_checked": "2026-07-29T07:52:33.847603+00:00",
+    "tier": "weekly",
     "upstream_pushed_at": "2026-06-22T03:22:24Z"
   },
   "perditioinc/perditio-website": {
@@ -8995,7 +8995,7 @@
   },
   "perditioinc/reporium-mcp": {
     "repo_name": "perditioinc/reporium-mcp",
-    "last_checked": "2026-07-28T07:46:51.210315+00:00",
+    "last_checked": "2026-07-29T07:52:33.848891+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-07-02T02:31:13Z"
   },
@@ -11293,9 +11293,9 @@
   },
   "perditioinc/reporium-trust-score": {
     "repo_name": "perditioinc/reporium-trust-score",
-    "last_checked": "2026-07-28T07:46:51.211085+00:00",
+    "last_checked": "2026-07-29T07:52:33.849702+00:00",
     "tier": "nightly",
-    "upstream_pushed_at": "2026-07-28T07:36:36Z"
+    "upstream_pushed_at": "2026-07-29T05:15:31Z"
   },
   "perditioinc/DeepGEMM": {
     "repo_name": "perditioinc/DeepGEMM",
@@ -11539,7 +11539,7 @@
   },
   "perditioinc/agentmemory": {
     "repo_name": "perditioinc/agentmemory",
-    "last_checked": "2026-07-22T07:41:35.325029+00:00",
+    "last_checked": "2026-07-29T07:52:33.849791+00:00",
     "tier": "weekly",
     "upstream_pushed_at": "2026-05-09T16:45:14Z"
   },
@@ -11551,19 +11551,19 @@
   },
   "perditioinc/MasterDnsVPN": {
     "repo_name": "perditioinc/MasterDnsVPN",
-    "last_checked": "2026-07-22T07:41:35.325035+00:00",
+    "last_checked": "2026-07-29T07:52:33.849798+00:00",
     "tier": "weekly",
     "upstream_pushed_at": "2026-05-08T23:02:44Z"
   },
   "perditioinc/oracle-ai-developer-hub": {
     "repo_name": "perditioinc/oracle-ai-developer-hub",
-    "last_checked": "2026-07-22T07:41:35.325040+00:00",
+    "last_checked": "2026-07-29T07:52:33.849802+00:00",
     "tier": "weekly",
     "upstream_pushed_at": "2026-05-09T01:44:44Z"
   },
   "perditioinc/CloakBrowser": {
     "repo_name": "perditioinc/CloakBrowser",
-    "last_checked": "2026-07-22T07:41:35.325044+00:00",
+    "last_checked": "2026-07-29T07:52:33.849806+00:00",
     "tier": "weekly",
     "upstream_pushed_at": "2026-05-10T22:23:59Z"
   },
@@ -11575,43 +11575,43 @@
   },
   "perditioinc/omlx": {
     "repo_name": "perditioinc/omlx",
-    "last_checked": "2026-07-22T07:41:35.325051+00:00",
+    "last_checked": "2026-07-29T07:52:33.849812+00:00",
     "tier": "weekly",
     "upstream_pushed_at": "2026-05-11T08:49:49Z"
   },
   "perditioinc/floci": {
     "repo_name": "perditioinc/floci",
-    "last_checked": "2026-07-22T07:41:35.325055+00:00",
+    "last_checked": "2026-07-29T07:52:33.849816+00:00",
     "tier": "weekly",
     "upstream_pushed_at": "2026-05-12T00:52:29Z"
   },
   "perditioinc/openhuman": {
     "repo_name": "perditioinc/openhuman",
-    "last_checked": "2026-07-22T07:41:35.325059+00:00",
+    "last_checked": "2026-07-29T07:52:33.849820+00:00",
     "tier": "weekly",
     "upstream_pushed_at": "2026-05-13T07:00:43Z"
   },
   "perditioinc/hysteria": {
     "repo_name": "perditioinc/hysteria",
-    "last_checked": "2026-07-22T07:41:35.325063+00:00",
+    "last_checked": "2026-07-29T07:52:33.849824+00:00",
     "tier": "weekly",
     "upstream_pushed_at": "2026-05-10T17:30:58Z"
   },
   "perditioinc/FadCam": {
     "repo_name": "perditioinc/FadCam",
-    "last_checked": "2026-07-22T07:41:35.325067+00:00",
+    "last_checked": "2026-07-29T07:52:33.849828+00:00",
     "tier": "weekly",
     "upstream_pushed_at": "2026-05-11T18:02:01Z"
   },
   "perditioinc/AiToEarn": {
     "repo_name": "perditioinc/AiToEarn",
-    "last_checked": "2026-07-22T07:41:35.325071+00:00",
+    "last_checked": "2026-07-29T07:52:33.849832+00:00",
     "tier": "weekly",
     "upstream_pushed_at": "2026-05-13T07:01:14Z"
   },
   "perditioinc/react-doctor": {
     "repo_name": "perditioinc/react-doctor",
-    "last_checked": "2026-07-22T07:41:35.325075+00:00",
+    "last_checked": "2026-07-29T07:52:33.849836+00:00",
     "tier": "weekly",
     "upstream_pushed_at": "2026-05-13T06:16:28Z"
   },
@@ -11623,7 +11623,7 @@
   },
   "perditioinc/scientific-agent-skills": {
     "repo_name": "perditioinc/scientific-agent-skills",
-    "last_checked": "2026-07-22T07:41:35.325081+00:00",
+    "last_checked": "2026-07-29T07:52:33.849842+00:00",
     "tier": "weekly",
     "upstream_pushed_at": "2026-05-11T11:18:35Z"
   },
@@ -11701,7 +11701,7 @@
   },
   "perditioinc/skillkit": {
     "repo_name": "perditioinc/skillkit",
-    "last_checked": "2026-07-22T07:41:35.325110+00:00",
+    "last_checked": "2026-07-29T07:52:33.849870+00:00",
     "tier": "weekly",
     "upstream_pushed_at": "2026-05-11T10:05:18Z"
   },
@@ -11779,7 +11779,7 @@
   },
   "perditioinc/gbrain": {
     "repo_name": "perditioinc/gbrain",
-    "last_checked": "2026-07-22T07:41:35.325138+00:00",
+    "last_checked": "2026-07-29T07:52:33.849899+00:00",
     "tier": "weekly",
     "upstream_pushed_at": "2026-05-21T04:26:01Z"
   },
@@ -11839,13 +11839,13 @@
   },
   "perditioinc/skillopt": {
     "repo_name": "perditioinc/skillopt",
-    "last_checked": "2026-07-22T07:41:35.325161+00:00",
+    "last_checked": "2026-07-29T07:52:33.849922+00:00",
     "tier": "weekly",
     "upstream_pushed_at": "2026-05-28T09:55:40Z"
   },
   "perditioinc/git-devkit": {
     "repo_name": "perditioinc/git-devkit",
-    "last_checked": "2026-07-22T07:41:35.325165+00:00",
+    "last_checked": "2026-07-29T07:52:33.849926+00:00",
     "tier": "weekly",
     "upstream_pushed_at": "2026-05-29T07:22:48Z"
   },
@@ -11863,13 +11863,13 @@
   },
   "perditioinc/harness": {
     "repo_name": "perditioinc/harness",
-    "last_checked": "2026-07-22T07:41:35.325173+00:00",
+    "last_checked": "2026-07-29T07:52:33.849934+00:00",
     "tier": "weekly",
     "upstream_pushed_at": "2026-05-29T17:04:20Z"
   },
   "perditioinc/train-llm-from-scratch": {
     "repo_name": "perditioinc/train-llm-from-scratch",
-    "last_checked": "2026-07-22T07:41:35.325177+00:00",
+    "last_checked": "2026-07-29T07:52:33.849938+00:00",
     "tier": "weekly",
     "upstream_pushed_at": "2026-05-22T04:17:43Z"
   },
@@ -11935,7 +11935,7 @@
   },
   "perditioinc/hyper-extract": {
     "repo_name": "perditioinc/hyper-extract",
-    "last_checked": "2026-07-22T07:41:35.325202+00:00",
+    "last_checked": "2026-07-29T07:52:33.849964+00:00",
     "tier": "weekly",
     "upstream_pushed_at": "2026-06-14T10:27:11Z"
   },
@@ -11953,7 +11953,7 @@
   },
   "perditioinc/OpenMontage": {
     "repo_name": "perditioinc/OpenMontage",
-    "last_checked": "2026-07-22T07:41:35.325210+00:00",
+    "last_checked": "2026-07-29T07:52:33.849972+00:00",
     "tier": "weekly",
     "upstream_pushed_at": "2026-05-07T12:12:36Z"
   },
@@ -12043,31 +12043,31 @@
   },
   "perditioinc/nodetool": {
     "repo_name": "perditioinc/nodetool",
-    "last_checked": "2026-07-28T07:46:51.211345+00:00",
+    "last_checked": "2026-07-29T07:52:33.850004+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-06-28T19:02:10Z"
   },
   "perditioinc/logto": {
     "repo_name": "perditioinc/logto",
-    "last_checked": "2026-07-28T07:46:51.211349+00:00",
+    "last_checked": "2026-07-29T07:52:33.850007+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-06-29T07:57:28Z"
   },
   "perditioinc/simplex-chat": {
     "repo_name": "perditioinc/simplex-chat",
-    "last_checked": "2026-07-28T07:46:51.211353+00:00",
+    "last_checked": "2026-07-29T07:52:33.850011+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-06-29T10:18:24Z"
   },
   "perditioinc/FluidVoice": {
     "repo_name": "perditioinc/FluidVoice",
-    "last_checked": "2026-07-28T07:46:51.211356+00:00",
+    "last_checked": "2026-07-29T07:52:33.850014+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-06-28T22:50:52Z"
   },
   "perditioinc/appwrite": {
     "repo_name": "perditioinc/appwrite",
-    "last_checked": "2026-07-28T07:46:51.211360+00:00",
+    "last_checked": "2026-07-29T07:52:33.850017+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-06-29T09:18:34Z"
   },
@@ -12079,85 +12079,85 @@
   },
   "perditioinc/skillspector": {
     "repo_name": "perditioinc/skillspector",
-    "last_checked": "2026-07-28T07:46:51.211366+00:00",
+    "last_checked": "2026-07-29T07:52:33.850023+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-06-28T09:17:18Z"
   },
   "perditioinc/ai-job-search": {
     "repo_name": "perditioinc/ai-job-search",
-    "last_checked": "2026-07-28T07:46:51.211369+00:00",
+    "last_checked": "2026-07-29T07:52:33.850027+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-07-05T18:27:33Z"
   },
   "perditioinc/faceanything": {
     "repo_name": "perditioinc/faceanything",
-    "last_checked": "2026-07-28T07:46:51.211373+00:00",
+    "last_checked": "2026-07-29T07:52:33.850031+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-06-29T11:42:41Z"
   },
   "perditioinc/alphaevolve-on-googlecloud": {
     "repo_name": "perditioinc/alphaevolve-on-googlecloud",
-    "last_checked": "2026-07-28T07:46:51.211376+00:00",
+    "last_checked": "2026-07-29T07:52:33.850034+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-07-09T16:26:56Z"
   },
   "perditioinc/fable-advisor": {
     "repo_name": "perditioinc/fable-advisor",
-    "last_checked": "2026-07-28T07:46:51.211380+00:00",
+    "last_checked": "2026-07-29T07:52:33.850038+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-07-08T19:42:40Z"
   },
   "perditioinc/nemotron-voice-agent": {
     "repo_name": "perditioinc/nemotron-voice-agent",
-    "last_checked": "2026-07-28T07:46:51.211384+00:00",
+    "last_checked": "2026-07-29T07:52:33.850041+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-07-09T17:28:26Z"
   },
   "perditioinc/pxpipe": {
     "repo_name": "perditioinc/pxpipe",
-    "last_checked": "2026-07-28T07:46:51.211387+00:00",
+    "last_checked": "2026-07-29T07:52:33.850044+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-07-11T03:50:39Z"
   },
   "perditioinc/openwiki": {
     "repo_name": "perditioinc/openwiki",
-    "last_checked": "2026-07-28T07:46:51.211391+00:00",
+    "last_checked": "2026-07-29T07:52:33.850048+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-07-12T18:47:06Z"
   },
   "perditioinc/miniface-facial-motion-capture": {
     "repo_name": "perditioinc/miniface-facial-motion-capture",
-    "last_checked": "2026-07-28T07:46:51.211394+00:00",
+    "last_checked": "2026-07-29T07:52:33.850051+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-07-13T10:13:12Z"
   },
   "perditioinc/t3mp3st": {
     "repo_name": "perditioinc/t3mp3st",
-    "last_checked": "2026-07-28T07:46:51.211398+00:00",
+    "last_checked": "2026-07-29T07:52:33.850055+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-07-16T05:19:20Z"
   },
   "perditioinc/text-to-cad": {
     "repo_name": "perditioinc/text-to-cad",
-    "last_checked": "2026-07-28T07:46:51.211401+00:00",
+    "last_checked": "2026-07-29T07:52:33.850058+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-07-11T00:26:42Z"
   },
   "perditioinc/img2threejs": {
     "repo_name": "perditioinc/img2threejs",
-    "last_checked": "2026-07-28T07:46:51.211405+00:00",
+    "last_checked": "2026-07-29T07:52:33.850062+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-07-25T16:52:33Z"
   },
   "perditioinc/labs-oo-agents": {
     "repo_name": "perditioinc/labs-oo-agents",
-    "last_checked": "2026-07-28T07:46:51.211408+00:00",
+    "last_checked": "2026-07-29T07:52:33.850065+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-07-25T19:53:52Z"
   },
   "perditioinc/VRM-Addon-for-Blender": {
     "repo_name": "perditioinc/VRM-Addon-for-Blender",
-    "last_checked": "2026-07-28T07:46:51.211412+00:00",
+    "last_checked": "2026-07-29T07:52:33.850069+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-07-25T02:21:51Z"
   },
@@ -12211,7 +12211,7 @@
   },
   "perditioinc/OmniVoice": {
     "repo_name": "perditioinc/OmniVoice",
-    "last_checked": "2026-07-28T07:46:51.211432+00:00",
+    "last_checked": "2026-07-29T07:52:33.850089+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-07-20T22:01:11Z"
   },
@@ -12229,7 +12229,7 @@
   },
   "perditioinc/index-tts": {
     "repo_name": "perditioinc/index-tts",
-    "last_checked": "2026-07-28T07:46:51.211439+00:00",
+    "last_checked": "2026-07-29T07:52:33.850097+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-07-14T11:43:37Z"
   },
@@ -12283,37 +12283,37 @@
   },
   "perditioinc/awesome-ai-agent-governance": {
     "repo_name": "perditioinc/awesome-ai-agent-governance",
-    "last_checked": "2026-07-28T07:46:51.211459+00:00",
+    "last_checked": "2026-07-29T07:52:33.850117+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-07-23T09:48:38Z"
   },
   "perditioinc/awesome-evals": {
     "repo_name": "perditioinc/awesome-evals",
-    "last_checked": "2026-07-28T07:46:51.211463+00:00",
+    "last_checked": "2026-07-29T07:52:33.850121+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-07-01T22:53:19Z"
   },
   "perditioinc/img2threejs-showcase": {
     "repo_name": "perditioinc/img2threejs-showcase",
-    "last_checked": "2026-07-28T07:46:51.211466+00:00",
+    "last_checked": "2026-07-29T07:52:33.850125+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-07-25T15:21:54Z"
   },
   "perditioinc/three-vrm": {
     "repo_name": "perditioinc/three-vrm",
-    "last_checked": "2026-07-28T07:46:51.211470+00:00",
+    "last_checked": "2026-07-29T07:52:33.850129+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-07-15T07:15:13Z"
   },
   "perditioinc/pocket-tts": {
     "repo_name": "perditioinc/pocket-tts",
-    "last_checked": "2026-07-28T07:46:51.211473+00:00",
+    "last_checked": "2026-07-29T07:52:33.850132+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-07-16T12:42:06Z"
   },
   "perditioinc/openworker": {
     "repo_name": "perditioinc/openworker",
-    "last_checked": "2026-07-28T07:46:51.211476+00:00",
+    "last_checked": "2026-07-29T07:52:33.850136+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-07-25T08:27:43Z"
   }
