@@ -1,14 +1,14 @@
 {
   "meta": {
-    "total": 2010,
-    "last_updated": "2026-07-31T07:59:33.267298+00:00",
+    "total": 2011,
+    "last_updated": "2026-08-01T07:31:58.578523+00:00",
     "version": "1.0.0"
   },
   "categories": {
     "tooling": 1
   },
   "languages": {
-    "Python": 848,
+    "Python": 849,
     "TypeScript": 303,
     "Jupyter Notebook": 148,
     "C++": 120,
