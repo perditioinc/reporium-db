@@ -1,313 +1,5 @@
 [
   {
-    "nameWithOwner": "perditioinc/codex",
-    "name": "codex",
-    "description": "Lightweight coding agent that runs in your terminal",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Rust",
-    "pushedAt": "2026-01-24T22:34:36Z",
-    "updatedAt": "2026-01-24T23:05:24Z",
-    "createdAt": "2026-01-24T23:05:24Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "openai/codex",
-    "parentStars": 103215,
-    "parentForks": 15563,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/edgequake",
-    "name": "edgequake",
-    "description": "High-performance GraphRAG inspired from LightRag written in Rust",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Rust",
-    "pushedAt": "2026-02-17T03:19:53Z",
-    "updatedAt": "2026-02-17T03:35:29Z",
-    "createdAt": "2026-02-17T03:35:29Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "edgequake-main",
-    "parentRepo": "raphaelmansuy/edgequake",
-    "parentStars": 2062,
-    "parentForks": 239,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/zeroclaw",
-    "name": "zeroclaw",
-    "description": "Fast, small, and fully autonomous AI assistant infrastructure \u2014 deploy anywhere, swap anything \ud83e\udd80",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Rust",
-    "pushedAt": "2026-03-12T04:34:32Z",
-    "updatedAt": "2026-03-12T07:46:19Z",
-    "createdAt": "2026-03-12T07:46:18Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "master",
-    "parentRepo": "zeroclaw-labs/zeroclaw",
-    "parentStars": 32481,
-    "parentForks": 4859,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/openfang",
-    "name": "openfang",
-    "description": "Open-source Agent Operating System",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Rust",
-    "pushedAt": "2026-03-12T03:20:56Z",
-    "updatedAt": "2026-03-12T08:08:02Z",
-    "createdAt": "2026-03-12T08:08:02Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "RightNow-AI/openfang",
-    "parentStars": 18073,
-    "parentForks": 2287,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/ffflow",
-    "name": "ffflow",
-    "description": "Ffflow is a lightweight CLI tool for building structured, repeatable ffmpeg workflows. It helps organize complex media commands into clean, modular pipelines. Designed for power users who want clarity over command-line chaos. Simple structure, powerful media processing.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Rust",
-    "pushedAt": "2026-02-11T07:06:01Z",
-    "updatedAt": "2026-03-12T08:20:58Z",
-    "createdAt": "2026-03-12T08:20:57Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": null,
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "yugaaank/ffflow",
-    "parentStars": 24,
-    "parentForks": 2,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/llmfit",
-    "name": "llmfit",
-    "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Rust",
-    "pushedAt": "2026-03-12T01:14:01Z",
-    "updatedAt": "2026-03-12T08:26:50Z",
-    "createdAt": "2026-03-12T08:26:50Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "MIT License",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "AlexsJones/llmfit",
-    "parentStars": 31051,
-    "parentForks": 1896,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/agent-browser",
-    "name": "agent-browser",
-    "description": "Browser automation CLI for AI agents",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Rust",
-    "pushedAt": "2026-03-12T17:19:54Z",
-    "updatedAt": "2026-03-12T18:11:24Z",
-    "createdAt": "2026-03-12T18:11:24Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "vercel-labs/agent-browser",
-    "parentStars": 39729,
-    "parentForks": 2599,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/RuView",
-    "name": "RuView",
-    "description": "\u03c0 RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection \u2014 all without a single pixel of video. ",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Rust",
-    "pushedAt": "2026-03-13T02:37:38Z",
-    "updatedAt": "2026-03-13T04:30:20Z",
-    "createdAt": "2026-03-13T04:30:20Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "MIT License",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "ruvnet/RuView",
-    "parentStars": 88114,
-    "parentForks": 11705,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/chroma",
-    "name": "chroma",
-    "description": "Open-source search and retrieval database for AI applications.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Rust",
-    "pushedAt": "2026-03-17T01:47:15Z",
-    "updatedAt": "2026-03-17T01:47:22Z",
-    "createdAt": "2026-03-13T23:05:01Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "chroma-core/chroma",
-    "parentStars": 28921,
-    "parentForks": 2420,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/qdrant",
-    "name": "qdrant",
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Rust",
-    "pushedAt": "2026-03-13T22:46:51Z",
-    "updatedAt": "2026-03-13T23:05:46Z",
-    "createdAt": "2026-03-13T23:05:46Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "master",
-    "parentRepo": "qdrant/qdrant",
-    "parentStars": 33716,
-    "parentForks": 2546,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/shellfirm",
-    "name": "shellfirm",
-    "description": "Safety guardrails for ai coding agents and human terminal commands",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Rust",
-    "pushedAt": "2026-03-12T05:23:47Z",
-    "updatedAt": "2026-03-13T23:11:04Z",
-    "createdAt": "2026-03-13T23:11:04Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "kaplanelad/shellfirm",
-    "parentStars": 926,
-    "parentForks": 33,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/Rust",
-    "name": "Rust",
-    "description": " All Algorithms implemented in Rust ",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Rust",
-    "pushedAt": "2026-03-13T08:47:34Z",
-    "updatedAt": "2026-03-13T23:38:43Z",
-    "createdAt": "2026-03-13T23:38:43Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "MIT License",
-    "openIssues": 0,
-    "defaultBranch": "master",
-    "parentRepo": "TheAlgorithms/Rust",
-    "parentStars": 25963,
-    "parentForks": 2585,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/claudes-c-compiler",
-    "name": "claudes-c-compiler",
-    "description": "Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Rust",
-    "pushedAt": "2026-02-05T17:14:51Z",
-    "updatedAt": "2026-03-14T00:04:52Z",
-    "createdAt": "2026-03-14T00:04:52Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Creative Commons Zero v1.0 Universal",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "anthropics/claudes-c-compiler",
-    "parentStars": 2752,
-    "parentForks": 241,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/harmony",
-    "name": "harmony",
-    "description": "Renderer for the harmony response format to be used with gpt-oss",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Rust",
-    "pushedAt": "2025-12-15T22:05:16Z",
-    "updatedAt": "2026-03-14T00:10:29Z",
-    "createdAt": "2026-03-14T00:10:29Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "openai/harmony",
-    "parentStars": 4469,
-    "parentForks": 299,
-    "isPrivate": false
-  },
-  {
     "nameWithOwner": "perditioinc/vite-plus",
     "name": "vite-plus",
     "description": "Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.",
@@ -325,8 +17,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "voidzero-dev/vite-plus",
-    "parentStars": 5487,
-    "parentForks": 241,
+    "parentStars": 5495,
+    "parentForks": 242,
     "isPrivate": false
   },
   {
@@ -347,8 +39,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "louis-e/arnis",
-    "parentStars": 17211,
-    "parentForks": 1432,
+    "parentStars": 17232,
+    "parentForks": 1435,
     "isPrivate": false
   },
   {
@@ -369,8 +61,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "agent-of-empires/agent-of-empires",
-    "parentStars": 2939,
-    "parentForks": 292,
+    "parentStars": 2960,
+    "parentForks": 294,
     "isPrivate": false
   },
   {
@@ -413,8 +105,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "huggingface/candle",
-    "parentStars": 20820,
-    "parentForks": 1690,
+    "parentStars": 20836,
+    "parentForks": 1695,
     "isPrivate": false
   },
   {
@@ -435,8 +127,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "tracel-ai/burn",
-    "parentStars": 15694,
-    "parentForks": 1005,
+    "parentStars": 15707,
+    "parentForks": 1006,
     "isPrivate": false
   },
   {
@@ -457,8 +149,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "zed-industries/zed",
-    "parentStars": 87888,
-    "parentForks": 9831,
+    "parentStars": 87993,
+    "parentForks": 9853,
     "isPrivate": false
   },
   {
@@ -479,7 +171,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "TabbyML/tabby",
-    "parentStars": 33807,
+    "parentStars": 33815,
     "parentForks": 1780,
     "isPrivate": false
   },
@@ -501,8 +193,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "aaif-goose/goose",
-    "parentStars": 52093,
-    "parentForks": 5841,
+    "parentStars": 52194,
+    "parentForks": 5892,
     "isPrivate": false
   },
   {
@@ -545,8 +237,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "meilisearch/meilisearch",
-    "parentStars": 58819,
-    "parentForks": 2651,
+    "parentStars": 58847,
+    "parentForks": 2653,
     "isPrivate": false
   },
   {
@@ -589,7 +281,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "huggingface/tokenizers",
-    "parentStars": 10940,
+    "parentStars": 10944,
     "parentForks": 1161,
     "isPrivate": false
   },
@@ -611,7 +303,7 @@
     "openIssues": 0,
     "defaultBranch": "v2-dev",
     "parentRepo": "lencx/ChatGPT",
-    "parentStars": 54425,
+    "parentStars": 54435,
     "parentForks": 6136,
     "isPrivate": false
   },
@@ -633,8 +325,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "tensorzero/tensorzero",
-    "parentStars": 11729,
-    "parentForks": 958,
+    "parentStars": 11727,
+    "parentForks": 959,
     "isPrivate": false
   },
   {
@@ -655,7 +347,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "cube-js/cube",
-    "parentStars": 20535,
+    "parentStars": 20545,
     "parentForks": 2098,
     "isPrivate": false
   },
@@ -677,8 +369,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "screenpipe/screenpipe",
-    "parentStars": 20681,
-    "parentForks": 2050,
+    "parentStars": 20721,
+    "parentForks": 2058,
     "isPrivate": false
   },
   {
@@ -699,8 +391,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "iii-hq/iii",
-    "parentStars": 18547,
-    "parentForks": 1242,
+    "parentStars": 18557,
+    "parentForks": 1244,
     "isPrivate": false
   },
   {
@@ -721,8 +413,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "memvid/memvid",
-    "parentStars": 16089,
-    "parentForks": 1397,
+    "parentStars": 16119,
+    "parentForks": 1398,
     "isPrivate": false
   },
   {
@@ -743,8 +435,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Zackriya-Solutions/meetily",
-    "parentStars": 27890,
-    "parentForks": 2880,
+    "parentStars": 28198,
+    "parentForks": 2948,
     "isPrivate": false
   },
   {
@@ -765,7 +457,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "sigoden/aichat",
-    "parentStars": 10310,
+    "parentStars": 10319,
     "parentForks": 719,
     "isPrivate": false
   },
@@ -809,8 +501,8 @@
     "openIssues": 0,
     "defaultBranch": "canary",
     "parentRepo": "BoundaryML/baml",
-    "parentStars": 8767,
-    "parentForks": 463,
+    "parentStars": 8796,
+    "parentForks": 467,
     "isPrivate": false
   },
   {
@@ -831,8 +523,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "farion1231/cc-switch",
-    "parentStars": 123364,
-    "parentForks": 8348,
+    "parentStars": 124127,
+    "parentForks": 8417,
     "isPrivate": false
   },
   {
@@ -853,7 +545,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "devflowinc/trieve",
-    "parentStars": 2699,
+    "parentStars": 2709,
     "parentForks": 250,
     "isPrivate": false
   },
@@ -875,8 +567,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "vectordotdev/vector",
-    "parentStars": 22275,
-    "parentForks": 2233,
+    "parentStars": 22293,
+    "parentForks": 2234,
     "isPrivate": false
   },
   {
@@ -897,8 +589,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "BloopAI/vibe-kanban",
-    "parentStars": 27621,
-    "parentForks": 2933,
+    "parentStars": 27658,
+    "parentForks": 2938,
     "isPrivate": false
   },
   {
@@ -919,8 +611,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "rerun-io/rerun",
-    "parentStars": 11227,
-    "parentForks": 811,
+    "parentStars": 11241,
+    "parentForks": 815,
     "isPrivate": false
   },
   {
@@ -941,7 +633,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "copper-project/copper-rs",
-    "parentStars": 1431,
+    "parentStars": 1434,
     "parentForks": 97,
     "isPrivate": false
   },
@@ -963,8 +655,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "ultraworkers/claw-code",
-    "parentStars": 194957,
-    "parentForks": 109361,
+    "parentStars": 194960,
+    "parentForks": 109329,
     "isPrivate": false
   },
   {
@@ -985,8 +677,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "bevyengine/bevy",
-    "parentStars": 47439,
-    "parentForks": 4734,
+    "parentStars": 47475,
+    "parentForks": 4737,
     "isPrivate": false
   },
   {
@@ -1007,8 +699,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "juspay/hyperswitch",
-    "parentStars": 43383,
-    "parentForks": 4997,
+    "parentStars": 43382,
+    "parentForks": 4996,
     "isPrivate": false
   },
   {
@@ -1029,8 +721,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "spacedriveapp/spacedrive",
-    "parentStars": 38690,
-    "parentForks": 1331,
+    "parentStars": 38708,
+    "parentForks": 1332,
     "isPrivate": false
   },
   {
@@ -1051,8 +743,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "denoland/deno",
-    "parentStars": 107894,
-    "parentForks": 6269,
+    "parentStars": 107990,
+    "parentForks": 6297,
     "isPrivate": false
   },
   {
@@ -1073,8 +765,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "dmtrKovalenko/fff",
-    "parentStars": 9876,
-    "parentForks": 395,
+    "parentStars": 9900,
+    "parentForks": 398,
     "isPrivate": false
   },
   {
@@ -1095,8 +787,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "tw93/Pake",
-    "parentStars": 60395,
-    "parentForks": 12287,
+    "parentStars": 60439,
+    "parentForks": 12309,
     "isPrivate": false
   },
   {
@@ -1117,8 +809,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "rtk-ai/rtk",
-    "parentStars": 74293,
-    "parentForks": 4656,
+    "parentStars": 74608,
+    "parentForks": 4686,
     "isPrivate": false
   },
   {
@@ -1139,7 +831,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "unionlabs/union",
-    "parentStars": 73856,
+    "parentStars": 73857,
     "parentForks": 3889,
     "isPrivate": false
   },
@@ -1161,8 +853,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "rust-lang/rust",
-    "parentStars": 115032,
-    "parentForks": 15306,
+    "parentStars": 115158,
+    "parentForks": 15365,
     "isPrivate": false
   },
   {
@@ -1183,8 +875,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "rustdesk/rustdesk",
-    "parentStars": 119407,
-    "parentForks": 18246,
+    "parentStars": 119565,
+    "parentForks": 18272,
     "isPrivate": false
   },
   {
@@ -1205,8 +897,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "alacritty/alacritty",
-    "parentStars": 65203,
-    "parentForks": 3540,
+    "parentStars": 65230,
+    "parentForks": 3544,
     "isPrivate": false
   },
   {
@@ -1227,8 +919,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "googleworkspace/cli",
-    "parentStars": 30145,
-    "parentForks": 1762,
+    "parentStars": 30183,
+    "parentForks": 1764,
     "isPrivate": false
   },
   {
@@ -1249,8 +941,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "rustfs/rustfs",
-    "parentStars": 30547,
-    "parentForks": 1350,
+    "parentStars": 30612,
+    "parentForks": 1356,
     "isPrivate": false
   },
   {
@@ -1271,8 +963,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "warpdotdev/warp",
-    "parentStars": 63870,
-    "parentForks": 5371,
+    "parentStars": 63931,
+    "parentForks": 5372,
     "isPrivate": false
   },
   {
@@ -1293,8 +985,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "tonhowtf/omniget",
-    "parentStars": 8264,
-    "parentForks": 700,
+    "parentStars": 8358,
+    "parentForks": 712,
     "isPrivate": false
   },
   {
@@ -1315,8 +1007,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "1jehuang/jcode",
-    "parentStars": 15029,
-    "parentForks": 1667,
+    "parentStars": 15671,
+    "parentForks": 1725,
     "isPrivate": false
   },
   {
@@ -1337,8 +1029,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Hmbown/CodeWhale",
-    "parentStars": 40330,
-    "parentForks": 3485,
+    "parentStars": 40426,
+    "parentForks": 3494,
     "isPrivate": false
   },
   {
@@ -1359,8 +1051,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "tinyhumansai/openhuman",
-    "parentStars": 35824,
-    "parentForks": 3538,
+    "parentStars": 35928,
+    "parentForks": 3564,
     "isPrivate": false
   },
   {
@@ -1381,8 +1073,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "run-llama/liteparse",
-    "parentStars": 11871,
-    "parentForks": 813,
+    "parentStars": 11900,
+    "parentForks": 817,
     "isPrivate": false
   },
   {
@@ -1403,8 +1095,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-    "parentStars": 8658,
-    "parentForks": 368,
+    "parentStars": 8671,
+    "parentForks": 367,
     "isPrivate": false
   }
 ]

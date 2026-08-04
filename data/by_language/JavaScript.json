@@ -1,357 +1,5 @@
 [
   {
-    "nameWithOwner": "perditioinc/anything-llm",
-    "name": "anything-llm",
-    "description": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2025-11-07T02:40:00Z",
-    "updatedAt": "2025-11-08T19:37:12Z",
-    "createdAt": "2025-11-08T19:37:12Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "MIT License",
-    "openIssues": 0,
-    "defaultBranch": "master",
-    "parentRepo": "Mintplex-Labs/anything-llm",
-    "parentStars": 64223,
-    "parentForks": 7052,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/cs249r_book",
-    "name": "cs249r_book",
-    "description": "Introduction to Machine Learning Systems",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2025-12-09T04:15:07Z",
-    "updatedAt": "2025-12-09T05:50:35Z",
-    "createdAt": "2025-12-09T05:50:35Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Other",
-    "openIssues": 0,
-    "defaultBranch": "dev",
-    "parentRepo": "harvard-edge/cs249r_book",
-    "parentStars": 27683,
-    "parentForks": 3418,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/everything-claude-code",
-    "name": "everything-claude-code",
-    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2026-03-11T23:00:03Z",
-    "updatedAt": "2026-03-12T08:31:49Z",
-    "createdAt": "2026-03-12T08:31:49Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "MIT License",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "affaan-m/ECC",
-    "parentStars": 236882,
-    "parentForks": 36014,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/Manifolder",
-    "name": "Manifolder",
-    "description": "A map explorer for the Open Metaverse AKA Open Spatial Internet",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2026-03-07T08:28:39Z",
-    "updatedAt": "2026-03-12T18:18:53Z",
-    "createdAt": "2026-03-12T18:18:53Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "PatchedReality/Manifolder",
-    "parentStars": 5,
-    "parentForks": 1,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/JSONvirse",
-    "name": "JSONvirse",
-    "description": "Initially, a multiuser system for research, design, development, of 3D scenes. Ultimately, I want to do a block party.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2026-02-04T05:18:22Z",
-    "updatedAt": "2026-03-12T18:19:25Z",
-    "createdAt": "2026-03-12T18:19:24Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Other",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "coderextreme/JSONvirse",
-    "parentStars": 1,
-    "parentForks": 1,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/context-hub",
-    "name": "context-hub",
-    "description": null,
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2026-03-17T01:46:37Z",
-    "updatedAt": "2026-03-17T01:46:53Z",
-    "createdAt": "2026-03-12T18:21:34Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "MIT License",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "andrewyng/context-hub",
-    "parentStars": 13887,
-    "parentForks": 1202,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/mediapipe-touchdesigner",
-    "name": "mediapipe-touchdesigner",
-    "description": "GPU Accelerated MediaPipe Plugin for TouchDesigner",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2025-11-18T06:07:18Z",
-    "updatedAt": "2026-03-13T08:31:36Z",
-    "createdAt": "2026-03-13T08:31:36Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "MIT License",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "torinmb/mediapipe-touchdesigner",
-    "parentStars": 2620,
-    "parentForks": 130,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/wiseflow",
-    "name": "wiseflow",
-    "description": "enhance any agent's browser use skill",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2026-03-13T14:40:35Z",
-    "updatedAt": "2026-03-13T23:25:22Z",
-    "createdAt": "2026-03-13T23:25:21Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Other",
-    "openIssues": 0,
-    "defaultBranch": "master",
-    "parentRepo": "TeamWiseFlow/xiaobei",
-    "parentStars": 8373,
-    "parentForks": 1423,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/store.js",
-    "name": "store.js",
-    "description": "Cross-browser storage for all use cases, used across the web.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-01-16T21:28:56Z",
-    "updatedAt": "2026-03-13T23:25:32Z",
-    "createdAt": "2026-03-13T23:25:32Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "MIT License",
-    "openIssues": 0,
-    "defaultBranch": "master",
-    "parentRepo": "marcuswestin/store.js",
-    "parentStars": 13985,
-    "parentForks": 1296,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/magenta-studio",
-    "name": "magenta-studio",
-    "description": "Magenta Studio is a collection of music plugins built on Magenta\u2019s open source tools and models",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2026-02-12T18:54:27Z",
-    "updatedAt": "2026-03-13T23:27:27Z",
-    "createdAt": "2026-03-13T23:27:26Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "magenta/magenta-studio",
-    "parentStars": 1264,
-    "parentForks": 200,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/nodejs-docs-samples",
-    "name": "nodejs-docs-samples",
-    "description": "Node.js samples for Google Cloud Platform products.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2026-03-11T05:29:46Z",
-    "updatedAt": "2026-03-13T23:30:26Z",
-    "createdAt": "2026-03-13T23:30:26Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "GoogleCloudPlatform/nodejs-docs-samples",
-    "parentStars": 2991,
-    "parentForks": 2026,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/JavaScript",
-    "name": "JavaScript",
-    "description": "Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2026-03-07T14:45:13Z",
-    "updatedAt": "2026-03-13T23:38:37Z",
-    "createdAt": "2026-03-13T23:38:37Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "GNU General Public License v3.0",
-    "openIssues": 0,
-    "defaultBranch": "master",
-    "parentRepo": "TheAlgorithms/JavaScript",
-    "parentStars": 34206,
-    "parentForks": 5852,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/Web-Dev-For-Beginners",
-    "name": "Web-Dev-For-Beginners",
-    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2026-03-11T21:33:00Z",
-    "updatedAt": "2026-03-13T23:43:40Z",
-    "createdAt": "2026-03-13T23:43:40Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "MIT License",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "microsoft/Web-Dev-For-Beginners",
-    "parentStars": 96092,
-    "parentForks": 15713,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/monaco-editor",
-    "name": "monaco-editor",
-    "description": "A browser based code editor",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2026-03-17T01:47:21Z",
-    "updatedAt": "2026-03-17T01:47:32Z",
-    "createdAt": "2026-03-13T23:45:31Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "MIT License",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "microsoft/monaco-editor",
-    "parentStars": 46467,
-    "parentForks": 4100,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/openai-realtime-console",
-    "name": "openai-realtime-console",
-    "description": "React app for inspecting, building and debugging with the Realtime API",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2025-08-28T16:07:56Z",
-    "updatedAt": "2026-03-14T00:10:51Z",
-    "createdAt": "2026-03-14T00:10:48Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "MIT License",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "openai/openai-realtime-console",
-    "parentStars": 3610,
-    "parentForks": 1409,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/openai-quickstart-node",
-    "name": "openai-quickstart-node",
-    "description": "Node.js example app from the OpenAI API quickstart tutorial",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2025-09-24T16:46:16Z",
-    "updatedAt": "2026-03-14T00:12:41Z",
-    "createdAt": "2026-03-14T00:12:41Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "MIT License",
-    "openIssues": 0,
-    "defaultBranch": "master",
-    "parentRepo": "openai/openai-quickstart-node",
-    "parentStars": 2647,
-    "parentForks": 1956,
-    "isPrivate": false
-  },
-  {
     "nameWithOwner": "perditioinc/dotenvx",
     "name": "dotenvx",
     "description": "a secure dotenv\u2013from the creator of `dotenv`",
@@ -369,8 +17,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "dotenvx/dotenvx",
-    "parentStars": 5658,
-    "parentForks": 149,
+    "parentStars": 5662,
+    "parentForks": 150,
     "isPrivate": false
   },
   {
@@ -391,8 +39,8 @@
     "openIssues": 0,
     "defaultBranch": "release",
     "parentRepo": "SillyTavern/SillyTavern",
-    "parentStars": 31511,
-    "parentForks": 5940,
+    "parentStars": 31617,
+    "parentForks": 5951,
     "isPrivate": false
   },
   {
@@ -413,8 +61,8 @@
     "openIssues": 0,
     "defaultBranch": "dev",
     "parentRepo": "hmjz100/LinkSwift",
-    "parentStars": 18634,
-    "parentForks": 1102,
+    "parentStars": 18673,
+    "parentForks": 1105,
     "isPrivate": false
   },
   {
@@ -435,8 +83,8 @@
     "openIssues": 0,
     "defaultBranch": "development",
     "parentRepo": "Stremio/stremio-web",
-    "parentStars": 12611,
-    "parentForks": 1442,
+    "parentStars": 12616,
+    "parentForks": 1444,
     "isPrivate": false
   },
   {
@@ -457,8 +105,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "SynkraAI/aiox-core",
-    "parentStars": 3067,
-    "parentForks": 937,
+    "parentStars": 3066,
+    "parentForks": 938,
     "isPrivate": false
   },
   {
@@ -479,8 +127,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "fmhy/edit",
-    "parentStars": 10936,
-    "parentForks": 2842,
+    "parentStars": 10954,
+    "parentForks": 2852,
     "isPrivate": false
   },
   {
@@ -501,8 +149,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "jellyfin/jellyfin-web",
-    "parentStars": 3745,
-    "parentForks": 2131,
+    "parentStars": 3752,
+    "parentForks": 2138,
     "isPrivate": false
   },
   {
@@ -523,7 +171,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "badlogic/pi-skills",
-    "parentStars": 2300,
+    "parentStars": 2313,
     "parentForks": 207,
     "isPrivate": false
   },
@@ -545,8 +193,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "decolua/9router",
-    "parentStars": 24376,
-    "parentForks": 4223,
+    "parentStars": 24604,
+    "parentForks": 4308,
     "isPrivate": false
   },
   {
@@ -589,8 +237,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/NemoClaw",
-    "parentStars": 22019,
-    "parentForks": 2996,
+    "parentStars": 22037,
+    "parentForks": 3001,
     "isPrivate": false
   },
   {
@@ -611,8 +259,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "gsd-build/get-shit-done",
-    "parentStars": 64778,
-    "parentForks": 5464,
+    "parentStars": 64771,
+    "parentForks": 5465,
     "isPrivate": false
   },
   {
@@ -633,7 +281,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "apify/agent-skills",
-    "parentStars": 2317,
+    "parentStars": 2319,
     "parentForks": 249,
     "isPrivate": false
   },
@@ -655,8 +303,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "jarrodwatts/claude-hud",
-    "parentStars": 27018,
-    "parentForks": 1252,
+    "parentStars": 27078,
+    "parentForks": 1258,
     "isPrivate": false
   },
   {
@@ -677,7 +325,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "OpenBMB/AgentVerse",
-    "parentStars": 5092,
+    "parentStars": 5094,
     "parentForks": 510,
     "isPrivate": false
   },
@@ -721,7 +369,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "marcotcr/lime",
-    "parentStars": 12161,
+    "parentStars": 12163,
     "parentForks": 1846,
     "isPrivate": false
   },
@@ -765,8 +413,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "MobSF/Mobile-Security-Framework-MobSF",
-    "parentStars": 21531,
-    "parentForks": 3742,
+    "parentStars": 21545,
+    "parentForks": 3746,
     "isPrivate": false
   },
   {
@@ -787,8 +435,8 @@
     "openIssues": 0,
     "defaultBranch": "develop",
     "parentRepo": "simple-icons/simple-icons",
-    "parentStars": 25538,
-    "parentForks": 3140,
+    "parentStars": 25553,
+    "parentForks": 3142,
     "isPrivate": false
   },
   {
@@ -809,8 +457,8 @@
     "openIssues": 0,
     "defaultBranch": "canary",
     "parentRepo": "vercel/next.js",
-    "parentStars": 141218,
-    "parentForks": 31600,
+    "parentStars": 141330,
+    "parentForks": 31661,
     "isPrivate": false
   },
   {
@@ -831,8 +479,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "aandrew-me/ytDownloader",
-    "parentStars": 10048,
-    "parentForks": 896,
+    "parentStars": 10063,
+    "parentForks": 895,
     "isPrivate": false
   },
   {
@@ -853,8 +501,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "gildas-lormeau/SingleFile",
-    "parentStars": 22060,
-    "parentForks": 1387,
+    "parentStars": 22077,
+    "parentForks": 1389,
     "isPrivate": false
   },
   {
@@ -875,8 +523,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "tavily-ai/tavily-mcp",
-    "parentStars": 2286,
-    "parentForks": 285,
+    "parentStars": 2293,
+    "parentForks": 286,
     "isPrivate": false
   },
   {
@@ -897,8 +545,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "nodejs/node",
-    "parentStars": 118611,
-    "parentForks": 36291,
+    "parentStars": 118707,
+    "parentForks": 36326,
     "isPrivate": false
   },
   {
@@ -919,7 +567,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "rgthree/rgthree-comfy",
-    "parentStars": 3289,
+    "parentStars": 3294,
     "parentForks": 248,
     "isPrivate": false
   },
@@ -941,8 +589,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "eyaltoledano/claude-task-master",
-    "parentStars": 27927,
-    "parentForks": 2621,
+    "parentStars": 27936,
+    "parentForks": 2623,
     "isPrivate": false
   },
   {
@@ -963,8 +611,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "pbakaus/impeccable",
-    "parentStars": 53813,
-    "parentForks": 3203,
+    "parentStars": 54728,
+    "parentForks": 3289,
     "isPrivate": false
   },
   {
@@ -985,7 +633,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "lutzroeder/netron",
-    "parentStars": 33293,
+    "parentStars": 33310,
     "parentForks": 3175,
     "isPrivate": false
   },
@@ -1007,8 +655,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "AMAI-GmbH/AI-Expert-Roadmap",
-    "parentStars": 31174,
-    "parentForks": 2583,
+    "parentStars": 31181,
+    "parentForks": 2585,
     "isPrivate": false
   },
   {
@@ -1029,7 +677,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Max-Eee/NeoPass",
-    "parentStars": 24717,
+    "parentStars": 24705,
     "parentForks": 98,
     "isPrivate": false
   },
@@ -1051,8 +699,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "electerm/electerm",
-    "parentStars": 14636,
-    "parentForks": 1173,
+    "parentStars": 14650,
+    "parentForks": 1174,
     "isPrivate": false
   },
   {
@@ -1073,8 +721,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "naptha/tesseract.js",
-    "parentStars": 38585,
-    "parentForks": 2378,
+    "parentStars": 38596,
+    "parentForks": 2379,
     "isPrivate": false
   },
   {
@@ -1095,8 +743,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "pot-app/pot-desktop",
-    "parentStars": 19153,
-    "parentForks": 965,
+    "parentStars": 19175,
+    "parentForks": 967,
     "isPrivate": false
   },
   {
@@ -1205,8 +853,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "AI-in-Transportation-Lab/awesome-tinyml",
-    "parentStars": 136,
-    "parentForks": 20,
+    "parentStars": 138,
+    "parentForks": 21,
     "isPrivate": false
   },
   {
@@ -1227,8 +875,8 @@
     "openIssues": 0,
     "defaultBranch": "dev",
     "parentRepo": "neomjs/neo",
-    "parentStars": 3250,
-    "parentForks": 226,
+    "parentStars": 3251,
+    "parentForks": 227,
     "isPrivate": false
   },
   {
@@ -1249,8 +897,8 @@
     "openIssues": 0,
     "defaultBranch": "dev",
     "parentRepo": "mrdoob/three.js",
-    "parentStars": 114169,
-    "parentForks": 36458,
+    "parentStars": 114247,
+    "parentForks": 36460,
     "isPrivate": false
   },
   {
@@ -1271,8 +919,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "mozilla/pdf.js",
-    "parentStars": 53652,
-    "parentForks": 10649,
+    "parentStars": 53666,
+    "parentForks": 10647,
     "isPrivate": false
   },
   {
@@ -1293,8 +941,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "plankanban/planka",
-    "parentStars": 12306,
-    "parentForks": 1328,
+    "parentStars": 12312,
+    "parentForks": 1331,
     "isPrivate": false
   },
   {
@@ -1315,7 +963,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "atlassian/atlassian-mcp-server",
-    "parentStars": 923,
+    "parentStars": 930,
     "parentForks": 118,
     "isPrivate": false
   },
@@ -1337,8 +985,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "WhiskeySockets/Baileys",
-    "parentStars": 10548,
-    "parentForks": 3267,
+    "parentStars": 10585,
+    "parentForks": 3273,
     "isPrivate": false
   },
   {
@@ -1359,7 +1007,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Yuyz0112/claude-code-reverse",
-    "parentStars": 2408,
+    "parentStars": 2409,
     "parentForks": 409,
     "isPrivate": false
   },
@@ -1381,8 +1029,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "coreyhaines31/marketingskills",
-    "parentStars": 42673,
-    "parentForks": 6719,
+    "parentStars": 42921,
+    "parentForks": 6763,
     "isPrivate": false
   },
   {
@@ -1403,8 +1051,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "google/zx",
-    "parentStars": 45640,
-    "parentForks": 1276,
+    "parentStars": 45642,
+    "parentForks": 1277,
     "isPrivate": false
   },
   {
@@ -1426,7 +1074,7 @@
     "defaultBranch": "main",
     "parentRepo": "grab/cursor-talk-to-figma-mcp",
     "parentStars": 6948,
-    "parentForks": 754,
+    "parentForks": 756,
     "isPrivate": false
   },
   {
@@ -1447,7 +1095,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "rwaldron/johnny-five",
-    "parentStars": 13409,
+    "parentStars": 13408,
     "parentForks": 1732,
     "isPrivate": false
   },
@@ -1491,8 +1139,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "HeyPuter/puter",
-    "parentStars": 42926,
-    "parentForks": 3972,
+    "parentStars": 42960,
+    "parentForks": 3978,
     "isPrivate": false
   },
   {
@@ -1513,8 +1161,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "Chalarangelo/30-seconds-of-code",
-    "parentStars": 128570,
-    "parentForks": 12475,
+    "parentStars": 128592,
+    "parentForks": 12477,
     "isPrivate": false
   },
   {
@@ -1535,8 +1183,8 @@
     "openIssues": 0,
     "defaultBranch": "v1.x",
     "parentRepo": "axios/axios",
-    "parentStars": 109165,
-    "parentForks": 11799,
+    "parentStars": 109171,
+    "parentForks": 11804,
     "isPrivate": false
   },
   {
@@ -1557,8 +1205,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "trekhleb/javascript-algorithms",
-    "parentStars": 196364,
-    "parentForks": 31039,
+    "parentStars": 196373,
+    "parentForks": 31036,
     "isPrivate": false
   },
   {
@@ -1579,8 +1227,8 @@
     "openIssues": 0,
     "defaultBranch": "7.x",
     "parentRepo": "FortAwesome/Font-Awesome",
-    "parentStars": 76795,
-    "parentForks": 12188,
+    "parentStars": 76807,
+    "parentForks": 12187,
     "isPrivate": false
   },
   {
@@ -1601,8 +1249,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "juliangarnier/anime",
-    "parentStars": 71686,
-    "parentForks": 4817,
+    "parentStars": 71785,
+    "parentForks": 4829,
     "isPrivate": false
   },
   {
@@ -1623,8 +1271,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "vercel-labs/agent-skills",
-    "parentStars": 29683,
-    "parentForks": 2659,
+    "parentStars": 29728,
+    "parentForks": 2668,
     "isPrivate": false
   },
   {
@@ -1645,8 +1293,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "usebruno/bruno",
-    "parentStars": 46069,
-    "parentForks": 2744,
+    "parentStars": 46104,
+    "parentForks": 2746,
     "isPrivate": false
   },
   {
@@ -1667,8 +1315,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "rohitg00/awesome-claude-code-toolkit",
-    "parentStars": 2432,
-    "parentForks": 862,
+    "parentStars": 2438,
+    "parentForks": 866,
     "isPrivate": false
   },
   {
@@ -1689,8 +1337,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "composio-community/awesome-claude-plugins",
-    "parentStars": 1851,
-    "parentForks": 528,
+    "parentStars": 1858,
+    "parentForks": 534,
     "isPrivate": false
   },
   {
@@ -1711,8 +1359,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Wei-Shaw/claude-relay-service",
-    "parentStars": 12456,
-    "parentForks": 1867,
+    "parentStars": 12463,
+    "parentForks": 1862,
     "isPrivate": false
   },
   {
@@ -1733,8 +1381,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Piebald-AI/claude-code-system-prompts",
-    "parentStars": 12142,
-    "parentForks": 2025,
+    "parentStars": 12164,
+    "parentForks": 2026,
     "isPrivate": false
   },
   {
@@ -1755,8 +1403,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "ykdojo/claude-code-tips",
-    "parentStars": 9510,
-    "parentForks": 753,
+    "parentStars": 9537,
+    "parentForks": 755,
     "isPrivate": false
   },
   {
@@ -1777,8 +1425,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "react/react",
-    "parentStars": 246846,
-    "parentForks": 51179,
+    "parentStars": 246950,
+    "parentForks": 51185,
     "isPrivate": false
   },
   {
@@ -1799,8 +1447,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Anil-matcha/Open-Generative-AI",
-    "parentStars": 25388,
-    "parentForks": 4457,
+    "parentStars": 25508,
+    "parentForks": 4483,
     "isPrivate": false
   },
   {
@@ -1821,7 +1469,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "browserbase/skills",
-    "parentStars": 3668,
+    "parentStars": 3669,
     "parentForks": 233,
     "isPrivate": false
   },
@@ -1843,8 +1491,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "fspecii/ace-step-ui",
-    "parentStars": 4646,
-    "parentForks": 710,
+    "parentStars": 4652,
+    "parentForks": 713,
     "isPrivate": false
   },
   {
@@ -1865,8 +1513,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "datawhalechina/easy-vibe",
-    "parentStars": 18695,
-    "parentForks": 1776,
+    "parentStars": 18734,
+    "parentForks": 1780,
     "isPrivate": false
   },
   {
@@ -1887,8 +1535,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "TryGhost/Ghost",
-    "parentStars": 54619,
-    "parentForks": 11855,
+    "parentStars": 54654,
+    "parentForks": 11861,
     "isPrivate": false
   },
   {
@@ -1909,8 +1557,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "phuc-nt/my-translator",
-    "parentStars": 1249,
-    "parentForks": 395,
+    "parentStars": 1256,
+    "parentForks": 397,
     "isPrivate": false
   },
   {
@@ -1953,8 +1601,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "earthtojake/text-to-cad",
-    "parentStars": 12426,
-    "parentForks": 1318,
+    "parentStars": 12742,
+    "parentForks": 1342,
     "isPrivate": false
   }
 ]
