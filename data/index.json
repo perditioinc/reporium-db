@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total": 2012,
-    "last_updated": "2026-08-08T05:47:38.706061+00:00",
+    "total": 2013,
+    "last_updated": "2026-08-09T05:54:09.462715+00:00",
     "version": "1.0.0"
   },
   "categories": {
@@ -13,7 +13,7 @@
     "Jupyter Notebook": 148,
     "C++": 120,
     "JavaScript": 89,
-    "Go": 88,
+    "Go": 89,
     "Rust": 64,
     "C": 40,
     "C#": 30,
