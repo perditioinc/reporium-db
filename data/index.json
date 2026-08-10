@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total": 2013,
-    "last_updated": "2026-08-09T05:54:09.462715+00:00",
+    "total": 2015,
+    "last_updated": "2026-08-10T06:16:21.022387+00:00",
     "version": "1.0.0"
   },
   "categories": {
@@ -9,7 +9,7 @@
   },
   "languages": {
     "Python": 850,
-    "TypeScript": 303,
+    "TypeScript": 305,
     "Jupyter Notebook": 148,
     "C++": 120,
     "JavaScript": 89,
