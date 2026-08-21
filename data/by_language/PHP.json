@@ -18,7 +18,7 @@
     "defaultBranch": "7.x",
     "parentRepo": "mautic/mautic",
     "parentStars": 10372,
-    "parentForks": 3413,
+    "parentForks": 3415,
     "isPrivate": false
   },
   {
@@ -40,7 +40,7 @@
     "defaultBranch": "4.x",
     "parentRepo": "farmOS/farmOS",
     "parentStars": 1338,
-    "parentForks": 364,
+    "parentForks": 365,
     "isPrivate": false
   },
   {
@@ -83,8 +83,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "nextcloud/server",
-    "parentStars": 36488,
-    "parentForks": 5122,
+    "parentStars": 36505,
+    "parentForks": 5125,
     "isPrivate": false
   },
   {
@@ -106,7 +106,7 @@
     "defaultBranch": "main",
     "parentRepo": "kanboard/kanboard",
     "parentStars": 9806,
-    "parentForks": 1991,
+    "parentForks": 1993,
     "isPrivate": false
   },
   {
@@ -127,8 +127,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "Leantime/leantime",
-    "parentStars": 11397,
-    "parentForks": 1108,
+    "parentStars": 11401,
+    "parentForks": 1109,
     "isPrivate": false
   }
 ]
