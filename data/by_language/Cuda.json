@@ -1,71 +1,5 @@
 [
   {
-    "nameWithOwner": "perditioinc/cuda-course",
-    "name": "cuda-course",
-    "description": "CUDA Course on FreeCodeCamp",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Cuda",
-    "pushedAt": "2026-03-17T01:46:09Z",
-    "updatedAt": "2026-03-17T01:46:16Z",
-    "createdAt": "2025-11-03T17:07:16Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": null,
-    "openIssues": 0,
-    "defaultBranch": "master",
-    "parentRepo": "Infatoshi/cuda-course",
-    "parentStars": 3989,
-    "parentForks": 684,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/imp",
-    "name": "imp",
-    "description": "High-performance LLM inference engine in C++/CUDA for NVIDIA Blackwell GPUs (RTX 5090)",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Cuda",
-    "pushedAt": "2026-03-17T01:46:34Z",
-    "updatedAt": "2026-03-17T01:46:41Z",
-    "createdAt": "2026-03-12T18:09:43Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "MIT License",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "kekzl/imp",
-    "parentStars": 37,
-    "parentForks": 2,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/cuopt",
-    "name": "cuopt",
-    "description": "GPU accelerated decision optimization ",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Cuda",
-    "pushedAt": "2026-03-17T01:47:28Z",
-    "updatedAt": "2026-03-17T01:47:34Z",
-    "createdAt": "2026-03-14T00:16:03Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "NVIDIA/cuopt",
-    "parentStars": 1031,
-    "parentForks": 222,
-    "isPrivate": false
-  },
-  {
     "nameWithOwner": "perditioinc/instant-ngp",
     "name": "instant-ngp",
     "description": "Instant neural graphics primitives: lightning fast NeRF and more",
@@ -83,7 +17,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "NVlabs/instant-ngp",
-    "parentStars": 17536,
+    "parentStars": 17539,
     "parentForks": 2066,
     "isPrivate": false
   },
@@ -105,8 +39,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "xlite-dev/LeetCUDA",
-    "parentStars": 11843,
-    "parentForks": 1245,
+    "parentStars": 11853,
+    "parentForks": 1246,
     "isPrivate": false
   },
   {
@@ -127,8 +61,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "karpathy/llm.c",
-    "parentStars": 30889,
-    "parentForks": 3744,
+    "parentStars": 30893,
+    "parentForks": 3747,
     "isPrivate": false
   },
   {
@@ -149,8 +83,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "deepseek-ai/DeepGEMM",
-    "parentStars": 7747,
-    "parentForks": 1222,
+    "parentStars": 7752,
+    "parentForks": 1224,
     "isPrivate": false
   },
   {
@@ -172,7 +106,7 @@
     "defaultBranch": "main",
     "parentRepo": "deepseek-ai/DeepEP",
     "parentStars": 10071,
-    "parentForks": 1418,
+    "parentForks": 1419,
     "isPrivate": false
   }
 ]
