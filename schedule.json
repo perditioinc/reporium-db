@@ -4123,9 +4123,9 @@
   },
   "perditioinc/reporium": {
     "repo_name": "perditioinc/reporium",
-    "last_checked": "2026-09-01T09:55:48.356473+00:00",
+    "last_checked": "2026-09-02T09:27:46.419752+00:00",
     "tier": "nightly",
-    "upstream_pushed_at": "2026-08-31T12:53:06Z"
+    "upstream_pushed_at": "2026-09-01T12:05:07Z"
   },
   "perditioinc/reporium-api": {
     "repo_name": "perditioinc/reporium-api",
@@ -4855,9 +4855,9 @@
   },
   "perditioinc/portfolio": {
     "repo_name": "perditioinc/portfolio",
-    "last_checked": "2026-09-01T09:55:48.356758+00:00",
+    "last_checked": "2026-09-02T09:27:46.419955+00:00",
     "tier": "nightly",
-    "upstream_pushed_at": "2026-08-31T14:17:31Z"
+    "upstream_pushed_at": "2026-09-01T11:54:58Z"
   },
   "perditioinc/container-use": {
     "repo_name": "perditioinc/container-use",
@@ -4867,27 +4867,27 @@
   },
   "perditioinc/reporium-db": {
     "repo_name": "perditioinc/reporium-db",
-    "last_checked": "2026-09-01T09:55:48.356767+00:00",
+    "last_checked": "2026-09-02T09:27:46.419961+00:00",
     "tier": "nightly",
-    "upstream_pushed_at": "2026-08-31T11:32:49Z"
+    "upstream_pushed_at": "2026-09-01T09:55:51Z"
   },
   "perditioinc/reporium-dataset": {
     "repo_name": "perditioinc/reporium-dataset",
-    "last_checked": "2026-09-01T09:55:48.356771+00:00",
+    "last_checked": "2026-09-02T09:27:46.419964+00:00",
     "tier": "nightly",
-    "upstream_pushed_at": "2026-08-31T13:12:32Z"
+    "upstream_pushed_at": "2026-09-01T11:24:05Z"
   },
   "perditioinc/reporium-roadmap": {
     "repo_name": "perditioinc/reporium-roadmap",
-    "last_checked": "2026-09-01T09:55:48.356775+00:00",
+    "last_checked": "2026-09-02T09:27:46.419967+00:00",
     "tier": "nightly",
-    "upstream_pushed_at": "2026-08-31T14:32:42Z"
+    "upstream_pushed_at": "2026-09-01T12:12:18Z"
   },
   "perditioinc/reporium-metrics": {
     "repo_name": "perditioinc/reporium-metrics",
-    "last_checked": "2026-09-01T09:55:48.356779+00:00",
+    "last_checked": "2026-09-02T09:27:46.419971+00:00",
     "tier": "nightly",
-    "upstream_pushed_at": "2026-08-31T15:13:16Z"
+    "upstream_pushed_at": "2026-09-01T12:37:57Z"
   },
   "perditioinc/repo-intelligence": {
     "repo_name": "perditioinc/repo-intelligence",
@@ -11293,9 +11293,9 @@
   },
   "perditioinc/reporium-trust-score": {
     "repo_name": "perditioinc/reporium-trust-score",
-    "last_checked": "2026-09-01T09:55:48.358945+00:00",
+    "last_checked": "2026-09-02T09:27:46.421465+00:00",
     "tier": "nightly",
-    "upstream_pushed_at": "2026-09-01T05:55:50Z"
+    "upstream_pushed_at": "2026-09-02T05:18:52Z"
   },
   "perditioinc/DeepGEMM": {
     "repo_name": "perditioinc/DeepGEMM",
@@ -12115,7 +12115,7 @@
   },
   "perditioinc/pxpipe": {
     "repo_name": "perditioinc/pxpipe",
-    "last_checked": "2026-08-26T05:42:20.262365+00:00",
+    "last_checked": "2026-09-02T09:27:46.421664+00:00",
     "tier": "weekly",
     "upstream_pushed_at": "2026-07-11T03:50:39Z"
   },
@@ -12139,7 +12139,7 @@
   },
   "perditioinc/text-to-cad": {
     "repo_name": "perditioinc/text-to-cad",
-    "last_checked": "2026-08-26T05:42:20.262375+00:00",
+    "last_checked": "2026-09-02T09:27:46.421673+00:00",
     "tier": "weekly",
     "upstream_pushed_at": "2026-07-11T00:26:42Z"
   },
@@ -12331,19 +12331,19 @@
   },
   "perditioinc/livekit": {
     "repo_name": "perditioinc/livekit",
-    "last_checked": "2026-09-01T09:55:48.359316+00:00",
+    "last_checked": "2026-09-02T09:27:46.421721+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-08-07T13:43:43Z"
   },
   "perditioinc/crm": {
     "repo_name": "perditioinc/crm",
-    "last_checked": "2026-09-01T09:55:48.359321+00:00",
+    "last_checked": "2026-09-02T09:27:46.421724+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-08-08T23:51:41Z"
   },
   "perditioinc/comp": {
     "repo_name": "perditioinc/comp",
-    "last_checked": "2026-09-01T09:55:48.359325+00:00",
+    "last_checked": "2026-09-02T09:27:46.421727+00:00",
     "tier": "nightly",
     "upstream_pushed_at": "2026-08-09T00:33:23Z"
   }
