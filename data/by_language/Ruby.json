@@ -1,49 +1,5 @@
 [
   {
-    "nameWithOwner": "perditioinc/try",
-    "name": "try",
-    "description": "fresh directories for every vibe",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Ruby",
-    "pushedAt": "2025-10-04T00:06:21Z",
-    "updatedAt": "2025-11-08T19:43:22Z",
-    "createdAt": "2025-11-08T19:43:22Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": null,
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "tobi/try",
-    "parentStars": 3986,
-    "parentForks": 159,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/spree",
-    "name": "spree",
-    "description": "Spree is an API-first, open-source eCommerce platform for fast growing businesses and enterprises. Spree supports complex commerce scenarios natively \u2014 from B2B wholesale to multi-vendor marketplace to global multi-region or multi-tenant distributor platforms. Use each model independently or combine them as your business evolves.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Ruby",
-    "pushedAt": "2026-03-22T21:20:28Z",
-    "updatedAt": "2026-03-23T01:15:43Z",
-    "createdAt": "2026-03-23T01:15:43Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "BSD 3-Clause \"New\" or \"Revised\" License",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "spree/spree",
-    "parentStars": 15663,
-    "parentForks": 5294,
-    "isPrivate": false
-  },
-  {
     "nameWithOwner": "perditioinc/openproject",
     "name": "openproject",
     "description": "OpenProject is the leading open source project management software.",
@@ -61,8 +17,8 @@
     "openIssues": 0,
     "defaultBranch": "dev",
     "parentRepo": "opf/openproject",
-    "parentStars": 16012,
-    "parentForks": 3466,
+    "parentStars": 16028,
+    "parentForks": 3467,
     "isPrivate": false
   },
   {
@@ -83,8 +39,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "huginn/huginn",
-    "parentStars": 49885,
-    "parentForks": 4302,
+    "parentStars": 49897,
+    "parentForks": 4301,
     "isPrivate": false
   },
   {
@@ -105,7 +61,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "docusealco/docuseal",
-    "parentStars": 18419,
+    "parentStars": 18439,
     "parentForks": 1845,
     "isPrivate": false
   }
