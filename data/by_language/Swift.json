@@ -1,93 +1,5 @@
 [
   {
-    "nameWithOwner": "perditioinc/ZETIC_Melange_apps",
-    "name": "ZETIC_Melange_apps",
-    "description": "NPU powered On-device AI Mobile applications using Melange",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Swift",
-    "pushedAt": "2026-03-09T21:51:58Z",
-    "updatedAt": "2026-03-12T08:06:32Z",
-    "createdAt": "2026-03-12T08:06:32Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "zetic-ai/ZETIC_Melange_apps",
-    "parentStars": 70,
-    "parentForks": 8,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/Queryable",
-    "name": "Queryable",
-    "description": "Run OpenAI's CLIP and Apple's MobileCLIP model on iOS to search photos.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Swift",
-    "pushedAt": "2025-01-04T04:45:11Z",
-    "updatedAt": "2026-03-13T23:20:16Z",
-    "createdAt": "2026-03-13T23:20:16Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "MIT License",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "mazzzystar/Queryable",
-    "parentStars": 2981,
-    "parentForks": 449,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/AudioKit",
-    "name": "AudioKit",
-    "description": "Audio synthesis, processing, & analysis platform for iOS, macOS and tvOS",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Swift",
-    "pushedAt": "2025-12-01T21:05:26Z",
-    "updatedAt": "2026-03-23T23:53:33Z",
-    "createdAt": "2026-03-23T23:53:33Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "MIT License",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "AudioKit/AudioKit",
-    "parentStars": 11458,
-    "parentForks": 1621,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/melange_heimdall",
-    "name": "melange_heimdall",
-    "description": "An on-device guardian for LLM API calls \u2014 safety, privacy, and cost optimization that never leaves the phone",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Swift",
-    "pushedAt": "2026-03-10T21:55:59Z",
-    "updatedAt": "2026-03-26T15:09:57Z",
-    "createdAt": "2026-03-26T15:09:57Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": null,
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "zetic-ai/melange_heimdall",
-    "parentStars": 6,
-    "parentForks": 2,
-    "isPrivate": false
-  },
-  {
     "nameWithOwner": "perditioinc/Telegram-iOS",
     "name": "Telegram-iOS",
     "description": "Telegram-iOS",
@@ -105,8 +17,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "TelegramMessenger/Telegram-iOS",
-    "parentStars": 8940,
-    "parentForks": 2867,
+    "parentStars": 8948,
+    "parentForks": 2876,
     "isPrivate": false
   },
   {
@@ -127,8 +39,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "osaurus-ai/osaurus",
-    "parentStars": 7796,
-    "parentForks": 461,
+    "parentStars": 7803,
+    "parentForks": 460,
     "isPrivate": false
   },
   {
@@ -149,7 +61,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "farouqaldori/vibe-notch",
-    "parentStars": 2503,
+    "parentStars": 2506,
     "parentForks": 356,
     "isPrivate": false
   },
@@ -171,8 +83,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "steipete/CodexBar",
-    "parentStars": 20989,
-    "parentForks": 1850,
+    "parentStars": 21080,
+    "parentForks": 1862,
     "isPrivate": false
   },
   {
@@ -193,7 +105,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "automazeio/vibeproxy",
-    "parentStars": 3333,
+    "parentStars": 3339,
     "parentForks": 224,
     "isPrivate": false
   },
@@ -215,8 +127,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "ml-explore/mlx-swift-lm",
-    "parentStars": 797,
-    "parentForks": 379,
+    "parentStars": 799,
+    "parentForks": 380,
     "isPrivate": false
   },
   {
@@ -237,7 +149,7 @@
     "openIssues": 0,
     "defaultBranch": "develop",
     "parentRepo": "iina/iina",
-    "parentStars": 46229,
+    "parentStars": 46262,
     "parentForks": 2913,
     "isPrivate": false
   },
@@ -259,8 +171,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "swiftlang/swift",
-    "parentStars": 70324,
-    "parentForks": 10809,
+    "parentStars": 70334,
+    "parentForks": 10816,
     "isPrivate": false
   },
   {
@@ -281,8 +193,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Beingpax/VoiceInk",
-    "parentStars": 6325,
-    "parentForks": 900,
+    "parentStars": 6353,
+    "parentForks": 901,
     "isPrivate": false
   },
   {
@@ -303,8 +215,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "openclaw/Peekaboo",
-    "parentStars": 5118,
-    "parentForks": 394,
+    "parentStars": 5128,
+    "parentForks": 393,
     "isPrivate": false
   },
   {
@@ -325,8 +237,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "manaflow-ai/cmux",
-    "parentStars": 26834,
-    "parentForks": 2320,
+    "parentStars": 26897,
+    "parentForks": 2329,
     "isPrivate": false
   },
   {
@@ -347,7 +259,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "supertone-inc/supertonic",
-    "parentStars": 13764,
+    "parentStars": 13773,
     "parentForks": 1536,
     "isPrivate": false
   },
@@ -369,8 +281,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "apple/container",
-    "parentStars": 49715,
-    "parentForks": 1783,
+    "parentStars": 49763,
+    "parentForks": 1784,
     "isPrivate": false
   },
   {
@@ -391,7 +303,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "palmier-io/palmier-pro",
-    "parentStars": 14296,
+    "parentStars": 14317,
     "parentForks": 1098,
     "isPrivate": false
   },
@@ -413,8 +325,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "altic-dev/FluidVoice",
-    "parentStars": 11269,
-    "parentForks": 793,
+    "parentStars": 11317,
+    "parentForks": 802,
     "isPrivate": false
   }
 ]

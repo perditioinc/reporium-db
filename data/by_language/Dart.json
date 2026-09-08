@@ -1,27 +1,5 @@
 [
   {
-    "nameWithOwner": "perditioinc/spotube",
-    "name": "spotube",
-    "description": "\ud83c\udfa7 Open source music streaming app! Available for both desktop & mobile!",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Dart",
-    "pushedAt": "2026-03-15T02:52:43Z",
-    "updatedAt": "2026-03-23T23:53:15Z",
-    "createdAt": "2026-03-23T23:53:15Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Other",
-    "openIssues": 0,
-    "defaultBranch": "master",
-    "parentRepo": "KRTirtho/spotube",
-    "parentStars": 48944,
-    "parentForks": 2272,
-    "isPrivate": false
-  },
-  {
     "nameWithOwner": "perditioinc/AppFlowy",
     "name": "AppFlowy",
     "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
@@ -39,8 +17,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "AppFlowy-IO/AppFlowy",
-    "parentStars": 76332,
-    "parentForks": 5981,
+    "parentStars": 76433,
+    "parentForks": 5984,
     "isPrivate": false
   }
 ]
