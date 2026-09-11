@@ -2,7 +2,7 @@
 
 [![Nightly](https://github.com/perditioinc/reporium-db/actions/workflows/sync.yml/badge.svg)](https://github.com/perditioinc/reporium-db/actions/workflows/sync.yml)
 
-> Nightly GitHub metadata sync powering reporium.com — currently tracking **516 repos** across **30 languages**.
+> Nightly GitHub metadata sync powering reporium.com — currently tracking **2,016 repos** across **43 languages**.
 
 ## Why This Exists
 
@@ -61,7 +61,7 @@ python -m reporium_db status
 
 | Repos | Runtime | API Calls |
 |-------|---------|-----------|
-| 516 | 100.3s | 6 API calls |
+| 2,016 | 654.6s | 21 API calls |
 
 _Scale projections will be added as real data is collected._
 
@@ -76,14 +76,14 @@ _Scale projections will be added as real data is collected._
 
 | Field | Value |
 |-------|-------|
-| Duration | 100.3s |
-| Repos fetched | 516 |
-| New repos | 0 |
+| Duration | 654.6s |
+| Repos fetched | 2,016 |
+| New repos | 1,500 |
 | Updated repos | 0 |
-| API calls used | 6 |
-| Rate limit remaining | 4,852 |
+| API calls used | 21 |
+| Rate limit remaining | 4,761 |
 | Schedule tiers | nightly · weekly · monthly |
-| Checkpoint resumed | Yes |
+| Checkpoint resumed | No |
 
 ## Contributing
 
@@ -95,4 +95,4 @@ MIT
 
 
 ---
-*Last updated: 2026-09-08T09:27:18.371214+00:00 | 516 repos tracked*
+*Last updated: 2026-09-11T09:35:26.185708+00:00 | 2,016 repos tracked*
