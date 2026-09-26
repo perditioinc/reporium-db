@@ -1,49 +1,5 @@
 [
   {
-    "nameWithOwner": "perditioinc/mautic",
-    "name": "mautic",
-    "description": "Mautic: Open Source Marketing Automation Software.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "PHP",
-    "pushedAt": "2026-03-20T08:43:40Z",
-    "updatedAt": "2026-03-23T01:15:29Z",
-    "createdAt": "2026-03-23T01:15:29Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Other",
-    "openIssues": 0,
-    "defaultBranch": "7.x",
-    "parentRepo": "mautic/mautic",
-    "parentStars": 10546,
-    "parentForks": 3459,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/farmOS",
-    "name": "farmOS",
-    "description": "farmOS: A web-based farm record keeping application.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "PHP",
-    "pushedAt": "2026-03-21T11:00:38Z",
-    "updatedAt": "2026-03-23T01:49:15Z",
-    "createdAt": "2026-03-23T01:49:15Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "GNU General Public License v2.0",
-    "openIssues": 0,
-    "defaultBranch": "4.x",
-    "parentRepo": "farmOS/farmOS",
-    "parentStars": 1356,
-    "parentForks": 366,
-    "isPrivate": false
-  },
-  {
     "nameWithOwner": "perditioinc/github-profile-views-counter",
     "name": "github-profile-views-counter",
     "description": "It counts how many times your GitHub profile has been viewed. Free cloud micro-service.",
@@ -61,7 +17,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "antonkomarev/github-profile-views-counter",
-    "parentStars": 5026,
+    "parentStars": 5030,
     "parentForks": 431,
     "isPrivate": false
   },
@@ -83,8 +39,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "nextcloud/server",
-    "parentStars": 36894,
-    "parentForks": 5243,
+    "parentStars": 36929,
+    "parentForks": 5249,
     "isPrivate": false
   },
   {
@@ -105,8 +61,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "kanboard/kanboard",
-    "parentStars": 9881,
-    "parentForks": 1994,
+    "parentStars": 9884,
+    "parentForks": 1993,
     "isPrivate": false
   },
   {
@@ -127,8 +83,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "Leantime/leantime",
-    "parentStars": 11642,
-    "parentForks": 1131,
+    "parentStars": 11659,
+    "parentForks": 1133,
     "isPrivate": false
   }
 ]
