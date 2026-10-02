@@ -1,93 +1,5 @@
 [
   {
-    "nameWithOwner": "perditioinc/bank-of-anthos",
-    "name": "bank-of-anthos",
-    "description": "Retail banking sample application showcasing Kubernetes and Google Cloud",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Java",
-    "pushedAt": "2026-03-17T01:47:20Z",
-    "updatedAt": "2026-03-17T01:47:26Z",
-    "createdAt": "2026-03-13T23:36:36Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "GoogleCloudPlatform/bank-of-anthos",
-    "parentStars": 1453,
-    "parentForks": 887,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/Java",
-    "name": "Java",
-    "description": "All Algorithms implemented in Java",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Java",
-    "pushedAt": "2026-03-17T01:47:20Z",
-    "updatedAt": "2026-03-17T01:47:46Z",
-    "createdAt": "2026-03-13T23:38:47Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "MIT License",
-    "openIssues": 0,
-    "defaultBranch": "master",
-    "parentRepo": "TheAlgorithms/Java",
-    "parentStars": 66326,
-    "parentForks": 21274,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/guava",
-    "name": "guava",
-    "description": "Google core libraries for Java",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Java",
-    "pushedAt": "2026-03-17T01:47:23Z",
-    "updatedAt": "2026-03-17T01:47:44Z",
-    "createdAt": "2026-03-13T23:53:13Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "master",
-    "parentRepo": "google/guava",
-    "parentStars": 51911,
-    "parentForks": 11200,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/adk-java",
-    "name": "adk-java",
-    "description": "An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "Java",
-    "pushedAt": "2026-03-17T01:47:24Z",
-    "updatedAt": "2026-03-17T01:47:30Z",
-    "createdAt": "2026-03-13T23:55:44Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "Apache License 2.0",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "google/adk-java",
-    "parentStars": 1739,
-    "parentForks": 426,
-    "isPrivate": false
-  },
-  {
     "nameWithOwner": "perditioinc/opendataloader-pdf",
     "name": "opendataloader-pdf",
     "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
@@ -105,8 +17,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "opendataloader-project/opendataloader-pdf",
-    "parentStars": 29384,
-    "parentForks": 2799,
+    "parentStars": 29456,
+    "parentForks": 2807,
     "isPrivate": false
   },
   {
@@ -127,8 +39,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "vespa-engine/vespa",
-    "parentStars": 7111,
-    "parentForks": 740,
+    "parentStars": 7117,
+    "parentForks": 742,
     "isPrivate": false
   },
   {
@@ -149,8 +61,8 @@
     "openIssues": 0,
     "defaultBranch": "devel",
     "parentRepo": "dbeaver/dbeaver",
-    "parentStars": 51888,
-    "parentForks": 4382,
+    "parentStars": 51942,
+    "parentForks": 4393,
     "isPrivate": false
   },
   {
@@ -171,8 +83,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "jeecgboot/JeecgBoot",
-    "parentStars": 47977,
-    "parentForks": 16193,
+    "parentStars": 48055,
+    "parentForks": 16199,
     "isPrivate": false
   },
   {
@@ -193,8 +105,8 @@
     "openIssues": 0,
     "defaultBranch": "release/5.26.0",
     "parentRepo": "neo4j/neo4j",
-    "parentStars": 17258,
-    "parentForks": 2701,
+    "parentStars": 17273,
+    "parentForks": 2702,
     "isPrivate": false
   },
   {
@@ -215,8 +127,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "OtterMind/Chat2DB",
-    "parentStars": 28271,
-    "parentForks": 3047,
+    "parentStars": 28295,
+    "parentForks": 3045,
     "isPrivate": false
   },
   {
@@ -237,8 +149,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "apache/doris",
-    "parentStars": 16005,
-    "parentForks": 3963,
+    "parentStars": 16024,
+    "parentForks": 3967,
     "isPrivate": false
   },
   {
@@ -259,8 +171,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "iflytek/astron-agent",
-    "parentStars": 9070,
-    "parentForks": 900,
+    "parentStars": 8885,
+    "parentForks": 893,
     "isPrivate": false
   },
   {
@@ -281,7 +193,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "alibaba/arthas",
-    "parentStars": 37557,
+    "parentStars": 37562,
     "parentForks": 7641,
     "isPrivate": false
   },
@@ -303,7 +215,7 @@
     "openIssues": 0,
     "defaultBranch": "develop",
     "parentRepo": "alibaba/nacos",
-    "parentStars": 33419,
+    "parentStars": 33421,
     "parentForks": 13293,
     "isPrivate": false
   },
@@ -325,8 +237,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "apache/skywalking",
-    "parentStars": 24964,
-    "parentForks": 6630,
+    "parentStars": 24967,
+    "parentForks": 6633,
     "isPrivate": false
   },
   {
@@ -348,7 +260,7 @@
     "defaultBranch": "master",
     "parentRepo": "openzipkin/zipkin",
     "parentStars": 17467,
-    "parentForks": 3100,
+    "parentForks": 3098,
     "isPrivate": false
   },
   {
@@ -369,8 +281,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "DrKLO/Telegram",
-    "parentStars": 29935,
-    "parentForks": 10113,
+    "parentStars": 29986,
+    "parentForks": 10153,
     "isPrivate": false
   },
   {
@@ -391,8 +303,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "ashishps1/awesome-system-design-resources",
-    "parentStars": 41831,
-    "parentForks": 8786,
+    "parentStars": 41959,
+    "parentForks": 8800,
     "isPrivate": false
   },
   {
@@ -413,8 +325,8 @@
     "openIssues": 0,
     "defaultBranch": "develop",
     "parentRepo": "kestra-io/kestra",
-    "parentStars": 28373,
-    "parentForks": 3055,
+    "parentStars": 28771,
+    "parentForks": 3149,
     "isPrivate": false
   },
   {
@@ -435,8 +347,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "floci-io/floci",
-    "parentStars": 25818,
-    "parentForks": 2782,
+    "parentStars": 26219,
+    "parentForks": 2826,
     "isPrivate": false
   },
   {
@@ -457,8 +369,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "anonfaded/FadCam",
-    "parentStars": 2798,
-    "parentForks": 238,
+    "parentStars": 2813,
+    "parentForks": 240,
     "isPrivate": false
   }
 ]
