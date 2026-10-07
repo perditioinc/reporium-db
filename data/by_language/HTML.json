@@ -1,115 +1,5 @@
 [
   {
-    "nameWithOwner": "perditioinc/awesome-generative-ai-guide",
-    "name": "awesome-generative-ai-guide",
-    "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "HTML",
-    "pushedAt": "2026-03-17T01:46:18Z",
-    "updatedAt": "2026-03-17T01:46:39Z",
-    "createdAt": "2025-11-16T17:51:53Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "MIT License",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "aishwaryanr/awesome-generative-ai-guide",
-    "parentStars": 29696,
-    "parentForks": 5979,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/robotics-resources-for-roboticists",
-    "name": "robotics-resources-for-roboticists",
-    "description": "A complete library of resources that caters to all levels of Roboticists.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "HTML",
-    "pushedAt": "2026-01-31T12:17:55Z",
-    "updatedAt": "2026-02-14T04:57:56Z",
-    "createdAt": "2026-02-14T04:57:56Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": null,
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "akshetP/robotics-resources",
-    "parentStars": 424,
-    "parentForks": 68,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/claude-code-best-practice",
-    "name": "claude-code-best-practice",
-    "description": "practice made claude perfect",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "HTML",
-    "pushedAt": "2026-03-17T01:46:30Z",
-    "updatedAt": "2026-03-17T01:46:35Z",
-    "createdAt": "2026-03-12T07:41:20Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": "MIT License",
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "shanraisshan/claude-code-best-practice",
-    "parentStars": 67105,
-    "parentForks": 6705,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/ai-engineering-field-guide",
-    "name": "ai-engineering-field-guide",
-    "description": "Research into AI engineering interview assignments, take-home challenges, and hiring practices from Q4 2025 / Q1 2026",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "HTML",
-    "pushedAt": "2026-03-17T01:46:31Z",
-    "updatedAt": "2026-03-17T01:46:53Z",
-    "createdAt": "2026-03-12T08:11:34Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": null,
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "alexeygrigorev/ai-engineering-field-guide",
-    "parentStars": 5806,
-    "parentForks": 575,
-    "isPrivate": false
-  },
-  {
-    "nameWithOwner": "perditioinc/awesome-creative-coding",
-    "name": "awesome-creative-coding",
-    "description": "Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.",
-    "stars": 0,
-    "forks": 0,
-    "primaryLanguage": "HTML",
-    "pushedAt": "2025-06-16T16:37:13Z",
-    "updatedAt": "2026-03-13T10:44:33Z",
-    "createdAt": "2026-03-13T10:44:32Z",
-    "isArchived": false,
-    "isFork": true,
-    "isEmpty": false,
-    "topics": [],
-    "licenseName": null,
-    "openIssues": 0,
-    "defaultBranch": "main",
-    "parentRepo": "terkelg/awesome-creative-coding",
-    "parentStars": 15396,
-    "parentForks": 977,
-    "isPrivate": false
-  },
-  {
     "nameWithOwner": "perditioinc/garak",
     "name": "garak",
     "description": "the LLM vulnerability scanner",
@@ -127,8 +17,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/garak",
-    "parentStars": 9434,
-    "parentForks": 1334,
+    "parentStars": 9481,
+    "parentForks": 1345,
     "isPrivate": false
   },
   {
@@ -149,8 +39,8 @@
     "openIssues": 0,
     "defaultBranch": "gh-pages",
     "parentRepo": "google/styleguide",
-    "parentStars": 39651,
-    "parentForks": 12929,
+    "parentStars": 39652,
+    "parentForks": 12928,
     "isPrivate": false
   },
   {
@@ -171,7 +61,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "openai/gpt-5-coding-examples",
-    "parentStars": 1911,
+    "parentStars": 1912,
     "parentForks": 296,
     "isPrivate": false
   },
@@ -193,8 +83,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Unstructured-IO/unstructured",
-    "parentStars": 15526,
-    "parentForks": 1351,
+    "parentStars": 15535,
+    "parentForks": 1350,
     "isPrivate": false
   },
   {
@@ -215,8 +105,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "lancedb/lancedb",
-    "parentStars": 11601,
-    "parentForks": 1087,
+    "parentStars": 11613,
+    "parentForks": 1090,
     "isPrivate": false
   },
   {
@@ -238,7 +128,7 @@
     "defaultBranch": "main",
     "parentRepo": "facebookresearch/fastText",
     "parentStars": 26523,
-    "parentForks": 4828,
+    "parentForks": 4826,
     "isPrivate": false
   },
   {
@@ -259,8 +149,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "f/prompts.chat",
-    "parentStars": 172063,
-    "parentForks": 22030,
+    "parentStars": 172243,
+    "parentForks": 22052,
     "isPrivate": false
   },
   {
@@ -281,8 +171,8 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "rdkit/rdkit",
-    "parentStars": 3606,
-    "parentForks": 1071,
+    "parentStars": 3607,
+    "parentForks": 1072,
     "isPrivate": false
   },
   {
@@ -303,8 +193,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "windmill-labs/windmill",
-    "parentStars": 18105,
-    "parentForks": 1111,
+    "parentStars": 18121,
+    "parentForks": 1110,
     "isPrivate": false
   },
   {
@@ -325,8 +215,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "wilsonfreitas/awesome-quant",
-    "parentStars": 29961,
-    "parentForks": 4079,
+    "parentStars": 29986,
+    "parentForks": 4082,
     "isPrivate": false
   },
   {
@@ -347,8 +237,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "asgeirtj/system_prompts_leaks",
-    "parentStars": 68929,
-    "parentForks": 11198,
+    "parentStars": 69065,
+    "parentForks": 11216,
     "isPrivate": false
   },
   {
@@ -369,7 +259,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "felladrin/awesome-ai-web-search",
-    "parentStars": 1465,
+    "parentStars": 1468,
     "parentForks": 133,
     "isPrivate": false
   },
@@ -391,7 +281,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "zli12321/Vision-Language-Models-Overview",
-    "parentStars": 725,
+    "parentStars": 726,
     "parentForks": 44,
     "isPrivate": false
   },
@@ -413,7 +303,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "worldbench/awesome-vla-for-ad",
-    "parentStars": 483,
+    "parentStars": 488,
     "parentForks": 42,
     "isPrivate": false
   },
@@ -435,8 +325,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "VoltAgent/awesome-design-md",
-    "parentStars": 119616,
-    "parentForks": 13343,
+    "parentStars": 119879,
+    "parentForks": 13360,
     "isPrivate": false
   },
   {
@@ -479,8 +369,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "revfactory/harness",
-    "parentStars": 9117,
-    "parentForks": 1292,
+    "parentStars": 9129,
+    "parentForks": 1295,
     "isPrivate": false
   }
 ]
