@@ -61,7 +61,7 @@ python -m reporium_db status
 
 | Repos | Runtime | API Calls |
 |-------|---------|-----------|
-| 2,019 | 1185.9s | 21 API calls |
+| 2,019 | 348.0s | 21 API calls |
 
 _Scale projections will be added as real data is collected._
 
@@ -76,12 +76,12 @@ _Scale projections will be added as real data is collected._
 
 | Field | Value |
 |-------|-------|
-| Duration | 1185.9s |
+| Duration | 348.0s |
 | Repos fetched | 2,019 |
 | New repos | 0 |
 | Updated repos | 0 |
 | API calls used | 21 |
-| Rate limit remaining | 4,307 |
+| Rate limit remaining | 4,815 |
 | Schedule tiers | nightly · weekly · monthly |
 | Checkpoint resumed | No |
 
@@ -95,4 +95,4 @@ MIT
 
 
 ---
-*Last updated: 2026-10-09T12:02:09.201754+00:00 | 2,019 repos tracked*
+*Last updated: 2026-10-10T11:06:33.789098+00:00 | 2,019 repos tracked*
