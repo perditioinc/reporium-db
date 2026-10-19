@@ -1,5 +1,93 @@
 [
   {
+    "nameWithOwner": "perditioinc/awesome-generative-ai-guide",
+    "name": "awesome-generative-ai-guide",
+    "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2026-03-17T01:46:18Z",
+    "updatedAt": "2026-03-17T01:46:39Z",
+    "createdAt": "2025-11-16T17:51:53Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "aishwaryanr/awesome-generative-ai-guide",
+    "parentStars": 29878,
+    "parentForks": 6019,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/robotics-resources-for-roboticists",
+    "name": "robotics-resources-for-roboticists",
+    "description": "A complete library of resources that caters to all levels of Roboticists.",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2026-01-31T12:17:55Z",
+    "updatedAt": "2026-02-14T04:57:56Z",
+    "createdAt": "2026-02-14T04:57:56Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "akshetP/robotics-resources",
+    "parentStars": 441,
+    "parentForks": 69,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/claude-code-best-practice",
+    "name": "claude-code-best-practice",
+    "description": "practice made claude perfect",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2026-03-17T01:46:30Z",
+    "updatedAt": "2026-03-17T01:46:35Z",
+    "createdAt": "2026-03-12T07:41:20Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": "MIT License",
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "shanraisshan/claude-code-best-practice",
+    "parentStars": 67729,
+    "parentForks": 6748,
+    "isPrivate": false
+  },
+  {
+    "nameWithOwner": "perditioinc/ai-engineering-field-guide",
+    "name": "ai-engineering-field-guide",
+    "description": "Research into AI engineering interview assignments, take-home challenges, and hiring practices from Q4 2025 / Q1 2026",
+    "stars": 0,
+    "forks": 0,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2026-03-17T01:46:31Z",
+    "updatedAt": "2026-03-17T01:46:53Z",
+    "createdAt": "2026-03-12T08:11:34Z",
+    "isArchived": false,
+    "isFork": true,
+    "isEmpty": false,
+    "topics": [],
+    "licenseName": null,
+    "openIssues": 0,
+    "defaultBranch": "main",
+    "parentRepo": "alexeygrigorev/ai-engineering-field-guide",
+    "parentStars": 5877,
+    "parentForks": 585,
+    "isPrivate": false
+  },
+  {
     "nameWithOwner": "perditioinc/awesome-creative-coding",
     "name": "awesome-creative-coding",
     "description": "Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.",
@@ -17,8 +105,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "terkelg/awesome-creative-coding",
-    "parentStars": 15448,
-    "parentForks": 1013,
+    "parentStars": 15459,
+    "parentForks": 1057,
     "isPrivate": false
   },
   {
@@ -39,8 +127,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "NVIDIA/garak",
-    "parentStars": 9595,
-    "parentForks": 1378,
+    "parentStars": 9613,
+    "parentForks": 1387,
     "isPrivate": false
   },
   {
@@ -61,8 +149,8 @@
     "openIssues": 0,
     "defaultBranch": "gh-pages",
     "parentRepo": "google/styleguide",
-    "parentStars": 39677,
-    "parentForks": 12927,
+    "parentStars": 39684,
+    "parentForks": 12925,
     "isPrivate": false
   },
   {
@@ -105,8 +193,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "Unstructured-IO/unstructured",
-    "parentStars": 15572,
-    "parentForks": 1350,
+    "parentStars": 15575,
+    "parentForks": 1352,
     "isPrivate": false
   },
   {
@@ -127,8 +215,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "lancedb/lancedb",
-    "parentStars": 11689,
-    "parentForks": 1117,
+    "parentStars": 11701,
+    "parentForks": 1119,
     "isPrivate": false
   },
   {
@@ -149,8 +237,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "facebookresearch/fastText",
-    "parentStars": 26523,
-    "parentForks": 4827,
+    "parentStars": 26519,
+    "parentForks": 4831,
     "isPrivate": false
   },
   {
@@ -171,8 +259,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "f/prompts.chat",
-    "parentStars": 173212,
-    "parentForks": 22160,
+    "parentStars": 173509,
+    "parentForks": 22194,
     "isPrivate": false
   },
   {
@@ -193,7 +281,7 @@
     "openIssues": 0,
     "defaultBranch": "master",
     "parentRepo": "rdkit/rdkit",
-    "parentStars": 3625,
+    "parentStars": 3627,
     "parentForks": 1080,
     "isPrivate": false
   },
@@ -215,8 +303,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "windmill-labs/windmill",
-    "parentStars": 18207,
-    "parentForks": 1120,
+    "parentStars": 18218,
+    "parentForks": 1124,
     "isPrivate": false
   },
   {
@@ -237,8 +325,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "wilsonfreitas/awesome-quant",
-    "parentStars": 30162,
-    "parentForks": 4175,
+    "parentStars": 30198,
+    "parentForks": 4242,
     "isPrivate": false
   },
   {
@@ -259,8 +347,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "asgeirtj/system_prompts_leaks",
-    "parentStars": 69776,
-    "parentForks": 11340,
+    "parentStars": 69888,
+    "parentForks": 11355,
     "isPrivate": false
   },
   {
@@ -281,8 +369,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "felladrin/awesome-ai-web-search",
-    "parentStars": 1483,
-    "parentForks": 135,
+    "parentStars": 1485,
+    "parentForks": 136,
     "isPrivate": false
   },
   {
@@ -325,7 +413,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "worldbench/awesome-vla-for-ad",
-    "parentStars": 502,
+    "parentStars": 507,
     "parentForks": 52,
     "isPrivate": false
   },
@@ -347,8 +435,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "VoltAgent/awesome-design-md",
-    "parentStars": 121839,
-    "parentForks": 13554,
+    "parentStars": 122204,
+    "parentForks": 13578,
     "isPrivate": false
   },
   {
@@ -369,7 +457,7 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "tractorjuice/arc-kit",
-    "parentStars": 2258,
+    "parentStars": 2262,
     "parentForks": 282,
     "isPrivate": false
   },
@@ -391,8 +479,8 @@
     "openIssues": 0,
     "defaultBranch": "main",
     "parentRepo": "revfactory/harness",
-    "parentStars": 9188,
-    "parentForks": 1316,
+    "parentStars": 9205,
+    "parentForks": 1320,
     "isPrivate": false
   }
 ]
